@@ -1,0 +1,17 @@
+# model weights - too large for git
+*.pth
+*.task
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data & results (keep logs in eval/logs only)
+*.mp4
+*.avi
+*.wav
+
+# OS
+.DS_Store
+Thumbs.db

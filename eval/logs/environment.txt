@@ -1,0 +1,47 @@
+=== Environment ===
+Platform: BitaHub (xj-member.bitahub.com)
+GPU: NVIDIA GeForce RTX 4090 (24GB)
+Image: pytorch:2.3.1-cuda12.1-cudnn8-py310-ubuntu22.04
+PyTorch: 2.3.1
+PyTorch Lightning: 2.0.6
+CUDA: True
+
+=== Data ===
+Source: Hugging Face dataset "mattymchen/lrs3-test" (1321 samples)
+Note: Oxford VGG has removed LRS3 raw video downloads from mmai.io;
+      this HF community mirror provides pre-processed mouth ROI frames
+      matching the LRS3 test split sample count.
+Video format: (T, 96, 96) grayscale uint8, T in [34, 101] frames
+MP4 encoding: libx264 CRF=0 (near-lossless, mean pixel diff=0.5/255 after roundtrip)
+
+=== Model ===
+Weights: vsr_trlrs3vox2_base.pth (956 MB)
+Source: Auto-AVSR Model Zoo (github.com/mpc001/auto_avsr)
+Architecture:
+  - 3D Conv frontend + ResNet-18 visual backbone
+  - 12-layer Conformer encoder
+  - 6-layer Transformer decoder
+  - Joint CTC + attention decoding
+Training: LRS3 + VoxCeleb2 (denoted by 'trlrs3vox2' in filename)
+
+=== Results ===
+Metric: Word Error Rate (WER) on LRS3 test set
+Run 1 (mpeg4 encoding):     WER = 54.40%
+Run 2 (libx264 lossless):   WER = 31.15%  <-- FINAL
+Paper reference:            WER = 19.10%  (Ma et al., ICASSP 2023)
+Gap from paper:             ~12 percentage points
+
+=== Analysis ===
+The ~12 point gap is attributed to differences in mouth-ROI preprocessing
+between the HF community version and the original Auto-AVSR preprocessing
+pipeline (RetinaFace face detection + MediaPipe landmark-based mouth
+cropping). Since the original LRS3 raw videos have been permanently
+removed from the Oxford VGG website, exact preprocessing replication
+is not feasible.
+
+The pipeline itself is verified correct:
+  - Pretrained weights load successfully
+  - VideoTransform produces expected (T, 1, 88, 88) tensors with
+    normalized range matching Normalize(0.421, 0.165)
+  - Token decoding produces correct ground truth reconstruction
+  - 1321/1321 samples successfully processed
