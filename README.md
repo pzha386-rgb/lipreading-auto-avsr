@@ -31,7 +31,7 @@ how accurate public models are on new people, whether a model knows when it is w
 
 | Period | Stage | Main work |
 |---|---|---|
-| Semester 1 | Reproduction and deployment | Reproduced Auto-AVSR; built a BBC Tom Scott test set (91 clips); built the mouth-crop pipeline (RetinaFace + AWing, facexlib); built a remote inference server, a GUI and a webcam demo; tested AV-HuBERT, RAVEn and BRAVEn |
+| Semester 1 | Reproduction and deployment | Reproduced Auto-AVSR; built the TS-91 test set (91 clips from one Tom Scott video); built the mouth-crop pipeline (RetinaFace + AWing, facexlib); built a remote inference server, a GUI and a webcam demo; tested AV-HuBERT, RAVEn and BRAVEn |
 | Semester 2, part 1 | Benchmark | 29 configurations of 5 model families under one pipeline, with bootstrap confidence intervals, speed tests and 8 kinds of video damage |
 | Semester 2, part 2 | Case Study A (one new speaker) | 302 min of Tom Scott YouTube video: confidence scoring, calibration, LLM correction, full fine-tuning, LoRA, threshold calibration, ROVER fusion, full system |
 | Semester 2, part 3 | Case Study B (25 speakers in the wild) | 570 min of YouTube video (17 train / 8 test speakers): baseline, group fine-tuning, personal adaptation, confidence-based rejection, data audit |
@@ -47,7 +47,7 @@ WER = word error rate (lower is better). LRS3 = full test set of 1,321 utterance
 
 ### 2.1 Benchmark (selected configurations)
 
-| Model | Human-labelled data | LRS3 | BBC (91 clips) | s / clip |
+| Model | Human-labelled data | LRS3 | TS-91 (91 clips) | s / clip |
 |---|---|---:|---:|---:|
 | USR 2.0 Huge (beam 40) | 433 h + pseudo-labels | **23.80** | 28.89 | 2.86 |
 | BRAVEn Large low + self-training + LM (**B2**) | 30 h | 25.30 | 25.98 | 1.26 |
@@ -60,15 +60,15 @@ WER = word error rate (lower is better). LRS3 = full test set of 1,321 utterance
 
 Main findings:
 - **Self-supervised pre-training saves labels.** BRAVEn with 30 h of human labels matches Auto-AVSR with 3,291 h (26.03% vs 26.05%, paired bootstrap p = 0.99).
-- **Self-training helps most.** −4.4 points for BRAVEn low-resource on LRS3. A language model gives −0.7 to −2.0 points on LRS3 but no reliable gain on BBC.
-- **The best LRS3 model is not the best on a new speaker.** USR 2.0 Huge is best on LRS3 but about 3 points worse than T1 and B2 on BBC.
+- **Self-training helps most.** −4.4 points for BRAVEn low-resource on LRS3. A language model gives −0.7 to −2.0 points on LRS3 but no reliable gain on TS-91.
+- **The best LRS3 model is not the best on a new speaker.** USR 2.0 Huge is best on LRS3 but about 3 points worse than T1 and B2 on TS-91.
 - **Frame drops hurt most, darkness least.** Freezing 50% of frames adds 20–31 points; half brightness adds no significant error for any model.
 - **Short utterances are the hardest.** 1–3 word utterances have about 45–50% WER for the best models, against 13–17% for 16+ words.
 - **Decoding matters for speed.** USR 2.0 Huge with greedy decoding takes 0.16 s per clip (18× faster than beam 40).
 
 ### 2.2 Case Study A: one new speaker (Tom Scott, 435 test clips)
 
-| System | Tom Scott test | BBC | LRS3-300 |
+| System | Tom Scott test | TS-91 | LRS3-300 |
 |---|---:|---:|---:|
 | T1 baseline | 32.27 | 25.47 | 25.16 |
 | Full fine-tuning v2, 30 min | 38.91 | 32.10 | 32.11 |
@@ -99,7 +99,7 @@ Main findings:
 
 Face detection and cropping take 60–80% of the processing time; the VSR model itself is fast (0.1 s for USR 2.0 Huge with greedy decoding). For real-time use on a robot, the pre-processing pipeline is the bottleneck.
 
-> Note on Semester 1 numbers: the first reproduction reported 26.71% on LRS3 and 28.97% on BBC with the original Auto-AVSR `eval.py`. Semester 2 re-ran all models with one shared pipeline and text normalisation (numbers written as words), which gives 26.05% and 25.47% for the same checkpoint. All results in Section 2 use the Semester 2 pipeline.
+> Note on Semester 1 numbers: the first reproduction reported 26.71% on LRS3 and 28.97% on TS-91 with the original Auto-AVSR `eval.py`. Semester 2 re-ran all models with one shared pipeline and text normalisation (numbers written as words), which gives 26.05% and 25.47% for the same checkpoint. All results in Section 2 use the Semester 2 pipeline.
 
 ---
 
@@ -162,7 +162,7 @@ Videos, mouth crops and checkpoints are **not** in this repository (size and cop
 | Dataset | Size | Use | Notes |
 |---|---|---|---|
 | LRS3 test | 1,321 utterances | Benchmark | Public HuggingFace copy (re-encoded videos); LRS3-300 = fixed subset used in Case A |
-| BBC Tom Scott | 91 clips | Out-of-domain test | Built in Semester 1; numbers in speech make text normalisation important |
+| TS-91 | 91 clips from one Tom Scott YouTube video ("How Computers Compress Text: Huffman Coding and Huffman Trees", 2017) | Out-of-domain test | Built in Semester 1; no overlap with the Case A data. Called `bbc` in file names and in the GUI |
 | Tom Scott YouTube | 160 videos, 4,361 clips, 302 min | Case A | Split by video: train 3,712 / val 214 / test 435 clips |
 | Multi-speaker YouTube | 25 speakers, 108 videos, 8,070 clips, 570.6 min | Case B | 17 train / 8 test speakers; labels are YouTube automatic captions |
 
@@ -208,7 +208,7 @@ cd /root/autodl-tmp/vsr_bench
 ```bash
 python prep_lrs3_cache.py --parquet-dir /root/autodl-tmp/data/lrs3_test_hf/data
 python prep_lrs3_cache.py --subset 300          # LRS3-300
-python cache_bbc_rois.py                        # BBC set
+python cache_bbc_rois.py                        # TS-91 set (named bbc in code)
 python cache_tomscott_rois.py                   # Case A
 python make_split.py                            # Case A train / val / test split by video
 python prep_multispeaker_cache.py               # Case B
@@ -257,8 +257,8 @@ Long runs were started with `nohup ... &`. Use `--limit 5` on any evaluation scr
 
 | Tab | What it shows | Screenshot |
 |---|---|---|
-| Watch a clip | All models on the same LRS3 or BBC clip, wrong words marked | [`watch_clip_long.jpg`](docs/images/gui/watch_clip_long.jpg) |
-| Key findings | Label efficiency, LRS3 vs BBC, speed, robustness | [`findings_*.jpg`](docs/images/gui/) |
+| Watch a clip | All models on the same LRS3 or TS-91 clip, wrong words marked | [`watch_clip_long.jpg`](docs/images/gui/watch_clip_long.jpg) |
+| Key findings | Label efficiency, LRS3 vs TS-91, speed, robustness | [`findings_*.jpg`](docs/images/gui/) |
 | Live test | Webcam recording, three models (Auto-AVSR, BRAVEn without LM, USR 2.0 Huge greedy), time per stage | [`live_test_webcam.jpg`](docs/images/gui/live_test_webcam.jpg) |
 
 ---
@@ -266,7 +266,7 @@ Long runs were started with `nohup ... &`. Use `--limit 5` on any evaluation scr
 ## 9. Limitations
 
 - All evaluation was offline on recorded video; the module has not yet been run on a physical robot or tested with users.
-- The BBC set has only 91 clips, so differences below about 3 points on BBC are not reliable.
+- The TS-91 set has only 91 clips, so differences below about 3 points on TS-91 are not reliable.
 - LRS3 videos are re-encoded copies, so absolute WER is typically 5–7 points higher than published values.
 - Case B labels are YouTube automatic captions, which mixes model errors with label errors.
 - LoRA was only implemented for Auto-AVSR (T1).
