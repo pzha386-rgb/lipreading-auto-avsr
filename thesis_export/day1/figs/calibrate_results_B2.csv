@@ -1,0 +1,6 @@
+calibration,N,threshold_hi,threshold_lo,tomscott_test_WER_all,tomscott_test_WER_robot,tomscott_test_WER_high,tomscott_test_reject_%,bbc_WER_all,bbc_WER_robot,bbc_WER_high,bbc_reject_%,lrs3_WER_all,lrs3_WER_robot,lrs3_WER_high,lrs3_reject_%
+LRS3 (cross-speaker),0,-0.594,-0.845,32.46,28.77,20.94,12.4,25.33,23.02,17.1,7.7,23.68,16.9,10.62,15.0
+20 Tom Scott clips,20,-0.737,-0.888,32.46,29.16,26.53,10.1,25.33,23.89,21.43,4.4,23.68,17.53,14.25,13.7
+50 Tom Scott clips,50,-0.721,-0.902,32.46,29.16,26.0,10.1,25.33,23.89,21.02,4.4,23.68,17.53,13.9,13.7
+100 Tom Scott clips,100,-0.733,-0.914,32.46,29.4,26.34,9.4,25.33,24.16,21.43,3.3,23.68,17.53,14.25,13.7
+200 Tom Scott clips,200,-0.735,-0.944,32.46,29.5,26.49,8.7,25.33,24.5,21.43,2.2,23.68,17.53,14.25,13.7

@@ -1,0 +1,15 @@
+dataset,model,WER_raw,WER_reject_LRS3,reject_%_LRS3,WER_reject_calibrated,reject_%_calibrated,WER_full_system
+Tom Scott test (435 clips),Auto-AVSR (T1),32.27,27.97,13.8,26.1,20.0,26.1
+Tom Scott test (435 clips),T1 + LoRA (15 min),30.07,25.55,14.5,23.55,21.8,23.55
+Tom Scott test (435 clips),T1 + LoRA (5 min),32.03,27.85,13.3,26.08,18.9,26.08
+Tom Scott test (435 clips),T1 + LoRA (30 min),30.15,23.78,18.2,22.03,25.1,22.03
+Tom Scott test (435 clips),T1 + LoRA (60 min),28.49,23.07,15.9,21.67,23.4,21.67
+Tom Scott test (435 clips),T1 + LoRA (120 min),28.48,23.69,12.9,22.22,20.5,22.22
+Tom Scott test (435 clips),T1 + LoRA (all min),27.17,21.79,13.8,21.03,18.2,21.03
+BBC test (91 clips),Auto-AVSR (T1),25.47,24.96,1.1,23.84,6.6,23.45
+BBC test (91 clips),T1 + LoRA (15 min),23.94,23.68,2.2,22.0,8.8,21.84
+BBC test (91 clips),T1 + LoRA (5 min),25.18,24.67,1.1,23.52,6.6,23.21
+BBC test (91 clips),T1 + LoRA (30 min),24.53,23.35,6.6,22.33,11.0,21.52
+BBC test (91 clips),T1 + LoRA (60 min),22.56,21.79,6.6,20.5,12.1,21.16
+BBC test (91 clips),T1 + LoRA (120 min),21.91,20.7,4.4,19.6,9.9,20.08
+BBC test (91 clips),T1 + LoRA (all min),20.96,20.16,3.3,18.98,8.8,20.02

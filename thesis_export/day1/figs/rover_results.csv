@@ -1,0 +1,6 @@
+method,Tom Scott test,BBC,LRS3
+T1 only,32.27,25.47,25.16
+B2 only,32.46,25.33,23.68
+sentence ROVER,31.96,25.47,22.84
+word ROVER,31.96,25.47,22.84
+oracle (upper bound),27.64,20.74,18.29

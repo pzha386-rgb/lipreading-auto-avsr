@@ -1,0 +1,86 @@
+{
+  "args": {
+    "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+    "convert_fn": "",
+    "minutes": 60.0,
+    "name": "tomscott",
+    "out": "/root/autodl-tmp/adapt_v2/autoavsr_m60",
+    "lr": 1e-05,
+    "weight_decay": 0.1,
+    "epochs": 10,
+    "patience": 3,
+    "max_frames": 2000,
+    "no_freeze": false,
+    "freeze_layers": 4,
+    "anchor": 0.01,
+    "seed": 0,
+    "check": false
+  },
+  "train_min": 59.96666666666667,
+  "history": [
+    {
+      "epoch": 0,
+      "val_loss": 24.289604873300714
+    },
+    {
+      "epoch": 1,
+      "train_loss": 38.4466647794877,
+      "val_loss": 28.507688687226484,
+      "minutes": 0.21757492224375408
+    },
+    {
+      "epoch": 2,
+      "train_loss": 37.739417047610225,
+      "val_loss": 27.68150203918742,
+      "minutes": 0.41413970390955607
+    },
+    {
+      "epoch": 3,
+      "train_loss": 36.70401820698004,
+      "val_loss": 27.084735429175545,
+      "minutes": 0.6324567476908366
+    },
+    {
+      "epoch": 4,
+      "train_loss": 36.54147458131286,
+      "val_loss": 26.480152277188882,
+      "minutes": 0.8439712405204773
+    },
+    {
+      "epoch": 5,
+      "train_loss": 35.70135263464917,
+      "val_loss": 25.89037170142771,
+      "minutes": 1.0608888864517212
+    },
+    {
+      "epoch": 6,
+      "train_loss": 35.63192325241264,
+      "val_loss": 25.61663938237128,
+      "minutes": 1.273809790611267
+    },
+    {
+      "epoch": 7,
+      "train_loss": 35.10799244847791,
+      "val_loss": 25.271148982449112,
+      "minutes": 1.489109420776367
+    },
+    {
+      "epoch": 8,
+      "train_loss": 35.169779089127466,
+      "val_loss": 25.410474572226267,
+      "minutes": 1.7058877031008401
+    },
+    {
+      "epoch": 9,
+      "train_loss": 34.32327997492648,
+      "val_loss": 25.18288988487743,
+      "minutes": 1.8792453130086264
+    },
+    {
+      "epoch": 10,
+      "train_loss": 34.99098062405641,
+      "val_loss": 25.44918638300673,
+      "minutes": 2.094223078091939
+    }
+  ]
+}

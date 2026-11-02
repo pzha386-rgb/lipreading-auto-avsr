@@ -1,0 +1,301 @@
+id,ref,hyp,errors,n_words,seconds,confA_logp,confA_margin,confA_nbest
+lrs3_0000,the first lesson is about humility,the first lesson is about a human,2,6,0.856,-0.6793181300163269,0.010302603244781494,0.75
+lrs3_0005,that was a huge problem at the haiti earthquake,there was a huge bribery on the way,5,9,0.665,-1.0174485842386882,0.09281619389851888,0.7395833333333333
+lrs3_0010,we change the economics for the bad guys,which changed the economics for the bad guys,2,8,0.607,-0.1638321876525879,0.24293122291564942,0.84375
+lrs3_0018,well that s what i thought,well that s what i thought,0,6,0.426,-0.11273331195116043,0.45206718891859055,0.8452380952380952
+lrs3_0023,you might get impeached for that,they were getting mixed with that,5,6,0.501,-0.9745100140571594,0.06771057844161987,0.46726190476190477
+lrs3_0028,i think i m a normal person,that i m a normal person,2,7,0.44,-0.4335785508155823,0.09298080205917358,0.47023809523809523
+lrs3_0031,they just do it,they re just twice,3,4,0.446,-0.6499174038569132,0.026714444160461426,0.36250000000000004
+lrs3_0041,a digital world farm,and did you confirm,4,4,0.4,-0.4468430519104004,0.07860827445983887,0.525
+lrs3_0047,but i grew up in canada far from my arab roots,but in german cats are far from their hangover and looks,9,11,0.752,-0.7875220435006278,0.01049668448311942,0.5
+lrs3_0050,we re looking for something more,we re looking for something more,0,6,0.414,-0.09366711974143982,0.4579550325870514,0.8452380952380952
+lrs3_0051,but in the process they also train our brains to tune out when somebody else s issue,but in the process they also train our brains to talk out with somebody else s issue,2,17,0.988,-0.23578352677194694,0.04093122482299805,0.9264705882352942
+lrs3_0052,a couple of years ago a group of us in canada decided that we were hitting the limits of what we could accomplish,a couple of years ago a group of indian canada decided that we were hitting the limits of what we had accomplished,4,23,1.289,-0.28108768109922055,0.035468472374810114,0.9214426877470355
+lrs3_0055,progressive movements are growing and resisting with tremendous courage,and progressive movements are growing and resisting while the remaining stories,5,9,0.911,-0.44674956798553467,0.018535315990447998,0.8901515151515151
+lrs3_0067,i actually have no idea why,i just have no idea why,1,6,0.41,-0.37493460518973215,0.1780998706817627,0.8095238095238095
+lrs3_0068,go pick up the keys,could pick up the keys,1,5,0.486,-0.850322927747454,0.059579168047223775,0.8
+lrs3_0069,now i will maintain,and after the internet,4,4,0.48,-1.5500391960144042,0.09648218154907226,0.4732142857142857
+lrs3_0077,how could i let them down,how to clean them down,3,6,0.448,-0.7726373672485352,0.0953209400177002,0.6083333333333334
+lrs3_0091,and this is crazy,and this is crazy,0,4,0.408,-0.13616368770599366,0.7368271112442016,0.7375
+lrs3_0092,we ve just somehow forgotten how to see it,we ve just somehow forgotten how to deal,2,9,0.5,-0.32722270488739014,0.06241829395294189,0.8541666666666667
+lrs3_0098,and so i think that nature is not that which is untouched by humanity man or woman,and so why the initial is linear that which is untouched by human men or women,8,17,1.149,-0.523830847306685,0.010834693908691406,0.8474264705882353
+lrs3_0100,there s people everywhere,it s those people everywhere,2,4,0.418,-0.3697342872619629,0.05890822410583496,0.65
+lrs3_0105,nor do i think we are by ourselves actually going to solve the problem,and nor do i think we are among ourselves actually to solve the problem,3,14,0.78,-0.5337833404541016,0.027193514506022136,0.8130952380952381
+lrs3_0117,you can walk around them,you can work around them,1,5,0.406,-0.33542168140411377,0.030048251152038574,0.75
+lrs3_0123,the whole internet,all these traders,3,3,0.421,-0.5906425476074219,0.030086517333984375,0.5833333333333334
+lrs3_0128,we re losing a ritual,and quite honestly quite sure,5,5,0.483,-1.119943618774414,0.15604678789774576,0.5333333333333333
+lrs3_0130,well imagine you re walking in the forest and you see a bear,with a man still working on a falcon and using a pill,11,13,0.878,-0.7372698465983073,0.004109001159667969,0.8541666666666667
+lrs3_0131,for hepatitis it was also two and a half times,for hypotides it was also two and a half times,1,10,0.738,-0.32196786999702454,0.07015946507453918,0.8795454545454545
+lrs3_0142,and they definitely have been shown to be effective in some cases,and they definitely have to be shown to be a factor of in some cases,5,12,0.782,-0.5082462430000305,0.014384150505065918,0.840625
+lrs3_0150,i m a professor and we re passionate about education,i m a professor we re passionate about education,1,10,0.851,-0.2805818518002828,0.08822121222813924,0.7527777777777778
+lrs3_0156,and i thought what am i thinking,but that would have been the case,7,7,0.414,-0.6980670094490051,0.031183362007141113,0.6071428571428572
+lrs3_0161,can we really scale this up,that wouldn t be exactly the same,7,6,0.494,-0.6489922205607096,0.019114547305636935,0.7857142857142857
+lrs3_0165,but i don t,but i know,2,4,0.339,-0.7273933291435242,0.05512571334838867,0.5833333333333334
+lrs3_0170,there was no road map,there was no world map,1,5,0.351,-0.20354721943537393,0.23176811138788858,0.75
+lrs3_0172,and he grew up essentially in stage one,and he grew up essentially in stage one,0,8,0.541,-0.7068161964416504,0.01683007346259223,0.875
+lrs3_0183,you don t want this,you ve got white things,4,5,0.465,-0.6144964354378837,0.0736278806413923,0.65
+lrs3_0185,it s very hard to make them part of our rational decision,but it s very hard to make the point to make,7,12,0.654,-1.1644379542424128,0.003926717318021334,0.8011363636363636
+lrs3_0188,we all know deep inside what the answer is,we all know they d be saying what the answer is,4,9,0.625,-0.3474868627694937,0.04357433319091797,0.5681818181818181
+lrs3_0190,is it about systems,it s about systems,2,4,0.388,-0.14597803354263306,0.5259335239728292,0.725
+lrs3_0192,i started looking at them really carefully,it s not going to look like they re printed out for,12,7,0.773,-0.7120728492736816,0.012206554412841797,0.7772435897435898
+lrs3_0193,is it about equality,and they ll be fine,5,4,0.457,-1.5460912159511022,0.012012617928641183,0.5666666666666667
+lrs3_0197,how do you know for sure,it s on and off for sure,5,6,0.519,-0.5161158243815104,0.06828843222724067,0.5714285714285714
+lrs3_0200,the plane takes off,the place takes half,2,4,0.478,-1.1903998374938964,0.02095489501953125,0.7125
+lrs3_0201,the engine fails,the ancient figures,2,3,0.379,-0.40280680656433104,0.1505967617034912,0.5
+lrs3_0207,we paid two to three times more than anybody else,we make two or three times more than anybody else,2,10,0.602,-0.23736600442366165,0.07965586402199486,0.8545454545454545
+lrs3_0210,how do you get informed,how can you get informed,1,5,0.394,-0.4662089745203654,0.18242410818735758,0.65
+lrs3_0217,don t create solutions to impress customers,talk create talks to embrace customers,4,7,0.589,-0.7453474468655057,0.00016684002346462675,0.625
+lrs3_0224,the second is you can put lots and lots of tests in a very small place,the second is you can print lots and lots of ts that are finished tomorrow please,7,16,0.984,-0.7518782085842557,0.017130004035101995,0.8630514705882353
+lrs3_0226,do they have a common cold,on the left hand side,6,6,0.442,-1.8904695510864258,0.4411191940307617,0.4285714285714286
+lrs3_0238,mortality is not going down it s going up,brazil is not going down it s going up,1,9,0.617,-0.41043121164495294,0.032424059781161224,0.75
+lrs3_0243,well you get several things,well you get several things,0,5,0.416,-0.4877554972966512,0.049528161684672035,0.6499999999999999
+lrs3_0245,that is what it is to have a domain of expertise,i mean that is what the key to the average domain of expertise,6,11,0.742,-0.8443576267787388,0.009649481092180525,0.6648351648351648
+lrs3_0247,and that s what we did,and that s what we see,1,6,0.409,-0.13587512075901031,0.43941305577754974,0.8035714285714286
+lrs3_0248,we hear the chaos of war,this week in a lot of war,5,6,0.473,-0.493659108877182,0.2572855055332184,0.8214285714285714
+lrs3_0249,let s help them have a voice,let s help them have a voice,0,7,0.509,-0.2752406332227919,0.17443868849012586,0.7946428571428572
+lrs3_0251,the silent majority does not need to be silent,this time toxins does not need to be silent,3,9,0.639,-0.48043023622952974,0.01330269300020658,0.8611111111111112
+lrs3_0264,and that s actually what happened,and that s actually what happened,0,6,0.411,-0.1864033192396164,0.08177982270717621,0.7916666666666667
+lrs3_0268,irreconcilable differences right,now where does the animal differences regard,6,3,0.544,-0.957518458366394,0.06553757190704346,0.7857142857142857
+lrs3_0271,that s something we ought to celebrate,and that s something we can celebrate,3,7,0.571,-0.36669839753044975,0.03252826796637641,0.7633928571428572
+lrs3_0276,it was appalling,it looks smaller,2,3,0.443,-1.5938032865524292,0.05561983585357666,0.33333333333333337
+lrs3_0277,we can t identify with that part,we need to identify with their partner,4,7,0.434,-0.39115118980407715,0.19658929109573364,0.8214285714285714
+lrs3_0282,how is that possible,how is that possible,0,4,0.383,-0.17603163719177245,0.4734799861907959,0.7875
+lrs3_0288,and he s a bad guy,the bad guys,5,6,0.441,-0.8667792081832886,0.022515416145324707,0.575
+lrs3_0291,yes it s hard,yes it s hard,0,4,0.403,-0.3159671227137248,0.2248075008392334,0.575
+lrs3_0299,i tried everything,and you had everything,3,3,0.456,-0.7645995140075683,0.30695152282714844,0.575
+lrs3_0304,but you can write it,but who can wire it,2,5,0.369,-0.2485255002975464,0.4488471746444702,0.75
+lrs3_0306,so how do we do that,so how do we do that,0,6,0.337,-0.16829357828412736,0.08344261986868722,0.8095238095238095
+lrs3_0315,and what i need now is to learn to be like that,ariana now is still going to be like that,6,12,0.576,-0.3357338110605876,0.14046486218770346,0.8888888888888888
+lrs3_0316,even when it s so hard,even when it s not hot,2,6,0.403,-0.745840847492218,0.031970858573913574,0.1428571428571429
+lrs3_0321,that s what happened with my dad,that s what happened with my hair,1,7,0.414,-0.23762973149617514,0.1188699139489068,0.8571428571428572
+lrs3_0327,it would be a mall and not a park,it would be a mall and a pug,2,9,0.574,-0.3496218377893621,0.026890082792802292,0.8229166666666667
+lrs3_0328,well i didn t have any idea,well i didn t have any idea,0,7,0.465,-0.17089856995476616,0.1865907245212131,0.7901785714285714
+lrs3_0330,but too often my treatments made them feel worse,but too often my treatment made them feel worse,1,9,0.588,-0.22217175960540772,0.06746492385864258,0.8388888888888889
+lrs3_0349,one woman gives birth to a baby,where a woman gives birth to babies,4,7,0.699,-0.43038061261177063,0.0973295271396637,0.8035714285714286
+lrs3_0350,where do refugee hearts go,where does refugee cars go,2,5,0.428,-0.6246285835901896,0.056937177975972496,0.7
+lrs3_0355,sickness health tender violence,and these islands have their landfills their islands,8,4,0.722,-1.2302657536097936,0.09606388636997767,0.7520833333333333
+lrs3_0357,cluster bombs left behind,that doesn t support themselves,5,4,0.532,-1.5025697435651506,0.10559354509626116,0.30833333333333335
+lrs3_0362,i will craft my own drum,i will craft my whole drum,1,6,0.425,-0.3089806011744908,0.04195121356419155,0.7916666666666667
+lrs3_0373,wealth is ripped away from people who shouldn t be called unproductive,wealth is ripped away from people who should be nonproductive,4,12,0.867,-0.5652092695236206,0.07054764032363892,0.6816933066933066
+lrs3_0374,they don t represent what our views are,it did not represent one dollar fuse dollar,7,8,0.509,-0.8131999969482422,0.0032899856567382814,0.8125
+lrs3_0379,when you grow up poor you want to be rich,when you go on board you want to be british,4,10,0.584,-0.5089980472217907,0.02166448939930309,0.725
+lrs3_0380,and someone who has that kind of artistic potential deserves so much more,and you don t expect that kind of artistic potential to do so much work,7,13,0.741,-0.7979912757873535,0.039286295572916664,0.6875
+lrs3_0383,so what did they do,so what do you think to do,4,5,0.444,-0.39621901512145996,0.0010423660278320312,0.7748015873015873
+lrs3_0386,why is it important now,why is it important now,0,5,0.406,-0.3360259135564168,0.493913213411967,0.5333333333333333
+lrs3_0398,but quite frankly on this issue there is no other road,but quite frankly on this issue there is no other road,0,11,0.607,-0.4499506950378418,0.11491254965464275,0.8116258741258742
+lrs3_0400,how is it made,how is it made,0,4,0.389,-0.4342991828918457,0.32249932289123534,0.6875
+lrs3_0402,it s a fucking orgy,it s a fucking orgy,0,5,0.564,-0.32774235985495825,0.1867400516163219,0.8
+lrs3_0407,so what to do next,so we took the plans,4,5,0.462,-1.0816985539027624,0.08103915623256139,0.44166666666666665
+lrs3_0409,have inspired a generation of innovators,have inspired a generation of innovators,0,6,0.435,-0.1449124664068222,0.4199385792016983,0.7797619047619048
+lrs3_0414,we have no control over these forces,we have no control over these forces,0,7,0.449,-0.3705926537513733,0.14994239807128906,0.8303571428571428
+lrs3_0423,remember what i said my love,but maybe we can say well,6,6,0.467,-1.386462892804827,0.06476429530552455,0.40625
+lrs3_0430,that s what we do,that s what we do,0,5,0.387,-0.14300467286791121,0.29057041236332487,0.8083333333333333
+lrs3_0438,we said yes,which said yes,1,3,0.344,-0.1420881599187851,0.7566259056329727,0.7083333333333334
+lrs3_0439,and so one of the major challenges of our project really is to find photographs that were taken before something,and so one of the major challenges of our process really is to find photographs that were taken before something,1,20,1.068,-0.19618229432539505,0.0121002197265625,0.8910714285714285
+lrs3_0443,i may never go to your house you may never come to my house,i mean if a horse comes from a hundred up to a pound,12,14,0.716,-1.105135440826416,0.015485763549804688,0.7692307692307692
+lrs3_0447,and work like a dog,and it worked,4,5,0.413,-1.8003170490264893,0.2872769832611084,0.08333333333333337
+lrs3_0456,you can t hide behind anything other than your own teeth,you can t hide behind anything other than your own teeth,0,11,0.631,-0.28898041064922625,0.08780637154212365,0.8522727272727273
+lrs3_0457,is it that i write very well,there s a technical aspect here,7,7,0.5,-1.3706440925598145,0.024145007133483887,0.5714285714285714
+lrs3_0459,and that s what i m calling for here now,and that s what i m calling for here now,0,10,0.581,-0.1605991216806265,0.012734449826754056,0.8545454545454545
+lrs3_0468,we will not be there,what would that be like,4,5,0.376,-0.8704477945963541,0.08569113413492839,0.6499999999999999
+lrs3_0473,it s a performance venue,it s a performance value,1,5,0.398,-0.22763947078159877,0.2678840160369873,0.75
+lrs3_0477,but we were still missing a critical element,but we were still missing a critical helmet,1,8,0.577,-0.10326438148816426,0.3346507052580516,0.8125
+lrs3_0481,and he was talking about the importance of coaching boys into men and changing the culture of the locker room and giving,and it was talking about the importance of culture poisons that mine had changed in the culture of the locker room and even in,10,22,1.236,-0.33239573019522206,0.016782795941388165,0.9479166666666666
+lrs3_0491,they re not heavily subsidized,not heavily subsidized,2,5,0.486,-0.4273285184587751,0.08722972869873047,0.6375
+lrs3_0507,it s shocking to realize that only twenty eight percent of american,it is shocking to realise that only twenty eight of americans,4,12,0.731,-0.2972752497746394,0.0843961789057805,0.9109848484848485
+lrs3_0514,i m twenty seven years old,i m twenty seven years old,0,6,0.472,-0.3723824918270111,0.05031704902648926,0.875
+lrs3_0515,thanks for asking,and this was accidental,4,3,0.434,-0.9372569719950358,0.03461885452270508,0.42500000000000004
+lrs3_0524,and so how does your brain give you that detail,so how does your brain give you that detail,1,10,0.604,-0.11582033634185791,0.33778445720672606,0.8916666666666666
+lrs3_0526,not what is it,and i am what he did,5,4,0.461,-0.8327570642743792,0.02159472874232701,0.45833333333333337
+lrs3_0529,i m totally serious,if i am not as good as,6,4,0.503,-1.0052664279937744,0.012604117393493652,0.6071428571428572
+lrs3_0530,it s using past experience based on similar situations to try to make meaning,is using past experience based on similar situations to try and make meaning,3,14,0.817,-0.16027585665384927,0.054497114817301434,0.8722527472527473
+lrs3_0532,that s a terrible waste of time,it s a terrible waste of time,1,7,0.467,-0.7396249771118164,0.06683868832058376,0.8616071428571428
+lrs3_0534,what about manipulation,what about manipulation,0,3,0.328,-0.10063383579254151,0.915551733970642,0.7291666666666667
+lrs3_0539,you just move away,i m going to just move away,4,4,0.42,-0.3940579096476237,0.02299385600619846,0.3571428571428572
+lrs3_0540,it is the default option,this is the default option,1,5,0.516,-1.3817898432413738,0.015063126881917318,0.11904761904761907
+lrs3_0545,beth israel s in boston,but this also works,5,5,0.503,-1.5367894172668457,0.055034828186035153,0.21904761904761905
+lrs3_0549,and then guess what,and that leads to it,4,4,0.587,-0.7203075885772705,0.06241798400878906,0.5
+lrs3_0550,so why don t we leverage that,so why do we leverage that,2,7,0.418,-0.2713771547589983,0.3606478827340262,0.8035714285714286
+lrs3_0558,but you know what,but you know why,1,4,0.36,-0.4103707790374756,0.09655094146728516,0.3125
+lrs3_0560,we all want to,we ve got one too,4,4,0.422,-0.5146213940211705,0.02808080400739397,0.6
+lrs3_0566,one you need to know where you are and exactly what time it is,but you need to know where you are in exactly where time it is,3,14,0.749,-0.19627331097920736,0.0561708927154541,0.9285714285714286
+lrs3_0574,we were wrong,we were growing,1,3,0.365,-1.028915524482727,0.1301180124282837,0.41666666666666674
+lrs3_0588,it s very hard to get of course,it s very hard to get of course,0,8,0.51,-0.4178340435028076,0.047275638580322264,0.8541666666666667
+lrs3_0589,and that s really what i find so intriguing about the reactions that we ve had to the,and that s really what i find so intriguing about the reactions that we ve had to the,0,18,1.201,-0.1346280160157577,0.002122070478356403,0.9305555555555556
+lrs3_0594,african americans supported it at a higher level than had ever been recorded,african americans supported it at a higher level than it had ever been recorded,1,13,0.792,-0.14118289947509766,0.1003253880669089,0.9297619047619048
+lrs3_0595,i couldn t tear myself away from the coverage,i could turn myself away from the coverage,3,9,0.504,-0.2207383394241333,0.13300349712371826,0.84375
+lrs3_0596,and this wasn t just an abstract question,and this is what it s just seen after,7,8,0.641,-0.9436653310602362,0.1664662794633345,0.8193181818181818
+lrs3_0598,so what is an idea drawing,the wing is slightly annoying,5,6,0.491,-0.7434049129486084,0.010663270950317383,0.6
+lrs3_0602,and we ve all heard that kind of story before right,and we ve all heard that kind of the talk before right,2,11,0.652,-0.24745607376098633,0.11838115964617048,0.9166666666666666
+lrs3_0603,we re going to start putting an entire layer of digital information on the real world,when a giant brain is a layer of digital information on the real world,8,16,0.737,-0.4793238321940104,0.02779537836710612,0.875
+lrs3_0621,i had to do something,i had to do something,0,5,0.361,-0.1035983959833781,0.6427900393803915,0.7583333333333333
+lrs3_0624,it s not a lot of money at the global level,it s a size that unlikely of basics and common level,8,11,0.754,-0.9659225463867187,0.00021635691324869792,0.6553030303030303
+lrs3_0626,there s no need to play the market,and so it s quite symbolic,8,8,0.523,-0.9881972206963433,0.07623439364963108,0.25
+lrs3_0630,again it had no choice,again it had no choice,0,5,0.45,-0.45790104071299237,0.16452101866404215,0.775
+lrs3_0632,it s natural connective tissue,the schedule collective tissue,4,5,0.49,-0.9180639266967774,0.021834087371826173,0.75
+lrs3_0634,i believe a story there has to be told,i believe there s a story there has to be told,2,9,0.626,-0.12312778142782357,0.1997882861357469,0.9109848484848485
+lrs3_0641,the nazis invaded the netherlands,the nazis invaded the netherlands,0,5,0.55,-0.41937273198908026,0.11343639547174628,0.8
+lrs3_0642,we are all responsible,we are all responsible,0,4,0.343,-0.2603005409240723,0.12115304470062256,0.6875
+lrs3_0643,you have to have a high tech experience of pregnancy otherwise something might go wrong,you have never had that experience of being this otherwise something went wrong,9,15,0.827,-0.5166763237544468,0.04941000257219587,0.8901098901098901
+lrs3_0644,they want a treatment,they acquired that treatment,2,4,0.511,-0.5956496795018514,0.0351106325785319,0.6875
+lrs3_0645,what makes technology useful and usable,what makes technology useful and usable,0,6,0.461,-0.5161739587783813,0.03388005495071411,0.7916666666666667
+lrs3_0647,i can use it in my company,you end up using it,7,7,0.485,-0.7923547426859537,0.23113059997558594,0.8333333333333334
+lrs3_0648,who s at the event,they couldn t get the effect,5,5,0.468,-0.8235926628112793,0.012675821781158447,0.41666666666666663
+lrs3_0654,that even small scale farmers can leverage,that even small scale farmers are leveraged,2,7,0.578,-0.5635757976108127,0.0804035398695204,0.7857142857142857
+lrs3_0667,does any of this matter,tick of this panel,3,5,0.448,-0.8482719262441,0.08407290776570638,0.6875
+lrs3_0671,so we decided to go to the mosque,so we decided to go to the past,1,8,0.488,-0.2836461332109239,0.15915007061428493,0.75
+lrs3_0676,texting has developed one from this slash,texting is a developed one from this stage,3,7,0.721,-0.6168444156646729,0.023691129684448243,0.7951388888888888
+lrs3_0688,i want to warn you about what you re about to go through,i wrote a warning about which new mexico,11,13,0.678,-0.8713526725769043,0.033365917205810544,0.71875
+lrs3_0697,this is going to become really freaking obvious,there s going to be a pull in three and a half years,11,8,0.606,-0.35373207728068035,0.03453003565470378,0.8653846153846154
+lrs3_0704,we re on the grid,what can they create,5,5,0.387,-0.45281391143798827,0.1952126979827881,0.6875
+lrs3_0710,it is wrong,in the world,3,3,0.316,-0.31692248582839966,0.5322801470756531,0.5208333333333334
+lrs3_0712,this is not a put down of anyone,you can still get a book out of here,7,8,0.577,-1.1168067932128907,0.02768840789794922,0.6472222222222223
+lrs3_0717,he asked what do women need to do to conform to female norms,he asked one or two women into two conformed to female norms,8,13,0.743,-0.4370563507080078,0.017214012145996094,0.8958333333333334
+lrs3_0720,i guess i m doing it right now,and i accept doing it right now,3,8,0.551,-0.4991535544395447,0.10603940486907959,0.7589285714285714
+lrs3_0723,at what point did i think that was a good idea,down at one point did i think that was a good idea,2,11,0.552,-0.1382071880193857,0.16807311314802903,0.8958333333333334
+lrs3_0729,if any child is found violating these rules he is severely reprimanded,if any child is found violating that it s caused in a severely reprimanding,7,12,1.148,-0.34993167718251544,0.009166757265726725,0.7321428571428572
+lrs3_0730,effectively the taliban create a complete blackout of any other source of information,effectively this ipod shared a complete blackout of any other source of information,3,13,1.193,-0.4692382532007554,0.009673595428466797,0.8379120879120879
+lrs3_0731,not right now,but anyway,3,3,0.39,-1.9021650950113933,0.029205322265625,0.0
+lrs3_0737,and they say i want to work in global poverty but what will it mean about my career,and that s how we read a lot about that but what will it mean about my career,9,18,0.823,-0.3331026077270508,0.015543293952941895,0.7926169590643275
+lrs3_0744,in other words a coroner could find these things because this is a fatal recipe,in other words an order you can find these things because this is a fatal recipe,4,15,1.0,-0.2275347179836697,0.05707187122768826,0.90625
+lrs3_0755,supporting local economies,many supporting local economies,1,3,0.507,-0.84616486231486,0.06452369689941406,0.65
+lrs3_0758,i made more money,and being prepared,4,4,0.383,-1.1409475803375244,0.16834712028503418,0.16666666666666674
+lrs3_0770,it was incredibly hot,it s incredibly high,2,4,0.401,-0.6086922486623129,0.11050868034362793,0.6375
+lrs3_0784,they were wonderful people,they were wonderful people,0,4,0.403,-0.16193203926086425,0.37820982933044434,0.7875
+lrs3_0797,well there s a self fulfilling prophecy,with just a self fulfilling privacy,4,7,0.463,-0.39174798130989075,0.10730776190757751,0.625
+lrs3_0798,we shouldn t be nationalistic,which should have been nationalistic,4,5,0.409,-0.6815408979143415,0.06322070530482701,0.6
+lrs3_0799,of those seven have nuclear weapons,if you use scouring the chemical equipment,7,6,0.645,-0.8648921966552734,0.11408300399780273,0.6488095238095238
+lrs3_0813,they also monitored the internet and social media to monitor the progress of,there s the monitor on the internet in social media the monitor on the pro,10,13,1.12,-0.43771976583144245,0.06357953127692728,0.86875
+lrs3_0815,of course we re going to go even deeper than the human body,of course we re going to go even deeper than the human media,1,13,0.726,-0.28192873001098634,0.041524505615234374,0.9230769230769231
+lrs3_0816,think about that,right above here,3,3,0.383,-1.7125418186187744,0.060185790061950684,0.47916666666666674
+lrs3_0817,terrorists are doing this,these terrorists aren t doing this,3,4,0.501,-0.6020511521233453,0.07248232099745008,0.7321428571428572
+lrs3_0823,both of them bring the imagination to life in ways that remind us that all of our bonds in the end,both of them bring the imagination to life in ways that remind us that all of our past in the end,1,21,1.074,-0.2172014063054865,0.06160788102583452,0.9523809523809523
+lrs3_0827,they are doing it together,they are tuned into the house,4,5,0.527,-0.7338616251945496,0.03391188383102417,0.625
+lrs3_0835,i m also on this mission because the way doctors practice medicine continues to,i m also on this mission because the way doctors practice medicine continues to,0,14,0.998,-0.17125363910899444,0.07838873302235323,0.9476190476190476
+lrs3_0842,we weren t considered the real thing,when workings turned into real things,6,7,0.487,-0.6209510564804077,0.023316502571105957,0.5654761904761905
+lrs3_0843,so that was easy,so that was the key,2,4,0.466,-0.9675117333730062,0.019060929616292317,0.6
+lrs3_0848,it s so obvious,it s not obvious,1,4,0.475,-0.9173893133799235,0.15065813064575195,0.5
+lrs3_0851,you don t question that,you don t question that,0,5,0.458,-0.3519855226789202,0.039753266743251255,0.5
+lrs3_0855,with that you can actually trigger aid funding before a crisis can happen,with that you can actually trick your aid funding before a crisis can happen,2,13,0.773,-0.23686877886454263,0.028031301498413087,0.875
+lrs3_0860,it s a win all around,there is a wind on the ground,6,6,0.501,-0.45502999424934387,0.09957101941108704,0.5892857142857143
+lrs3_0861,we go far beyond reasonable constructive criticism to dissecting any given woman s feminism,we go far beyond reasonable constructive criticisms such as sexy living woman s feminism,5,14,1.073,-0.4493010838826497,0.026954378400530134,0.8988095238095238
+lrs3_0864,some boys broke me when i was so young i did not know what boys can do to break a girl,some boys broke me when i was so young i did not know where boys considered to be a girl,4,21,1.156,-0.6031246185302734,0.01637590499151321,0.9375
+lrs3_0871,one of them got caught up in the water,one of them caught up in the water,1,9,0.468,-0.24945317374335396,0.36443450715806747,0.8472222222222222
+lrs3_0879,i wanted to understand who takes the job,that i went to understand who gets the charm,4,8,0.637,-0.7985834280649821,0.050461133321126304,0.8333333333333334
+lrs3_0886,there s a million different ways to eat pizza,thirty minutes for was the key piece,9,9,0.588,-0.9134737253189087,0.04040330648422241,0.6071428571428572
+lrs3_0888,if we re still hungry we might have some more,if works or only women have to work,8,10,0.609,-1.007046275668674,0.00813526577419705,0.7986111111111112
+lrs3_0889,now my own speciality is combining digital technology and magic,now we know a specialist by the digital technology in patch,8,10,0.726,-0.6399142583211263,0.014072799682617187,0.36363636363636365
+lrs3_0893,so to summarize if we could offer a top quality education to everyone around the world for free,so to summarize if we could offer a top quality education to everyone around the world for free,0,18,1.028,-0.20561883666298605,0.005869692022150213,0.9181286549707602
+lrs3_0897,and we all know this,and we re not using,3,5,0.431,-0.6041806084769112,0.03636387416294643,0.3666666666666667
+lrs3_0903,it needs to happen,it needs to happen,0,4,0.355,-0.08958671689033508,0.9337712466716767,0.775
+lrs3_0910,and i don t have to do anything,it cannot have to quit there,6,8,0.495,-0.6852794374738421,0.10195262091500419,0.75
+lrs3_0920,i tried everything,which is quite different,4,3,0.367,-1.4889131546020509,0.09448795318603516,0.32499999999999996
+lrs3_0921,and now i love languages,and now a lot of notes,4,5,0.552,-0.6426500082015991,0.021751761436462402,0.6785714285714286
+lrs3_0924,and this routine went on for some time,in this routine we are looking for at some time,5,8,0.87,-0.740945122458718,0.011145158247514204,0.6068181818181818
+lrs3_0925,so i thought why not punish myself,it s not that when i punish myself,6,7,0.516,-0.2947454690933228,0.03440666198730469,0.75
+lrs3_0927,and this became my holy grail my rosetta stone,and there s been email all the grilled microseconds do,9,9,0.797,-0.6928398344251845,0.020356178283691406,0.7721153846153845
+lrs3_0930,i m not a social problem guy,a big social problem,5,7,0.49,-0.9058473587036133,0.004204750061035156,0.6666666666666667
+lrs3_0933,i was considered a radical,that was considered a way,2,5,0.444,-0.6625655889511108,0.014856616655985514,0.5
+lrs3_0935,my other great passion is the environment,but the great passion is the environment,2,7,0.55,-0.563931941986084,0.09935158491134644,0.8035714285714286
+lrs3_0936,constance baker motley,i got six bigger modeling,5,3,0.453,-0.6925059727260044,0.05957651138305664,0.7
+lrs3_0937,some of them were really afraid of contagion and they wouldn t even walk in front of our,some of them were really afraid of danger and they wouldn t even walk in front of our,1,18,1.063,-0.30423946380615235,0.009514141082763671,0.945906432748538
+lrs3_0938,she never wanted to tell me,and she never wanted to tell me,1,6,0.453,-0.2808067500591278,0.03949669003486633,0.8214285714285714
+lrs3_0939,my parents came from germany,and my parents came from germany,1,5,0.453,-0.25236395427158903,0.14200220789228166,0.7916666666666667
+lrs3_0944,nobody comes to get famous,nobody comes to get famous,0,5,0.445,-0.6191381216049194,0.02868664264678955,0.6416666666666666
+lrs3_0950,how can we get so much information out of so little motion,how can we get so much inflammation out of social motion,3,12,0.846,-0.2255844789392808,0.05315870397231158,0.9090909090909091
+lrs3_0955,we have to get quiet,we have to get it all right,3,5,0.434,-0.3346133828163147,0.006183803081512451,0.7142857142857143
+lrs3_0957,how can we do it,on the other side of the way,7,5,0.488,-1.7361011505126953,0.030457615852355957,0.0714285714285714
+lrs3_0961,what would happen,what would happen,0,3,0.364,-0.09135106950998306,1.1930821761488914,0.75
+lrs3_0962,but what does,but one dies,2,3,0.423,-0.7077375888824463,0.1267858028411865,0.5416666666666667
+lrs3_0968,i was living in my own apartment,i was living in my own apartment,0,7,0.403,-0.16460716724395752,0.38049614429473877,0.7901785714285714
+lrs3_0974,we know that every cell has a sex,we know that every cell has a sex,0,8,0.555,-0.46002350913153756,0.09042321311102973,0.8125
+lrs3_0980,the authors looked at papers written over a ten year period and hundreds had to be thrown out,the authors looked at papers written over a ten year period in hundreds that had been thrown out,4,18,1.073,-0.227617393840443,0.01531330021944913,0.9305555555555556
+lrs3_0981,i can hardly wait,like all the ways,4,4,0.365,-0.8638838768005371,0.08145256042480468,0.6875
+lrs3_0987,don t get me wrong it s not like we don t have comedy in the middle east,don t get me wrong it s not that we don t have lobby database,6,18,0.841,-0.3739050683521089,0.013450372786748977,0.8892156862745098
+lrs3_0990,why does a jellyfish emit light,why aren t televisions built,5,6,0.585,-0.9912090301513672,0.01890575885772705,0.6071428571428572
+lrs3_0994,and that s powerful,it is powerful,3,4,0.364,-0.25259673595428467,0.49721062183380127,0.6666666666666667
+lrs3_1002,so i went to church as often as i could,so when the church is offered exactly,8,10,0.571,-0.666666567325592,0.07446855306625366,0.7946428571428572
+lrs3_1004,your job needs to be challenging,your tribalism is challenging,4,6,0.497,-0.5307271083196005,0.20145277182261148,0.5875
+lrs3_1005,boy it matters a lot,bullying matters a lot,2,5,0.395,-0.2736243724822998,0.2708779811859131,0.675
+lrs3_1007,you want to work for him,you won t work for him,2,6,0.476,-0.3936425745487213,0.06129571795463562,0.7619047619047619
+lrs3_1018,we must adopt that way of giving back,or it means that a way of giving back,4,8,0.585,-0.4882974147796631,0.00378265380859375,0.8055555555555556
+lrs3_1019,did i get my upgrade,can i get my number right,3,5,0.503,-1.0063378470284599,0.05090079988752093,0.6190476190476191
+lrs3_1020,what if obesity isn t the cause of insulin resistance at all,well if obesity is the cause of insulin resistance at all,3,12,0.813,-0.655536413192749,0.0808728535970052,0.6923076923076923
+lrs3_1027,how far do they reach,just how far could they reach,2,5,0.421,-0.328988892691476,0.06744139535086495,0.7916666666666667
+lrs3_1029,and the daughter was exhausted from caring for her mother,and the title was a title from carol for her mother,4,10,0.649,-0.4665460219750038,0.12388944625854492,0.8636363636363636
+lrs3_1033,so the answer to the second question can we change,ours got the ears on at the second question can we change,5,10,0.862,-0.5814522425333659,0.010824330647786458,0.7083333333333333
+lrs3_1037,allow many people to come in,allow many people to come here,1,6,0.409,-0.2948039599827358,0.17736199923924037,0.8333333333333334
+lrs3_1039,they want to get out,they re working out,3,5,0.388,-0.13999517758687338,0.31344254811604816,0.775
+lrs3_1045,so i changed my immediate goal to ten thousand faces,stock exchanges may immediately cost ten thousand fixes,8,10,0.686,-0.9475760893388228,0.01232467998157848,0.5722853535353536
+lrs3_1047,when you re six maybe you can do that,around when you re a six week musical,7,9,0.51,-0.8327082633972168,0.05231618881225586,0.6875
+lrs3_1048,i didn t feel like i was in the wrong body,i didn t feel like i was in the wrong part,1,11,0.551,-0.2083575175358699,0.1493852688716008,0.8409090909090909
+lrs3_1050,are they a potential mate,find their position to make it,6,5,0.514,-0.7096136638096401,0.21366616657802037,0.8571428571428572
+lrs3_1051,look at this pretty structure,all that is a printed structure,5,5,0.736,-0.9269334077835083,0.08533370494842529,0.5
+lrs3_1055,and this is true,the answer is no,3,4,0.394,-0.73961181640625,0.02919597625732422,0.5625
+lrs3_1058,so since then i ve been the bridge and a lot of people have walked over me,so since it gave me a picture of people have walked over me,8,17,0.719,-0.3009935106549944,0.024143900190080916,0.9244505494505495
+lrs3_1060,and boy they were like what,and why are they all there weird,5,6,0.53,-0.8739628791809082,0.011609077453613281,0.5357142857142857
+lrs3_1063,how do you get to build those relationships,how do you get to build those relationships,0,8,0.566,-0.4291302627987332,0.05153701040479872,0.7951388888888888
+lrs3_1064,we can do it again,would i do it again,2,5,0.368,-0.5714760224024454,0.13961303234100342,0.6583333333333333
+lrs3_1065,so i went to my doctor,so i wanted to be a giant,4,6,0.456,-0.5824756622314453,0.049517273902893066,0.8214285714285714
+lrs3_1070,we re going to eat these cows,but a lot of these guys,6,7,0.478,-0.6411563328334263,0.16031367438180105,0.8333333333333334
+lrs3_1071,indeed we run the risk of making things worse,indeed we run the risk of making things worse,0,9,0.488,-0.14516528844833373,0.11992229223251342,0.8944444444444445
+lrs3_1074,why do we need to study this anymore,why do we need to study this any more,2,8,0.551,-0.3546086072921753,0.09424335956573486,0.8888888888888888
+lrs3_1079,that s sort of the state of the art,that s sort of a stick of the eye,3,9,0.489,-0.3872443979436701,0.01523867520419034,0.8611111111111112
+lrs3_1085,so when i started my job at the arnold foundation i came back to looking at a lot of these questions and i came back,so when i started my job at the congo foundation i came back to look at a line of these questions and i came back,3,25,1.364,-0.4741737224437572,0.019353795934606483,0.9503846153846154
+lrs3_1091,and when i look at the criminal justice system in the united states today i feel the exact same way that i did about the state of,and when i look at the criminal justice system in the united states today i feel the exact same way the idea about the state of,3,27,1.366,-0.30097272660997176,0.03831467805085359,0.9145299145299145
+lrs3_1101,we took camden off the top of the list as the most dangerous city in america,we took the aims of the tab of the latest system who was interested in america,10,16,0.944,-0.5372633706955683,0.02139236813499814,0.6617647058823529
+lrs3_1102,now at that time camden new jersey was the most dangerous city in america,now at that time hampton new jersey was the most interesting year in america,3,14,0.782,-0.33128494686550564,0.03752962748209635,0.9285714285714286
+lrs3_1115,they don t trust the law,the country isn t long,6,6,0.417,-0.9157431466238839,0.029130186353410994,0.25
+lrs3_1116,had no idea,and it s great,4,3,0.446,-0.7601303259531657,0.03268663088480631,0.475
+lrs3_1117,it s changed the way we talk,i m not actually the way we do a lot,7,7,0.547,-0.6025745471318563,0.0153961181640625,0.725
+lrs3_1119,and they did it in the good old fashioned way,and the idea here that you could call fasu,9,10,0.656,-0.9312554200490316,0.015685081481933594,0.8194444444444444
+lrs3_1120,first they founded political parties,and at first they ve counted political parties,4,5,0.512,-0.25084358995611017,0.08000714128667658,0.8125
+lrs3_1121,now hamilton was everything madison was not,now amnesty was everything a magazine was cut,4,7,0.641,-0.4392293691635132,0.06439208984375,0.875
+lrs3_1122,we can change our minds,but again it turns out marks,6,5,0.505,-0.7702769637107849,0.06676304340362549,0.7797619047619048
+lrs3_1135,we can see everything on wikipedia,we could see everything if we could be any young,7,6,0.639,-0.4283770647915927,0.017412532459605824,0.85
+lrs3_1138,how can somebody like that make you feel smart,how would you be a cabinet,8,9,0.601,-1.4954009056091309,0.006953525543212891,0.44791666666666663
+lrs3_1139,he made me feel smart,it might be even too small,6,5,0.415,-0.7098902293613979,0.06157112121582031,0.5416666666666667
+lrs3_1141,it s just incredible,it s,2,4,0.409,-1.986762285232544,0.2586705684661865,0.5166666666666666
+lrs3_1142,we only sell you airtime,we all sell them in real time,5,5,0.51,-0.896661639213562,0.02025395631790161,0.6071428571428572
+lrs3_1146,there s no structure,but it s not non traction,5,4,0.514,-0.44691100120544436,0.0216036319732666,0.7142857142857143
+lrs3_1149,but it s useful for everybody to learn how to read and write,a pictures of it for everybody to learn how to read and write,4,13,0.702,-0.6857840674264091,0.016846316201346263,0.7884615384615384
+lrs3_1150,you learn more about how computers work,you ll learn more about how computers work,1,7,0.554,-0.2732055425643921,0.01564490795135498,0.8472222222222222
+lrs3_1152,it was faulty and most of the time i had to restart it over and over before it worked,it was virtually most of the time i actually started over and over before it worked,6,19,0.973,-0.43085646629333496,0.015440066655476889,0.806673546611627
+lrs3_1155,for africans homegrown science fiction can be a will to power,for africans most dash federal limit will to power,6,11,0.683,-0.791246255238851,0.00700068473815918,0.8055555555555556
+lrs3_1163,it s a debate about words about metaphors,there s a debate about worse about metaphors,2,8,0.548,-0.45569623600352893,0.02680683135986328,0.8631944444444444
+lrs3_1167,let s have that,it s unfair,3,4,0.397,-1.085052490234375,0.0304351806640625,0.22499999999999998
+lrs3_1170,it has to stop,it hasn t stopped,3,4,0.435,-1.0034772555033367,0.1292241414388021,0.5125
+lrs3_1172,i don t know,,4,4,0.299,-99.0,1.2325232028961182,0.0
+lrs3_1176,you ve broken your back,it s,5,5,0.429,-2.127979278564453,0.2318716049194336,0.4916666666666667
+lrs3_1178,well let s hold on to that thought for just a minute,but at least all cutting edge which is to make,12,12,0.847,-0.9900429465553977,0.01143368807705966,0.7886363636363636
+lrs3_1180,what can i do about it,but what one can t talk about,5,6,0.474,-0.6026751200358073,0.042629082997639976,0.6785714285714286
+lrs3_1182,why did my child develop autism,why did my trainers develop high system,3,6,0.567,-0.9093512429131402,0.06390751732720269,0.6071428571428572
+lrs3_1189,everything in the universe wears out,everything includes the word scanner,4,6,0.524,-0.8825783133506775,0.025819897651672363,0.6166666666666667
+lrs3_1194,i don t understand,i can t hate talking i just tears,6,4,0.65,-0.9972508430480957,0.0027894020080566407,0.8263888888888888
+lrs3_1199,so just like with a bike we don t talk about it,the jobs you take when we buy we don t talk about it,7,12,0.667,-0.5864328384399414,0.04439417521158854,0.7307692307692307
+lrs3_1200,we all know what he s talking about,we aren t always talking bad,6,8,0.534,-0.8772754669189453,0.04044252634048462,0.5952380952380952
+lrs3_1201,and then something falls off the wall,and then something falls off the wire,1,7,0.535,-0.41144784291585285,0.010550604926215278,0.75
+lrs3_1204,no more charge before use,not more charge before yours,2,5,0.49,-0.5392595699855259,0.0069097791399274555,0.75
+lrs3_1210,the boys reminded me of home,the boys reminded me of home,0,6,0.486,-0.2787439823150635,0.22116252779960632,0.7797619047619048
+lrs3_1223,where are the philosophers,where are the philosophers,0,4,0.479,-0.7874470551808676,0.14909005165100098,0.7
+lrs3_1224,but this particular reality was not inevitable,now with this particular mechanical scale level,6,7,0.504,-0.6225636005401611,0.03516530990600586,0.8214285714285714
+lrs3_1225,that s the magic of the geological record,that s the passionate fishing and nature of health,6,8,0.668,-0.8018183708190918,0.0016512076059977214,0.7222222222222222
+lrs3_1229,they ll say i m surrounded by a bunch of snakes and sharks,the attempt to round a payment of sexy sharks,10,13,0.712,-0.7184607432438777,0.05131391378549429,0.7222222222222222
+lrs3_1230,and he said well i just care so deeply about my customers that i would never sell them one of our crappy products,and i said well i just cared so deeply about my customers i would never sell them one for crappy products,5,23,1.256,-0.20006176277443213,0.031491738778573496,0.9426406926406926
+lrs3_1243,i didn t know you actually have to have creative control,i could also actually have to have creative control,4,11,0.581,-0.46123805046081545,0.022448396682739256,0.6565656565656566
+lrs3_1244,there s no other way,there s no other way,0,5,0.456,-0.6202179363795689,0.08805077416556222,0.3583333333333333
+lrs3_1249,that means at some point it s going to be your problem too,that means at some point there s going to be no problem at all,4,13,0.657,-0.25451090931892395,0.02886846661567688,0.7678571428571429
+lrs3_1257,the question why does she stay,the question why didn t she stay,2,6,0.504,-0.32377605968051487,0.10400305853949653,0.75
+lrs3_1259,i had just graduated from harvard college,i graduated from old english,4,7,0.471,-0.6509990692138672,0.025130203792027066,0.6845238095238095
+lrs3_1266,but just imagine for a moment what this must feel like,but just imagine for a moment what this must feel like,0,11,0.701,-0.4543691078821818,0.08707435925801595,0.7696678321678322
+lrs3_1271,we wouldn t tolerate that,we wouldn t tolerate that,0,5,0.44,-0.15749841266208225,0.13765393363104927,0.825
+lrs3_1272,you smell money,there should be a money,4,3,0.448,-0.6535424391428629,0.26414060592651367,0.7166666666666667
+lrs3_1274,and how is that possible,and said oh six possible,3,5,0.525,-1.05811341603597,0.004127025604248047,0.4
+lrs3_1276,often what happens is you re planning so hard for like how do i get through the hardest part,often what happens is your brain is so harmful and angry at it through the hardest part,10,19,0.923,-0.3769843578338623,0.04205508232116699,0.8709150326797386
+lrs3_1281,there s love and there s friendship and there s protection,there s love and there s friendship and there s protection,0,11,0.775,-0.42836840947469074,0.014454237620035807,0.7310606060606061
+lrs3_1283,we ve all done this,we ve all suffered,2,5,0.421,-0.14306444781167166,0.4307554619652884,0.7041666666666666
+lrs3_1290,and i did not know what to say,and it s none longer designed,7,8,0.491,-1.0797667503356934,0.030098676681518555,0.5059523809523809
+lrs3_1301,so the very first thing we wanted to do in this building was look at the air system,so the very first thing we wanted to do in this building was look at the air system,0,18,0.846,-0.14260096299020866,0.044835655312789116,0.9444444444444444
+lrs3_1306,and this is happening every day,this is happening every day,1,6,0.418,-0.5998581250508627,0.02871259053548177,0.675
+lrs3_1312,this is a really important chapter to me,and this is a really important chapter to me,1,8,0.507,-0.12467781305313111,0.18110584020614623,0.8611111111111112
+lrs3_1320,i know it works,i know where it works,1,4,0.371,-0.3084099094072978,0.12158320347468059,0.8

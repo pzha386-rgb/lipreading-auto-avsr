@@ -1,0 +1,50 @@
+{
+  "args": {
+    "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+    "convert_fn": "",
+    "minutes": 15.0,
+    "name": "tomscott",
+    "out": "/root/autodl-tmp/adapt_v2/autoavsr_m15",
+    "lr": 1e-05,
+    "weight_decay": 0.1,
+    "epochs": 10,
+    "patience": 3,
+    "max_frames": 2000,
+    "no_freeze": false,
+    "freeze_layers": 4,
+    "anchor": 0.01,
+    "seed": 0,
+    "check": false
+  },
+  "train_min": 14.998,
+  "history": [
+    {
+      "epoch": 0,
+      "val_loss": 24.289604873300714
+    },
+    {
+      "epoch": 1,
+      "train_loss": 55.12789807753129,
+      "val_loss": 25.14351296870508,
+      "minutes": 0.09266593058904012
+    },
+    {
+      "epoch": 2,
+      "train_loss": 52.76104323647239,
+      "val_loss": 26.38497521498493,
+      "minutes": 0.17273457050323487
+    },
+    {
+      "epoch": 3,
+      "train_loss": 50.01695156097412,
+      "val_loss": 26.282050132751465,
+      "minutes": 0.23439929882685342
+    },
+    {
+      "epoch": 4,
+      "train_loss": 49.0189825404774,
+      "val_loss": 25.651723349205803,
+      "minutes": 0.2959585388501485
+    }
+  ]
+}

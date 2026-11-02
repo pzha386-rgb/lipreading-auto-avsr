@@ -1,0 +1,86 @@
+{
+  "args": {
+    "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+    "convert_fn": "",
+    "minutes": 30.0,
+    "name": "tomscott",
+    "out": "/root/autodl-tmp/adapt_v2/autoavsr_m30",
+    "lr": 1e-05,
+    "weight_decay": 0.1,
+    "epochs": 10,
+    "patience": 3,
+    "max_frames": 2000,
+    "no_freeze": false,
+    "freeze_layers": 4,
+    "anchor": 0.01,
+    "seed": 0,
+    "check": false
+  },
+  "train_min": 29.966666666666665,
+  "history": [
+    {
+      "epoch": 0,
+      "val_loss": 24.289604873300714
+    },
+    {
+      "epoch": 1,
+      "train_loss": 43.501064849226445,
+      "val_loss": 27.031953811645508,
+      "minutes": 0.12934866746266682
+    },
+    {
+      "epoch": 2,
+      "train_loss": 42.67173954340965,
+      "val_loss": 27.035636719142165,
+      "minutes": 0.24778014421463013
+    },
+    {
+      "epoch": 3,
+      "train_loss": 42.07425999750286,
+      "val_loss": 26.417145305704846,
+      "minutes": 0.3477410952250163
+    },
+    {
+      "epoch": 4,
+      "train_loss": 41.69079244082377,
+      "val_loss": 25.945961568957177,
+      "minutes": 0.48444708188374835
+    },
+    {
+      "epoch": 5,
+      "train_loss": 39.96641956834488,
+      "val_loss": 25.659266298062334,
+      "minutes": 0.6227795124053955
+    },
+    {
+      "epoch": 6,
+      "train_loss": 39.84191563575779,
+      "val_loss": 25.42759390857732,
+      "minutes": 0.7607406298319499
+    },
+    {
+      "epoch": 7,
+      "train_loss": 40.70493948078591,
+      "val_loss": 25.35822645080424,
+      "minutes": 0.907742997010549
+    },
+    {
+      "epoch": 8,
+      "train_loss": 38.83793680199749,
+      "val_loss": 24.98639071544754,
+      "minutes": 1.051057521502177
+    },
+    {
+      "epoch": 9,
+      "train_loss": 39.58397692850191,
+      "val_loss": 25.126387074728992,
+      "minutes": 1.190988822778066
+    },
+    {
+      "epoch": 10,
+      "train_loss": 39.131706999861485,
+      "val_loss": 25.258148090861667,
+      "minutes": 1.2908861756324768
+    }
+  ]
+}
