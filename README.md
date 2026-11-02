@@ -48,6 +48,30 @@ The Semester 1 README (Auto-AVSR reproduction, GUI, real-time demo) is in `docs/
 | `vsr_bench/perturb_rois.py` | Video perturbations for robustness tests |
 | `vsr_bench/stats_bootstrap.py` | Bootstrap confidence intervals |
 | `demo/e8_posthoc.py` | Coverage sweep and ROVER on the multi-speaker test set |
+| `vsr_bench/gui/lip_compare_gui.py` | Demo GUI: compare models on a clip, key findings, live webcam test |
+| `vsr_bench/lipread_service.py`, `start_services.sh` | Model services used by the GUI (Auto-AVSR, BRAVEn, USR 2.0) |
+
+## Demo GUI
+
+The GUI (Gradio front-end, FastAPI model services on a cloud GPU) has three tabs.
+
+| Tab | Screenshot |
+|---|---|
+| Watch a clip: all models on the same LRS3 or BBC clip, wrong words marked | `docs/images/gui/watch_clip_long.jpg` |
+| Key findings: label efficiency, LRS3 vs BBC, speed, robustness | `docs/images/gui/findings_*.jpg` |
+| Live test: webcam recording, three models, time per stage | `docs/images/gui/live_test_webcam.jpg` |
+
+![Live test](docs/images/gui/live_test_webcam.jpg)
+
+## Semester 1 code (root folders)
+
+| Folder | Content |
+|---|---|
+| `eval/` | Semester 1 evaluation notes and logs (`EVAL.md`) |
+| `gui/`, `server/` | First GUI and model server |
+| `realtime/` | Real-time lip-reading demo |
+| `scripts/` | Mouth ROI extraction and BBC manifest tools |
+| `docs/` | Semester 1 README, design report, images |
 
 ## Data
 
