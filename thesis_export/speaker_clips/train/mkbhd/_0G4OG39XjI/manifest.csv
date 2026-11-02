@@ -1,0 +1,185 @@
+clip_id,video_id,speaker_id,split,path,start,end,dur,text
+clip_0000,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0000.mp4,2.572,6.689,4.117,"Okay, so Google is dropping a brand new category of computer, new operating system,"
+clip_0001,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0001.mp4,6.891,12.804,5.913,"these new laptops. You know, with Windows doing Windows things and a bunch of other tides changing,"
+clip_0002,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0002.mp4,12.886,17.466,4.580,maybe this is the perfect time to jump in... and shake things up. So
+clip_0003,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0003.mp4,17.680,22.157,4.477,"enter... Googlebooks. I got my hands on... a couple of them here, and my first question going into this was"
+clip_0004,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0004.mp4,22.359,26.536,4.177,"basically, okay, it's Google, what is the difference between this and a Chromebook?"
+clip_0005,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0005.mp4,26.618,30.983,4.365,"'Cause we all know what Chromebooks are, and this is supposed to be different,"
+clip_0006,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0006.mp4,31.197,35.844,4.647,certainly priced different. So what actually is
+clip_0007,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0007.mp4,36.058,40.774,4.716,"a Googlebook? So first of all, there's actually 5 of these things. Google's not making... any Googlebooks themselves."
+clip_0008,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0008.mp4,40.856,45.356,4.500,"They're trusting 5 companies to make them at launch. So there's an ASUS Googlebook, an... Acer Googlebook,"
+clip_0009,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0009.mp4,46.068,50.030,3.962,"a Dell Googlebook, an HP Googlebook, and a Lenovo Googlebook."
+clip_0010,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0010.mp4,50.112,55.010,4.898,And all these machines have a few things in common... They're all... premium... and
+clip_0011,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0011.mp4,55.224,59.966,4.742,"lightweight... They start at 16 gigs of RAM going up to 32. They all have 2K+ touchscreen displays,"
+clip_0012,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0012.mp4,60.180,65.149,4.969,and they all have this colorful LED bar... on the back... called a Glowbar. The Glowbar only really does a few things.
+clip_0013,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0013.mp4,65.231,69.741,4.510,"It turns red when the battery's low, it shows your charging progress when you're plugged in,"
+clip_0014,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0014.mp4,69.943,73.759,3.816,"and then it turns kind of purple when you're talking to Gemini, and... that's about it."
+clip_0015,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0015.mp4,73.841,77.954,4.113,"But maybe most importantly, they don't run"
+clip_0016,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0016.mp4,78.168,82.979,4.811,ChromeOS. Technically... So they all run this new OS called Googlebook
+clip_0017,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0017.mp4,83.193,88.443,5.250,OS... which I don't think that's a good name. It's already kind of confusing because Googlebooks...
+clip_0018,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0018.mp4,88.525,93.092,4.567,"exist, but there's also a separate product called... Google Books."
+clip_0019,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0019.mp4,93.306,97.126,3.820,"So that's... confusing, but we'll let that slide, I guess. Anyway, the idea is that..."
+clip_0020,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0020.mp4,97.208,102.106,4.898,"this is supposed to be... a great laptop for someone with an Android phone,"
+clip_0021,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0021.mp4,102.320,106.591,4.271,"specifically a Pixel phone, especially at launch. It's supposed to be giving you... the same"
+clip_0022,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0022.mp4,106.793,110.755,3.962,level of continuity... and ecosystem as someone would experience with an
+clip_0023,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0023.mp4,111.052,115.148,4.096,iPhone if they were using a bunch of Apple products. and then sprinkle a little
+clip_0024,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0024.mp4,115.362,119.932,4.570,extra Gemini on top. So this here is the ASUS Googlebook that I've been using for the past week.
+clip_0025,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0025.mp4,120.134,125.031,4.897,Googlebook OS lets me get notifications from my Pixel on my laptop. I can text from my phone
+clip_0026,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0026.mp4,125.245,130.120,4.875,"on the laptop. I can also share internet from my phone, so I basically have cellular wherever I go."
+clip_0027,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0027.mp4,130.550,134.512,3.962,And I can also access my files on the phone from the laptop super
+clip_0028,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0028.mp4,134.726,138.915,4.189,"easily, literally a click and drag away, as long as they're... under 200 megabytes."
+clip_0029,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0029.mp4,139.717,143.422,3.705,"And if I start a task on my phone, like... booking a flight, for example,"
+clip_0030,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0030.mp4,144.004,148.867,4.863,"and then realize, you know what, this is a... big screen activity, I can just"
+clip_0031,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0031.mp4,149.081,152.887,3.806,pick up where I left off... on the Googlebook with one click...
+clip_0032,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0032.mp4,152.969,157.920,4.951,"And then the rest of the OS basically just feels like Android, more or less, like from the home screens"
+clip_0033,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0033.mp4,158.122,162.016,3.894,"with folders... and widgets, to the app drawer with... all of our apps,"
+clip_0034,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0034.mp4,162.218,166.590,4.372,the quick settings. The quick settings even look straight from Android. Like they still have
+clip_0035,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0035.mp4,166.792,170.990,4.198,"an... auto-rotate toggle in them that doesn't do anything on this laptop, but it's there."
+clip_0036,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0036.mp4,171.782,176.372,4.590,"And it's funny, you can actually go into the About this device... and it actually says"
+clip_0037,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0037.mp4,176.586,180.889,4.303,"Android 17. But of course, you know, there's some other tweaks to make it work... with"
+clip_0038,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0038.mp4,181.103,185.960,4.857,"a touchscreen or a mouse and keyboard. And the point is... it runs Android apps... So it has the Play Store,"
+clip_0039,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0039.mp4,186.162,191.129,4.967,"and you can install as many apps as you want to that internal storage. But if you don't wanna install a new Android app,"
+clip_0040,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0040.mp4,191.211,196.037,4.826,you can just mirror it from your phone that already has it. So that's the main premise... And then there's a few...
+clip_0041,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0041.mp4,196.119,200.966,4.847,extra Gemini features sprinkled on top that ChromeOS doesn't have. The headlining one
+clip_0042,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0042.mp4,201.638,205.600,3.962,is this magic pointer feature with the cursor.
+clip_0043,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0043.mp4,205.682,210.347,4.665,"And it's actually off by default, but once you enable it, it lets you wiggle your cursor to activate and then select something to"
+clip_0044,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0044.mp4,210.549,214.511,3.962,"ask Gemini about it or do something with it. So, you know,"
+clip_0045,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0045.mp4,214.725,219.697,4.972,"mostly looking up images and then asking for more information about them, stuff like that. I think my personal favorite is actually the"
+clip_0046,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0046.mp4,219.899,225.092,5.193,"semantic file search, uh, 'cause there is... local storage, half a terabyte of it actually on this one."
+clip_0047,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0047.mp4,225.370,229.247,3.877,"And there is a file system. So in case you don't remember the exact file name,"
+clip_0048,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0048.mp4,229.329,234.310,4.981,"but need to find something, you can search just a description of what you remember is in the file,"
+clip_0049,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0049.mp4,234.922,239.443,4.521,and the Files app can still find it for you. This is actually very useful AI.
+clip_0050,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0050.mp4,239.657,244.423,4.766,"And there's also Rambler, which is Google's new, much smarter speech-to-text. That removes the ums and"
+clip_0051,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0051.mp4,244.625,249.063,4.438,"uhs and works super quickly. There's a dedicated button for it on the keyboard too,"
+clip_0052,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0052.mp4,249.145,252.391,3.246,which is hilarious. And then there's also this Create My Widget feature
+clip_0053,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0053.mp4,252.593,255.809,3.216,"where you can describe a new widget that you want with natural language,"
+clip_0054,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0054.mp4,256.011,259.017,3.006,"and it just makes it for you, which can be pretty sick when it works."
+clip_0055,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0055.mp4,259.219,264.006,4.787,"They're not the prettiest widgets in the world, but hey, if it works, it's pretty convenient. So"
+clip_0056,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0056.mp4,264.208,268.654,4.446,"I like a lot of things about this, and I think I mostly understand... what a Googlebook"
+clip_0057,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0057.mp4,268.856,273.109,4.253,is. But there's also some things about this that make it a little less clear...
+clip_0058,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0058.mp4,273.191,277.153,3.962,who would actually want to get one. And I think that all starts
+clip_0059,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0059.mp4,277.645,280.855,3.210,with the price. So the cheapest Googlebook starts
+clip_0060,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0060.mp4,281.057,285.611,4.554,at $900. and then they go up from there. They go well into the 4 digits... And...
+clip_0061,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0061.mp4,285.611,289.735,4.124,"this is playing in that, like, you know, I like to call this like..."
+clip_0062,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0062.mp4,289.817,294.211,4.394,"the premium entry-level category, like, which is where MacBook Air has sat for a long time."
+clip_0063,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0063.mp4,294.953,299.422,4.469,"So... at that price, what is the argument for getting a Googlebook?"
+clip_0064,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0064.mp4,299.504,303.670,4.166,"Google actually confirmed that some Chromebooks, probably a lot of new ones, will"
+clip_0065,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0065.mp4,303.884,307.867,3.983,"be able to upgrade... to Googlebook OS, and I guess essentially... become Googlebooks,"
+clip_0066,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0066.mp4,307.949,312.834,4.885,but it hasn't really said which models or when. But if that includes things like...
+clip_0067,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0067.mp4,312.916,316.742,3.826,"the Galaxy Chromebook Plus, for example, that's already a really nice, premium,"
+clip_0068,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0068.mp4,316.824,320.020,3.196,"super lightweight AMOLED laptop, full-size ports and everything."
+clip_0069,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0069.mp4,320.340,325.164,4.824,"That's only $750. So that's kind of an unknown question right now. But the other,"
+clip_0070,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0070.mp4,325.378,330.167,4.789,"maybe more interesting one, is just about what apps... you will actually... be able to use... 'Cause I said it ran Android,"
+clip_0071,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0071.mp4,330.759,334.480,3.721,"and I said it had the Play Store, which is something that's not exactly the same as a Chromebook,"
+clip_0072,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0072.mp4,335.262,340.088,4.826,"but then there's some asterisks to that. Because Googlebook OS, like I said, is a new... OS"
+clip_0073,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0073.mp4,340.302,344.919,4.617,after all. And so compatibility is not perfect across the board. I was able to run...
+clip_0074,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0074.mp4,345.001,348.910,3.909,"a lot of Android apps on this, but if you go through the Play Store, you will see that there"
+clip_0075,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0075.mp4,349.112,352.782,3.670,is a... A spectrum of compatibility with
+clip_0076,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0076.mp4,353.294,357.301,4.007,how well the apps actually work. There's actually these labels next to each...
+clip_0077,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0077.mp4,357.383,361.171,3.788,"app when you search through these that say Made for Desktop,"
+clip_0078,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0078.mp4,361.669,365.702,4.033,"Optimized for Desktop, Compatible with Desktop, or"
+clip_0079,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0079.mp4,365.916,370.926,5.010,"Better on the Website, or Built for Mobile... So the Made for Desktop badge is basically the best case scenario,"
+clip_0080,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0080.mp4,371.008,375.995,4.987,"right? Where this app was... made for Googlebook OS. And you'll see this in a handful of those featured apps,"
+clip_0081,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0081.mp4,376.077,380.099,4.022,which is cool. What you'll see a lot more of is the Compatible with Desktop or
+clip_0082,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0082.mp4,380.301,384.638,4.337,"Optimized for Desktop, which kind of seems to mean you have a large screen version of the app that works"
+clip_0083,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0083.mp4,384.720,389.398,4.678,with the mouse and keyboard controls instead of just a stretched phone app. But then when you see
+clip_0084,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0084.mp4,390.019,394.293,4.274,"Better on the Website, first of all, it's just a burn, but hey,"
+clip_0085,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0085.mp4,394.507,398.048,3.541,this app is just not good... on the desktop right now. You might as well just open it in the browser
+clip_0086,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0086.mp4,398.250,403.284,5.034,and use it on their website instead. And then Built for Mobile just means you're straight up getting...
+clip_0087,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0087.mp4,403.366,407.923,4.557,"a phone version of the app, not optimized for the big screen, at all. So... most apps"
+clip_0088,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0088.mp4,408.137,412.965,4.828,"in the Play Store, at least right now... at launch, are not built"
+clip_0089,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0089.mp4,413.179,416.910,3.731,for Googlebook OS. And that's... the issue right now. There's like a desert
+clip_0090,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0090.mp4,417.412,421.139,3.727,"of desktop-class apps, like, that are truly... really, really good"
+clip_0091,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0091.mp4,421.721,426.587,4.866,on a Googlebook. And that's not an issue that Windows machines or Macs or even... Linux machines
+clip_0092,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0092.mp4,427.099,431.917,4.818,will have right now. So like having the Play Store is nice and it's a big improvement
+clip_0093,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0093.mp4,432.131,435.755,3.624,"over a Chromebook, to being able to say you have millions of apps that run... on the thing,"
+clip_0094,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0094.mp4,436.634,440.882,4.248,but a huge amount of these apps are not going to be a great experience... or be premium
+clip_0095,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0095.mp4,441.096,445.782,4.686,or... optimized very much at all. So if you're someone who's like in the market for a new laptop and there's
+clip_0096,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0096.mp4,445.864,448.980,3.116,"one or two apps that you know you have to have... on this machine,"
+clip_0097,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0097.mp4,449.790,453.597,3.807,"and it turns out that those apps aren't very good... on a Googlebook,"
+clip_0098,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0098.mp4,454.379,457.695,3.316,then this doesn't really solve that problem... over Chromebooks for
+clip_0099,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0099.mp4,457.897,462.430,4.533,"you. The thing is, I happen to think this ASUS Googlebook... is really nice. It's incredibly"
+clip_0100,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0100.mp4,462.698,467.544,4.846,"ultra, ultra lightweight. Like, that's the first thing I noticed out the box is it's super easy to travel with."
+clip_0101,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0101.mp4,467.626,472.359,4.733,"It's barely over 2 pounds. The battery life is also great, especially the standby time."
+clip_0102,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0102.mp4,472.951,477.934,4.983,"I got multiple days out of this thing... It has full-size ports, so 2 USB Type-C... and USB Type-A"
+clip_0103,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0103.mp4,478.726,482.387,3.661,"and HDMI. The 1,000-nit OLED panel looks great, and it has this"
+clip_0104,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0104.mp4,482.589,487.031,4.442,"anti-reflective coating, so it blocks reflections really well. And"
+clip_0105,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0105.mp4,487.245,491.214,3.969,"you know what? It passes the one-finger open test, which is underrated. The keyboard is solid,"
+clip_0106,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0106.mp4,491.796,495.003,3.207,"you know, a little bit of deck flex here and there, but nothing terrible."
+clip_0107,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0107.mp4,495.685,499.208,3.523,"Large trackpad with haptic touch, fingerprint reader in the corner,"
+clip_0108,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0108.mp4,499.770,504.421,4.651,"even has a webcam cover slider, which is nice. This is a really likable, solid, thin-and-light laptop,"
+clip_0109,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0109.mp4,504.973,509.641,4.668,"and it costs $1,300. That is, that's"
+clip_0110,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0110.mp4,509.855,514.914,5.059,"MacBook Air money, literally. This Dell one with the 2-year-old Snapdragon X Elite"
+clip_0111,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0111.mp4,515.116,519.712,4.596,"chip, starts, starts... at $1,000... and goes up to $1,800."
+clip_0112,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0112.mp4,519.794,522.932,3.138,"So, you know, the ARM chip is... great because... then,"
+clip_0113,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0113.mp4,523.146,526.273,3.127,"you know, the apps that are optimized for desktop are"
+clip_0114,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0114.mp4,526.487,532.096,5.609,"probably also optimized for ARM. So they at least... run more natively than they would on the Intel-based Googlebooks,"
+clip_0115,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0115.mp4,532.178,535.096,2.918,which are in some sort of translation layer. But
+clip_0116,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0116.mp4,535.729,539.431,3.702,I didn't find that to make a whole huge difference in the experience for me.
+clip_0117,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0117.mp4,539.513,544.424,4.911,"So I don't know, I really like the idea... of a super... minimal laptop that's"
+clip_0118,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0118.mp4,544.638,549.294,4.656,even thinner and lighter than a MacBook Air. But if it's gonna cost
+clip_0119,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0119.mp4,549.508,553.450,3.942,"just as much and run way less apps, then..."
+clip_0120,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0120.mp4,553.532,558.271,4.739,"that's... when you start losing people, either to... a much cheaper Chromebook... or"
+clip_0121,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0121.mp4,558.485,561.564,3.079,"to that MacBook Air. So I think as fun as these things are,"
+clip_0122,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0122.mp4,561.766,565.921,4.155,they really do have quite a long road ahead of them until they're actually
+clip_0123,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0123.mp4,566.123,570.437,4.314,"a good idea to buy. It's possible that someday, Googlebooks"
+clip_0124,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0124.mp4,570.700,574.619,3.919,will match the experience of Windows and macOS as far as... app support
+clip_0125,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0125.mp4,574.962,579.023,4.061,"and... offline usability, but today is not"
+clip_0126,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0126.mp4,579.237,583.156,3.919,"that day. And I always say, buy products just based on what they are today, not on the promise"
+clip_0127,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0127.mp4,583.370,588.128,4.758,"of future software updates. But hey, it's technically first generation. This is a first-gen Google product. So,"
+clip_0128,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0128.mp4,588.770,592.797,4.027,"you know, do you wanna go for that ride? You know, many of those rides have"
+clip_0129,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0129.mp4,592.999,597.623,4.624,"ended in the killedbygoogle.com graveyard, and that's a very common story we all know."
+clip_0130,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0130.mp4,597.705,601.988,4.283,"But, you know, it could go up and up. Pixel fans, this could be the one. Maybe."
+clip_0131,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0131.mp4,602.700,607.162,4.462,"Matter of fact, I think it's time to bring back that handy grading system that I first created..."
+clip_0132,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0132.mp4,607.244,611.700,4.456,"for the MacBook Neo review... So if you are considering getting one of these laptops, this can maybe"
+clip_0133,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0133.mp4,611.914,617.546,5.632,"help you out. So let's start with the obvious one, Pixel fans. A."
+clip_0134,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0134.mp4,617.760,623.206,5.446,This was made for you. And if anyone is familiar with waiting way too long for something to be as good as it
+clip_0135,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0135.mp4,623.288,628.187,4.899,"should have been years ago, it's us... right? Why not give it a shot?"
+clip_0136,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0136.mp4,628.269,632.237,3.968,"Hang in there, brother. Okay, next up: students. This is funny..."
+clip_0137,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0137.mp4,632.319,637.048,4.729,"I actually don't think this is a very good idea, mainly because it's basically a Chromebook,"
+clip_0138,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0138.mp4,637.130,640.571,3.441,"which is made for students, but with a little extra sauce."
+clip_0139,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0139.mp4,641.293,644.654,3.361,And I don't think you need that sauce... for the most part.
+clip_0140,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0140.mp4,645.366,649.767,4.401,"The connecting to your Android phone, the Gemini intelligence. In school,"
+clip_0141,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0141.mp4,650.299,655.275,4.976,really? I don't think you need that. It's just getting unnecessarily expensive over the Chromebook that's already made for you.
+clip_0142,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0142.mp4,655.937,660.889,4.952,"Just get a Chromebook. They're not going anywhere... College. Okay, there's a little bit more nuance here now,"
+clip_0143,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0143.mp4,660.971,664.071,3.100,"just depending on what your major is, which is what we talked about last time."
+clip_0144,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0144.mp4,664.823,669.986,5.163,"And so I think I can kind of average it out... to somewhere in the B- range. You know, college for me was a lot of"
+clip_0145,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0145.mp4,670.488,673.495,3.007,note-taking and reading and studying...
+clip_0146,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0146.mp4,673.577,677.983,4.406,"and things that Gemini Intelligence could have potentially been very helpful for, which is kind of cool."
+clip_0147,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0147.mp4,678.815,682.622,3.807,"But again, the second there's that like one app... that you need for your major that's"
+clip_0148,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0148.mp4,683.154,688.152,4.998,"not in the Play Store... then... that kind of makes this a non-option. So, something to be aware of ahead of time."
+clip_0149,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0149.mp4,689.024,692.923,3.899,"Also, in case you're curious which Googlebook has the best speakers for watching movies,"
+clip_0150,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0150.mp4,693.005,696.310,3.305,"because we do that in college too, it's the ASUS."
+clip_0151,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0151.mp4,697.200,701.831,4.631,"Okay, next: Writers. I consider myself a bit of a part-time writer with these videos..."
+clip_0152,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0152.mp4,701.913,706.094,4.181,It's pretty good for that. I wrote a lot of this review on the ASUS Googlebook. The keyboard's pretty good.
+clip_0153,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0153.mp4,706.176,710.778,4.602,"The battery life is very good. The screen is more than enough. It's all been fine. I mean, word processing,"
+clip_0154,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0154.mp4,711.290,715.682,4.392,"web browsing, emailing, it's all right up their alley. And then there's the Google stuff on top."
+clip_0155,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0155.mp4,715.800,719.687,3.887,"If you don't use the Gemini stuff so much, you can still get just as much computer"
+clip_0156,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0156.mp4,720.189,724.561,4.372,"for less with a Chromebook, but... I find that stuff useful. Then: photographers."
+clip_0157,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0157.mp4,725.203,730.628,5.425,"I wanted to write the whole word here, but it didn't fit. B-. So there's like Photoshop Express"
+clip_0158,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0158.mp4,731.160,734.381,3.221,"and Lightroom for Android and Snapseed, things like that. Like"
+clip_0159,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0159.mp4,735.013,738.725,3.712,"not really full-fledged editing suites, but good enough for light retouching..."
+clip_0160,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0160.mp4,738.807,743.625,4.818,"The display is bright enough, especially on the ASUS, the 1,000-nit OLED. Like, these are fine displays."
+clip_0161,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0161.mp4,743.707,747.566,3.859,"They're not particularly great for color, but just for the casual edits,"
+clip_0162,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0162.mp4,748.108,752.150,4.042,"that's fine. The high-end stuff, you already know, you're not looking at a Googlebook."
+clip_0163,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0163.mp4,753.210,758.147,4.937,"Then: coders. Okay, this turned out to be like sneaky one of the things that I don't"
+clip_0164,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0164.mp4,758.229,761.453,3.224,"have so much experience with, but it turns out these might actually be great for."
+clip_0165,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0165.mp4,761.535,765.609,4.074,Mostly because Google happens to have a bunch of really robust agentic coding tools like Android Studio
+clip_0166,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0166.mp4,766.281,769.704,3.423,that work really well on these machines so long as you give them an internet connection
+clip_0167,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0167.mp4,770.446,773.764,3.318,"and enough local memory. And they did give them enough local memory,"
+clip_0168,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0168.mp4,773.846,778.250,4.404,"so that's good news. Then: video editors. Okay, so"
+clip_0169,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0169.mp4,778.611,782.779,4.168,"no Premiere Pro, no Final Cut Pro, no"
+clip_0170,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0170.mp4,783.531,787.760,4.229,"Resolve, but you do have CapCut"
+clip_0171,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0171.mp4,788.039,792.991,4.952,"and LumaFusion. You know, I mentioned earlier, you can drag and drop files from your phone back and forth,"
+clip_0172,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0172.mp4,793.073,797.255,4.182,"from the computer to your phone, and that's cool, but it's only for files up to 200 megabytes,"
+clip_0173,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0173.mp4,797.337,802.430,5.093,which does kind of rule out a lot of the bigger video files. I don't think people who are trying to get a laptop
+clip_0174,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0174.mp4,802.512,803.648,1.136,specifically for video editing
+clip_0175,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0175.mp4,804.390,809.172,4.782,are looking at getting a Googlebook. Gamers...
+clip_0176,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0176.mp4,809.254,814.810,5.556,"I don't know if you even made it this far into the video, but"
+clip_0177,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0177.mp4,815.920,820.121,4.201,"thanks for watching. And then: Grandma. Okay, great. Yeah, so I"
+clip_0178,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0178.mp4,820.388,823.808,3.420,"don't think you're gonna need one of these. I know, Grandma, I know you like to shop."
+clip_0179,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0179.mp4,824.470,828.985,4.515,"I know you like to web browse. I know you like to email all of the grandkids, and that's really cool."
+clip_0180,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0180.mp4,829.507,832.343,2.836,"But I feel like for $1,000, we can get you a better computer for less."
+clip_0181,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0181.mp4,832.965,837.503,4.538,"We can do more with $1,000. Either way, I think that's about it."
+clip_0182,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0182.mp4,837.585,842.224,4.639,"Hopefully that was helpful. Uh, I do enjoy reviewing these things when they're new first-generation products,"
+clip_0183,_0G4OG39XjI,mkbhd,train,train/mkbhd/_0G4OG39XjI/clip_0183.mp4,842.306,847.182,4.876,but a lot more to come. Thanks for watching! Catch you guys in the next one... Peace.

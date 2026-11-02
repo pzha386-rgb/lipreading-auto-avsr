@@ -1,0 +1,114 @@
+video_id,clip_id,path,start,end,dur,text
+TfVYxnhuEdU,clip_0000,TfVYxnhuEdU/clip_0000.mp4,0.000,5.360,5.360,"As I record this, it's February 2021. We're nearly two months into Britain's third lockdown right now,"
+TfVYxnhuEdU,clip_0001,TfVYxnhuEdU/clip_0001.mp4,5.360,11.040,5.680,"and I've got a problem. I'm out of ideas. I've now recorded all the computer science and language ideas I've got,"
+TfVYxnhuEdU,clip_0002,TfVYxnhuEdU/clip_0002.mp4,11.040,15.680,4.640,"at least, all the good ones, and to be honest, I'm kinda burned out on those anyway. I can travel to film stuff,"
+TfVYxnhuEdU,clip_0003,TfVYxnhuEdU/clip_0003.mp4,15.680,18.800,3.120,"but it has to be outdoors, and within England."
+TfVYxnhuEdU,clip_0004,TfVYxnhuEdU/clip_0004.mp4,18.800,23.520,4.720,"Apparently I filmed most of those stories years ago when I was starting out. I tried hiring a couple of freelance researchers,"
+TfVYxnhuEdU,clip_0005,TfVYxnhuEdU/clip_0005.mp4,23.520,28.480,4.960,"they were wonderful, they did their best, they found some stories that would be great for other people or for BBC documentaries."
+TfVYxnhuEdU,clip_0006,TfVYxnhuEdU/clip_0006.mp4,28.480,32.800,4.320,"But there seems to be some aspect to a video that's ""right for this channel"""
+TfVYxnhuEdU,clip_0007,TfVYxnhuEdU/clip_0007.mp4,32.800,36.720,3.920,"that I can't put into words. And if I can't do that, I can't expect anyone else to."
+TfVYxnhuEdU,clip_0008,TfVYxnhuEdU/clip_0008.mp4,37.360,43.120,5.760,"But: I just got access to GPT-3, the state-of-the-art artificial intelligence text generator made by OpenAI."
+TfVYxnhuEdU,clip_0009,TfVYxnhuEdU/clip_0009.mp4,43.120,47.280,4.160,"I'm not going to go into the details of how it works here, other people have done that far better than I can, but in short:"
+TfVYxnhuEdU,clip_0010,TfVYxnhuEdU/clip_0010.mp4,47.280,51.440,4.160,"it has read and stored a huge amount of the web. And if you give it some text,"
+TfVYxnhuEdU,clip_0011,TfVYxnhuEdU/clip_0011.mp4,51.440,55.920,4.480,it will try to continue that text in the same style. But it's not just repeating what it's already seen:
+TfVYxnhuEdU,clip_0012,TfVYxnhuEdU/clip_0012.mp4,55.920,59.280,3.360,"it's coming up with brand new, never-before-written sentences."
+TfVYxnhuEdU,clip_0013,TfVYxnhuEdU/clip_0013.mp4,59.280,63.120,3.840,It is incredibly clever in specific but very limited ways.
+TfVYxnhuEdU,clip_0014,TfVYxnhuEdU/clip_0014.mp4,63.120,67.120,4.000,"And the challenge of ""come up with new video ideas in this style"""
+TfVYxnhuEdU,clip_0015,TfVYxnhuEdU/clip_0015.mp4,67.120,70.880,3.760,is exactly what it's meant to be good at. So I gave it a list of some of my previous videos:
+TfVYxnhuEdU,clip_0016,TfVYxnhuEdU/clip_0016.mp4,70.880,74.560,3.680,"ones that I'd filmed solo in England, and I asked it: come up with more."
+TfVYxnhuEdU,clip_0017,TfVYxnhuEdU/clip_0017.mp4,74.560,79.280,4.720,"Maybe it could find the connection that I can't describe, pull from all the billions of things in its memory,"
+TfVYxnhuEdU,clip_0018,TfVYxnhuEdU/clip_0018.mp4,79.280,85.120,5.840,and find the stories that I've missed. It took a little bit of tweaking to get the prompt and the parameters right.
+TfVYxnhuEdU,clip_0019,TfVYxnhuEdU/clip_0019.mp4,85.120,88.720,3.600,"At one point it generated part of a fake interview with me, which was weird."
+TfVYxnhuEdU,clip_0020,TfVYxnhuEdU/clip_0020.mp4,88.720,92.240,3.520,But pretty quickly it was churning out plausible-sounding video titles.
+TfVYxnhuEdU,clip_0021,TfVYxnhuEdU/clip_0021.mp4,92.240,97.440,5.200,"In the end, I generated more than a thousand of them. I knew most of them wouldn't be any good, but I thought,"
+TfVYxnhuEdU,clip_0022,TfVYxnhuEdU/clip_0022.mp4,97.440,102.320,4.880,maybe it can manage at least one in a thousand? And... it sorta did.
+TfVYxnhuEdU,clip_0023,TfVYxnhuEdU/clip_0023.mp4,102.960,108.000,5.040,"Now, OpenAI's terms of service don't let me give you the full list. I have to curate them, and show you a sample."
+TfVYxnhuEdU,clip_0024,TfVYxnhuEdU/clip_0024.mp4,108.000,110.080,2.080,Those are the terms and conditions I agreed to.
+TfVYxnhuEdU,clip_0025,TfVYxnhuEdU/clip_0025.mp4,110.080,114.480,4.400,"But that's not actually much of a problem, because most of the titles were just... dull."
+TfVYxnhuEdU,clip_0026,TfVYxnhuEdU/clip_0026.mp4,114.480,118.880,4.400,"Which is fair enough, most of the video ideas\h I come up with also get\h discarded almost immediately"
+TfVYxnhuEdU,clip_0027,TfVYxnhuEdU/clip_0027.mp4,118.880,120.480,1.600,because they're just not good enough.
+TfVYxnhuEdU,clip_0028,TfVYxnhuEdU/clip_0028.mp4,120.480,124.960,4.480,"The AI suggested titles like ""The World's First Bridge Over A Motorway""."
+TfVYxnhuEdU,clip_0029,TfVYxnhuEdU/clip_0029.mp4,124.960,129.520,4.560,"""An Industrial Warehouse In The Middle Of Nowhere."" and ""The Beach Where You Can Hear the Sea."""
+TfVYxnhuEdU,clip_0030,TfVYxnhuEdU/clip_0030.mp4,129.520,132.960,3.440,I... can hear the sea.
+TfVYxnhuEdU,clip_0031,TfVYxnhuEdU/clip_0031.mp4,133.760,137.840,4.080,"Most of the ideas were plausible, they're valid sentences, they're just not interesting."
+TfVYxnhuEdU,clip_0032,TfVYxnhuEdU/clip_0032.mp4,137.840,142.800,4.960,"There were a few suggestions that were just nonsense. ""The British Road That Is Also A Boat."""
+TfVYxnhuEdU,clip_0033,TfVYxnhuEdU/clip_0033.mp4,142.800,147.440,4.640,"""The Cliff That Refuses To Be A Cliff."" ""The Green Death And The Industrial Revolution."""
+TfVYxnhuEdU,clip_0034,TfVYxnhuEdU/clip_0034.mp4,147.440,152.880,5.440,"I'm actually fairly sure that last one's a Doctor Who episode. GPT-3 has a setting called ""temperature"","
+TfVYxnhuEdU,clip_0035,TfVYxnhuEdU/clip_0035.mp4,152.880,157.040,4.160,"which is basically how predictable it should be. If I turned the temperature down too low,"
+TfVYxnhuEdU,clip_0036,TfVYxnhuEdU/clip_0036.mp4,157.040,160.320,3.280,it just repeated existing video titles over and over back to me.
+TfVYxnhuEdU,clip_0037,TfVYxnhuEdU/clip_0037.mp4,160.320,164.400,4.080,"Too high, and I got ideas like ""Jeremy Clarkson's Lottery of Death"""
+TfVYxnhuEdU,clip_0038,TfVYxnhuEdU/clip_0038.mp4,164.400,169.280,4.880,which I swear was a genuine suggestion it gave me and which I assume will be coming to Amazon Prime next year.
+TfVYxnhuEdU,clip_0039,TfVYxnhuEdU/clip_0039.mp4,169.280,174.000,4.720,"But when I got the temperature right, it did actually suggest some real places!"
+TfVYxnhuEdU,clip_0040,TfVYxnhuEdU/clip_0040.mp4,174.000,179.360,5.360,"""The Abandoned Homes of Wigan Pier"". Well, Wigan Pier's a derelict industrial site in the West Midlands that's being redeveloped,"
+TfVYxnhuEdU,clip_0041,TfVYxnhuEdU/clip_0041.mp4,179.360,183.760,4.400,"it's not a story I could tell, and it's not one I know about, but someone else could do that."
+TfVYxnhuEdU,clip_0042,TfVYxnhuEdU/clip_0042.mp4,183.760,188.560,4.800,"""The Super-Sized Megalithic Stones of Avebury"". I made a video about Avebury years ago"
+TfVYxnhuEdU,clip_0043,TfVYxnhuEdU/clip_0043.mp4,188.560,192.480,3.920,"when I was just starting out, filming on my phone, Avebury is like Stonehenge but better."
+TfVYxnhuEdU,clip_0044,TfVYxnhuEdU/clip_0044.mp4,192.480,196.960,4.480,A+ suggestion... if I hadn't already done it. It also suggested stories about
+TfVYxnhuEdU,clip_0045,TfVYxnhuEdU/clip_0045.mp4,196.960,200.800,3.840,"the RRS Discovery, an early 20th-century steamship that explored the Antarctic,"
+TfVYxnhuEdU,clip_0046,TfVYxnhuEdU/clip_0046.mp4,200.800,204.800,4.000,"about the Aberfan disaster, where more than a hundred people died in a mining landslip,"
+TfVYxnhuEdU,clip_0047,TfVYxnhuEdU/clip_0047.mp4,204.800,207.520,2.720,"about the New River, an aqueduct that runs through London,"
+TfVYxnhuEdU,clip_0048,TfVYxnhuEdU/clip_0048.mp4,207.520,212.240,4.720,"and about the Post Office Railway, where I've actually visited before, just not to film."
+TfVYxnhuEdU,clip_0049,TfVYxnhuEdU/clip_0049.mp4,212.240,217.360,5.120,"None of those were quite right to make a video about, sadly, I couldn't find the narrative hook that means they work for this channel,"
+TfVYxnhuEdU,clip_0050,TfVYxnhuEdU/clip_0050.mp4,217.360,222.080,4.720,"but they're close. It also suggested ""The Failed Bomb Plot Pigeon""."
+TfVYxnhuEdU,clip_0051,TfVYxnhuEdU/clip_0051.mp4,222.080,225.600,3.520,That was an article that was used on Citation Needed a few years ago!
+TfVYxnhuEdU,clip_0052,TfVYxnhuEdU/clip_0052.mp4,225.600,230.000,4.400,It even suggested a video idea that I've already filmed but that I haven't released yet.
+TfVYxnhuEdU,clip_0053,TfVYxnhuEdU/clip_0053.mp4,230.000,234.800,4.800,I'll keep that title secret for now. But... yeah. It worked. I wasn't expecting that.
+TfVYxnhuEdU,clip_0054,TfVYxnhuEdU/clip_0054.mp4,234.800,238.720,3.920,"Videos talking about testing AI are usually comedy about how bad the results are,"
+TfVYxnhuEdU,clip_0055,TfVYxnhuEdU/clip_0055.mp4,238.720,243.280,4.560,"they're not supposed to work. There were some suggestions outside the UK, too."
+TfVYxnhuEdU,clip_0056,TfVYxnhuEdU/clip_0056.mp4,243.280,245.920,2.640,"""The Airport Which Lands Planes On Water."""
+TfVYxnhuEdU,clip_0057,TfVYxnhuEdU/clip_0057.mp4,245.920,249.360,3.440,"I googled it, and that would be Vancouver Harbour's seaplane terminal."
+TfVYxnhuEdU,clip_0058,TfVYxnhuEdU/clip_0058.mp4,249.360,252.160,2.800,"I've been there. I've seen it before, I'd never thought to film it."
+TfVYxnhuEdU,clip_0059,TfVYxnhuEdU/clip_0059.mp4,252.160,256.080,3.920,"Also, there's ""How The CIA Plotted To Kill Castro With Explosive Seashells."""
+TfVYxnhuEdU,clip_0060,TfVYxnhuEdU/clip_0060.mp4,256.080,258.720,2.640,"Which actually happened, that's a real thing, but I googled those words"
+TfVYxnhuEdU,clip_0061,TfVYxnhuEdU/clip_0061.mp4,258.720,262.160,3.440,and they have never been put in that exact order anywhere online.
+TfVYxnhuEdU,clip_0062,TfVYxnhuEdU/clip_0062.mp4,262.160,267.280,5.120,"It's not a video I can film, but it's a good idea for someone. But the most interesting category of suggestion"
+TfVYxnhuEdU,clip_0063,TfVYxnhuEdU/clip_0063.mp4,267.280,270.560,3.280,was the one where the AI came up with videos that I would love to make...
+TfVYxnhuEdU,clip_0064,TfVYxnhuEdU/clip_0064.mp4,271.360,276.160,4.800,"but which are completely fictional. Because of course it would: it doesn't understand any of the words,"
+TfVYxnhuEdU,clip_0065,TfVYxnhuEdU/clip_0065.mp4,276.160,279.680,3.520,"it's not checking if they're true, it's just looking for patterns."
+TfVYxnhuEdU,clip_0066,TfVYxnhuEdU/clip_0066.mp4,279.680,283.520,3.840,"So with the help of an animator, here are some videos that I can't make"
+TfVYxnhuEdU,clip_0067,TfVYxnhuEdU/clip_0067.mp4,284.080,288.880,4.800,because they're not real. The Village That Was Saved By Synchronised Traffic Lights.
+TfVYxnhuEdU,clip_0068,TfVYxnhuEdU/clip_0068.mp4,288.880,294.080,5.200,The White Cube At The End Of The World. The Sanity-Defying Crossroads on the Isle of Skye.
+TfVYxnhuEdU,clip_0069,TfVYxnhuEdU/clip_0069.mp4,294.080,298.320,4.240,How A Secret Gadget In The Beam Of The Olympic Stadium Helped Deliver Britain's Medals.
+TfVYxnhuEdU,clip_0070,TfVYxnhuEdU/clip_0070.mp4,298.320,301.440,3.120,The Long Forgotten History of the British Moon Landings.
+TfVYxnhuEdU,clip_0071,TfVYxnhuEdU/clip_0071.mp4,301.440,304.640,3.200,The Island With A Gravity Defying Vertical Mountain.
+TfVYxnhuEdU,clip_0072,TfVYxnhuEdU/clip_0072.mp4,304.640,310.080,5.440,The Strange Light That Floats Over Oxfordshire. The Lost Village of Lofthouse That's Now Invisible.
+TfVYxnhuEdU,clip_0073,TfVYxnhuEdU/clip_0073.mp4,310.080,314.960,4.880,The Dream of a Russian Utopia in East Yorkshire. I want to film all of those!
+TfVYxnhuEdU,clip_0074,TfVYxnhuEdU/clip_0074.mp4,314.960,319.200,4.240,There were hundreds of perfect video ideas for my channel. But... they're not real.
+TfVYxnhuEdU,clip_0075,TfVYxnhuEdU/clip_0075.mp4,319.200,324.320,5.120,"They're all in some weird parallel universe, and I don't have a word, I don't think there's a word in the English language for"
+TfVYxnhuEdU,clip_0076,TfVYxnhuEdU/clip_0076.mp4,324.320,327.760,3.440,"nostalgia for a thing that never existed, that never could have existed."
+TfVYxnhuEdU,clip_0077,TfVYxnhuEdU/clip_0077.mp4,328.560,332.800,4.240,But what if those were videos? What if I could click on any of those topics and get a video about it?
+TfVYxnhuEdU,clip_0078,TfVYxnhuEdU/clip_0078.mp4,332.800,337.120,4.320,"So as an experiment, I took one of those subjects, the one about the Russian utopia in East Yorkshire,"
+TfVYxnhuEdU,clip_0079,TfVYxnhuEdU/clip_0079.mp4,337.120,340.720,3.600,and I told the AI to write the script. I just gave it one instruction.
+TfVYxnhuEdU,clip_0080,TfVYxnhuEdU/clip_0080.mp4,341.440,344.800,3.360,"And it did it. Really well. So I filmed it, or at least the start of it."
+TfVYxnhuEdU,clip_0081,TfVYxnhuEdU/clip_0081.mp4,344.800,349.440,4.640,"Which is why I'm standing here, in another locked-down windswept bit of England,"
+TfVYxnhuEdU,clip_0082,TfVYxnhuEdU/clip_0082.mp4,349.440,354.560,5.120,because the AI gave me exactly what I asked for... even though it wasn't true.
+TfVYxnhuEdU,clip_0083,TfVYxnhuEdU/clip_0083.mp4,354.560,360.240,5.680,"In the late 1800s, a wealthy Russian noblewoman by the name Baroness Helena von Hahn had a dream."
+TfVYxnhuEdU,clip_0084,TfVYxnhuEdU/clip_0084.mp4,360.240,363.280,3.040,A dream of a perfect world in which the relentless march of capitalism
+TfVYxnhuEdU,clip_0085,TfVYxnhuEdU/clip_0085.mp4,363.280,367.520,4.240,would be slowed enough to allow people to enjoy their lives and not be forced to work constantly.
+TfVYxnhuEdU,clip_0086,TfVYxnhuEdU/clip_0086.mp4,367.520,372.720,5.200,"She found her chance when she learned that Thomas Kirby, an English businessman and entrepreneur had just bought up large tracts of land"
+TfVYxnhuEdU,clip_0087,TfVYxnhuEdU/clip_0087.mp4,372.720,378.640,5.920,"in an area called Holderness, in West Yorkshire. Through her friendship with his sister, she convinced him to sell it to her."
+TfVYxnhuEdU,clip_0088,TfVYxnhuEdU/clip_0088.mp4,378.640,384.240,5.600,"The site was dubbed ""Kirby's Dream"". The baroness then set about building schools, hospitals and parks on the site"
+TfVYxnhuEdU,clip_0089,TfVYxnhuEdU/clip_0089.mp4,384.240,389.440,5.200,"as well as planting thousands of trees. Unfortunately, it was too good to last."
+TfVYxnhuEdU,clip_0090,TfVYxnhuEdU/clip_0090.mp4,389.440,394.160,4.720,I didn't run that a hundred times and pick the best script. That was the first draft it gave me.
+TfVYxnhuEdU,clip_0091,TfVYxnhuEdU/clip_0091.mp4,394.160,398.000,3.840,"None of that's real. There was a Russian noblewoman with that name, but she wasn't a Baroness."
+TfVYxnhuEdU,clip_0092,TfVYxnhuEdU/clip_0092.mp4,398.000,402.160,4.160,"There are no records of an enterpreneur called Thomas Kirby, the land purchase never happened."
+TfVYxnhuEdU,clip_0093,TfVYxnhuEdU/clip_0093.mp4,402.160,407.120,4.960,"This is Holderness! And it's just farmland, there never was any Russian utopia."
+TfVYxnhuEdU,clip_0094,TfVYxnhuEdU/clip_0094.mp4,407.120,410.320,3.200,I could have asked for a script for any of the thousand video titles.
+TfVYxnhuEdU,clip_0095,TfVYxnhuEdU/clip_0095.mp4,410.320,414.800,4.480,"Or a thousand different scripts for any of them, a thousand different failed Russian utopias in Yorkshire."
+TfVYxnhuEdU,clip_0096,TfVYxnhuEdU/clip_0096.mp4,415.440,419.760,4.320,"There's a reason that the company, OpenAI, is putting limits and ethical guidelines on its text generator,"
+TfVYxnhuEdU,clip_0097,TfVYxnhuEdU/clip_0097.mp4,419.760,423.040,3.280,because they're the only things stopping people from asking for
+TfVYxnhuEdU,clip_0098,TfVYxnhuEdU/clip_0098.mp4,423.040,426.640,3.600,"human-sounding political arguments, or fake angry customer reviews,"
+TfVYxnhuEdU,clip_0099,TfVYxnhuEdU/clip_0099.mp4,426.640,431.840,5.200,"or... well, anything. Three years ago, text generation like that was impossible."
+TfVYxnhuEdU,clip_0100,TfVYxnhuEdU/clip_0100.mp4,431.840,435.280,3.440,"New technologies do tend to follow a sigmoid curve, nothing happens for ages,"
+TfVYxnhuEdU,clip_0101,TfVYxnhuEdU/clip_0101.mp4,435.280,438.320,3.040,"then there's a massive revolution and it feels like the world's changing,"
+TfVYxnhuEdU,clip_0102,TfVYxnhuEdU/clip_0102.mp4,438.880,442.880,4.000,"then it reaches a new fairly steady state. That happened with the web, with smartphones,"
+TfVYxnhuEdU,clip_0103,TfVYxnhuEdU/clip_0103.mp4,442.880,448.080,5.200,"and I suspect it's happening with AI. The catch is, we don't know where we are on that curve yet."
+TfVYxnhuEdU,clip_0104,TfVYxnhuEdU/clip_0104.mp4,448.080,451.760,3.680,"You never do until it flattens out. It's possible that this is as far as we go,"
+TfVYxnhuEdU,clip_0105,TfVYxnhuEdU/clip_0105.mp4,451.760,455.600,3.840,"that the best we'll get is that an AI can generate a fake script, and it's a novelty."
+TfVYxnhuEdU,clip_0106,TfVYxnhuEdU/clip_0106.mp4,456.320,460.160,3.840,"But if someone can take that and add the requirement that what it writes has to be true,"
+TfVYxnhuEdU,clip_0107,TfVYxnhuEdU/clip_0107.mp4,460.160,462.640,2.480,"that it has to crossreference with history books and encyclopedias,"
+TfVYxnhuEdU,clip_0108,TfVYxnhuEdU/clip_0108.mp4,462.640,466.480,3.840,like IBM's Watson did to win Jeopardy ten years ago...
+TfVYxnhuEdU,clip_0109,TfVYxnhuEdU/clip_0109.mp4,467.200,469.920,2.720,"well, if that happens, my job will get a lot easier."
+TfVYxnhuEdU,clip_0110,TfVYxnhuEdU/clip_0110.mp4,470.560,474.800,4.240,"Until then, I'm going to ask it for another thousand ideas and see what it comes up with."
+TfVYxnhuEdU,clip_0111,TfVYxnhuEdU/clip_0111.mp4,477.040,479.760,2.720,"I thought I should check, and, yeah. It's fine."
+TfVYxnhuEdU,clip_0112,TfVYxnhuEdU/clip_0112.mp4,480.720,491.840,11.120,It's still there.

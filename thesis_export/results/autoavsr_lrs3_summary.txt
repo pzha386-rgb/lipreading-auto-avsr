@@ -1,0 +1,3 @@
+Model: vsr_trlrs2lrs3vox2avsp_base.pth
+Dataset: LRS3 test (5)
+WER: 5.71%

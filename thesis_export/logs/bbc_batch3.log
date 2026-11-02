@@ -1,0 +1,19 @@
+nohup: ignoring input
+编号     数据集        状态
+S6     bbc        待运行
+R2     bbc        待运行
+R3     bbc        待运行
+
+并行 3 个任务，每个 3 个 CPU 线程，共 3 个任务
+
+>>> 20:06:37  start S6 on bbc
+>>> 20:06:37  start R2 on bbc
+>>> 20:06:37  start R3 on bbc
+<<< 20:10:10  S6 on bbc: OK  3.6 min  WER 96.58%  failed 0
+<<< 20:17:32  R2 on bbc: FAILED (看日志 /root/autodl-tmp/logs/R2_bbc.log)  10.9 min  <<< 20:17:32  R3 on bbc: FAILED (看日志 /root/autodl-tmp/logs/R3_bbc.log)  10.9 min  
+
+
+========== 本次运行 ==========
+S6 bbc OK 3.6 WER 96.58%  failed 0
+R2 bbc FAILED 10.9 
+R3 bbc FAILED 10.9 

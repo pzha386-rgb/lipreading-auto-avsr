@@ -1,0 +1,233 @@
+/root/autodl-tmp/vsr_bench/cache_bbc_rois.py:30: FutureWarning: In the future `np.object` will be defined as the corresponding NumPy scalar.
+  if not hasattr(np, _n):
+/root/miniconda3/lib/python3.12/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/root/miniconda3/lib/python3.12/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+INFO:     Started server process [1557]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:6008 (Press CTRL+C to quit)
+加载模型 U4g: USR 2.0 Huge (self-supervised, fast decoding) ...
+VideoProcess: /root/autodl-tmp/code/auto_avsr/preparation/detectors/retinaface/video_process.py
+加载完成
+INFO:     127.0.0.1:46714 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46718 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41916 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56128 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43502 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55524 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55538 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55554 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55560 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55574 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55584 - "GET /status/921b7558e702 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58648 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58654 - "GET /status/e98aa38b97e8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58666 - "GET /status/e98aa38b97e8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58670 - "GET /status/e98aa38b97e8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49062 - "GET /status/e98aa38b97e8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49070 - "GET /status/e98aa38b97e8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49076 - "GET /status/e98aa38b97e8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55764 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55770 - "GET /status/f11a05b44f7d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55780 - "GET /status/f11a05b44f7d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55790 - "GET /status/f11a05b44f7d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55804 - "GET /status/f11a05b44f7d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54612 - "GET /status/f11a05b44f7d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48404 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48408 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44804 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44820 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44832 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44844 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44848 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44852 - "GET /status/d0ba23ee3f7b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53714 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53718 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38358 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38366 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38368 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38382 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38398 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38410 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50576 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50578 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50580 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50592 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50594 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50602 - "GET /status/28bc850e7352 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49268 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49270 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49272 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49278 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49284 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49298 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49308 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49318 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49324 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49340 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49342 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49346 - "GET /status/726a54d0df34 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56992 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57004 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57020 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57034 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52730 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52740 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52756 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52762 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52768 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52770 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52786 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52800 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52812 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37246 - "GET /status/b6a7dfa617a1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52040 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41070 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41072 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41084 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41096 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47526 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47540 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47552 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47564 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47580 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47596 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47600 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47602 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47606 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47612 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42490 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42500 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42516 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42526 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42540 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42546 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42560 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42574 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42576 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42582 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45324 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45326 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45332 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45340 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45344 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45346 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45352 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+Traceback (most recent call last):
+  File "/root/autodl-tmp/vsr_bench/lipread_service.py", line 246, in run
+    jobs[job_id].update(status="done", **recognize_file(path))
+                                         ^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/vsr_bench/lipread_service.py", line 213, in recognize_file
+    raise ValueError(f"视频太长（{dur:.1f} 秒），请控制在 {MAX_SECONDS} 秒以内")
+ValueError: 视频太长（137.6 秒），请控制在 20 秒以内
+INFO:     127.0.0.1:45358 - "GET /status/b9936c34df09 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37810 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57254 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58258 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58268 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58274 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58284 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58296 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58312 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58314 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54286 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54288 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54302 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54318 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54326 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54332 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54340 - "GET /status/ac8cce36b2f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44194 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44208 - "GET /status/0018f4bd1884 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44218 - "GET /status/0018f4bd1884 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44222 - "GET /status/0018f4bd1884 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44228 - "GET /status/0018f4bd1884 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44238 - "GET /status/0018f4bd1884 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36446 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36450 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36456 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36460 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36470 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36482 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36498 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36504 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36508 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57794 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57802 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57810 - "GET /status/f309e07b9d43 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53852 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53858 - "GET /status/dbe1cf6de7dd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53874 - "GET /status/dbe1cf6de7dd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53884 - "GET /status/dbe1cf6de7dd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53900 - "GET /status/dbe1cf6de7dd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53910 - "GET /status/dbe1cf6de7dd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53924 - "GET /status/dbe1cf6de7dd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60820 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60832 - "GET /status/d82ab9d55341 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60844 - "GET /status/d82ab9d55341 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38528 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41324 - "GET /status/52c1a47cac84 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41328 - "GET /status/52c1a47cac84 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41332 - "GET /status/52c1a47cac84 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41348 - "GET /status/52c1a47cac84 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41362 - "GET /status/52c1a47cac84 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60710 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48324 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48328 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48332 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48346 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48352 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48362 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48366 - "GET /status/55e83bf7a2d1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46814 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46822 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49404 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49428 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49444 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49452 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49468 - "GET /status/1b0bcfeef80d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51008 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51016 - "GET /status/b244866c7d20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51030 - "GET /status/b244866c7d20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51034 - "GET /status/b244866c7d20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51044 - "GET /status/b244866c7d20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53312 - "GET /status/b244866c7d20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57264 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39710 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39722 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39736 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39740 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39756 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39768 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52710 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52720 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52726 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52742 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52746 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52752 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52756 - "GET /status/947d5d00c270 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52764 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55732 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55746 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55756 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55768 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55770 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55786 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55788 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55800 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55802 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55808 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39056 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39064 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39072 - "GET /status/9e9062f44136 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41440 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41444 - "GET /status/08d5528cd95b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42520 - "GET /status/08d5528cd95b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42530 - "GET /status/08d5528cd95b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42532 - "GET /status/08d5528cd95b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42544 - "GET /status/08d5528cd95b HTTP/1.1" 200 OK

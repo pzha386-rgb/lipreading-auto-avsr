@@ -1,0 +1,132 @@
+video_id,clip_id,path,start,end,dur,text
+6TLcaJdsRr0,clip_0000,6TLcaJdsRr0/clip_0000.mp4,0.140,5.510,5.370,"If you want to learn to drive a train, there are simulators. A screen, a set of controls, it's pretty realistic."
+6TLcaJdsRr0,clip_0001,6TLcaJdsRr0/clip_0001.mp4,5.510,9.050,3.540,But that's not the only safety-critical job on the railway that needs training.
+6TLcaJdsRr0,clip_0002,6TLcaJdsRr0/clip_0002.mp4,9.050,12.310,3.260,"The signalers who decide where trains go are just as important,"
+6TLcaJdsRr0,clip_0003,6TLcaJdsRr0/clip_0003.mp4,12.310,16.260,3.950,making sure that every train goes down the right track and dealing with disruption when it happens
+6TLcaJdsRr0,clip_0004,6TLcaJdsRr0/clip_0004.mp4,16.260,21.730,5.470,"so that passengers can still get where they're going. You could simulate that in a computer, sure,"
+6TLcaJdsRr0,clip_0005,6TLcaJdsRr0/clip_0005.mp4,21.730,25.430,3.700,"but there is a more physical approach. Here in Darmstadt, Germany,"
+6TLcaJdsRr0,clip_0006,6TLcaJdsRr0/clip_0006.mp4,25.430,28.580,3.150,there is the world's most useful model railway.
+6TLcaJdsRr0,clip_0007,6TLcaJdsRr0/clip_0007.mp4,28.580,34.530,5.950,"In this place, we started in 2006 at the Technical University in Darmstadt."
+6TLcaJdsRr0,clip_0008,6TLcaJdsRr0/clip_0008.mp4,34.530,38.010,3.480,We had a similar facility since 1936.
+6TLcaJdsRr0,clip_0009,6TLcaJdsRr0/clip_0009.mp4,38.010,43.350,5.340,"We have about 500 square metres of space available for the trainings, and a track laid out."
+6TLcaJdsRr0,clip_0010,6TLcaJdsRr0/clip_0010.mp4,43.350,47.810,4.460,"It's a fictional layout, 1.2 kilometres. We have some fictional names."
+6TLcaJdsRr0,clip_0011,6TLcaJdsRr0/clip_0011.mp4,47.810,51.100,3.290,Some of the stations are named after persons
+6TLcaJdsRr0,clip_0012,6TLcaJdsRr0/clip_0012.mp4,51.100,53.940,2.840,that helped developing this facility.
+6TLcaJdsRr0,clip_0013,6TLcaJdsRr0/clip_0013.mp4,53.940,57.320,3.380,We are training actual signalmen here. They are taking exams here.
+6TLcaJdsRr0,clip_0014,6TLcaJdsRr0/clip_0014.mp4,57.320,61.380,4.060,So these are the oldest systems on the Deutsche Bahn network?
+6TLcaJdsRr0,clip_0015,6TLcaJdsRr0/clip_0015.mp4,61.380,66.360,4.980,"Okay, yeah, it's right. It's mechanical interlocking. Everything is worked manually."
+6TLcaJdsRr0,clip_0016,6TLcaJdsRr0/clip_0016.mp4,66.360,69.990,3.630,"The blue levers are for the points, the red levers are for signals."
+6TLcaJdsRr0,clip_0017,6TLcaJdsRr0/clip_0017.mp4,69.990,74.730,4.740,"And that's our train? Yeah, that's our train. And it's going that way. This way, right track."
+6TLcaJdsRr0,clip_0018,6TLcaJdsRr0/clip_0018.mp4,74.730,77.260,2.530,Not into that tiny train. That's right. Okay.
+6TLcaJdsRr0,clip_0019,6TLcaJdsRr0/clip_0019.mp4,77.260,80.970,3.710,So I have to know which points have to be turned.
+6TLcaJdsRr0,clip_0020,6TLcaJdsRr0/clip_0020.mp4,80.970,85.077,4.107,It's point number one and two. So if you want to try it.
+6TLcaJdsRr0,clip_0021,6TLcaJdsRr0/clip_0021.mp4,85.077,88.220,3.143,"So, yep. You have to take it and turn it around."
+6TLcaJdsRr0,clip_0022,6TLcaJdsRr0/clip_0022.mp4,90.477,94.780,4.303,"All the way down. Just to lower position, yep. And, oh! It's turning over there."
+6TLcaJdsRr0,clip_0023,6TLcaJdsRr0/clip_0023.mp4,94.780,99.460,4.680,"Okay. So we have also point number 7, 8, 9, and 10."
+6TLcaJdsRr0,clip_0024,6TLcaJdsRr0/clip_0024.mp4,99.460,102.750,3.290,"Okay, so every time I do this... One point will turn."
+6TLcaJdsRr0,clip_0025,6TLcaJdsRr0/clip_0025.mp4,104.810,109.900,5.090,Just a simulation. Yes. But it's an accurate one. But it works like a real signal box.
+6TLcaJdsRr0,clip_0026,6TLcaJdsRr0/clip_0026.mp4,109.900,113.780,3.880,"'Cause in the real world, I would be pulling that and that will be pulling through pulleys and levers"
+6TLcaJdsRr0,clip_0027,6TLcaJdsRr0/clip_0027.mp4,113.780,119.640,5.860,and actually physically switching the point. Yeah. All right. So here we just have a computer who is turning the model points.
+6TLcaJdsRr0,clip_0028,6TLcaJdsRr0/clip_0028.mp4,119.640,124.410,4.770,"Right, so you lock that into place, it detects that I've done that, and the computer goes ""pht""."
+6TLcaJdsRr0,clip_0029,6TLcaJdsRr0/clip_0029.mp4,124.410,129.043,4.633,"Yeah, that's it. Okay. So we've set the points, the next is safety interlock."
+6TLcaJdsRr0,clip_0030,6TLcaJdsRr0/clip_0030.mp4,129.043,133.920,4.877,"And that's a German thing? This is a German thing. Well, it's just common in German."
+6TLcaJdsRr0,clip_0031,6TLcaJdsRr0/clip_0031.mp4,133.920,136.560,2.640,We have what we call a route locking.
+6TLcaJdsRr0,clip_0032,6TLcaJdsRr0/clip_0032.mp4,136.560,140.620,4.060,"So we want to open a special signal, so we have to take the right route lever,"
+6TLcaJdsRr0,clip_0033,6TLcaJdsRr0/clip_0033.mp4,140.620,144.670,4.050,"which is called P2. Because it says 1, 2, 7, 8, 9, 10, which is what I've just moved. Yep, that's it."
+6TLcaJdsRr0,clip_0034,6TLcaJdsRr0/clip_0034.mp4,144.670,146.763,2.093,"So do I pull up, down? Down, down please."
+6TLcaJdsRr0,clip_0035,6TLcaJdsRr0/clip_0035.mp4,148.120,154.100,5.980,"So this lever checks if all the points are set correct, and second thing, he will lock all the points."
+6TLcaJdsRr0,clip_0036,6TLcaJdsRr0/clip_0036.mp4,154.100,158.400,4.300,"So we can't move them back. What happens if I were to pull the wrong lever? Just try it. Right, okay."
+6TLcaJdsRr0,clip_0037,6TLcaJdsRr0/clip_0037.mp4,158.400,162.780,4.380,"Try it, it won't work. Oh! It's closed. It's a physical lock. Yep."
+6TLcaJdsRr0,clip_0038,6TLcaJdsRr0/clip_0038.mp4,162.780,167.570,4.790,"I kind of assumed that was just going to beep at me or complain, but that's an actual physical interlock. This is real, physical."
+6TLcaJdsRr0,clip_0039,6TLcaJdsRr0/clip_0039.mp4,167.570,170.423,2.853,"Right, so now I can't even- Yeah, try it."
+6TLcaJdsRr0,clip_0040,6TLcaJdsRr0/clip_0040.mp4,171.670,176.010,4.340,It's not possible to pull them back. You can't even close the lever.
+6TLcaJdsRr0,clip_0041,6TLcaJdsRr0/clip_0041.mp4,176.010,179.500,3.490,"Yep. Wow, okay. So that's- So this is an old computer."
+6TLcaJdsRr0,clip_0042,6TLcaJdsRr0/clip_0042.mp4,179.500,183.740,4.240,"It checks if everything is set at the right position. Wow, okay."
+6TLcaJdsRr0,clip_0043,6TLcaJdsRr0/clip_0043.mp4,183.740,187.150,3.410,"So we have put the points in position,"
+6TLcaJdsRr0,clip_0044,6TLcaJdsRr0/clip_0044.mp4,187.150,190.840,3.690,interlocked everything to make sure it's safe. That's right. And then we just-
+6TLcaJdsRr0,clip_0045,6TLcaJdsRr0/clip_0045.mp4,190.840,195.990,5.150,Last step is put the signal to an off position. It's P2. Which is going to be...
+6TLcaJdsRr0,clip_0046,6TLcaJdsRr0/clip_0046.mp4,195.990,198.790,2.800,"The P2. P2, all right."
+6TLcaJdsRr0,clip_0047,6TLcaJdsRr0/clip_0047.mp4,198.790,203.640,4.850,Just like point levers to an off position.
+6TLcaJdsRr0,clip_0048,6TLcaJdsRr0/clip_0048.mp4,203.640,207.040,3.400,"And now the train driver sees a green signal, and he can move on."
+6TLcaJdsRr0,clip_0049,6TLcaJdsRr0/clip_0049.mp4,207.040,210.200,3.160,But it takes a few seconds and the computer kind of simulates...
+6TLcaJdsRr0,clip_0050,6TLcaJdsRr0/clip_0050.mp4,210.200,215.030,4.830,"It's a simulation, because he has to release his brakes before he can start."
+6TLcaJdsRr0,clip_0051,6TLcaJdsRr0/clip_0051.mp4,215.030,219.250,4.220,So what's the last thing we need to do? So now we have to lock the line so another train can't follow.
+6TLcaJdsRr0,clip_0052,6TLcaJdsRr0/clip_0052.mp4,219.250,224.120,4.870,So we have to tell us and the next signal box there's a train on the line.
+6TLcaJdsRr0,clip_0053,6TLcaJdsRr0/clip_0053.mp4,224.120,228.520,4.400,So we have to put down the button and to produce some electricity.
+6TLcaJdsRr0,clip_0054,6TLcaJdsRr0/clip_0054.mp4,228.520,232.829,4.309,"Oh! Just put it down. Pull it down. And 10 times, please."
+6TLcaJdsRr0,clip_0055,6TLcaJdsRr0/clip_0055.mp4,236.530,239.630,3.100,So that would have sent a bell ringing or something
+6TLcaJdsRr0,clip_0056,6TLcaJdsRr0/clip_0056.mp4,239.630,242.373,2.743,"in another signal box saying we've got a train coming. Yep, that's it."
+6TLcaJdsRr0,clip_0057,6TLcaJdsRr0/clip_0057.mp4,242.373,245.700,3.327,So that's the manual ones. What came next?
+6TLcaJdsRr0,clip_0058,6TLcaJdsRr0/clip_0058.mp4,245.700,250.376,4.676,"Interlocking, which is called electromechanical. That's the next thing, which was about 50 years later."
+6TLcaJdsRr0,clip_0059,6TLcaJdsRr0/clip_0059.mp4,250.376,254.380,4.004,"All right, let's do that. We've got the next station, which is an all-electric"
+6TLcaJdsRr0,clip_0060,6TLcaJdsRr0/clip_0060.mp4,254.380,259.600,5.220,"interlocking from the 1950s. Our train is coming, we see the red arrow."
+6TLcaJdsRr0,clip_0061,6TLcaJdsRr0/clip_0061.mp4,259.600,262.880,3.280,It's a train intersection marker.
+6TLcaJdsRr0,clip_0062,6TLcaJdsRr0/clip_0062.mp4,262.880,267.510,4.630,"Train will stop at the entry signal of the station. Because that's a red and green light, and there's a red light there."
+6TLcaJdsRr0,clip_0063,6TLcaJdsRr0/clip_0063.mp4,267.510,271.990,4.480,"And this is the station. These are all the tracks, okay. So we can see all the tracks."
+6TLcaJdsRr0,clip_0064,6TLcaJdsRr0/clip_0064.mp4,271.990,275.640,3.650,You can see in the direction of the points.
+6TLcaJdsRr0,clip_0065,6TLcaJdsRr0/clip_0065.mp4,275.640,279.590,3.950,And now we want this train to enter into track number two.
+6TLcaJdsRr0,clip_0066,6TLcaJdsRr0/clip_0066.mp4,279.590,284.170,4.580,"So, now if you want to operate a point, we have to do a two button operation,"
+6TLcaJdsRr0,clip_0067,6TLcaJdsRr0/clip_0067.mp4,284.170,288.753,4.583,which means you have to push the button of the... Yep.
+6TLcaJdsRr0,clip_0068,6TLcaJdsRr0/clip_0068.mp4,288.753,293.620,4.867,And second one is this blue one. Now it starts to blink. The point is turning.
+6TLcaJdsRr0,clip_0069,6TLcaJdsRr0/clip_0069.mp4,293.620,298.700,5.080,And now it's on the left. And now it's on the left. So the train is now going the right way.
+6TLcaJdsRr0,clip_0070,6TLcaJdsRr0/clip_0070.mp4,298.700,301.560,2.860,"So if there's nothing else in this section, you can then turn that to green?"
+6TLcaJdsRr0,clip_0071,6TLcaJdsRr0/clip_0071.mp4,301.560,305.690,4.130,"Yep. So, we have to make an entry-exit operation."
+6TLcaJdsRr0,clip_0072,6TLcaJdsRr0/clip_0072.mp4,305.690,309.500,3.810,We are starting at the entry signal and we want to move into track number two.
+6TLcaJdsRr0,clip_0073,6TLcaJdsRr0/clip_0073.mp4,309.500,312.810,3.310,There are two buttons. Right. Try it.
+6TLcaJdsRr0,clip_0074,6TLcaJdsRr0/clip_0074.mp4,312.810,317.010,4.200,"So I have to push that one? Yep, and same time track number two."
+6TLcaJdsRr0,clip_0075,6TLcaJdsRr0/clip_0075.mp4,317.010,321.410,4.400,"These two. Yep, and nothing happens. Okay!"
+6TLcaJdsRr0,clip_0076,6TLcaJdsRr0/clip_0076.mp4,321.410,325.470,4.060,Because we are missing two another points.
+6TLcaJdsRr0,clip_0077,6TLcaJdsRr0/clip_0077.mp4,325.470,330.500,5.030,"We have a flank protection, which is missing. There might be a train waiting here"
+6TLcaJdsRr0,clip_0078,6TLcaJdsRr0/clip_0078.mp4,330.500,334.530,4.030,"and he might just start to roll into our train. And he'll, right."
+6TLcaJdsRr0,clip_0079,6TLcaJdsRr0/clip_0079.mp4,334.530,340.150,5.620,So I need to change that one as well. So now there's no way that a train coming the other way-
+6TLcaJdsRr0,clip_0080,6TLcaJdsRr0/clip_0080.mp4,340.150,346.140,5.990,"That's right. Can come in, okay. And second point, we have to operate as point number one,"
+6TLcaJdsRr0,clip_0081,6TLcaJdsRr0/clip_0081.mp4,346.140,352.100,5.960,which is called the overlap. So if a train won't stop at an exit signal...
+6TLcaJdsRr0,clip_0082,6TLcaJdsRr0/clip_0082.mp4,352.100,357.490,5.390,"Yep, it'll derail there at the moment, won't it? Yes, and maybe he could hit another train,"
+6TLcaJdsRr0,clip_0083,6TLcaJdsRr0/clip_0083.mp4,357.490,361.010,3.520,so we have to reserve this space also for the train.
+6TLcaJdsRr0,clip_0084,6TLcaJdsRr0/clip_0084.mp4,361.010,364.020,3.010,Okay. So that one? Yep. Which is called the overlap.
+6TLcaJdsRr0,clip_0085,6TLcaJdsRr0/clip_0085.mp4,364.020,370.010,5.990,"All right. So, now try it again. Entry exit operation. Entry exit."
+6TLcaJdsRr0,clip_0086,6TLcaJdsRr0/clip_0086.mp4,370.010,375.710,5.700,"Lights up? Green light. Lights up green light. Train will enter in the next, I don't know, one, two minutes."
+6TLcaJdsRr0,clip_0087,6TLcaJdsRr0/clip_0087.mp4,375.710,379.123,3.413,"And somewhere out there on the big model, a train has started moving."
+6TLcaJdsRr0,clip_0088,6TLcaJdsRr0/clip_0088.mp4,380.250,384.720,4.470,That's lovely. And this is all electrical circuits.
+6TLcaJdsRr0,clip_0089,6TLcaJdsRr0/clip_0089.mp4,384.720,389.420,4.700,"This isn't microcontrollers, this is all physical wiring. Or relay interlocking."
+6TLcaJdsRr0,clip_0090,6TLcaJdsRr0/clip_0090.mp4,389.420,392.690,3.270,There is really something in having that view
+6TLcaJdsRr0,clip_0091,6TLcaJdsRr0/clip_0091.mp4,392.690,397.740,5.050,of what you're doing versus a screen and a vague idea in a diagram.
+6TLcaJdsRr0,clip_0092,6TLcaJdsRr0/clip_0092.mp4,397.740,401.090,3.350,"Like, I can see the train pulling into the station."
+6TLcaJdsRr0,clip_0093,6TLcaJdsRr0/clip_0093.mp4,401.090,405.540,4.450,"That's lovely. So that's the 1950s, and there's still some of this equipment out there."
+6TLcaJdsRr0,clip_0094,6TLcaJdsRr0/clip_0094.mp4,405.540,411.400,5.860,Of course. Of course. What's the most modern version? That's the computer interlocking. And now I will show you.
+6TLcaJdsRr0,clip_0095,6TLcaJdsRr0/clip_0095.mp4,411.400,415.040,3.640,Lead the way. All of the interlockings that you used today
+6TLcaJdsRr0,clip_0096,6TLcaJdsRr0/clip_0096.mp4,415.040,418.040,3.000,are still in use in the German rail network.
+6TLcaJdsRr0,clip_0097,6TLcaJdsRr0/clip_0097.mp4,418.040,421.160,3.120,"The numbers, for example, of the mechanical interlockings"
+6TLcaJdsRr0,clip_0098,6TLcaJdsRr0/clip_0098.mp4,421.160,425.610,4.450,"are dwindling at the moment. In the future, all of them will be replaced"
+6TLcaJdsRr0,clip_0099,6TLcaJdsRr0/clip_0099.mp4,425.610,429.870,4.260,by electronic or computer interlockings. The physical railway that you crash
+6TLcaJdsRr0,clip_0100,6TLcaJdsRr0/clip_0100.mp4,429.870,434.490,4.620,"will always stay in your mind, even if it's a model train!"
+6TLcaJdsRr0,clip_0101,6TLcaJdsRr0/clip_0101.mp4,434.490,437.300,2.810,And you have the ability to get an overview
+6TLcaJdsRr0,clip_0102,6TLcaJdsRr0/clip_0102.mp4,437.300,440.770,3.470,"about the situation during any sort of disruptions,"
+6TLcaJdsRr0,clip_0103,6TLcaJdsRr0/clip_0103.mp4,440.770,445.500,4.730,not only the really focused view that you would have during this disruption.
+6TLcaJdsRr0,clip_0104,6TLcaJdsRr0/clip_0104.mp4,445.500,449.607,4.107,"So this is the future? Yep, that's the future. So which train are we moving?"
+6TLcaJdsRr0,clip_0105,6TLcaJdsRr0/clip_0105.mp4,449.607,453.730,4.123,"We are try moving a train which is called 201. 201, okay. Yeah, I see it."
+6TLcaJdsRr0,clip_0106,6TLcaJdsRr0/clip_0106.mp4,453.730,458.320,4.590,"So all you have to do is an entry exit operation, with a mouse."
+6TLcaJdsRr0,clip_0107,6TLcaJdsRr0/clip_0107.mp4,458.320,462.656,4.336,"Oh, so just the single button push from earlier? Everything else is automatic?"
+6TLcaJdsRr0,clip_0108,6TLcaJdsRr0/clip_0108.mp4,462.656,467.470,4.814,Everything else is going automatically. So first thing is you have to move the mouse pointer
+6TLcaJdsRr0,clip_0109,6TLcaJdsRr0/clip_0109.mp4,467.470,471.020,3.550,"to the red triangle on the right side, please."
+6TLcaJdsRr0,clip_0110,6TLcaJdsRr0/clip_0110.mp4,471.020,475.693,4.673,It's the exit signal for the station. And now move on to just one mouse click.
+6TLcaJdsRr0,clip_0111,6TLcaJdsRr0/clip_0111.mp4,476.900,481.810,4.910,"And now next train, please, on the right. The blue- The blue one to the right."
+6TLcaJdsRr0,clip_0112,6TLcaJdsRr0/clip_0112.mp4,481.810,486.080,4.270,That's the exit. And click that? Click there. I don't know why I'm being so nervous.
+6TLcaJdsRr0,clip_0113,6TLcaJdsRr0/clip_0113.mp4,486.080,489.210,3.130,"It's a model train set. But in my head, this is serious."
+6TLcaJdsRr0,clip_0114,6TLcaJdsRr0/clip_0114.mp4,489.210,493.750,4.540,So it's just done all the button pushes that I did earlier. All the lever pulls. Yep.
+6TLcaJdsRr0,clip_0115,6TLcaJdsRr0/clip_0115.mp4,493.750,497.140,3.390,"Two mouse clicks. At the moment, nothing has operated."
+6TLcaJdsRr0,clip_0116,6TLcaJdsRr0/clip_0116.mp4,497.140,502.790,5.650,"It's just, ""I want to go,"" from track number five onto the line."
+6TLcaJdsRr0,clip_0117,6TLcaJdsRr0/clip_0117.mp4,502.790,506.308,3.518,And it's doing all the interlocking? Yeah. Making sure that nothing's in the way. And now have to tell
+6TLcaJdsRr0,clip_0118,6TLcaJdsRr0/clip_0118.mp4,506.308,511.600,5.292,"the computer, ""Okay, I want to do it."" There's a button which is called in German ""Verarbeiten"" which means OK."
+6TLcaJdsRr0,clip_0119,6TLcaJdsRr0/clip_0119.mp4,511.600,516.245,4.645,"And after you push it, all the points are moving. All at the same time. Yep."
+6TLcaJdsRr0,clip_0120,6TLcaJdsRr0/clip_0120.mp4,516.245,519.790,3.545,And the signal is going to... And the signal's gone to green. Yep. That's it.
+6TLcaJdsRr0,clip_0121,6TLcaJdsRr0/clip_0121.mp4,519.790,524.140,4.350,"It absolutely makes sense, but also it seems so much easier."
+6TLcaJdsRr0,clip_0122,6TLcaJdsRr0/clip_0122.mp4,524.140,528.840,4.700,I know it's not. You've got exactly the same checks here. Of course. That were being done
+6TLcaJdsRr0,clip_0123,6TLcaJdsRr0/clip_0123.mp4,528.840,532.790,3.950,"by the systems, that were being done by the circuits"
+6TLcaJdsRr0,clip_0124,6TLcaJdsRr0/clip_0124.mp4,532.790,537.810,5.020,and then being done by the physical interlocks. But here it's code and we can see the train progress.
+6TLcaJdsRr0,clip_0125,6TLcaJdsRr0/clip_0125.mp4,537.810,542.340,4.530,"Like, the lights go red when there's a train in the section. That's so clever."
+6TLcaJdsRr0,clip_0126,6TLcaJdsRr0/clip_0126.mp4,542.340,546.608,4.268,"Big difference is I do have to operate 2, 3, 4, 5 stations."
+6TLcaJdsRr0,clip_0127,6TLcaJdsRr0/clip_0127.mp4,546.608,551.010,4.402,So it's not as simple as it looks like.
+6TLcaJdsRr0,clip_0128,6TLcaJdsRr0/clip_0128.mp4,551.010,553.200,2.190,Right. You know the computer game?
+6TLcaJdsRr0,clip_0129,6TLcaJdsRr0/clip_0129.mp4,553.200,557.220,4.020,"You have to do the same amount of work, just over a much bigger area."
+6TLcaJdsRr0,clip_0130,6TLcaJdsRr0/clip_0130.mp4,557.220,561.290,4.070,That's it. All right. Thank you so much. Thank you.

@@ -1,0 +1,4 @@
+Model: RAVEn Large
+Dataset: BBC (91)
+Raw WER: 50.57%
+Norm WER: 39.23%

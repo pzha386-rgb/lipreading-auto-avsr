@@ -1,0 +1,18 @@
+{
+  "model_id": "S5",
+  "dataset": "bbc",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2/LRS2_V_WER26.1/model.pth",
+  "ini": "LRS2_V_WER26.1",
+  "lm": null,
+  "lm_weight": 0.0,
+  "beam": 40,
+  "params_M": 52.5,
+  "peak_gpu_MB": 889,
+  "total_seconds": 606.7,
+  "n_clips": 91,
+  "errors": 684,
+  "n_words": 1374,
+  "wer": 49.78,
+  "mean_seconds": 6.649,
+  "n_failed": 0
+}

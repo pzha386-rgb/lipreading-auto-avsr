@@ -1,0 +1,26 @@
+===== B4 on lrs3_300 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+Load pretrained model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[20/300] WER so far 16.17%  (3.5s)
+[40/300] WER so far 23.89%  (1.9s)
+[60/300] WER so far 26.44%  (2.3s)
+[80/300] WER so far 24.66%  (2.1s)
+[100/300] WER so far 24.18%  (1.8s)
+[120/300] WER so far 23.16%  (2.3s)
+[140/300] WER so far 23.43%  (1.7s)
+[160/300] WER so far 23.90%  (1.6s)
+[180/300] WER so far 23.29%  (4.8s)
+[200/300] WER so far 23.58%  (3.8s)
+[220/300] WER so far 23.76%  (2.2s)
+[240/300] WER so far 23.99%  (2.2s)
+[260/300] WER so far 23.88%  (2.3s)
+[280/300] WER so far 24.59%  (1.9s)
+[300/300] WER so far 23.73%  (0.8s)
+==================================================
+B4  lrs3_300
+clips: 300   failed: 0   WER: 23.73%
+mean seconds/clip: 2.039
+saved: /root/autodl-tmp/results_v2/B4_lrs3_300.csv
+==================================================

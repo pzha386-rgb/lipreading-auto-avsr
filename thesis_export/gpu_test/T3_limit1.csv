@@ -1,0 +1,2 @@
+utt_id,ref,hyp,ref_norm,hyp_norm,errors,n_words,seconds
+clip_0000,"When you put English text into a computer, it is saving every individual character as eight bits of data.",,when you put english text into a computer it is saving every individual character as eight bits of data,,19,19,0.0

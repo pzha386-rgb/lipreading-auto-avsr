@@ -1,0 +1,20 @@
+nohup: ignoring input
+编号     数据集        状态
+S0     bbc        权重不存在: /root/autodl-tmp/checkpoints/vsr_trlrs3_base.pth
+S1     bbc        权重不存在: /root/autodl-tmp/checkpoints/vsr_trlrs3vox2_base.pth
+S6     bbc        权重不存在: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+R2     bbc        权重不存在: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+R3     bbc        权重不存在: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+B4     bbc        待运行
+B5     bbc        待运行
+
+并行 3 个任务，每个 3 个 CPU 线程，共 2 个任务
+
+>>> 19:42:22  start B4 on bbc
+>>> 19:42:22  start B5 on bbc
+<<< 20:10:41  B4 on bbc: OK  28.3 min  WER 28.17%  failed 0
+<<< 20:13:02  B5 on bbc: OK  30.7 min  WER 27.87%  failed 0
+
+========== 本次运行 ==========
+B4 bbc OK 28.3 WER 28.17%  failed 0
+B5 bbc OK 30.7 WER 27.87%  failed 0

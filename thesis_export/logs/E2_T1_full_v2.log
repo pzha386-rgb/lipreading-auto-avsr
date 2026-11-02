@@ -1,0 +1,36 @@
+nohup: ignoring input
+权重直接加载成功
+encoder: 12 layers total, last 4 trainable, first 8 frozen
+trainable params: 125.2 M   (frontend frozen)
+train: 4135 clips, 293.4 min   val: 1470 clips
+epoch 0  val loss 70.059  (before adaptation)
+epoch  1  train 77.821  val 67.283  * saved   (1.0 min)
+epoch  2  train 71.035  val 61.369  * saved   (1.9 min)
+epoch  3  train 66.687  val 59.285  * saved   (2.7 min)
+epoch  4  train 64.487  val 58.253  * saved   (3.5 min)
+epoch  5  train 62.747  val 57.749  * saved   (4.3 min)
+epoch  6  train 61.901  val 57.447  * saved   (5.1 min)
+epoch  7  train 60.878  val 57.146  * saved   (6.0 min)
+epoch  8  train 60.246  val 57.007  * saved   (6.8 min)
+epoch  9  train 59.570  val 56.836  * saved   (7.6 min)
+epoch 10  train 59.198  val 56.812  * saved   (8.4 min)
+epoch 11  train 58.759  val 56.770  * saved   (9.3 min)
+epoch 12  train 58.156  val 56.718  * saved   (10.1 min)
+epoch 13  train 57.957  val 56.696  * saved   (10.9 min)
+epoch 14  train 57.642  val 56.725   (11.7 min)
+epoch 15  train 57.382  val 56.712   (12.4 min)
+epoch 16  train 57.252  val 56.666  * saved   (13.3 min)
+epoch 17  train 56.946  val 56.648  * saved   (14.1 min)
+epoch 18  train 56.852  val 56.582  * saved   (14.9 min)
+epoch 19  train 56.648  val 56.653   (15.7 min)
+epoch 20  train 56.416  val 56.707   (16.5 min)
+epoch 21  train 56.570  val 56.684   (17.2 min)
+epoch 22  train 56.266  val 56.686   (18.0 min)
+epoch 23  train 56.240  val 56.787   (18.8 min)
+epoch 24  train 56.193  val 56.713   (19.5 min)
+epoch 25  train 56.130  val 56.685   (20.3 min)
+epoch 26  train 56.123  val 56.630   (21.1 min)
+early stop
+
+DONE  best val loss 56.582 (start 70.059)  ->  /root/autodl-tmp/adapt/autoavsr_m0_v2/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A0 --ckpt /root/autodl-tmp/adapt/autoavsr_m0_v2/best.pth --dataset bbc

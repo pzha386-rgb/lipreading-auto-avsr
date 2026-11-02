@@ -1,0 +1,4 @@
+Model: RAVEn Large
+Dataset: LRS3 test (1321)
+Raw WER: 32.13%
+Norm WER: 31.94%

@@ -1,0 +1,156 @@
+nohup: ignoring input
+bbc_speed: 21 段
+编号     数据集        状态
+T1     bbc_speed  待运行
+T3     bbc_speed  待运行
+T4     bbc_speed  待运行
+S0     bbc_speed  待运行
+S1     bbc_speed  待运行
+S2     bbc_speed  待运行
+S2lm   bbc_speed  待运行
+S4     bbc_speed  待运行
+S4lm   bbc_speed  待运行
+S5     bbc_speed  待运行
+S5lm   bbc_speed  待运行
+S6     bbc_speed  待运行
+R1     bbc_speed  待运行
+R2     bbc_speed  待运行
+R3     bbc_speed  待运行
+B1     bbc_speed  待运行
+B2     bbc_speed  待运行
+B3     bbc_speed  待运行
+B4     bbc_speed  待运行
+B5     bbc_speed  待运行
+U1     bbc_speed  待运行
+U2     bbc_speed  待运行
+U3     bbc_speed  待运行
+U4     bbc_speed  待运行
+U1g    bbc_speed  待运行
+U2g    bbc_speed  待运行
+U3g    bbc_speed  待运行
+U4g    bbc_speed  待运行
+U4b10  bbc_speed  待运行
+
+并行 1 个任务，每个 4 个 CPU 线程，共 29 个任务
+
+>>> 17:31:23  start T1 on bbc_speed
+<<< 17:31:47  T1 on bbc_speed: OK  0.4 min  WER 29.56%  failed 0
+>>> 17:31:47  start T3 on bbc_speed
+<<< 17:32:19  T3 on bbc_speed: OK  0.5 min  WER 27.36%  failed 0
+>>> 17:32:19  start T4 on bbc_speed
+<<< 17:32:51  T4 on bbc_speed: OK  0.5 min  WER 37.42%  failed 0
+>>> 17:32:51  start S0 on bbc_speed
+<<< 17:33:16  S0 on bbc_speed: OK  0.4 min  WER 55.35%  failed 0
+>>> 17:33:16  start S1 on bbc_speed
+<<< 17:33:41  S1 on bbc_speed: OK  0.4 min  WER 39.62%  failed 0
+>>> 17:33:41  start S2 on bbc_speed
+<<< 17:34:04  S2 on bbc_speed: OK  0.4 min  WER 29.56%  failed 0
+>>> 17:34:04  start S2lm on bbc_speed
+<<< 17:34:33  S2lm on bbc_speed: OK  0.5 min  WER 30.50%  failed 0
+>>> 17:34:33  start S4 on bbc_speed
+<<< 17:35:25  S4 on bbc_speed: OK  0.9 min  WER 45.28%  failed 0
+>>> 17:35:25  start S4lm on bbc_speed
+<<< 17:36:38  S4lm on bbc_speed: OK  1.2 min  WER 43.08%  failed 0
+>>> 17:36:38  start S5 on bbc_speed
+<<< 17:37:27  S5 on bbc_speed: OK  0.8 min  WER 52.52%  failed 0
+>>> 17:37:27  start S5lm on bbc_speed
+<<< 17:38:38  S5lm on bbc_speed: OK  1.2 min  WER 47.17%  failed 2
+>>> 17:38:38  start S6 on bbc_speed
+<<< 17:39:01  S6 on bbc_speed: OK  0.4 min  WER 96.23%  failed 0
+>>> 17:39:01  start R1 on bbc_speed
+<<< 17:39:42  R1 on bbc_speed: OK  0.7 min  WER 33.33%  failed 0
+>>> 17:39:42  start R2 on bbc_speed
+<<< 17:40:16  R2 on bbc_speed: OK  0.6 min  WER 37.42%  failed 0
+>>> 17:40:16  start R3 on bbc_speed
+<<< 17:40:55  R3 on bbc_speed: OK  0.7 min  WER 36.79%  failed 0
+>>> 17:40:55  start B1 on bbc_speed
+<<< 17:41:24  B1 on bbc_speed: OK  0.5 min  WER 33.33%  failed 0
+>>> 17:41:24  start B2 on bbc_speed
+<<< 17:42:04  B2 on bbc_speed: OK  0.7 min  WER 26.73%  failed 0
+>>> 17:42:04  start B3 on bbc_speed
+<<< 17:42:37  B3 on bbc_speed: OK  0.5 min  WER 36.79%  failed 0
+>>> 17:42:37  start B4 on bbc_speed
+<<< 17:43:09  B4 on bbc_speed: OK  0.5 min  WER 26.73%  failed 0
+>>> 17:43:09  start B5 on bbc_speed
+<<< 17:43:50  B5 on bbc_speed: OK  0.7 min  WER 26.73%  failed 0
+>>> 17:43:50  start U1 on bbc_speed
+<<< 17:44:55  U1 on bbc_speed: OK  1.1 min  WER 35.22%  failed 0
+>>> 17:44:55  start U2 on bbc_speed
+<<< 17:45:48  U2 on bbc_speed: OK  0.9 min  WER 39.31%  failed 0
+>>> 17:45:48  start U3 on bbc_speed
+<<< 17:46:51  U3 on bbc_speed: OK  1.0 min  WER 40.25%  failed 0
+>>> 17:46:51  start U4 on bbc_speed
+<<< 17:48:08  U4 on bbc_speed: OK  1.3 min  WER 29.87%  failed 0
+>>> 17:48:08  start U1g on bbc_speed
+<<< 17:48:21  U1g on bbc_speed: OK  0.2 min  WER 35.85%  failed 0
+>>> 17:48:21  start U2g on bbc_speed
+<<< 17:48:29  U2g on bbc_speed: OK  0.1 min  WER 44.03%  failed 0
+>>> 17:48:29  start U3g on bbc_speed
+<<< 17:48:43  U3g on bbc_speed: OK  0.2 min  WER 44.03%  failed 0
+>>> 17:48:43  start U4g on bbc_speed
+<<< 17:49:01  U4g on bbc_speed: OK  0.3 min  WER 33.65%  failed 0
+>>> 17:49:01  start U4b10 on bbc_speed
+<<< 17:49:47  U4b10 on bbc_speed: OK  0.8 min  WER 29.87%  failed 0
+
+========== 本次运行 ==========
+T1 bbc_speed OK 0.4 WER 29.56%  failed 0
+T3 bbc_speed OK 0.5 WER 27.36%  failed 0
+T4 bbc_speed OK 0.5 WER 37.42%  failed 0
+S0 bbc_speed OK 0.4 WER 55.35%  failed 0
+S1 bbc_speed OK 0.4 WER 39.62%  failed 0
+S2 bbc_speed OK 0.4 WER 29.56%  failed 0
+S2lm bbc_speed OK 0.5 WER 30.50%  failed 0
+S4 bbc_speed OK 0.9 WER 45.28%  failed 0
+S4lm bbc_speed OK 1.2 WER 43.08%  failed 0
+S5 bbc_speed OK 0.8 WER 52.52%  failed 0
+S5lm bbc_speed OK 1.2 WER 47.17%  failed 2
+S6 bbc_speed OK 0.4 WER 96.23%  failed 0
+R1 bbc_speed OK 0.7 WER 33.33%  failed 0
+R2 bbc_speed OK 0.6 WER 37.42%  failed 0
+R3 bbc_speed OK 0.7 WER 36.79%  failed 0
+B1 bbc_speed OK 0.5 WER 33.33%  failed 0
+B2 bbc_speed OK 0.7 WER 26.73%  failed 0
+B3 bbc_speed OK 0.5 WER 36.79%  failed 0
+B4 bbc_speed OK 0.5 WER 26.73%  failed 0
+B5 bbc_speed OK 0.7 WER 26.73%  failed 0
+U1 bbc_speed OK 1.1 WER 35.22%  failed 0
+U2 bbc_speed OK 0.9 WER 39.31%  failed 0
+U3 bbc_speed OK 1.0 WER 40.25%  failed 0
+U4 bbc_speed OK 1.3 WER 29.87%  failed 0
+U1g bbc_speed OK 0.2 WER 35.85%  failed 0
+U2g bbc_speed OK 0.1 WER 44.03%  failed 0
+U3g bbc_speed OK 0.2 WER 44.03%  failed 0
+U4g bbc_speed OK 0.3 WER 33.65%  failed 0
+U4b10 bbc_speed OK 0.8 WER 29.87%  failed 0
+   id  sec_per_clip   RTF  params_M  peak_gpu_MB
+  U2g         0.107 0.026     171.1          882
+  U1g         0.155 0.038     503.4         2170
+  U3g         0.161 0.040     503.4         2170
+  U4g         0.162 0.040     945.5         3957
+   S6         0.700 0.172     250.4         1246
+   T1         0.722 0.178     250.4         1348
+   S0         0.777 0.191     250.4         1313
+   S2         0.778 0.192     250.4         1341
+   S1         0.786 0.194     250.4         1333
+   B1         0.860 0.212     350.6         1681
+   T4         0.926 0.228     493.7         2867
+   T3         0.942 0.232     493.7         2841
+   B4         0.959 0.236     493.7         2891
+   B3         0.975 0.240     493.7         2971
+   R2         1.009 0.248     493.7         3161
+ S2lm         1.045 0.257     250.4         1876
+   B2         1.260 0.310     493.7         3522
+   R3         1.281 0.316     493.7         4308
+   B5         1.308 0.322     493.7         3839
+   R1         1.314 0.324     493.7         4012
+U4b10         1.498 0.369     945.5         7728
+   S5         2.015 0.496      52.5          842
+   S4         2.161 0.532      52.5          700
+   U2         2.160 0.532     171.1         7239
+   U3         2.453 0.604     503.4        14015
+   U1         2.591 0.638     503.4        15078
+   U4         2.859 0.704     945.5        18370
+ S5lm         3.017 0.743      52.5         3543
+ S4lm         3.097 0.763      52.5         3291
+
+RTF = 处理时间 / 视频时长；RTF < 1 表示能实时运行

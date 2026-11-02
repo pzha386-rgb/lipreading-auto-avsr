@@ -1,0 +1,14 @@
+{
+  "model_id": "T1",
+  "dataset": "bbc_low25",
+  "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1300,
+  "total_seconds": 274.7,
+  "n_clips": 91,
+  "errors": 414,
+  "n_words": 1374,
+  "wer": 30.13,
+  "mean_seconds": 3.003,
+  "n_failed": 0
+}

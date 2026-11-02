@@ -1,0 +1,6 @@
+id,ref,hyp,errors,n_words,seconds,confA_logp,confA_margin,confA_nbest
+clip_0000,when you put english text into a computer it is saving every individual character as eight bits of data,when he put english text into a computer it is saving every individual characters eight bits of data a,4,19,1.019,-0.19827632470564407,0.00011075626720081677,0.9342105263157895
+clip_0001,eight ones and zeros i mean they re not actually ones and zeros,want zeros i mean they don t actually want zero,8,13,0.514,-0.27501078752370983,0.006217002868652344,0.7222222222222222
+clip_0002,they re particular positions of atoms on a disk or a few electrons going over a wire,particular positions of atoms on a distro a few electrons going over a wire,4,17,0.616,-0.3299563195970323,0.018624385197957356,0.9142857142857143
+clip_0003,but as far as we re concerned in the computer science world they are ones and zeros bits,as far as we re concerned in the computer science world they are one size zeros beats,4,18,0.791,-0.1681626524244036,0.08573415165855772,0.9375
+clip_0004,and yes a modern phone or computer might store a few quadrillion of them,and yes a microphone or computer might store a few quadrantly enough,5,14,0.644,-0.3816593571713096,0.009100989291542455,0.875

@@ -1,0 +1,18 @@
+{
+  "model_id": "S4lm",
+  "dataset": "lrs3_300",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth",
+  "ini": "LRS3_V_WER32.3",
+  "lm": "/root/autodl-tmp/checkpoints/new/LM_vsrml/lm_en/model.pth",
+  "lm_weight": 0.6,
+  "beam": 40,
+  "params_M": 52.5,
+  "peak_gpu_MB": 3685,
+  "total_seconds": 1876.5,
+  "n_clips": 300,
+  "errors": 917,
+  "n_words": 2373,
+  "wer": 38.64,
+  "mean_seconds": 6.151,
+  "n_failed": 4
+}

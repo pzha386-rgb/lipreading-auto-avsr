@@ -1,0 +1,15 @@
+===== U2 on bbc =====
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+官方解码配置: beam=40 ctc=0.1 penalty=0.0  -> 本次使用 beam=40 ctc=0.1
+参数量: 171.1 M
+[20/91] WER so far 38.98%  (7.17s)
+[40/91] WER so far 38.46%  (6.37s)
+[60/91] WER so far 41.38%  (9.99s)
+[80/91] WER so far 42.55%  (9.85s)
+==================================================
+U2  bbc
+clips: 91   failed: 0   WER: 42.14%
+mean seconds/clip: 8.797
+saved: /root/autodl-tmp/results_v2/U2_bbc.csv
+==================================================

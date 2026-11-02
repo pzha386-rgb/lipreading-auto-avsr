@@ -1,0 +1,26 @@
+===== S4 on lrs3_300 =====
+官方配置 LRS3_V_WER32.3: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.0
+模型: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth
+语言模型: None
+参数量: 52.5 M
+[20/300] WER so far 36.53%  (10.76s)
+[40/300] WER so far 41.08%  (3.87s)
+[60/300] WER so far 43.11%  (5.05s)
+[80/300] WER so far 44.69%  (5.59s)
+[100/300] WER so far 44.02%  (4.30s)
+[120/300] WER so far 42.57%  (8.87s)
+[140/300] WER so far 43.43%  (5.84s)
+[160/300] WER so far 43.54%  (4.18s)
+[180/300] WER so far 41.58%  (11.96s)
+[200/300] WER so far 41.82%  (8.81s)
+[220/300] WER so far 41.80%  (6.04s)
+[240/300] WER so far 41.38%  (6.89s)
+[260/300] WER so far 41.93%  (8.27s)
+[280/300] WER so far 42.72%  (6.83s)
+[300/300] WER so far 41.76%  (3.48s)
+==================================================
+S4  lrs3_300
+clips: 300   failed: 0   WER: 41.76%
+mean seconds/clip: 5.402
+saved: /root/autodl-tmp/results_v2/S4_lrs3_300.csv
+==================================================

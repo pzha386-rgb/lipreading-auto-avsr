@@ -1,0 +1,64 @@
+video_id,clip_id,path,start,end,dur,text
+CkZyZFa5qO0,clip_0000,CkZyZFa5qO0/clip_0000.mp4,0.060,2.880,2.820,"Is this introduction weird? Yes, it's."
+CkZyZFa5qO0,clip_0001,CkZyZFa5qO0/clip_0001.mp4,4.500,8.820,4.320,"If ""it's"" is just a contraction of ""it"" and ""is"", then why doesn't that work?"
+CkZyZFa5qO0,clip_0002,CkZyZFa5qO0/clip_0002.mp4,8.820,12.120,3.300,"In fact, why didn't English just do a find-and-replace on all the contractions?"
+CkZyZFa5qO0,clip_0003,CkZyZFa5qO0/clip_0003.mp4,12.120,13.920,1.800,I'm sure there'dn't've been any problems with that.
+CkZyZFa5qO0,clip_0004,CkZyZFa5qO0/clip_0004.mp4,14.780,18.120,3.340,"Ah. Well, how do we understand where the problem's with this?"
+CkZyZFa5qO0,clip_0005,CkZyZFa5qO0/clip_0005.mp4,18.120,22.560,4.440,"I was supposed to've'd a brilliant idea here, but it appears... it'sn't."
+CkZyZFa5qO0,clip_0006,CkZyZFa5qO0/clip_0006.mp4,22.560,26.400,3.840,"Okay, let's expand those back out. That took me about seventeen takes to get right."
+CkZyZFa5qO0,clip_0007,CkZyZFa5qO0/clip_0007.mp4,26.400,29.760,3.360,Why don't those contractions work?
+CkZyZFa5qO0,clip_0008,CkZyZFa5qO0/clip_0008.mp4,29.760,34.320,4.560,"Let's talk about ""it's"" in that introductory line. ""It"" is just a pronoun, doing its job,"
+CkZyZFa5qO0,clip_0009,CkZyZFa5qO0/clip_0009.mp4,34.320,39.420,5.100,"referring to something that's established earlier or obvious from context. But what's the ""'s""?"
+CkZyZFa5qO0,clip_0010,CkZyZFa5qO0/clip_0010.mp4,39.420,44.100,4.680,"You can't even really say it on its own. It's just kind-of leaning on the ""it"" for substance."
+CkZyZFa5qO0,clip_0011,CkZyZFa5qO0/clip_0011.mp4,44.100,49.920,5.820,"Which is why the technical term for it is ""clitic"", from the Ancient Greek ""enklitikos"", meaning ""to lean on""."
+CkZyZFa5qO0,clip_0012,CkZyZFa5qO0/clip_0012.mp4,49.920,54.360,4.440,A clitic is a part of speech that can't exist just on its own.
+CkZyZFa5qO0,clip_0013,CkZyZFa5qO0/clip_0013.mp4,54.360,58.500,4.140,"Now, we've talked about things like this before: prefixes, suffixes and other affixes,"
+CkZyZFa5qO0,clip_0014,CkZyZFa5qO0/clip_0014.mp4,58.500,61.800,3.300,things that attach to words like ‘-able' or ‘un-'.
+CkZyZFa5qO0,clip_0015,CkZyZFa5qO0/clip_0015.mp4,61.800,66.780,4.980,But a clitic isn't one of those. And we know that because it doesn t attach to individual words:
+CkZyZFa5qO0,clip_0016,CkZyZFa5qO0/clip_0016.mp4,66.780,70.140,3.360,"it attaches to a phrase, a bigger part of speech."
+CkZyZFa5qO0,clip_0017,CkZyZFa5qO0/clip_0017.mp4,70.140,74.400,4.260,"So using a prefix or affix, you can go from a dog to a"
+CkZyZFa5qO0,clip_0018,CkZyZFa5qO0/clip_0018.mp4,74.400,79.020,4.620,"proto-dog or an anti-dog or an astro-dog. Or you can say that something is ""dog-ish""."
+CkZyZFa5qO0,clip_0019,CkZyZFa5qO0/clip_0019.mp4,79.020,81.660,2.640,"Those all attach to the word ""dog""."
+CkZyZFa5qO0,clip_0020,CkZyZFa5qO0/clip_0020.mp4,81.660,85.200,3.540,"If you add some detail, you say ""my beautiful, green, astro-dog"","
+CkZyZFa5qO0,clip_0021,CkZyZFa5qO0/clip_0021.mp4,85.200,88.620,3.420,"not ""my astro-beautiful, green, dog"". That doesn't work."
+CkZyZFa5qO0,clip_0022,CkZyZFa5qO0/clip_0022.mp4,88.620,93.000,4.380,"For a clitic, it's different. ""My astro-dog's been learning tricks."""
+CkZyZFa5qO0,clip_0023,CkZyZFa5qO0/clip_0023.mp4,93.000,95.880,2.880,"There's the clitic, just after ""dog"". Let's add some more detail."
+CkZyZFa5qO0,clip_0024,CkZyZFa5qO0/clip_0024.mp4,95.880,99.300,3.420,"""My astro-dog from Jupiter's been learning tricks."""
+CkZyZFa5qO0,clip_0025,CkZyZFa5qO0/clip_0025.mp4,99.300,101.880,2.580,"That movement of 's, within the sentence,"
+CkZyZFa5qO0,clip_0026,CkZyZFa5qO0/clip_0026.mp4,101.880,105.480,3.600,"means it can't be an affix; the ‘s behaves like it's the whole word,"
+CkZyZFa5qO0,clip_0027,CkZyZFa5qO0/clip_0027.mp4,105.480,108.060,2.580,"like it's ""has"". Not ""is""… ""has""."
+CkZyZFa5qO0,clip_0028,CkZyZFa5qO0/clip_0028.mp4,108.060,112.740,4.680,"All that means that ‘s has to be in its own category, it's a clitic."
+CkZyZFa5qO0,clip_0029,CkZyZFa5qO0/clip_0029.mp4,112.740,115.740,3.000,But that doesn't explain why it doesn't work sometimes.
+CkZyZFa5qO0,clip_0030,CkZyZFa5qO0/clip_0030.mp4,115.740,119.400,3.660,"If it was always possible to contract ‘is' and ‘has' down like that,"
+CkZyZFa5qO0,clip_0031,CkZyZFa5qO0/clip_0031.mp4,119.400,122.700,3.300,there might be an argument that it's just a pronunciation thing?
+CkZyZFa5qO0,clip_0032,CkZyZFa5qO0/clip_0032.mp4,122.700,128.520,5.820,"There has to be some additional reason that means ""it'sn't"" and ""yes, it's"" are ungrammatical."
+CkZyZFa5qO0,clip_0033,CkZyZFa5qO0/clip_0033.mp4,128.520,131.760,3.240,"Now, if you want the full answer to that, you can read"
+CkZyZFa5qO0,clip_0034,CkZyZFa5qO0/clip_0034.mp4,131.760,134.160,2.400,"Anderson's ""Aspects of the Theory of Clitics"","
+CkZyZFa5qO0,clip_0035,CkZyZFa5qO0/clip_0035.mp4,134.160,138.840,4.680,"but a quick warning, it is 287 pages long not including the references and indices."
+CkZyZFa5qO0,clip_0036,CkZyZFa5qO0/clip_0036.mp4,138.840,143.880,5.040,So to summarize as best as I can for English: there are two reasons.
+CkZyZFa5qO0,clip_0037,CkZyZFa5qO0/clip_0037.mp4,143.880,148.800,4.920,The first is what's called a Syntactic Gap which means the presence of the clitic
+CkZyZFa5qO0,clip_0038,CkZyZFa5qO0/clip_0038.mp4,148.800,151.860,3.060,strongly implies that another word should follow.
+CkZyZFa5qO0,clip_0039,CkZyZFa5qO0/clip_0039.mp4,151.860,156.720,4.860,"I think Anderson's best example is: ""Who do you think you're?"""
+CkZyZFa5qO0,clip_0040,CkZyZFa5qO0/clip_0040.mp4,157.320,161.340,4.020,...who do you think you're what? Meeting? Talking to?
+CkZyZFa5qO0,clip_0041,CkZyZFa5qO0/clip_0041.mp4,161.340,164.580,3.240,"It feels like there should be another word in that syntactic gap,"
+CkZyZFa5qO0,clip_0042,CkZyZFa5qO0/clip_0042.mp4,164.580,168.600,4.020,"the clitic is ""stranded"" at the end. And flipping that around, if you say"
+CkZyZFa5qO0,clip_0043,CkZyZFa5qO0/clip_0043.mp4,168.600,173.400,4.800,"""Who do you think you are meeting?"", the sentence feels… not ungrammatical,"
+CkZyZFa5qO0,clip_0044,CkZyZFa5qO0/clip_0044.mp4,173.400,178.500,5.100,but maybe a little awkward and robotic. And very much tied to that is the second reason:
+CkZyZFa5qO0,clip_0045,CkZyZFa5qO0/clip_0045.mp4,178.500,182.220,3.720,stress patterns. Part of the reason these forms can be reduced so much
+CkZyZFa5qO0,clip_0046,CkZyZFa5qO0/clip_0046.mp4,182.220,187.440,5.220,"is because they're generally unstressed, or weak. They're pronounced quieter and less distinctly."
+CkZyZFa5qO0,clip_0047,CkZyZFa5qO0/clip_0047.mp4,187.440,192.000,4.560,"You cannot stress a clitic, and it sounds weird when you try. So let's try!"
+CkZyZFa5qO0,clip_0048,CkZyZFa5qO0/clip_0048.mp4,192.000,197.100,5.100,"If a child's parent is pestering them because they haven't cleaned up, the kid can reply ""i AM going to do it"","
+CkZyZFa5qO0,clip_0049,CkZyZFa5qO0/clip_0049.mp4,197.100,201.780,4.680,"that's called ‘rejoiner emphasis', but they can't say ""iMMM going to do it"". Doesn't work."
+CkZyZFa5qO0,clip_0050,CkZyZFa5qO0/clip_0050.mp4,201.780,205.680,3.900,"So if the verb would contextually be in its weak form, unstressed,"
+CkZyZFa5qO0,clip_0051,CkZyZFa5qO0/clip_0051.mp4,205.680,210.360,4.680,"and it also starts with /w/, /h/, or a vowel, it can get even more reduced to this clitic form."
+CkZyZFa5qO0,clip_0052,CkZyZFa5qO0/clip_0052.mp4,210.360,213.480,3.120,"So, we get ""we'll,"" ""they've,"" ""you'd,"" I'm,"" and so on."
+CkZyZFa5qO0,clip_0053,CkZyZFa5qO0/clip_0053.mp4,213.480,219.060,5.580,"Repeat enough times, they become grammaticalized, and they start to get written like that as well."
+CkZyZFa5qO0,clip_0054,CkZyZFa5qO0/clip_0054.mp4,219.060,222.600,3.540,"In theory, something like ""there'd'n't've'"" could work."
+CkZyZFa5qO0,clip_0055,CkZyZFa5qO0/clip_0055.mp4,222.600,227.400,4.800,"After all, ""shouldn't've"" is grammatical in spoken English, as in ""I shouldn't've done that."""
+CkZyZFa5qO0,clip_0056,CkZyZFa5qO0/clip_0056.mp4,227.400,232.620,5.220,"Actually, in my dialect, if I'm talking quickly, I pronounce that as either /ʃədənə/ or even just /ʃədn/."
+CkZyZFa5qO0,clip_0057,CkZyZFa5qO0/clip_0057.mp4,232.620,238.500,5.880,"Like, ""/ʃədn/ done that"". Languages change and evolve over time, words become clitics,"
+CkZyZFa5qO0,clip_0058,CkZyZFa5qO0/clip_0058.mp4,238.500,243.300,4.800,can stay that way for a while and then eventually they may start to sound ungrammatical
+CkZyZFa5qO0,clip_0059,CkZyZFa5qO0/clip_0059.mp4,243.300,248.580,5.280,"to future generations. After all, we used to say ""'tis"" not ""it's"", so who knows:"
+CkZyZFa5qO0,clip_0060,CkZyZFa5qO0/clip_0060.mp4,248.580,253.140,4.560,"in a century or two, maybe ""there'd'n't've"" will be perfectly unremarkable English."
+CkZyZFa5qO0,clip_0061,CkZyZFa5qO0/clip_0061.mp4,254.040,259.860,5.820,"If you want more detail about this, there's a whole episode on my co-author Gretchen McCulloch's podcast ""Lingthusiasm"","
+CkZyZFa5qO0,clip_0062,CkZyZFa5qO0/clip_0062.mp4,259.860,261.900,2.040,the link is on screen or in the description.

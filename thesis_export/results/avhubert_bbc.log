@@ -1,0 +1,27 @@
+nohup: ignoring input
+/root/miniconda3/lib/python3.12/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/root/miniconda3/lib/python3.12/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+/root/miniconda3/lib/python3.12/site-packages/torchvision/io/_video_deprecation_warning.py:5: UserWarning: The video decoding and encoding capabilities of torchvision are deprecated from version 0.22 and will be removed in version 0.24. We recommend that you migrate to TorchCodec, where we'll consolidate the future decoding/encoding capabilities of PyTorch: https://github.com/pytorch/torchcodec
+  warnings.warn(
+加载 AV-HuBERT...
+就绪
+clips: 91
+[10/91] raw=50.34% norm=42.95%
+[20/91] raw=56.79% norm=49.83%
+[30/91] raw=52.42% norm=46.49%
+[40/91] raw=53.70% norm=46.81%
+[50/91] raw=54.07% norm=46.54%
+[60/91] raw=55.16% norm=47.28%
+[70/91] raw=56.93% norm=48.23%
+[80/91] raw=56.96% norm=47.95%
+[90/91] raw=56.25% norm=47.34%
+
+========================================
+AV-HuBERT BBC
+clips: 91
+Raw WER: 55.93%
+Norm WER: 47.16%
+========================================
+Saved: /root/autodl-tmp/results/avhubert_bbc_full.csv

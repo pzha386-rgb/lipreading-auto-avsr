@@ -1,0 +1,26 @@
+{
+  "model_id": "R2",
+  "dataset": "bbc_speed",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth",
+  "lm": "",
+  "lm_weight": null,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 3161,
+  "total_seconds": 22.8,
+  "n_clips": 21,
+  "errors": 119,
+  "n_words": 318,
+  "wer": 37.42,
+  "mean_seconds": 1.033,
+  "n_failed": 0
+}

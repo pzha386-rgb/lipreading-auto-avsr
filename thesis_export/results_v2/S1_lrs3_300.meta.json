@@ -1,0 +1,14 @@
+{
+  "model_id": "S1",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/S1_autoavsr_1759h.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1322,
+  "total_seconds": 245.9,
+  "n_clips": 300,
+  "errors": 728,
+  "n_words": 2373,
+  "wer": 30.68,
+  "mean_seconds": 0.814,
+  "n_failed": 1
+}

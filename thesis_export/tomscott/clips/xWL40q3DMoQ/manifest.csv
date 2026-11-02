@@ -1,0 +1,109 @@
+video_id,clip_id,path,start,end,dur,text
+xWL40q3DMoQ,clip_0000,xWL40q3DMoQ/clip_0000.mp4,0.120,2.193,2.073,This is test one.
+xWL40q3DMoQ,clip_0001,xWL40q3DMoQ/clip_0001.mp4,8.190,12.120,3.930,"The Catesby Tunnel in Northamptonshire, England used to be for trains."
+xWL40q3DMoQ,clip_0002,xWL40q3DMoQ/clip_0002.mp4,12.120,17.520,5.400,"It was built by the Victorians in 1897, but fell into disrepair after the line that went through it"
+xWL40q3DMoQ,clip_0003,xWL40q3DMoQ/clip_0003.mp4,17.520,20.790,3.270,"was closed in the '60s. It was abandoned for many years,"
+xWL40q3DMoQ,clip_0004,xWL40q3DMoQ/clip_0004.mp4,20.790,24.810,4.020,but now it's a vehicle testing facility. You know a wind tunnel?
+xWL40q3DMoQ,clip_0005,xWL40q3DMoQ/clip_0005.mp4,24.810,30.780,5.970,"This is a more realistic version of that where the air isn't moving, but the car definitely is."
+xWL40q3DMoQ,clip_0006,xWL40q3DMoQ/clip_0006.mp4,30.780,36.053,5.273,"So Catesby Tunnel is 2.7km long. It's got a cross section of 42m², perfectly straight."
+xWL40q3DMoQ,clip_0007,xWL40q3DMoQ/clip_0007.mp4,36.053,39.300,3.247,It's quite an amazing feat considering the Victorians built it without a laser level.
+xWL40q3DMoQ,clip_0008,xWL40q3DMoQ/clip_0008.mp4,39.300,43.170,3.870,"Obviously the surface of the earth is curved, but Catesby Tunnel is flat."
+xWL40q3DMoQ,clip_0009,xWL40q3DMoQ/clip_0009.mp4,43.170,48.420,5.250,"So if you put a laser line along it, we're within 3mm of being off that laser line."
+xWL40q3DMoQ,clip_0010,xWL40q3DMoQ/clip_0010.mp4,48.420,52.470,4.050,"But when we first inquired about repurposing Catesby Tunnel, it was totally derelict."
+xWL40q3DMoQ,clip_0011,xWL40q3DMoQ/clip_0011.mp4,52.470,57.210,4.740,"They'd ripped up the track, they'd taken away the ballast, they'd destroyed the drainage. So at the far end,"
+xWL40q3DMoQ,clip_0012,xWL40q3DMoQ/clip_0012.mp4,57.210,61.710,4.500,the tunnel was actually knee-deep in water. There were no facilities or utilities here.
+xWL40q3DMoQ,clip_0013,xWL40q3DMoQ/clip_0013.mp4,61.710,65.610,3.900,There were bats living within the tunnel that we had to tread carefully around.
+xWL40q3DMoQ,clip_0014,xWL40q3DMoQ/clip_0014.mp4,65.610,70.046,4.436,"So at the far end of the tunnel, they've actually got their own ""bat hotel"". When we test outside,"
+xWL40q3DMoQ,clip_0015,xWL40q3DMoQ/clip_0015.mp4,70.046,73.800,3.754,"we've got the wind, we've got the rain, we've got other vehicles, we've got lumps and bumps in the road."
+xWL40q3DMoQ,clip_0016,xWL40q3DMoQ/clip_0016.mp4,73.800,77.910,4.110,We want to remove those and make this controlled a condition as possible so that the test
+xWL40q3DMoQ,clip_0017,xWL40q3DMoQ/clip_0017.mp4,77.910,82.230,4.320,"is only seeing the changes that we're looking for. We're doing a ""coast-down test"" here."
+xWL40q3DMoQ,clip_0018,xWL40q3DMoQ/clip_0018.mp4,82.230,87.540,5.310,"Julian got the car up to 130km/h, very quickly, and then he took his foot off the accelerator"
+xWL40q3DMoQ,clip_0019,xWL40q3DMoQ/clip_0019.mp4,87.540,91.020,3.480,and just let it coast in neutral. This tunnel's long enough that there'll be a couple
+xWL40q3DMoQ,clip_0020,xWL40q3DMoQ/clip_0020.mp4,91.020,96.480,5.460,"of minutes before he has to touch the brakes. From that, you can work out the drag and friction forces,"
+xWL40q3DMoQ,clip_0021,xWL40q3DMoQ/clip_0021.mp4,96.480,99.630,3.150,which is really useful data for car manufacturers.
+xWL40q3DMoQ,clip_0022,xWL40q3DMoQ/clip_0022.mp4,99.630,104.240,4.610,"Because Catesby Tunnel is a bit different to a normal wind tunnel, we have to collect data on board."
+xWL40q3DMoQ,clip_0023,xWL40q3DMoQ/clip_0023.mp4,104.240,107.490,3.250,"We can't use GPS, because we can't see the satellites in the sky."
+xWL40q3DMoQ,clip_0024,xWL40q3DMoQ/clip_0024.mp4,107.490,113.040,5.550,The approach that we've come to is an image-based system. There's 1200 tags now in the tunnels
+xWL40q3DMoQ,clip_0025,xWL40q3DMoQ/clip_0025.mp4,113.040,116.760,3.720,"and they are 5m apart, and they've been surveyed"
+xWL40q3DMoQ,clip_0026,xWL40q3DMoQ/clip_0026.mp4,116.760,119.880,3.120,"to within a few millimeters, each position."
+xWL40q3DMoQ,clip_0027,xWL40q3DMoQ/clip_0027.mp4,119.880,123.600,3.720,"And then we measure the time it takes to go between each tag,"
+xWL40q3DMoQ,clip_0028,xWL40q3DMoQ/clip_0028.mp4,123.600,128.040,4.440,and that's picked up by this high speed camera that's working a hundred times a second.
+xWL40q3DMoQ,clip_0029,xWL40q3DMoQ/clip_0029.mp4,128.040,131.190,3.150,And that gives us a very high accuracy
+xWL40q3DMoQ,clip_0030,xWL40q3DMoQ/clip_0030.mp4,131.190,134.250,3.060,for speed of about a hundredth of a kilometer an hour.
+xWL40q3DMoQ,clip_0031,xWL40q3DMoQ/clip_0031.mp4,134.250,137.430,3.180,"The tunnel is a fantastic place for this kind of measurement,"
+xWL40q3DMoQ,clip_0032,xWL40q3DMoQ/clip_0032.mp4,137.430,142.290,4.860,because there is no extraneous sunlight and sunlight is very difficult to cope with
+xWL40q3DMoQ,clip_0033,xWL40q3DMoQ/clip_0033.mp4,142.290,145.950,3.660,"when you are working with infrared. But I said that this was test one,"
+xWL40q3DMoQ,clip_0034,xWL40q3DMoQ/clip_0034.mp4,145.950,149.130,3.180,"and it was, I wasn't lying. But like any video about cars,"
+xWL40q3DMoQ,clip_0035,xWL40q3DMoQ/clip_0035.mp4,149.130,153.180,4.050,you didn't see it from just one angle. There were camera shots from all around the tunnel
+xWL40q3DMoQ,clip_0036,xWL40q3DMoQ/clip_0036.mp4,153.180,156.840,3.660,to get different angles and keep it interesting. There were shots from cameras that were attached
+xWL40q3DMoQ,clip_0037,xWL40q3DMoQ/clip_0037.mp4,156.840,161.317,4.477,to the car with suction cups for dynamic shots from almost impossible angles.
+xWL40q3DMoQ,clip_0038,xWL40q3DMoQ/clip_0038.mp4,161.317,166.410,5.093,"But this is a proper glossy car video. We don't want to see those suction cup cameras from outside,"
+xWL40q3DMoQ,clip_0039,xWL40q3DMoQ/clip_0039.mp4,166.410,171.150,4.740,"and beside, we've only got two of them, and we don't want to see the camera operator in the back either 'cause he's not there."
+xWL40q3DMoQ,clip_0040,xWL40q3DMoQ/clip_0040.mp4,171.150,175.560,4.410,There's got to be a little bit of unreality to this that no one will notice once it's all edited together.
+xWL40q3DMoQ,clip_0041,xWL40q3DMoQ/clip_0041.mp4,175.560,179.850,4.290,"So when I said this is test one, that is actually true. This right now is test one,"
+xWL40q3DMoQ,clip_0042,xWL40q3DMoQ/clip_0042.mp4,179.850,184.200,4.350,"but the shots from outside, we haven't filmed them yet. We're going to have to go back and forth"
+xWL40q3DMoQ,clip_0043,xWL40q3DMoQ/clip_0043.mp4,184.200,187.890,3.690,"in this tunnel 15, 20 times before we've got every angle we need"
+xWL40q3DMoQ,clip_0044,xWL40q3DMoQ/clip_0044.mp4,187.890,190.920,3.030,to make this look interesting. So I had a thought.
+xWL40q3DMoQ,clip_0045,xWL40q3DMoQ/clip_0045.mp4,190.920,195.750,4.830,"Do those cameras actually affect the results? If you've got a camera on the outside of your car,"
+xWL40q3DMoQ,clip_0046,xWL40q3DMoQ/clip_0046.mp4,195.750,198.213,2.463,how much more fuel are you actually using?
+xWL40q3DMoQ,clip_0047,xWL40q3DMoQ/clip_0047.mp4,202.380,206.023,3.643,How's that for timing? Good timing. Spot on!
+xWL40q3DMoQ,clip_0048,xWL40q3DMoQ/clip_0048.mp4,206.023,210.270,4.247,"Typically, we go out and back for a test and average over both of those sections."
+xWL40q3DMoQ,clip_0049,xWL40q3DMoQ/clip_0049.mp4,210.270,215.040,4.770,We have a turntable at each end. The turntable takes about 20 seconds to turn around.
+xWL40q3DMoQ,clip_0050,xWL40q3DMoQ/clip_0050.mp4,215.040,219.450,4.410,"We don't have access at the far end of the tunnel, so we have to turn around inside."
+xWL40q3DMoQ,clip_0051,xWL40q3DMoQ/clip_0051.mp4,219.450,223.530,4.080,It saves doing an Austin Powers 37-point turn at the far end.
+xWL40q3DMoQ,clip_0052,xWL40q3DMoQ/clip_0052.mp4,223.530,228.499,4.969,So exactly the same test the other way. Yes. Okay. Go for it.
+xWL40q3DMoQ,clip_0053,xWL40q3DMoQ/clip_0053.mp4,232.980,236.520,3.540,"In order to get the best accuracy, the driver has to be very consistent"
+xWL40q3DMoQ,clip_0054,xWL40q3DMoQ/clip_0054.mp4,236.520,239.589,3.069,and he has to do the same thing time after time.
+xWL40q3DMoQ,clip_0055,xWL40q3DMoQ/clip_0055.mp4,239.589,244.800,5.211,"You have to drive in a very straight line. So any deviation, that adds to the distance"
+xWL40q3DMoQ,clip_0056,xWL40q3DMoQ/clip_0056.mp4,244.800,249.600,4.800,"and the drag that the car's experiencing. You can start off at pretty much any speed,"
+xWL40q3DMoQ,clip_0057,xWL40q3DMoQ/clip_0057.mp4,249.600,253.590,3.990,as long as it's above the start of your coast-down speed.
+xWL40q3DMoQ,clip_0058,xWL40q3DMoQ/clip_0058.mp4,253.590,257.400,3.810,"You want to let the car settle a bit, because the moment you put it into neutral,"
+xWL40q3DMoQ,clip_0059,xWL40q3DMoQ/clip_0059.mp4,257.400,262.578,5.178,"the car will start to rock backwards and forwards a little bit, and all these little things all add up."
+xWL40q3DMoQ,clip_0060,xWL40q3DMoQ/clip_0060.mp4,262.578,267.053,4.475,Is that a garage door opener? It is. Just for the turntable? Yeah. That's nice. Smart.
+xWL40q3DMoQ,clip_0061,xWL40q3DMoQ/clip_0061.mp4,268.050,273.000,4.950,"I feel like this needs the music from ""Thunderbirds."" So the whole idea of Catesby Tunnel"
+xWL40q3DMoQ,clip_0062,xWL40q3DMoQ/clip_0062.mp4,273.000,277.980,4.980,is to create constant atmospheric conditions. We shut the doors at both ends and we seal the tunnel
+xWL40q3DMoQ,clip_0063,xWL40q3DMoQ/clip_0063.mp4,277.980,281.040,3.060,"so that there's no wind coming through it. Because we're surrounded by earth,"
+xWL40q3DMoQ,clip_0064,xWL40q3DMoQ/clip_0064.mp4,281.040,285.420,4.380,it actually means that the temperature within the tunnel is within one or two degrees all year round.
+xWL40q3DMoQ,clip_0065,xWL40q3DMoQ/clip_0065.mp4,285.420,289.650,4.230,"We had the Aston Martin Valkyrie in the tunnel, we've had cyclists in here during drafting,"
+xWL40q3DMoQ,clip_0066,xWL40q3DMoQ/clip_0066.mp4,289.650,294.150,4.500,"which is fairly unique, something that you can't do in other places. One of the biggest issues is"
+xWL40q3DMoQ,clip_0067,xWL40q3DMoQ/clip_0067.mp4,294.150,299.910,5.760,"what happens if there's an accident in the tunnel and how do we get to them? So throughout every test, we have a fire safety team on site."
+xWL40q3DMoQ,clip_0068,xWL40q3DMoQ/clip_0068.mp4,299.910,305.490,5.580,They're there to respond if there is an accident. There is a very slight gradient to this tunnel
+xWL40q3DMoQ,clip_0069,xWL40q3DMoQ/clip_0069.mp4,305.490,310.381,4.891,"and while I'm sure some of the marketing team would be very happy if it was perfectly flat,"
+xWL40q3DMoQ,clip_0070,xWL40q3DMoQ/clip_0070.mp4,310.381,313.710,3.329,"turns out there is a little bit of an advantage to that gradient,"
+xWL40q3DMoQ,clip_0071,xWL40q3DMoQ/clip_0071.mp4,313.710,317.010,3.300,"because drag increases with the square of speed,"
+xWL40q3DMoQ,clip_0072,xWL40q3DMoQ/clip_0072.mp4,317.010,321.180,4.170,but friction increases linearly. So if you have one test going very slightly downhill
+xWL40q3DMoQ,clip_0073,xWL40q3DMoQ/clip_0073.mp4,321.180,325.680,4.500,"and one test going very slightly uphill, in theory you can separate those two factors"
+xWL40q3DMoQ,clip_0074,xWL40q3DMoQ/clip_0074.mp4,325.680,330.180,4.500,out from each other with a lot of maths that I do not understand.
+xWL40q3DMoQ,clip_0075,xWL40q3DMoQ/clip_0075.mp4,330.180,334.830,4.650,"The Catesby Tunnel surface is an asphalt surface, typical of an A-road that you would see outside,"
+xWL40q3DMoQ,clip_0076,xWL40q3DMoQ/clip_0076.mp4,334.830,338.850,4.020,but just finished to as high tolerance as we can get. I do like how you stick
+xWL40q3DMoQ,clip_0077,xWL40q3DMoQ/clip_0077.mp4,338.850,342.810,3.960,"to one side of the tunnel, like it's a two-way road. It just seems wrong barreling that fast"
+xWL40q3DMoQ,clip_0078,xWL40q3DMoQ/clip_0078.mp4,342.810,346.290,3.480,"down the center of a road. Yeah. And also, for consistency,"
+xWL40q3DMoQ,clip_0079,xWL40q3DMoQ/clip_0079.mp4,346.290,349.560,3.270,"for the aerodynamic wake. Oh of course, it'll be different depending"
+xWL40q3DMoQ,clip_0080,xWL40q3DMoQ/clip_0080.mp4,349.560,351.303,1.743,on where you are in the tunnel.
+xWL40q3DMoQ,clip_0081,xWL40q3DMoQ/clip_0081.mp4,358.320,362.520,4.200,So I've been kept in the dark for about 20 minutes now while you wrangle data.
+xWL40q3DMoQ,clip_0082,xWL40q3DMoQ/clip_0082.mp4,362.520,366.630,4.110,"What do we have? Well, this is an example of one of the coast-down tests."
+xWL40q3DMoQ,clip_0083,xWL40q3DMoQ/clip_0083.mp4,366.630,372.570,5.940,"The dark blue line is the speed. So that's us accelerating rapidly up to 130,"
+xWL40q3DMoQ,clip_0084,xWL40q3DMoQ/clip_0084.mp4,372.570,376.800,4.230,then pop it into neutral and then coast down to about 40.
+xWL40q3DMoQ,clip_0085,xWL40q3DMoQ/clip_0085.mp4,376.800,379.650,2.850,And then brake so you don't hit the barrels. And then brake so I don't hit the barrels.
+xWL40q3DMoQ,clip_0086,xWL40q3DMoQ/clip_0086.mp4,379.650,383.663,4.013,So we had four or five runs with a clean car. Yeah.
+xWL40q3DMoQ,clip_0087,xWL40q3DMoQ/clip_0087.mp4,383.663,387.660,3.997,"We had five, six runs with the GoPros in varying configurations."
+xWL40q3DMoQ,clip_0088,xWL40q3DMoQ/clip_0088.mp4,387.660,391.950,4.290,"So we've got some sort of drag from some sort of camera. Yes, exactly. Alright."
+xWL40q3DMoQ,clip_0089,xWL40q3DMoQ/clip_0089.mp4,391.950,396.270,4.320,"And you can see, from 130 to 120 kilometers an hour,"
+xWL40q3DMoQ,clip_0090,xWL40q3DMoQ/clip_0090.mp4,396.270,400.141,3.871,it took 7.04 that time and 7.03 that time.
+xWL40q3DMoQ,clip_0091,xWL40q3DMoQ/clip_0091.mp4,400.141,403.590,3.449,So a hundredth of a second difference. That's so close. You wouldn't get that outside.
+xWL40q3DMoQ,clip_0092,xWL40q3DMoQ/clip_0092.mp4,403.590,407.700,4.110,"Yeah. It just wouldn't happen. And then with the GoPros on,"
+xWL40q3DMoQ,clip_0093,xWL40q3DMoQ/clip_0093.mp4,407.700,411.210,3.510,"from 130 to 120, took 6.98 and 6.97."
+xWL40q3DMoQ,clip_0094,xWL40q3DMoQ/clip_0094.mp4,411.210,414.767,3.557,"Again, hundredth of a second difference. Yep. Incredible."
+xWL40q3DMoQ,clip_0095,xWL40q3DMoQ/clip_0095.mp4,414.767,418.950,4.183,But there is a very noticeable difference between having a clean car
+xWL40q3DMoQ,clip_0096,xWL40q3DMoQ/clip_0096.mp4,418.950,421.590,2.640,and when you've got the GoPros on the outside.
+xWL40q3DMoQ,clip_0097,xWL40q3DMoQ/clip_0097.mp4,421.590,425.850,4.260,It's measuring just a small difference of about 0.8% between the two.
+xWL40q3DMoQ,clip_0098,xWL40q3DMoQ/clip_0098.mp4,425.850,429.990,4.140,And does that map to fuel usage? Yes. And this is not the most scientific test.
+xWL40q3DMoQ,clip_0099,xWL40q3DMoQ/clip_0099.mp4,429.990,434.190,4.200,"We did a couple runs, the GoPros were all over the place, but there is enough drag from them"
+xWL40q3DMoQ,clip_0100,xWL40q3DMoQ/clip_0100.mp4,434.190,437.550,3.360,that you can measure it in there? Yes. And there would be some effect on fuel.
+xWL40q3DMoQ,clip_0101,xWL40q3DMoQ/clip_0101.mp4,437.550,442.020,4.470,"Yes. Now of course, we were using the ideal car for this test,"
+xWL40q3DMoQ,clip_0102,xWL40q3DMoQ/clip_0102.mp4,442.020,445.970,3.950,"because the weight doesn't change from test to test. Right, it's electric. Whereas,"
+xWL40q3DMoQ,clip_0103,xWL40q3DMoQ/clip_0103.mp4,445.970,449.430,3.460,"in a fossil fuel car, of course, you've got to make sure"
+xWL40q3DMoQ,clip_0104,xWL40q3DMoQ/clip_0104.mp4,449.430,453.840,4.410,that you don't let that tank go too empty. And there's lots of things you have to take into account.
+xWL40q3DMoQ,clip_0105,xWL40q3DMoQ/clip_0105.mp4,453.840,458.130,4.290,Yeah. So there's roughly 0.8% more drag on the car
+xWL40q3DMoQ,clip_0106,xWL40q3DMoQ/clip_0106.mp4,458.130,462.690,4.560,"from sticking a couple of GoPros somewhere. Yes, absolutely."
+xWL40q3DMoQ,clip_0107,xWL40q3DMoQ/clip_0107.mp4,462.690,466.620,3.930,That's the closest I've got to science in a long time. Thank you very much. No problem. Thank you.

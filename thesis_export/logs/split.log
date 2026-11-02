@@ -1,0 +1,4 @@
+TEST :  10 videos    435 clips    30.2 min
+VAL  :   4 videos    214 clips    15.1 min
+TRAIN: 146 videos   3712 clips   257.3 min
+saved /root/autodl-tmp/cache/tomscott_split.json, tomscott_test/, tomscott_val/

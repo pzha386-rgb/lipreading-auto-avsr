@@ -1,0 +1,27 @@
+权重直接加载成功
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 151 clips, 11.0 min   val: 17 clips
+epoch 0  val loss 81.916  (before LoRA)
+epoch  1  train 85.220  val 82.074  * saved   (0.0 min)
+epoch  2  train 81.015  val 77.386  * saved   (0.1 min)
+epoch  3  train 75.070  val 74.006  * saved   (0.1 min)
+epoch  4  train 70.105  val 71.709  * saved   (0.1 min)
+epoch  5  train 66.924  val 67.703  * saved   (0.1 min)
+epoch  6  train 63.493  val 68.574   (0.2 min)
+epoch  7  train 61.774  val 67.045  * saved   (0.2 min)
+epoch  8  train 60.681  val 66.190  * saved   (0.2 min)
+epoch  9  train 59.084  val 66.464   (0.2 min)
+epoch 10  train 58.312  val 66.180  * saved   (0.3 min)
+epoch 11  train 57.012  val 65.947  * saved   (0.3 min)
+epoch 12  train 56.686  val 66.225   (0.3 min)
+epoch 13  train 55.881  val 66.239   (0.3 min)
+epoch 14  train 55.812  val 66.205   (0.4 min)
+epoch 15  train 55.209  val 66.207   (0.4 min)
+early stop
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/stacked_jack_v2/merged.pth
+
+DONE  best val loss 65.947 (start 81.916)
+evaluate:  python -u eval_autoavsr_nbest.py --id L0 --ckpt /root/autodl-tmp/adapt_lora/stacked_jack_v2/merged.pth --dataset tomscott_test

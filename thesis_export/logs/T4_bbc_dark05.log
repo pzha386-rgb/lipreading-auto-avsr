@@ -1,0 +1,15 @@
+===== T4 on bbc_dark05 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+Load pretrained model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[20/91] WER so far 41.69%  (2.0s)
+[40/91] WER so far 35.19%  (2.6s)
+[60/91] WER so far 37.53%  (3.1s)
+[80/91] WER so far 38.38%  (3.0s)
+==================================================
+T4  bbc_dark05
+clips: 91   failed: 0   WER: 38.21%
+mean seconds/clip: 3.213
+saved: /root/autodl-tmp/results_v2/T4_bbc_dark05.csv
+==================================================

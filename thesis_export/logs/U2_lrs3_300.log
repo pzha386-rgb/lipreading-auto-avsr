@@ -1,0 +1,26 @@
+===== U2 on lrs3_300 =====
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+官方解码配置: beam=40 ctc=0.1 penalty=0.0  -> 本次使用 beam=40 ctc=0.1
+参数量: 171.1 M
+[20/300] WER so far 19.76%  (3.43s)
+[40/300] WER so far 25.16%  (0.68s)
+[60/300] WER so far 28.89%  (0.93s)
+[80/300] WER so far 28.60%  (1.15s)
+[100/300] WER so far 29.76%  (0.75s)
+[120/300] WER so far 28.49%  (2.49s)
+[140/300] WER so far 28.38%  (1.27s)
+[160/300] WER so far 29.79%  (0.72s)
+[180/300] WER so far 28.96%  (3.43s)
+[200/300] WER so far 30.15%  (3.92s)
+[220/300] WER so far 30.84%  (1.70s)
+[240/300] WER so far 30.58%  (1.62s)
+[260/300] WER so far 30.90%  (1.63s)
+[280/300] WER so far 31.18%  (1.35s)
+[300/300] WER so far 31.27%  (0.63s)
+==================================================
+U2  lrs3_300
+clips: 300   failed: 0   WER: 31.27%
+mean seconds/clip: 1.214
+saved: /root/autodl-tmp/results_v2/U2_lrs3_300.csv
+==================================================

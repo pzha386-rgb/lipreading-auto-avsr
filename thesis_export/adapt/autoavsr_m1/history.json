@@ -1,0 +1,50 @@
+{
+  "args": {
+    "ckpt": "/root/autodl-tmp/checkpoints/new/S1_autoavsr_1759h.pth",
+    "convert_fn": "",
+    "minutes": 1.0,
+    "name": "multispeaker_train",
+    "out": "",
+    "lr": 1e-05,
+    "weight_decay": 0.1,
+    "epochs": 10,
+    "patience": 3,
+    "max_frames": 2000,
+    "no_freeze": false,
+    "freeze_layers": -1,
+    "anchor": 0.01,
+    "seed": 0,
+    "check": false
+  },
+  "train_min": 0.9733333333333333,
+  "history": [
+    {
+      "epoch": 0,
+      "val_loss": 70.05927736451025
+    },
+    {
+      "epoch": 1,
+      "train_loss": 82.89949798583984,
+      "val_loss": 70.09453680077378,
+      "minutes": 0.22747765779495238
+    },
+    {
+      "epoch": 2,
+      "train_loss": 80.65396881103516,
+      "val_loss": 70.12781600692645,
+      "minutes": 0.3820760528246562
+    },
+    {
+      "epoch": 3,
+      "train_loss": 76.71663665771484,
+      "val_loss": 70.16368654212174,
+      "minutes": 0.49320760170618694
+    },
+    {
+      "epoch": 4,
+      "train_loss": 77.1498031616211,
+      "val_loss": 70.19050484741626,
+      "minutes": 0.6044943610827128
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+===== T1 on bbc_drop25 =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+参数量: 250.4 M
+[20/91] WER so far 33.90%  (2.78s)
+[40/91] WER so far 29.79%  (2.56s)
+[60/91] WER so far 32.65%  (3.24s)
+[80/91] WER so far 34.29%  (3.62s)
+==================================================
+T1  bbc_drop25
+clips: 91   failed: 0   WER: 33.84%
+mean seconds/clip: 2.984
+saved: /root/autodl-tmp/results_v2/T1_bbc_drop25.csv
+==================================================

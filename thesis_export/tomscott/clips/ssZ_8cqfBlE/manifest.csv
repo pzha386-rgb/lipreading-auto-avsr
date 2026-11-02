@@ -1,0 +1,68 @@
+video_id,clip_id,path,start,end,dur,text
+ssZ_8cqfBlE,clip_0000,ssZ_8cqfBlE/clip_0000.mp4,0.220,5.671,5.451,"This is a grocery packing warehouse in the south-east of London. Folks have ordered their groceries online, and instead of people walking"
+ssZ_8cqfBlE,clip_0001,ssZ_8cqfBlE/clip_0001.mp4,5.671,9.030,3.359,"up and down the aisles of a traditional grocery store to pick up items,"
+ssZ_8cqfBlE,clip_0002,ssZ_8cqfBlE/clip_0002.mp4,9.030,13.440,4.410,these little devices move more than a million items every day between them.
+ssZ_8cqfBlE,clip_0003,ssZ_8cqfBlE/clip_0003.mp4,13.440,16.640,3.200,"Instead of trying to build machines that fit into a world designed for humans,"
+ssZ_8cqfBlE,clip_0004,ssZ_8cqfBlE/clip_0004.mp4,16.640,20.190,3.550,"this entire facility, the size of seven football fields,"
+ssZ_8cqfBlE,clip_0005,ssZ_8cqfBlE/clip_0005.mp4,20.190,25.010,4.820,is custom-built to make this as efficient as possible. I cannot get across on camera
+ssZ_8cqfBlE,clip_0006,ssZ_8cqfBlE/clip_0006.mp4,25.010,29.710,4.700,just how incredibly large this whole place is.
+ssZ_8cqfBlE,clip_0007,ssZ_8cqfBlE/clip_0007.mp4,29.710,35.287,5.577,The top speed of those boxes is about 14 kilometres an hour and they pass within five millimetres of each other when they move.
+ssZ_8cqfBlE,clip_0008,ssZ_8cqfBlE/clip_0008.mp4,35.287,39.590,4.303,So: how many robots are there in the Hive?
+ssZ_8cqfBlE,clip_0009,ssZ_8cqfBlE/clip_0009.mp4,39.920,44.884,4.964,"Well, that depends on how you count them. What you're looking at behind me is the Hive."
+ssZ_8cqfBlE,clip_0010,ssZ_8cqfBlE/clip_0010.mp4,44.884,49.570,4.686,"We've got the grid, which is the metal structure, it's filled with products,"
+ssZ_8cqfBlE,clip_0011,ssZ_8cqfBlE/clip_0011.mp4,49.570,52.377,2.807,so that product is housed within what we call totes
+ssZ_8cqfBlE,clip_0012,ssZ_8cqfBlE/clip_0012.mp4,52.377,56.050,3.673,or these open boxes that you can see at the top of the grid.
+ssZ_8cqfBlE,clip_0013,ssZ_8cqfBlE/clip_0013.mp4,56.050,60.740,4.690,"We have around 2,300 bots and they move the stock around the warehouse,"
+ssZ_8cqfBlE,clip_0014,ssZ_8cqfBlE/clip_0014.mp4,60.740,64.140,3.400,so that we can pair it up with customer orders to be delivered.
+ssZ_8cqfBlE,clip_0015,ssZ_8cqfBlE/clip_0015.mp4,64.140,68.730,4.590,"The bots will move in the X and Y direction, they can also move in the Z direction."
+ssZ_8cqfBlE,clip_0016,ssZ_8cqfBlE/clip_0016.mp4,68.730,73.890,5.160,So we have a cable hoist system. That means that they can lower down a gripper assembly
+ssZ_8cqfBlE,clip_0017,ssZ_8cqfBlE/clip_0017.mp4,73.890,76.850,2.960,and grab onto the stock that we have in the grid.
+ssZ_8cqfBlE,clip_0018,ssZ_8cqfBlE/clip_0018.mp4,76.850,81.540,4.690,"In some areas we have as deep as 21 totes, all in a line."
+ssZ_8cqfBlE,clip_0019,ssZ_8cqfBlE/clip_0019.mp4,81.540,87.440,5.900,"We have sensors underneath the bot, that mean that every time it passes over one of the squares on the grid,"
+ssZ_8cqfBlE,clip_0020,ssZ_8cqfBlE/clip_0020.mp4,87.440,90.890,3.450,"it has a laser underneath it, that can tell when it moves over that cell."
+ssZ_8cqfBlE,clip_0021,ssZ_8cqfBlE/clip_0021.mp4,90.890,94.850,3.960,"So it will say ""I passed a cell, I passed a cell, I passed a cell."""
+ssZ_8cqfBlE,clip_0022,ssZ_8cqfBlE/clip_0022.mp4,94.850,99.530,4.680,"We have around 58,000 different types of individual products within the grid."
+ssZ_8cqfBlE,clip_0023,ssZ_8cqfBlE/clip_0023.mp4,99.530,104.783,5.253,We'll use the huge amounts of data that we gather to understand what customers are most likely to order
+ssZ_8cqfBlE,clip_0024,ssZ_8cqfBlE/clip_0024.mp4,104.783,108.160,3.377,and place them in the easiest to reach locations for bots.
+ssZ_8cqfBlE,clip_0025,ssZ_8cqfBlE/clip_0025.mp4,108.160,113.670,5.510,"All of that combined means that we can have stock into the warehouse and out again from our suppliers,"
+ssZ_8cqfBlE,clip_0026,ssZ_8cqfBlE/clip_0026.mp4,113.670,118.780,5.110,"into a delivery van, in just five hours. The robots deliver their crates over to the packing area."
+ssZ_8cqfBlE,clip_0027,ssZ_8cqfBlE/clip_0027.mp4,118.780,122.720,3.940,"Some of that packing is done by humans, but there are mechanical arms as well."
+ssZ_8cqfBlE,clip_0028,ssZ_8cqfBlE/clip_0028.mp4,122.720,126.972,4.252,"One of the big problems they've got to solve is that grocery packaging is designed for people,"
+ssZ_8cqfBlE,clip_0029,ssZ_8cqfBlE/clip_0029.mp4,126.972,130.840,3.868,and the interactions between all the objects they deal with can be... complicated.
+ssZ_8cqfBlE,clip_0030,ssZ_8cqfBlE/clip_0030.mp4,130.840,135.900,5.060,"Currently, we're standing underneath the grid structure that we saw earlier. The robots that we saw"
+ssZ_8cqfBlE,clip_0031,ssZ_8cqfBlE/clip_0031.mp4,135.900,140.860,4.960,"are actually dropping off products to the station. Once they're dropped off, they become in control of the robot"
+ssZ_8cqfBlE,clip_0032,ssZ_8cqfBlE/clip_0032.mp4,140.860,145.990,5.130,"and the robot decides how to pick them, before the grid robot picks up their tote and takes it away again."
+ssZ_8cqfBlE,clip_0033,ssZ_8cqfBlE/clip_0033.mp4,145.990,151.272,5.282,"There's two 3D cameras above the totes, so it takes an image of the storage box before it picks from it"
+ssZ_8cqfBlE,clip_0034,ssZ_8cqfBlE/clip_0034.mp4,151.272,156.200,4.928,"decides on the best grasp point, confirm that the product is correct, and then place it into a customer's shopping"
+ssZ_8cqfBlE,clip_0035,ssZ_8cqfBlE/clip_0035.mp4,156.200,160.923,4.723,and it's doing all of that on live customer orders. We make sure that we don't mix something that was heavy
+ssZ_8cqfBlE,clip_0036,ssZ_8cqfBlE/clip_0036.mp4,160.923,163.710,2.787,"with something that's soft. There are things that the robot can't pack,"
+ssZ_8cqfBlE,clip_0037,ssZ_8cqfBlE/clip_0037.mp4,163.710,167.190,3.480,"things such as very, very heavy, very large or very fragile items,"
+ssZ_8cqfBlE,clip_0038,ssZ_8cqfBlE/clip_0038.mp4,167.190,172.532,5.342,"but there's a lot of range in between that. It's fairly safe to call each individual packing arm ""a robot""."
+ssZ_8cqfBlE,clip_0039,ssZ_8cqfBlE/clip_0039.mp4,172.532,176.280,3.748,Each one has a separate controller and it has to make a lot of decisions in real time
+ssZ_8cqfBlE,clip_0040,ssZ_8cqfBlE/clip_0040.mp4,176.280,181.871,5.591,"using cameras and sensors on each individual arm. But here in the Hive, it's not quite as simple."
+ssZ_8cqfBlE,clip_0041,ssZ_8cqfBlE/clip_0041.mp4,181.871,185.680,3.809,"Controlling all of this is what we refer to as the Hive Mind,"
+ssZ_8cqfBlE,clip_0042,ssZ_8cqfBlE/clip_0042.mp4,185.680,189.910,4.230,so this artificial intelligence system that controls everything.
+ssZ_8cqfBlE,clip_0043,ssZ_8cqfBlE/clip_0043.mp4,189.910,194.010,4.100,"Once the stock comes in, from that exact point that it enters the system,"
+ssZ_8cqfBlE,clip_0044,ssZ_8cqfBlE/clip_0044.mp4,194.010,196.550,2.540,the Hive Mind will track its every single movement.
+ssZ_8cqfBlE,clip_0045,ssZ_8cqfBlE/clip_0045.mp4,196.550,200.170,3.620,"The Hive Mind will tell the bots exactly where they need to stop,"
+ssZ_8cqfBlE,clip_0046,ssZ_8cqfBlE/clip_0046.mp4,200.170,205.030,4.860,but it is the bot's control system that allows it to follow a movement profile
+ssZ_8cqfBlE,clip_0047,ssZ_8cqfBlE/clip_0047.mp4,205.030,210.830,5.800,"and stop exactly as the hive mind expects it to. There's just a 5mm gap between bots,"
+ssZ_8cqfBlE,clip_0048,ssZ_8cqfBlE/clip_0048.mp4,210.830,215.320,4.490,so that's both as they pass each other and if they stop next to a bot as well.
+ssZ_8cqfBlE,clip_0049,ssZ_8cqfBlE/clip_0049.mp4,215.320,219.740,4.420,This bot with the orange light may have experienced something within its sensors
+ssZ_8cqfBlE,clip_0050,ssZ_8cqfBlE/clip_0050.mp4,219.740,224.650,4.910,"and all of those readings it's taking, that when it feeds that back to the Hive Mind,"
+ssZ_8cqfBlE,clip_0051,ssZ_8cqfBlE/clip_0051.mp4,224.650,227.450,2.800,"it's not quite what the Hive Mind was expecting,"
+ssZ_8cqfBlE,clip_0052,ssZ_8cqfBlE/clip_0052.mp4,227.450,230.740,3.290,so it just brings it to a safe stop for investigation.
+ssZ_8cqfBlE,clip_0053,ssZ_8cqfBlE/clip_0053.mp4,230.740,235.480,4.740,We do have a number of grid operators that sit at the edge of the grid
+ssZ_8cqfBlE,clip_0054,ssZ_8cqfBlE/clip_0054.mp4,235.480,239.650,4.170,and they're able to use our CCTV system that we have above the grid
+ssZ_8cqfBlE,clip_0055,ssZ_8cqfBlE/clip_0055.mp4,239.650,242.380,2.730,to look at exactly what's going on with that bot
+ssZ_8cqfBlE,clip_0056,ssZ_8cqfBlE/clip_0056.mp4,242.380,246.416,4.036,and they can try and fix that remotely and send commands to the bot wirelessly.
+ssZ_8cqfBlE,clip_0057,ssZ_8cqfBlE/clip_0057.mp4,246.416,249.707,3.291,"The boundary between ""individual"" and ""group"" is a little blurry."
+ssZ_8cqfBlE,clip_0058,ssZ_8cqfBlE/clip_0058.mp4,249.707,254.090,4.383,"Is a termite colony a collection of individuals working together, or one big superorganism?"
+ssZ_8cqfBlE,clip_0059,ssZ_8cqfBlE/clip_0059.mp4,254.090,259.050,4.960,Is the microbiome in your gut part of you? Because in the last couple of decades scientists have started to work out
+ssZ_8cqfBlE,clip_0060,ssZ_8cqfBlE/clip_0060.mp4,259.050,263.400,4.350,that the bacteria in your digestive system produce and consume neurotransmitters
+ssZ_8cqfBlE,clip_0061,ssZ_8cqfBlE/clip_0061.mp4,263.400,269.054,5.654,"that affect how you think. But most people wouldn't consider their gut bacteria to be ""part of them""."
+ssZ_8cqfBlE,clip_0062,ssZ_8cqfBlE/clip_0062.mp4,269.054,273.450,4.396,We tend to ascribe intelligence and identity to things that act at roughly our scale.
+ssZ_8cqfBlE,clip_0063,ssZ_8cqfBlE/clip_0063.mp4,273.450,277.861,4.411,"It's easy to look at the Hive, see the moving boxes and go, ""okay, 2000 robots""."
+ssZ_8cqfBlE,clip_0064,ssZ_8cqfBlE/clip_0064.mp4,277.861,282.190,4.329,"But with only one controller and the boxes just following the paths they're given,"
+ssZ_8cqfBlE,clip_0065,ssZ_8cqfBlE/clip_0065.mp4,282.190,287.806,5.616,"I'd say there's a good argument that that is one robot... with 2,000 ways to interact with the world."
+ssZ_8cqfBlE,clip_0066,ssZ_8cqfBlE/clip_0066.mp4,288.253,294.163,5.910,Thank you so much to everyone here at Ocado. There is a link to them and more about their technology in the description.

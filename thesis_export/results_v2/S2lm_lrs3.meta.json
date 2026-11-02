@@ -1,0 +1,18 @@
+{
+  "model_id": "S2lm",
+  "dataset": "lrs3",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml/LRS3_V_WER19.1/model.pth",
+  "ini": "LRS3_V_WER19.1",
+  "lm": "/root/autodl-tmp/checkpoints/new/LM_autoavsr/lm_en_subword/model.pth",
+  "lm_weight": 0.3,
+  "beam": 40,
+  "params_M": 250.4,
+  "peak_gpu_MB": 2015,
+  "total_seconds": 3013.7,
+  "n_clips": 1321,
+  "errors": 2654,
+  "n_words": 10361,
+  "wer": 25.62,
+  "mean_seconds": 2.278,
+  "n_failed": 2
+}

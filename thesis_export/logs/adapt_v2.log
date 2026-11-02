@@ -1,0 +1,111 @@
+nohup: ignoring input
+===== baseline T1 (no adaptation)   08:28
+skip eval T1 on tomscott_test (done)
+skip eval T1 on bbc (done)
+skip eval T1 on lrs3_300 (done)
+
+===== adapt 5 min   08:28
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+encoder: 12 layers total, last 4 trainable, first 8 frozen
+trainable params: 125.2 M   (frontend frozen)
+train: 68 clips, 4.9 min   val: 214 clips
+epoch 0  val loss 24.290  (before adaptation)
+epoch  1  train 56.834  val 24.546  * saved   (0.1 min)
+epoch  2  train 55.341  val 24.990   (0.1 min)
+epoch  3  train 57.249  val 25.706   (0.2 min)
+epoch  4  train 54.870  val 26.701   (0.2 min)
+early stop
+
+DONE  best val loss 24.546 (start 24.290)  ->  /root/autodl-tmp/adapt_v2/autoavsr_m5/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A5 --ckpt /root/autodl-tmp/adapt_v2/autoavsr_m5/best.pth --dataset bbc
+>>> eval A5 on tomscott_test   08:29
+final WER 32.90%   total 392s
+saved /root/autodl-tmp/day1/conf/A5_tomscott_test_confA.csv
+>>> eval A5 on bbc   08:36
+final WER 27.00%   total 84s
+saved /root/autodl-tmp/day1/conf/A5_bbc_confA.csv
+>>> eval A5 on lrs3_300   08:37
+final WER 25.62%   total 168s
+saved /root/autodl-tmp/day1/conf/A5_lrs3_300_confA.csv
+
+===== adapt 15 min   08:40
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+encoder: 12 layers total, last 4 trainable, first 8 frozen
+trainable params: 125.2 M   (frontend frozen)
+train: 220 clips, 15.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before adaptation)
+epoch  1  train 55.128  val 25.144  * saved   (0.1 min)
+epoch  2  train 52.761  val 26.385   (0.2 min)
+epoch  3  train 50.017  val 26.282   (0.2 min)
+epoch  4  train 49.019  val 25.652   (0.3 min)
+early stop
+
+DONE  best val loss 25.144 (start 24.290)  ->  /root/autodl-tmp/adapt_v2/autoavsr_m15/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A15 --ckpt /root/autodl-tmp/adapt_v2/autoavsr_m15/best.pth --dataset bbc
+>>> eval A15 on tomscott_test   08:41
+final WER 35.53%   total 419s
+saved /root/autodl-tmp/day1/conf/A15_tomscott_test_confA.csv
+>>> eval A15 on bbc   08:48
+final WER 29.69%   total 85s
+saved /root/autodl-tmp/day1/conf/A15_bbc_confA.csv
+>>> eval A15 on lrs3_300   08:49
+final WER 28.02%   total 165s
+saved /root/autodl-tmp/day1/conf/A15_lrs3_300_confA.csv
+
+===== adapt 30 min   08:52
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+encoder: 12 layers total, last 4 trainable, first 8 frozen
+trainable params: 125.2 M   (frontend frozen)
+train: 438 clips, 30.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before adaptation)
+epoch  1  train 43.501  val 27.032  * saved   (0.1 min)
+epoch  2  train 42.672  val 27.036   (0.2 min)
+epoch  3  train 42.074  val 26.417  * saved   (0.4 min)
+epoch  4  train 41.691  val 25.946  * saved   (0.5 min)
+epoch  5  train 39.966  val 25.659  * saved   (0.7 min)
+epoch  6  train 39.842  val 25.428  * saved   (0.8 min)
+epoch  7  train 40.705  val 25.358  * saved   (0.9 min)
+epoch  8  train 38.838  val 24.986  * saved   (1.1 min)
+epoch  9  train 39.584  val 25.126   (1.2 min)
+epoch 10  train 39.132  val 25.258   (1.3 min)
+
+DONE  best val loss 24.986 (start 24.290)  ->  /root/autodl-tmp/adapt_v2/autoavsr_m30/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A30 --ckpt /root/autodl-tmp/adapt_v2/autoavsr_m30/best.pth --dataset bbc
+>>> eval A30 on tomscott_test   08:54
+final WER 38.91%   total 417s
+saved /root/autodl-tmp/day1/conf/A30_tomscott_test_confA.csv
+>>> eval A30 on bbc   09:01
+final WER 32.10%   total 84s
+saved /root/autodl-tmp/day1/conf/A30_bbc_confA.csv
+>>> eval A30 on lrs3_300   09:03
+final WER 32.11%   total 172s
+saved /root/autodl-tmp/day1/conf/A30_lrs3_300_confA.csv
+
+===== adapt 60 min   09:06
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+encoder: 12 layers total, last 4 trainable, first 8 frozen
+trainable params: 125.2 M   (frontend frozen)
+train: 870 clips, 60.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before adaptation)
+epoch  1  train 38.447  val 28.508  * saved   (0.2 min)
+epoch  2  train 37.739  val 27.682  * saved   (0.5 min)
+epoch  3  train 36.704  val 27.085  * saved   (0.7 min)
+epoch  4  train 36.541  val 26.480  * saved   (0.9 min)
+epoch  5  train 35.701  val 25.890  * saved   (1.1 min)
+epoch  6  train 35.632  val 25.617  * saved   (1.3 min)
+epoch  7  train 35.108  val 25.271  * saved   (1.5 min)
+epoch  8  train 35.170  val 25.410   (1.7 min)
+epoch  9  train 34.323  val 25.183  * saved   (1.9 min)
+epoch 10  train 34.991  val 25.449   (2.1 min)
+
+DONE  best val loss 25.183 (start 24.290)  ->  /root/autodl-tmp/adapt_v2/autoavsr_m60/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A60 --ckpt /root/autodl-tmp/adapt_v2/autoavsr_m60/best.pth --dataset bbc
+>>> eval A60 on tomscott_test   09:08

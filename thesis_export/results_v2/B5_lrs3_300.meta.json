@@ -1,0 +1,26 @@
+{
+  "model_id": "B5",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth",
+  "lm": "/root/autodl-tmp/checkpoints/raven/rnnlm.model.best",
+  "lm_weight": 0.3,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 3669,
+  "total_seconds": 263.0,
+  "n_clips": 300,
+  "errors": 532,
+  "n_words": 2373,
+  "wer": 22.42,
+  "mean_seconds": 0.871,
+  "n_failed": 0
+}

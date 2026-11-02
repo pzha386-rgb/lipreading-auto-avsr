@@ -1,0 +1,21 @@
+===== 20:25 阶段 1：BBC =====
+编号     数据集        状态
+U1     bbc        待运行
+U2     bbc        待运行
+U3     bbc        待运行
+U4     bbc        待运行
+U1g    bbc        待运行
+U2g    bbc        待运行
+U3g    bbc        待运行
+U4g    bbc        待运行
+U4b10  bbc        待运行
+
+并行 1 个任务，每个 2 个 CPU 线程，共 9 个任务
+
+>>> 20:25:15  start U1 on bbc
+<<< 20:39:48  U1 on bbc: OK  14.6 min  WER 36.90%  failed 0
+>>> 20:39:48  start U2 on bbc
+<<< 20:53:15  U2 on bbc: OK  13.4 min  WER 42.14%  failed 0
+>>> 20:53:15  start U3 on bbc
+<<< 21:07:05  U3 on bbc: OK  13.8 min  WER 39.81%  failed 0
+>>> 21:07:05  start U4 on bbc

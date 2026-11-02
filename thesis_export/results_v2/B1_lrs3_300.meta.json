@@ -1,0 +1,26 @@
+{
+  "model_id": "B1",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth",
+  "lm": "",
+  "lm_weight": null,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 256,
+    "dunits": 2048,
+    "dlayers": 6
+  },
+  "params_M": 350.6,
+  "peak_gpu_MB": 1726,
+  "total_seconds": 607.1,
+  "n_clips": 300,
+  "errors": 691,
+  "n_words": 2373,
+  "wer": 29.12,
+  "mean_seconds": 2.018,
+  "n_failed": 0
+}

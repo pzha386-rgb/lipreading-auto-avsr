@@ -1,0 +1,700 @@
+clip_id,video_id,speaker_id,split,path,start,end,dur,text
+clip_0000,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0000.mp4,0.150,4.470,4.320,"- Do you know what this is? - Oh, I forget what that's called. That's- - I can tell you."
+clip_0001,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0001.mp4,4.470,9.000,4.530,"- A deca something? A deca- - Oh, you're talking about a shape."
+clip_0003,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0003.mp4,13.080,18.900,5.820,for sponsoring this video. I am making a video about Dungeons and Dragons.
+clip_0004,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0004.mp4,18.900,22.890,3.990,"- Oh my goodness. - I didn't think the day would ever come, actually."
+clip_0005,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0005.mp4,22.890,27.750,4.860,"- I'm making this video because I've noticed something weird about Dungeons and Dragons or D&D,"
+clip_0007,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0007.mp4,31.710,36.180,4.470,or reserved for social outcasts. It is like featured in major TV shows
+clip_0008,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0008.mp4,36.180,38.820,2.640,and sessions of people playing this
+clip_0009,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0009.mp4,38.820,42.780,3.960,like once niche rules heavy game is selling out stadiums
+clip_0010,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0010.mp4,42.780,46.353,3.573,like Madison Square Garden. - Madison Square Garden? - Yes.
+clip_0011,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0011.mp4,48.292,51.780,3.488,- Melissa's like trying not to be rude.
+clip_0012,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0012.mp4,51.780,55.050,3.270,"- Melissa's surprise is totally valid because over the years,"
+clip_0013,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0013.mp4,55.050,58.260,3.210,"Dungeons & Dragons has gotten a lot bigger, literally."
+clip_0014,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0014.mp4,58.260,62.183,3.923,This is a rule book from the '80s and this one is from 2024. Look at that.
+clip_0018,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0018.mp4,72.330,76.050,3.720,and break funding records. But that's not the weird thing I've noticed.
+clip_0019,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0019.mp4,76.050,80.940,4.890,"No, it's that in a world where every piece of proven IP is squeezed dry,"
+clip_0020,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0020.mp4,80.940,85.710,4.770,"Dungeons & Dragons should be a cash cow for the company that owns it, but it's not."
+clip_0024,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0024.mp4,100.013,103.110,3.097,"From my perspective, their only major success in the past five years"
+clip_0026,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0026.mp4,106.470,111.030,4.560,because nobody wants to make a sequel because of artistic integrity.
+clip_0027,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0027.mp4,111.030,115.770,4.740,"Do you see what I mean by weird? Dungeons & Dragons is owned by a Fortune 500 company,"
+clip_0028,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0028.mp4,115.770,120.000,4.230,and yet the people who are capitalising on its success aren't Hasbro.
+clip_0029,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0029.mp4,120.000,123.600,3.600,"It's independent artists, comedians, and storytellers."
+clip_0039,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0039.mp4,161.100,165.900,4.800,"that make up the game Dungeons & Dragons. In theory, it sounds like other tabletop games"
+clip_0040,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0040.mp4,165.900,170.070,4.170,"just with less parts, but Dungeons & Dragons requires more imagination."
+clip_0041,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0041.mp4,170.070,173.910,3.840,"And because of that, in practise, it's a lot deeper."
+clip_0042,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0042.mp4,173.910,179.250,5.340,- I framed my Wizard School diplomas before I framed my real diplomas.
+clip_0044,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0044.mp4,183.780,189.060,5.280,She walked me through what makes these games special. - What is the core experience that people are having
+clip_0045,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0045.mp4,189.060,192.120,3.060,to greater or lesser degrees when they're roleplaying?
+clip_0046,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0046.mp4,192.120,196.020,3.900,The first thing that came out of the data was community building.
+clip_0051,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0051.mp4,213.600,216.930,3.330,- Baby's first D&D. You don't even know what D&D is.
+clip_0052,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0052.mp4,216.930,221.373,4.443,"- No, but I have a notebook and snack tray."
+clip_0054,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0054.mp4,225.420,230.280,4.860,"You aren't just following game mechanics, you're playing a character. - I'm going to say, ""Hi, I'm Waldo."""
+clip_0056,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0056.mp4,234.543,239.490,4.947,"- Sometimes you're playing yourself, but in a fictional setting. But that's still a different you."
+clip_0057,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0057.mp4,239.490,244.020,4.530,"- Oh, this is my personality trait. This is me. - What is the personality trait?"
+clip_0058,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0058.mp4,244.020,247.560,3.540,- You lie about almost everything. Even when there is no good reason to.
+clip_0059,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0059.mp4,247.560,252.420,4.860,- We can find aspects of ourselves that we don't even necessarily know were there
+clip_0060,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0060.mp4,252.420,256.680,4.260,until we play. - You're convinced that no one could ever fool you the way you fool others.
+clip_0062,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0062.mp4,260.310,266.130,5.820,"- There's often some sort of problem that needs to be solved, some sort of scenario that needs to be navigated."
+clip_0066,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0066.mp4,276.710,281.040,4.330,"- This is not a novel that an author writes, and that's the canon."
+clip_0067,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0067.mp4,281.040,284.760,3.720,This is something that we're deciding together what is real.
+clip_0068,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0068.mp4,284.760,289.470,4.710,And sometimes it's challenging. We have to like learn to be attuned to each other and to adjust.
+clip_0069,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0069.mp4,289.470,294.720,5.250,- I've got more things to hit him. I've got 20 darts. - I am going to gently say-
+clip_0070,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0070.mp4,294.720,298.410,3.690,- Two daggers. - Probably no. - This is where dice can help.
+clip_0074,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0074.mp4,309.000,313.650,4.650,they can't do the thing. - That was a tough try. Yep.
+clip_0075,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0075.mp4,313.650,318.030,4.380,"- Well. - Dice rolls can be frustrating, but it forces you to reevaluate."
+clip_0077,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0077.mp4,321.653,324.690,3.037,- This building has structural integrity problems.
+clip_0083,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0083.mp4,347.798,353.040,5.242,"- Dungeons and Dragons. - So I'm trying to figure out how the people who are really capitalising on D&D's success,"
+clip_0084,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0084.mp4,353.040,356.730,3.690,"not the IP holders, but the artists and storytellers."
+clip_0085,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0085.mp4,356.730,362.010,5.280,Playing the game after speaking with Sarah helped me by clarifying where the real value
+clip_0086,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0086.mp4,362.010,365.940,3.930,of D&D actually comes from. I hate Lore. I hate improv.
+clip_0087,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0087.mp4,365.940,370.320,4.380,Improv makes me want to throw up. - What do you like about Dungeons and Dragons?
+clip_0088,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0088.mp4,370.320,374.970,4.650,"I think you just like the people you play Dungeons & Dragons with. - Sure, there's the product that Hasbro sells."
+clip_0089,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0089.mp4,374.970,378.240,3.270,These really great tools that help facilitate group storytelling.
+clip_0090,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0090.mp4,378.240,383.490,5.250,But the thing I value is the group. - It feels like we just did a movie.
+clip_0091,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0091.mp4,383.490,387.924,4.434,- Did you have fun? - I don't know.
+clip_0092,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0092.mp4,387.924,391.740,3.816,- Dungeons & Dragons is not a simple game. There is no optimal strategy
+clip_0093,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0093.mp4,391.740,396.210,4.470,"that you can just keep spamming until you win. No matter if you're a player or a dungeon master,"
+clip_0094,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0094.mp4,396.210,400.590,4.380,"you have to keep track of the plot, coordinate with the people around the table,"
+clip_0095,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0095.mp4,400.590,405.180,4.590,and make choices that can kill your character or theirs.
+clip_0096,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0096.mp4,405.180,408.900,3.720,"It is mostly silly and fun, but it can also be emotional"
+clip_0097,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0097.mp4,408.900,412.140,3.240,and exhausting because you're playing for hours at a time.
+clip_0098,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0098.mp4,412.140,415.230,3.090,"But I think being thrust into these fictional extremes,"
+clip_0099,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0099.mp4,415.230,419.490,4.260,these highs and lows is the beauty of the game. It lets you meet parts of your friends
+clip_0100,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0100.mp4,419.490,423.030,3.540,and yourself that rarely show up in the mundane world.
+clip_0103,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0103.mp4,431.071,434.430,3.359,- The dice change people. - So one reason I think Hasbro is struggling
+clip_0104,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0104.mp4,434.430,438.090,3.660,to capitalise on D&D success is because a lot of the value
+clip_0105,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0105.mp4,438.090,443.490,5.400,that it creates can't be monetized. You can't put a price tag on human connection.
+clip_0106,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0106.mp4,443.490,447.570,4.080,"Now, corporations have tried. They have inserted themselves into our communities,"
+clip_0109,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0109.mp4,454.980,458.700,3.720,"The best these companies could ever do, and I'm not saying they currently do it,"
+clip_0110,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0110.mp4,458.700,462.840,4.140,is facilitate connection. They can't capture the connection itself.
+clip_0111,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0111.mp4,462.840,467.430,4.590,"That's the ineffability of the human spirit, guys. It is impossibly complicated."
+clip_0116,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0116.mp4,484.860,488.880,4.020,- How do I recover from a friendship breakup? - Do you believe in unconditional love?
+clip_0117,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0117.mp4,488.880,493.170,4.290,- Why do I feel lonely when I can communicate with anyone and everyone through my phone?
+clip_0118,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0118.mp4,493.170,496.890,3.720,- I think the first episode should be out by the time you're watching this.
+clip_0119,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0119.mp4,496.890,500.880,3.990,"Crazy that I haven't checked. There it is. If that sounded interesting to you, you can give it a listen."
+clip_0120,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0120.mp4,500.880,505.770,4.890,"It's linked in the description, and there are new episodes out every other Thursday. If you haven't listened to it already,"
+clip_0121,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0121.mp4,505.770,510.270,4.500,"the first episode is about the loneliness epidemic. In it, we learn how the modern world has created"
+clip_0122,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0122.mp4,510.270,514.890,4.620,"this widespread longing for physical community. According to this Eventbrite report,"
+clip_0123,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0123.mp4,514.890,518.880,3.990,young people want to hang out in real life and do things that make them feel
+clip_0124,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0124.mp4,518.880,522.510,3.630,"like they exist in this world. In a way, it is the perfect environment"
+clip_0125,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0125.mp4,522.510,526.620,4.110,"for Dungeons & Dragons, right? This game that was kind of impeccably designed"
+clip_0126,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0126.mp4,526.620,531.143,4.523,"to facilitate deep human connection without technology. And trust me,"
+clip_0127,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0127.mp4,531.143,535.200,4.057,"that analogue component is a huge part of the appeal. I tried to survey you guys, our audience,"
+clip_0128,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0128.mp4,535.200,539.640,4.440,"for what this game means to you, and all you did was show me trinkets."
+clip_0129,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0129.mp4,539.640,544.350,4.710,- You never know when you will need your math rocks. - Just so many dice.
+clip_0130,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0130.mp4,544.350,547.890,3.540,"This means that we have a target demographic that loves buying things,"
+clip_0132,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0132.mp4,553.770,558.240,4.470,and yet Hasbro has basically designed their entire strategy
+clip_0133,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0133.mp4,558.240,562.590,4.350,around going digital. I don't get it. Like I don't understand why Hasbro
+clip_0134,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0134.mp4,562.590,568.020,5.430,"isn't designing more games or partnering with these new ones or I hate to play the devil's chief counsel,"
+clip_0135,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0135.mp4,568.020,572.790,4.770,"but why not sue them? Listen. I obviously do not want that to happen,"
+clip_0136,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0136.mp4,572.790,577.650,4.860,but I am not a Fortune 500 company. Like why are they allowing all of these other people
+clip_0137,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0137.mp4,577.650,580.703,3.053,"to beat them at their own game? Literally,"
+clip_0138,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0138.mp4,580.703,585.150,4.447,they use Dungeons & Dragons' intellectual property. Like is Hasbro struggling
+clip_0139,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0139.mp4,585.150,590.130,4.980,to capitalise on Dungeons & Dragons because they're just bad at capitalism?
+clip_0140,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0140.mp4,590.130,594.505,4.375,"Oh my God, I think they're just bad at capitalism. Wait."
+clip_0143,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0143.mp4,602.670,605.490,2.820,"including social stigma and players ageing out,"
+clip_0155,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0155.mp4,653.520,656.640,3.120,Other companies could do all of that without paying Hasbro
+clip_0156,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0156.mp4,656.640,660.090,3.450,or Wizards of the Coast a dime. That's crazy.
+clip_0157,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0157.mp4,660.090,663.960,3.870,"When I first read about this, I couldn't believe it because Dungeons & Dragons"
+clip_0158,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0158.mp4,663.960,667.350,3.390,is basically entirely intellectual property.
+clip_0159,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0159.mp4,667.350,672.090,4.740,"It's a game we play inside of our imaginations, and the only thing that makes it Dungeons & Dragons"
+clip_0160,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0160.mp4,672.090,676.050,3.960,is the very specific rules and creatures and dice and whatever.
+clip_0162,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0162.mp4,679.710,683.130,3.420,"Make something cool."" What? In what world does that happen?"
+clip_0163,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0163.mp4,683.130,686.220,3.090,I feel like a teenager with strict parents
+clip_0164,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0164.mp4,686.220,690.690,4.470,"who goes to a friend's house and their mom is weirdly cool about drinking, except in this case,"
+clip_0165,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0165.mp4,690.690,695.340,4.650,"the beer is the means of production. Now, the team behind Dungeons & Dragons knew"
+clip_0166,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0166.mp4,695.340,700.350,5.010,that there were business benefits. It basically guaranteed an entire ecosystem designed
+clip_0167,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0167.mp4,700.350,705.840,5.490,"around their game. But I think it's really important to note that they didn't need to do this,"
+clip_0168,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0168.mp4,705.840,710.580,4.740,especially not so generously. Here's a comment I found under a 2010 blog post
+clip_0169,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0169.mp4,710.580,714.330,3.750,"about the open game licence. ""I wouldn't be involved in gaming right now"
+clip_0170,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0170.mp4,714.330,719.430,5.100,"if it wasn't for the OGL, TSR, Hasbro, Wizards of the Coast have screwed up many times,"
+clip_0171,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0171.mp4,719.430,723.750,4.320,"but this time, I think it was in reverse. They built the beast that might bring them down,"
+clip_0172,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0172.mp4,723.750,727.320,3.570,but save the hobby. All I hear is how the industry is slipping
+clip_0173,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0173.mp4,727.320,730.710,3.390,and tabletop play will soon disappear. That's not what I'm seeing.
+clip_0179,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0179.mp4,752.730,757.350,4.620,"Chills, dude. The reason why capitalism cannot buy this game"
+clip_0180,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0180.mp4,757.350,761.010,3.660,is because it is fundamentally non-capitalist.
+clip_0181,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0181.mp4,761.010,765.330,4.320,It is by the players for the players. And that is in no small part
+clip_0182,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0182.mp4,765.330,769.290,3.960,because the people who made the game set it free.
+clip_0190,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0190.mp4,797.580,801.090,3.510,"- This was an insane accident,"
+clip_0191,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0191.mp4,801.090,803.970,2.880,"a very, very happy, crazy accident."
+clip_0192,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0192.mp4,803.970,808.110,4.140,"- It really did blow up in a pretty, like,"
+clip_0193,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0193.mp4,808.110,812.280,4.170,"major exponential way. - That is Liam O'Brien and Griffin McElroy,"
+clip_0194,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0194.mp4,812.280,815.850,3.570,"stars of two of the earliest mainstream actual play shows,"
+clip_0195,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0195.mp4,815.850,820.920,5.070,Critical Role and The Adventure Zone. - We were very early to the actual play space.
+clip_0196,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0196.mp4,820.920,825.570,4.650,"I'm very fortunate, I think, in that regard, because I think now it's so hard."
+clip_0197,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0197.mp4,825.570,828.090,2.520,- Critical Role started as a group
+clip_0198,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0198.mp4,828.090,833.090,5.000,of nerdy-ass voice actors playing tabletop games at home.
+clip_0203,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0203.mp4,851.700,856.620,4.920,There was proof out there that this thing could work in this format.
+clip_0204,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0204.mp4,856.620,859.103,2.483,"- And that proof has only grown. Like I said,"
+clip_0208,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0208.mp4,871.230,874.680,3.450,"- We just published the last graphic novel adaptation,"
+clip_0210,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0210.mp4,879.570,882.720,3.150,that a billion dollar corporation just can't.
+clip_0211,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0211.mp4,882.720,887.640,4.920,They are friends or literally family telling stories that only they can tell.
+clip_0212,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0212.mp4,887.640,892.440,4.800,"- The first time that you have like an idea and you think like, ""Well, this is silly, but-"""
+clip_0213,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0213.mp4,892.440,896.700,4.260,And then it manifests into something like it really gives you so much agency
+clip_0214,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0214.mp4,896.700,901.980,5.280,"and it really makes you feel like, ""Oh, I get it now."" - I've always likened what we do to what it felt"
+clip_0215,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0215.mp4,901.980,905.250,3.270,like to be in rehearsal for theatre productions
+clip_0216,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0216.mp4,905.250,909.990,4.740,because you're free from the pressure to be perfect
+clip_0217,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0217.mp4,909.990,913.830,3.840,because it's not perfect. - Actual play shows are an incredible format.
+clip_0218,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0218.mp4,913.830,918.570,4.740,It's being in the writer's room and watching the show they're writing at the same time.
+clip_0219,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0219.mp4,918.570,923.550,4.980,In a world where television has largely become these hyper-optimized eight episode dramas with two years
+clip_0220,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0220.mp4,923.550,927.540,3.990,"in between seasons, actual play shows are a breath of fresh air."
+clip_0222,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0222.mp4,930.623,933.810,3.187,Actual play shows allow us to watch a story unfold
+clip_0223,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0223.mp4,933.810,938.430,4.620,with every dice roll and get to know the characters at the same time as their creators.
+clip_0224,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0224.mp4,938.430,941.970,3.540,- You take big swings and magic happens around the table.
+clip_0226,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0226.mp4,947.820,952.820,5.000,- And seeing that kind of spontaneous act of creation
+clip_0227,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0227.mp4,952.890,956.190,3.300,"over and over and over again, it is what continues to sort"
+clip_0228,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0228.mp4,956.190,960.990,4.800,"of bring me back to the shows that I listen to. - So tabletop role playing games,"
+clip_0229,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0229.mp4,960.990,966.570,5.580,"chief of which is Dungeons and Dragons, can fill the gaps that have formed in our social lives and media diets."
+clip_0230,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0230.mp4,966.570,972.150,5.580,"And it can do it in a way that defies capitalization, the hoarding of the thing that generates value"
+clip_0231,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0231.mp4,972.150,976.800,4.650,to a few private owners. Because the thing that generates value is us.
+clip_0232,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0232.mp4,976.800,979.890,3.090,- Collective experiences can at least allow us
+clip_0233,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0233.mp4,979.890,983.670,3.780,"to feel like we're not alone, that we have community, and that we can do things together"
+clip_0234,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0234.mp4,983.670,987.570,3.900,even if it's on the micro scale. And those kinds of things actually do contribute
+clip_0235,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0235.mp4,987.570,990.870,3.300,to society when we choose to see ourselves
+clip_0236,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0236.mp4,990.870,995.580,4.710,as agentic humans. But if we remain in this sort of passive
+clip_0237,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0237.mp4,995.580,1000.890,5.310,"and even like horrified state, that is an explicitly disempowered state."
+clip_0238,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0238.mp4,1000.890,1004.130,3.240,And so I do think that play is a way
+clip_0239,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0239.mp4,1004.130,1008.870,4.740,for us to reclaim our power. - Play is a way to reclaim our power.
+clip_0240,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0240.mp4,1008.870,1013.610,4.740,"I know it sounds like a stretch, but it is undeniably true,"
+clip_0241,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0241.mp4,1013.610,1018.200,4.590,"at least in this specific context. In 2023, it leaked that Hasbro was trying"
+clip_0242,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0242.mp4,1018.200,1022.790,4.590,"to deauthorize the open game licence and make everyone pay, but it didn't work."
+clip_0243,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0243.mp4,1022.790,1026.480,3.690,There was just too much pushback because it turns out when you make a game
+clip_0244,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0244.mp4,1026.480,1030.410,3.930,"that empowers people, the people are empowered."
+clip_0245,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0245.mp4,1030.410,1034.730,4.320,They don't just accept when things are broken. They push back. They build better options.
+clip_0246,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0246.mp4,1034.730,1037.820,3.090,They protect the thing that really matters.
+clip_0247,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0247.mp4,1037.820,1041.750,3.930,"Hanging out with your friends, that is not diminutive. If there is one thing I learned"
+clip_0248,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0248.mp4,1041.750,1046.490,4.740,"while working on Corner Piece for months, it is that a good hang is the whole point."
+clip_0250,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0250.mp4,1050.240,1054.350,4.110,"We fear the vulnerability that connection requires, but it isn't a losing battle."
+clip_0251,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0251.mp4,1054.350,1059.060,4.710,We did find small answers to these big questions and we're really excited to share it with you.
+clip_0252,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0252.mp4,1059.060,1063.860,4.800,So listen to Corner Piece. It's linked in the description. Go play some Dungeons & Dragons or Call of Cthulhu
+clip_0253,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0253.mp4,1063.860,1069.143,5.283,or really any other tabletop role-playing game. Hang out with your friends. Have a lovely day.
+clip_0254,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0254.mp4,1070.910,1076.340,5.430,"Also, I'm sorry I didn't talk about different D&D editions. There's so much information that got cut from this video."
+clip_0255,6tE3cqhUAjg,answer_in_progress,train,train/answer_in_progress/6tE3cqhUAjg/clip_0255.mp4,1076.340,1079.583,3.243,The history of D&D is super weird and complex.
+clip_0003,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0003.mp4,11.820,15.263,3.443,"It's the middle of the day, and I haven't had a proper meal yet. I know that's not good,"
+clip_0004,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0004.mp4,15.263,19.320,4.057,but what ends up happening is I overthink every single one of my meals
+clip_0005,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0005.mp4,19.320,23.640,4.320,"'cause I want them to be delicious and perfect, but when mealtime actually comes around,"
+clip_0006,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0006.mp4,23.640,28.710,5.070,"I end up being super unprepared. So I'll either, one, skip meals,"
+clip_0007,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0007.mp4,28.710,33.120,4.410,"which is physically exhausting, or I'll end up ordering takeout,"
+clip_0008,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0008.mp4,33.120,38.370,5.250,"which is financially exhausting, and I can't afford to keep doing this."
+clip_0013,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0013.mp4,55.553,60.210,4.657,"how to eat more regularly and healthily, and I know I can't trust myself to plan my meals every single day"
+clip_0014,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0014.mp4,60.210,63.930,3.720,"because I'm too lazy to do that. So, what I need is some sort of loose guideline"
+clip_0015,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0015.mp4,63.930,67.530,3.600,to help me figure out which foods I should be buying so that I could figure it out from there.
+clip_0016,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0016.mp4,67.530,71.850,4.320,"Luckily, the government literally makes that for me. This is the Canadian Food Guide from 2007."
+clip_0032,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0032.mp4,134.070,138.617,4.547,Can't believe I bought this gigantic bag of spinach. I didn't realize that it was as big when I picked it up.
+clip_0033,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0033.mp4,138.617,141.976,3.359,"I was like, ""Oh yeah, this is normal."" And then I tried to put it in my fridge."
+clip_0035,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0035.mp4,147.090,151.200,4.110,"because it was very delicious. Proportion wise, I think I got this down."
+clip_0036,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0036.mp4,151.200,156.180,4.980,"I really don't know if I can eat all these noodles. This is just so much noodle. When dinnertime rolled around,"
+clip_0037,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0037.mp4,156.180,159.600,3.420,"I didn't feel hungry for the meal that I originally planned,"
+clip_0038,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0038.mp4,159.600,162.630,3.030,so I just ended up eating instant ramen.
+clip_0040,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0040.mp4,167.910,172.560,4.650,I've been trying to get two servings of grains at every meal
+clip_0042,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0042.mp4,176.520,180.312,3.792,"this early in the morning. Yeah, I can't finish it, I'm sorry."
+clip_0052,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0052.mp4,218.010,223.710,5.700,But a bigger motivation is that I have a dog now and she requires a lot of my energy.
+clip_0057,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0057.mp4,240.750,246.300,5.550,"In the past, working out involves a lot of winging it for the most part, from trying workout classes"
+clip_0058,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0058.mp4,246.300,251.370,5.070,"to influencer bodybuilding programs, I've never felt the motivation to stay consistent"
+clip_0062,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0062.mp4,264.630,269.670,5.040,"And yes, this is a real person. - It's nice to meet you. - Who worked with me to understand my goals"
+clip_0084,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0084.mp4,361.890,366.840,4.950,to hit all the servings in each food group every day. I thought maybe I wasn't used to eating this much
+clip_0085,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0085.mp4,366.840,371.580,4.740,or maybe I was eating the wrong things. But I do know that eating like this
+clip_0086,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0086.mp4,371.580,375.360,3.780,wasn't making me feel good. I felt that it was gonna be the two servings
+clip_0087,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0087.mp4,375.360,381.300,5.940,"of dairy every single day that was gonna get me, but it was actually the sheer amount of bread"
+clip_0088,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0088.mp4,381.300,384.787,3.487,and grains it was suggesting me to have every single day.
+clip_0089,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0089.mp4,384.787,388.920,4.133,This just a little bit too much right now. So I decided to take a break from eating according
+clip_0092,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0092.mp4,398.490,403.170,4.680,"So I was curious to see if that might solve my problem. And while reading the book, I came across"
+clip_0093,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0093.mp4,403.170,407.910,4.740,an intuitive eating assessment. So let's take the assessment together.
+clip_0094,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0094.mp4,407.910,412.800,4.890,"I try to avoid certain foods high in fat, carbs, or calories. I'm gonna say no."
+clip_0095,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0095.mp4,412.800,416.850,4.050,"I follow eating rules or a diet plans that dictate what, when,"
+clip_0096,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0096.mp4,416.850,420.300,3.450,"and or how to eat. Again, no, I think this is mostly"
+clip_0097,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0097.mp4,420.300,423.810,3.510,"just me eating off of vibes. Okay, question six is, I trust my body"
+clip_0098,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0098.mp4,423.810,428.910,5.100,"to tell me when to stop eating. I feel like, actually no, for that question."
+clip_0099,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0099.mp4,428.910,432.600,3.690,"After taking the intuitive eating assessment, I was really surprised to learn"
+clip_0100,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0100.mp4,432.600,435.870,3.270,that I actually don't have great intuition when it comes to eating.
+clip_0101,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0101.mp4,435.870,439.890,4.020,"Specifically in one section I scored low in was the section on emotional eating,"
+clip_0102,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0102.mp4,439.890,442.710,2.820,and it made me realize that oftentimes I choose to eat
+clip_0103,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0103.mp4,442.710,446.130,3.420,for emotional reasons rather than for physical nourishment.
+clip_0104,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0104.mp4,446.130,450.450,4.320,"Yes, I can tell when I'm hungry, whether I act on it is a different story."
+clip_0105,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0105.mp4,450.450,454.500,4.050,Taking this assessment made me realize that intuitive eating probably isn't the best solution
+clip_0106,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0106.mp4,454.500,460.380,5.880,for me right now because it's too loose of a structure and I can't trust myself to eat strictly off of vibes.
+clip_0107,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0107.mp4,460.380,465.420,5.040,"But at the same time, the 2007 Food Guide was just way too rigid."
+clip_0145,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0145.mp4,625.020,630.570,5.550,"I think this is the biggest, and might I say, best evolution of the food guide"
+clip_0146,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0146.mp4,630.570,634.200,3.630,for a couple of reasons. Having a plate and ratios of each food group is
+clip_0147,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0147.mp4,634.200,637.320,3.120,"so much easier to understand than this. And two, our understanding"
+clip_0148,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0148.mp4,637.320,640.710,3.390,of nutrition has really improved over the past a hundred years.
+clip_0153,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0153.mp4,656.160,660.240,4.080,and more nutrient-dense grains versus so many slices of bread.
+clip_0154,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0154.mp4,660.240,663.390,3.150,But the last thing that I think is the biggest shift
+clip_0155,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0155.mp4,663.390,666.753,3.363,in this food guide is the reduction of industry lobbying.
+clip_0156,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0156.mp4,666.753,669.840,3.087,This has been confirmed by this paper published
+clip_0160,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0160.mp4,682.290,685.710,3.420,of the food guide was being developed. There is evidence
+clip_0161,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0161.mp4,685.710,689.730,4.020,that the bio-food industry was against the food guide's recommendations
+clip_0162,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0162.mp4,689.730,693.750,4.020,to limit processed foods and favor plant-based foods.
+clip_0163,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0163.mp4,693.750,698.850,5.100,"I don't know about you, but this seems like a big win for the public and specifically for me,"
+clip_0164,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0164.mp4,698.850,703.500,4.650,because this means that I don't need to eat an entire loaf of bread in a single day.
+clip_0165,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0165.mp4,703.500,709.410,5.910,"I don't know, I look at this food guide and I feel really hopeful that it might be"
+clip_0166,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0166.mp4,709.410,714.150,4.740,"the right thing for me. But if I am honest with myself,"
+clip_0167,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0167.mp4,714.150,717.840,3.690,I haven't been the best judge of my own eating habits in the past.
+clip_0168,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0168.mp4,717.840,722.700,4.860,"So to be sure, I'm gonna talk to a registered dietician."
+clip_0169,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0169.mp4,722.700,727.380,4.680,"- My name is Nataly, I'm a registered dietician for JM Nutrition,"
+clip_0171,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0171.mp4,731.520,735.930,4.410,- What is the first step that you take when you are designing something for somebody?
+clip_0172,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0172.mp4,735.930,740.580,4.650,"- I will say, first and foremost, a meal plan is not for everybody. Based on their history,"
+clip_0173,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0173.mp4,740.580,744.780,4.200,if I feel like the meal plan might just be another type
+clip_0174,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0174.mp4,744.780,750.420,5.640,"of diet that they feel they have to follow strictly to a tea, and if they don't, they might feel"
+clip_0175,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0175.mp4,750.420,755.640,5.220,as though they've failed. That's never the intention. The meal plan is not meant to be this long-term thing
+clip_0176,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0176.mp4,755.640,760.620,4.980,"that you follow for the rest of your life, but it's more so meant just to provide the foundation."
+clip_0177,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0177.mp4,760.620,763.860,3.240,"Generally speaking, the meals should contain, you know,"
+clip_0181,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0181.mp4,776.130,780.960,4.830,"I can certainly give suggestions and advice, but we wanna keep in mind what they're currently doing"
+clip_0182,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0182.mp4,780.960,786.120,5.160,and can we sort of expand on that? There tends to be so much unknown food rigidity
+clip_0183,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0183.mp4,786.120,790.080,3.960,or just restrictive food beliefs or food rules that a lot
+clip_0184,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0184.mp4,790.080,793.290,3.210,of the times people don't necessarily realize are actually
+clip_0185,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0185.mp4,793.290,796.590,3.300,"rooted in disordered eating, especially in diet culture."
+clip_0186,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0186.mp4,796.590,802.500,5.910,"The idea of cheat days where, you know, a person will omit a certain food from their diet"
+clip_0188,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0188.mp4,806.160,810.240,4.080,"or whatever day of the week, you're creating the perfect scenario for bingeing."
+clip_0192,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0192.mp4,823.140,827.760,4.620,"for another binge all over again. - What would be your recommendation, like the first couple of steps"
+clip_0193,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0193.mp4,827.760,832.440,4.680,that you would advise somebody to try to build a healthy relationship with food?
+clip_0194,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0194.mp4,832.440,836.265,3.825,"- This might sound incredibly basic, but aiming to eat three meals a day"
+clip_0195,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0195.mp4,836.265,840.030,3.765,and have snacks in between the meals. Oftentimes when I'm mention
+clip_0196,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0196.mp4,840.030,845.490,5.460,"to people eating three meals a day, snacks in between, they might say to me, ""But Natalie, I'm not actually hungry"
+clip_0197,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0197.mp4,845.490,849.090,3.600,"for breakfast, or I'm not actually hungry at whatever time."""
+clip_0198,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0198.mp4,849.090,852.180,3.090,"At that point, we wanna do more what's called mechanical eating."
+clip_0199,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0199.mp4,852.180,855.450,3.270,Just because I can't pick up on hunger cues doesn't mean
+clip_0200,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0200.mp4,855.450,861.360,5.910,"my body magically doesn't need that energy. It still does, but that hunger cue was ignored for so long"
+clip_0201,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0201.mp4,861.360,866.400,5.040,"that the body adapted, a meal gets skipped, and then, you know, later on in the day, a person has"
+clip_0202,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0202.mp4,866.400,871.950,5.550,"to compensate by eating more. Even if you don't feel physically hungry for that meal,"
+clip_0203,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0203.mp4,871.950,875.880,3.930,"the more consistent you are with having it, those hunger cues can return."
+clip_0204,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0204.mp4,875.880,880.860,4.980,"And I see that all the time with clients. Once it becomes more, you know, habitual, then we can sort"
+clip_0205,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0205.mp4,880.860,885.810,4.950,"of look into the more specific food beliefs. You know, how are you making certain food choices?"
+clip_0206,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0206.mp4,885.810,890.700,4.890,How do you determine what's enough? What food groups or what foods are you incorporating?
+clip_0207,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0207.mp4,890.700,895.890,5.190,"What are you not incorporating, and why is that? I think the biggest takeaway from my work with clients,"
+clip_0208,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0208.mp4,895.890,898.140,2.250,regardless of where they're at with their relationship
+clip_0209,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0209.mp4,898.140,902.340,4.200,"with food, is having food choices be guided by internal cues"
+clip_0210,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0210.mp4,902.340,907.170,4.830,as opposed to external cues. How does my body feel when I incorporate these foods?
+clip_0211,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0211.mp4,907.170,910.860,3.690,"I probably have more energy, maybe I have better mental health,"
+clip_0212,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0212.mp4,910.860,915.510,4.650,"maybe I'm sleeping better. And so, that can be a really great internal motivator"
+clip_0213,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0213.mp4,915.510,918.833,3.323,"to keep on taking part in those behaviors. - When I was younger,"
+clip_0216,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0216.mp4,926.580,929.700,3.120,cooking became labor.
+clip_0218,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0218.mp4,935.700,940.590,4.890,sometimes a girl's just got to eat.
+clip_0219,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0219.mp4,940.590,943.500,2.910,"While I don't think that a strict meal plan works for me,"
+clip_0223,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0223.mp4,954.240,958.380,4.140,but I think that I have started to heal my relationship
+clip_0224,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0224.mp4,958.380,962.380,4.000,with food that I honestly didn't know needed mending.
+clip_0225,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0225.mp4,962.380,966.840,4.460,I'm really grateful that I could chat with Nataly and clear up some big questions that I had.
+clip_0226,84zS-q4evTk,answer_in_progress,train,train/answer_in_progress/84zS-q4evTk/clip_0226.mp4,966.840,970.920,4.080,"If you're interested in listening to our full conversation, you can find it in our newsletter page."
+clip_0002,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0002.mp4,7.595,11.520,3.925,Why don't we fix this? Thank you to Hostinger for sponsoring this video
+clip_0004,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0004.mp4,15.240,21.000,5.760,- Oh no. - Did she join the wrong call? - I have come to you today with a proposal
+clip_0005,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0005.mp4,21.000,26.000,5.000,"that rivals, in impact, renewable energy, world peace."
+clip_0006,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0006.mp4,26.250,31.590,5.340,"You see, today, I bring you the solution for recipe websites."
+clip_0007,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0007.mp4,31.590,35.820,4.230,- Can I just go back to one thing? What is the impact of world peace given we don't have it?
+clip_0008,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0008.mp4,35.820,41.310,5.490,How do we know the impact of world peace? - Imagine for a moment - that you are hungry.
+clip_0010,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0010.mp4,46.950,50.850,3.900,Countless personal memoirs before you can get to the recipe.
+clip_0011,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0011.mp4,50.850,55.380,4.530,"For example, ""Shortly after the attacks of September, 9/11."""
+clip_0012,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0012.mp4,55.380,58.950,3.570,- I was gonna say something but she really got me there. Okay. - All of this
+clip_0013,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0013.mp4,58.950,61.890,2.940,- will no longer be a problem thanks to
+clip_0016,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0016.mp4,71.820,75.630,3.810,- There's so much happening on this page right now. - They're telling us how to make the recipe.
+clip_0017,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0017.mp4,75.630,78.600,2.970,- The actual recipe is right here.
+clip_0018,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0018.mp4,78.600,82.170,3.570,"Now, what we can do is we can copy this link"
+clip_0019,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0019.mp4,82.170,85.950,3.780,"and then we go to Answer in Progress's Recipe Cleaner,"
+clip_0020,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0020.mp4,85.950,90.510,4.560,where we can just - Wow. - paste the link and boom!
+clip_0021,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0021.mp4,90.510,95.310,4.800,"Recipe! - Oh actually, that's quite good. - Right? - Okay, I can't lie."
+clip_0022,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0022.mp4,95.310,98.580,3.270,I don't feel the greatest about this.
+clip_0023,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0023.mp4,98.580,102.316,3.736,The other stuff is important too! - Is it? - Is it? - Yes!
+clip_0024,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0024.mp4,102.316,106.740,4.424,"I can't describe it but, it doesn't-- - Well... - If you can't - describe it, it can't be that important."
+clip_0025,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0025.mp4,106.740,111.960,5.220,"- When you look at a recipe, you do not read the other stuff. - What if there's something very important"
+clip_0026,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0026.mp4,111.960,114.990,3.030,"in there that's gonna help me make this recipe really, really good?"
+clip_0027,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0027.mp4,114.990,120.300,5.310,"- It's the instructions. - Okay, I feel like I'm being met with some resistance here."
+clip_0028,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0028.mp4,120.300,125.115,4.815,"- If it was important, it would be in the instructions."
+clip_0029,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0029.mp4,125.115,130.620,5.505,"- Sure! - Facts. - So, what's the ask? The ask is money."
+clip_0030,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0030.mp4,130.620,135.620,5.000,"Sharks, I am seeking $251.76 US dollars"
+clip_0031,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0031.mp4,136.620,140.940,4.320,to pay for the server fees for this website for the next two years.
+clip_0032,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0032.mp4,140.940,144.826,3.886,"- Low-key, that's kinda good. - Listen, that's a great deal. - Right? - Approved."
+clip_0034,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0034.mp4,149.790,153.600,3.810,"Hostinger has their new years resolution sale, which gets you everything you need to grow online"
+clip_0035,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0035.mp4,153.600,159.120,5.520,"and they have plans for up to like 80 percent off. Also, also, if we use our coupon code, ANSWER,"
+clip_0036,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0036.mp4,159.120,162.503,3.383,"we get 10 percent off on top of all that. - Yes, I see."
+clip_0037,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0037.mp4,162.503,166.020,3.517,"I love a deal, I love a discount. 65 percent off plus an extra 10 percent off"
+clip_0038,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0038.mp4,166.020,171.587,5.567,"with the code, ANSWER, wow. However, like I said guys,"
+clip_0039,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0039.mp4,171.587,175.020,3.433,I don't know if I'm fully onboard with the product. Ya know what I mean?
+clip_0040,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0040.mp4,175.020,180.720,5.700,- I'm genuinely having trouble understanding why you don't think this is actually a good product.
+clip_0041,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0041.mp4,180.720,185.567,4.847,I actually do think that a recipe cleaner website would be really good.
+clip_0042,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0042.mp4,185.567,189.360,3.793,- Let me take some time to gather my thoughts here. Give me one week.
+clip_0043,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0043.mp4,189.360,193.426,4.066,One week before you go live with the website. - One week. - I'll change your mind.
+clip_0044,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0044.mp4,193.426,198.076,4.650,"- I don't understand why this would not be a net good. - Well, give me a week and I'll tell you."
+clip_0045,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0045.mp4,198.076,201.750,3.674,"I love cooking, I love cookbooks, I love food blogs."
+clip_0046,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0046.mp4,201.750,204.307,2.557,I feel like there's something very important
+clip_0047,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0047.mp4,204.307,208.620,4.313,about the stuff that is around the ingredients
+clip_0048,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0048.mp4,208.620,211.800,3.180,and instructions list that people should pay attention to.
+clip_0049,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0049.mp4,211.800,216.060,4.260,Perhaps another reason this feels personal to me is because I've been trying to translate
+clip_0051,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0051.mp4,220.680,225.201,4.521,really cool to share with other people as well. It doesn't feel right to just put ingredients lists
+clip_0052,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0052.mp4,225.201,229.620,4.419,"in the instructions with the recipes. Like, there's stuff that I wanna say about them."
+clip_0053,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0053.mp4,229.620,233.730,4.110,"Because I'm not a pro recipe writer. All right, we're good. I spoke with some food writers"
+clip_0054,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0054.mp4,233.730,238.140,4.410,and food people that I admired to get their perspective and maybe get some tips on how to share
+clip_0055,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0055.mp4,238.140,242.010,3.870,"my own family recipes. - To me, it's important to have like, some sort of visual."
+clip_0058,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0058.mp4,250.830,254.070,3.240,"And then, I usually have like some sort of blurb."
+clip_0060,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0060.mp4,257.310,261.210,3.900,"- Head notes can come in all different shapes, lengths, and sizes."
+clip_0061,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0061.mp4,261.210,264.420,3.210,Sometimes they're only a sentence. Sometimes they're two paragraphs.
+clip_0063,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0063.mp4,269.160,274.470,5.310,"This is their creative outlet and so, a head note gives them that space to"
+clip_0064,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0064.mp4,274.470,278.430,3.960,"talk about the process. - And that's just like a little bit of color to the recipe, right?"
+clip_0065,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0065.mp4,278.430,282.596,4.166,"That's just like the introduction, the kind of context as to like"
+clip_0066,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0066.mp4,282.596,287.160,4.564,why am I putting this recipe in the book?
+clip_0069,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0069.mp4,296.507,300.234,3.727,and how that ties into my own cultural identity
+clip_0071,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0071.mp4,303.780,308.184,4.404,"these recipes are just a weeknight dinner of Indian stew, but for me,"
+clip_0072,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0072.mp4,308.184,312.541,4.357,"when I look at these recipes, I see my family"
+clip_0074,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0074.mp4,316.140,321.150,5.010,all around the world and tried to keep cultural traditions alive when they moved to a new place.
+clip_0075,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0075.mp4,321.150,324.833,3.683,- Why not enjoy those themes while enjoying a piping hot bowl of soup?
+clip_0076,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0076.mp4,324.833,330.420,5.587,"I'm not saying that it has to be there every single time, but at least giving readers the option of that experience,"
+clip_0077,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0077.mp4,330.420,334.800,4.380,"I think, is a value add that can really enhance a blog or a book."
+clip_0078,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0078.mp4,334.800,339.630,4.830,"- Also, it's like if you are really honest with what the experience would be like,"
+clip_0079,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0079.mp4,339.630,344.785,5.155,if you typed in grilled cheese recipe and you clicked a website and it just has
+clip_0081,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0081.mp4,348.960,352.080,3.120,Like all of that fluff is a sort of social proof
+clip_0082,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0082.mp4,352.080,355.620,3.540,that says I deserve to give you this information and you should trust me.
+clip_0083,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0083.mp4,355.620,358.099,2.479,- But also because it does have this very logical
+clip_0084,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0084.mp4,358.099,361.710,3.611,role that it plays in terms of search engine optimization.
+clip_0085,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0085.mp4,361.710,365.700,3.990,"- It is ad sales, it is space to block out,"
+clip_0086,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0086.mp4,365.700,370.680,4.980,"to make the website profitable. If I'm looking for a free recipe,"
+clip_0087,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0087.mp4,370.680,374.370,3.690,"someone still deserves to get paid. - When people talk about recipes,"
+clip_0088,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0088.mp4,374.370,378.660,4.290,they seem to be typically talking about recipe blogs
+clip_0090,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0090.mp4,384.000,389.160,5.160,the vacation that inspired this recipe. It is a blog and if you wanted recipes
+clip_0091,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0091.mp4,389.160,394.200,5.040,"with just the directions, I think you're more likely to find those on like, America's Test Kitchen,"
+clip_0093,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0093.mp4,398.280,403.290,5.010,"then that's what you have to deal with and sometimes, you know, just follow a good writer"
+clip_0094,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0094.mp4,403.290,407.400,4.110,and it won't be as annoying. - Recipe writing is a lot more difficult
+clip_0095,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0095.mp4,407.400,411.240,3.840,than I thought it was going to be. I think the easiest part of this entire process
+clip_0101,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0101.mp4,430.260,432.210,1.950,You can check out the website if you want to
+clip_0102,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0102.mp4,432.210,437.100,4.890,"at thirdculturekitchen.blog, .blog."
+clip_0103,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0103.mp4,437.100,441.930,4.830,"I don't know if I'm the greatest food writer, but I do know, for a fact, that all of the people"
+clip_0104,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0104.mp4,441.930,445.860,3.930,that I just talked to are so incredible.
+clip_0105,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0105.mp4,445.860,451.830,5.970,"Genuinely, all the people that I just talked to, I am a fan of and you should really watch their stuff."
+clip_0106,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0106.mp4,451.830,454.920,3.090,I'll link all of their work in the description so you can check it out yourself.
+clip_0107,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0107.mp4,454.920,457.290,2.370,So all that's left to do is share it
+clip_0108,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0108.mp4,457.290,461.550,4.260,with Sabrina and Taha so they can appreciate the art.
+clip_0109,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0109.mp4,461.550,465.090,3.540,Hello sharks. I have made a recipe website
+clip_0110,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0110.mp4,465.090,468.720,3.630,with all of my family recipes that I would like to show you today.
+clip_0111,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0111.mp4,468.720,472.590,3.870,"- Who are you, Sabrina Cruz? That makes me the only person who can't"
+clip_0112,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0112.mp4,472.590,477.150,4.560,"make websites on this team. - Ya know what, making a website is actually so easy. I just drag and drop everything."
+clip_0113,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0113.mp4,477.150,481.230,4.080,"I didn't have to code anything. - Wait. Sabrina, do you even code anything?"
+clip_0114,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0114.mp4,481.230,484.920,3.690,"Or do you pretend? Expose coming soon. Megalag, get on it."
+clip_0115,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0115.mp4,484.920,489.030,4.110,"- I'm gonna let the website speak for itself. - Does it have the useless garbage, Melissa? - Garbage."
+clip_0119,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0119.mp4,502.163,506.160,3.997,"Don't you like, wanna know where the recipe's from and like, how to use it? - Melissa, this entire"
+clip_0120,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0120.mp4,506.160,509.781,3.621,- project started with me saying that I don't wanna read it.
+clip_0122,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0122.mp4,515.580,520.710,5.130,"the recipe or like the little writing before the recipe is not necessarily necessary,"
+clip_0123,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0123.mp4,520.710,523.800,3.090,it enhances your experience of the recipe.
+clip_0124,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0124.mp4,523.800,528.570,4.770,"You know, like you're eating it and you're like wow! That's where it came from! That's really cool!"
+clip_0127,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0127.mp4,535.852,540.390,4.538,And it's good and that's why we should have it. Why is it good?
+clip_0128,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0128.mp4,540.390,543.750,3.360,"- He's back on the good side. Let's go Taha, up top."
+clip_0129,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0129.mp4,543.750,548.374,4.624,"- I kind of like recoiled because like, you are calling literally,"
+clip_0130,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0130.mp4,548.374,552.150,3.776,erasing and decontextualizing the recipe
+clip_0131,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0131.mp4,552.150,556.410,4.260,"from the people who invented the recipe as the good side, which just feel--"
+clip_0132,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0132.mp4,556.410,559.413,3.003,- I didn't even tell him that. I didn't even tell him that.
+clip_0133,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0133.mp4,559.413,563.347,3.934,"- As I was reading the words, ya know, my Nana's recipe and you going,"
+clip_0134,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0134.mp4,563.347,567.570,4.223,"""Yeah, getting rid of all of this is good."" - These people are essentially working for free"
+clip_0135,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0135.mp4,567.570,572.730,5.160,"putting their you know, hard work and hours and time into making these recipes"
+clip_0136,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0136.mp4,572.730,577.050,4.320,"and writing them and making sure that we can understand them and often times, they're not getting paid"
+clip_0137,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0137.mp4,577.050,582.393,5.343,"except for the ads that are on their website. So, you wanna take away their ads, their money?"
+clip_0138,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0138.mp4,583.440,586.470,3.030,"Sabrina? We're killing your website, right? That's not happening?"
+clip_0139,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0139.mp4,586.470,590.880,4.410,"- Yeah, Sabrina, your website is basically the equivalent of one of those commenters"
+clip_0140,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0140.mp4,590.880,595.620,4.740,"on an Answer in Progress video being like, real video starts at three minutes and 40 when she says the thing."
+clip_0141,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0141.mp4,595.620,599.610,3.990,- No! - I actually only came here to learn the facts of the matter.
+clip_0142,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0142.mp4,599.610,604.500,4.890,- I'm willing to admit that the theft of intellectual property isn't good.
+clip_0144,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0144.mp4,608.280,611.790,3.510,that acknowledgement of cultural histories
+clip_0145,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0145.mp4,611.790,616.200,4.410,"and artistic endeavors, also important. You can quote me on that."
+clip_0147,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0147.mp4,619.853,624.690,4.837,- And you can quote me on that. - I'm gonna challenge you to come over then
+clip_0148,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0148.mp4,624.690,629.220,4.530,and make this recipe without the tips and tricks. - Easy.
+clip_0149,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0149.mp4,629.220,633.510,4.290,Let me cook. Are you just gonna sit there? - This is not about me.
+clip_0156,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0156.mp4,659.640,663.477,3.837,that they can just take a set of ingredients and a set of instructions and get in the kitchen
+clip_0160,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0160.mp4,675.390,678.833,3.443,"oh my gosh, onions affect you this much? - Yes!"
+clip_0162,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0162.mp4,682.620,687.600,4.980,- Look at that technique. - An Asian childhood. This is my first time seeing saffron in real life.
+clip_0163,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0163.mp4,687.600,689.433,1.833,Is this two threads?
+clip_0165,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0165.mp4,702.690,707.400,4.710,"- That's a typo. That should say onion. - Working in professional kitchens with other professional cooks,"
+clip_0166,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0166.mp4,707.400,711.540,4.140,"we don't measure anything, hardly anything. - No idea which one's cardamom,"
+clip_0172,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0172.mp4,732.600,737.580,4.980,"- Pinch me. Pinch me like how you would pinch salt. Oww! - These types of explanations,"
+clip_0178,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0178.mp4,758.580,762.930,4.350,if you take the time to read through that section. - One whole chicken cut into stewing size.
+clip_0180,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0180.mp4,766.320,768.723,2.403,"'Cause like, you could stew anything."
+clip_0183,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0183.mp4,778.920,784.050,5.130,- Hasn't said anything about bones. I've never cut up a chicken before.
+clip_0189,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0189.mp4,808.140,812.130,3.990,- I close my eyes every time I do that. That can't be the responsible choice.
+clip_0195,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0195.mp4,835.500,839.790,4.290,But putting all that advice into words isn't as easy as you might think.
+clip_0196,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0196.mp4,839.790,843.480,3.690,"- I always found the transition from like, home cooking to recipe writing,"
+clip_0197,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0197.mp4,843.480,848.070,4.590,to be challenging because I'm so used to just like grabbing things.
+clip_0198,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0198.mp4,848.070,853.258,5.188,- I just kinda threw stuff into a wok or a pan and just went with it.
+clip_0200,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0200.mp4,857.970,861.120,3.150,"Just a little bit. - With recipe writing, you really have to be"
+clip_0202,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0202.mp4,866.220,871.560,5.340,ruins the flow of cooking for you and it's something that you have to reteach yourself
+clip_0206,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0206.mp4,883.920,887.130,3.210,for a recipe for the reader in the end.
+clip_0208,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0208.mp4,891.154,895.050,3.896,"in a way that doesn't suck. - The entire time that you were cooking,"
+clip_0212,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0212.mp4,906.720,911.610,4.890,"- So, that was a really cool thing. - It smells so good, dude. - It does smell really good."
+clip_0217,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0217.mp4,927.241,931.620,4.379,"Truly 10 outta 10, really good. - She's only saying that 'cause she cooked half of it."
+clip_0218,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0218.mp4,931.620,934.860,3.240,- I got the last two points.
+clip_0226,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0226.mp4,966.780,971.070,4.290,- I am appreciating your whole life story more as I'm eating it.
+clip_0227,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0227.mp4,971.070,975.440,4.370,"Also, it just like, it adds texture, ya know? I'm like yeah, tell me more. - The texture of cardamom pods"
+clip_0228,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0228.mp4,975.440,980.189,4.749,"- is what I'm getting. - You're so rude. - Oh yeah, so like back to the reason why"
+clip_0231,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0231.mp4,988.032,991.590,3.558,"'Cause you know, I know I was a little unclear"
+clip_0232,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0232.mp4,991.590,994.980,3.390,"in the beginning about my feelings and thoughts about this,"
+clip_0233,ZvC2jtmVAMs,answer_in_progress,train,train/answer_in_progress/ZvC2jtmVAMs/clip_0233.mp4,994.980,999.213,4.233,but they are stronger and more solidified more than ever that you should totally not do it.
+clip_0000,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0000.mp4,0.180,3.750,3.570,"- I am not the biggest fan of winter. The sun sets at, like, 4:00 p.m.,"
+clip_0001,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0001.mp4,3.750,7.980,4.230,"it's freezing cold outside, and my lips get"
+clip_0002,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0002.mp4,7.980,11.820,3.840,so dry. And I've tried to fight this problem
+clip_0003,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0003.mp4,11.820,15.420,3.600,by buying a seemingly endless variety of lip products.
+clip_0004,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0004.mp4,15.420,19.920,4.500,"All of these things I just pulled out of my purse. No one needs this many lip products. I have this much lip skin,"
+clip_0005,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0005.mp4,19.920,24.600,4.680,"and with all the products that I carry, you'd think I'd have found my solution by now."
+clip_0006,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0006.mp4,24.600,29.400,4.800,"But, no, I just keep reaching for new products convinced they'll fix my lips,"
+clip_0007,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0007.mp4,29.400,34.950,5.550,but that stops today. I'm done with overbuying and wasting my money on things
+clip_0009,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0009.mp4,40.110,43.590,3.480,"speaking to both a dermatologist and a cosmetic scientist,"
+clip_0010,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0010.mp4,43.590,49.380,5.790,and trying different lip products to figure out once and for all if lip balms are just a scam.
+clip_0012,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0012.mp4,54.090,59.130,5.040,and to our patrons for supporting the channel. Do you guys ever experience chapped lips?
+clip_0013,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0013.mp4,59.130,63.870,4.740,"Do you ever get chapped lips? - Yes, until I developed my system. - Show us them lips."
+clip_0014,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0014.mp4,63.870,68.370,4.500,- They look pretty non-chapped. - Wow! Those actually look mega healthy. - What's your secret?
+clip_0015,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0015.mp4,68.370,73.080,4.710,- I am going to sound like a conspiracy theorist. Lip skin.
+clip_0016,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0016.mp4,73.080,76.890,3.810,"That's just skin, right? How did big lip balm convince us"
+clip_0017,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0017.mp4,76.890,81.210,4.320,that moisturizing with normal moisturizer on your lips
+clip_0018,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0018.mp4,81.210,86.340,5.130,is not normal? I use my moisturizer on my lips.
+clip_0019,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0019.mp4,86.340,91.320,4.980,- Okay. - For moisture. Then I take my lip balm and I put that on top for protection.
+clip_0020,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0020.mp4,91.320,96.090,4.770,- What type of lip balm is it? - Use this Drunk Elephant lip balm. - That's so slay.
+clip_0021,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0021.mp4,96.090,99.870,3.780,"- Okay, what is the level of- - She just doesn't care about my answer. That's crazy."
+clip_0022,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0022.mp4,99.870,103.500,3.630,"- The proof is in the pudding, actually. Have you seen how unchapped my lips are?"
+clip_0023,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0023.mp4,103.500,108.060,4.560,"- What are you trying to say right now? - Okay, Sabrina, what's your theory? - I also have a two-part system."
+clip_0024,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0024.mp4,108.060,112.290,4.230,"To moisturize, I just stay hydrated. I just drink water."
+clip_0025,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0025.mp4,112.290,116.613,4.323,"To keep it glistening and gorgeous, hamburger."
+clip_0026,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0026.mp4,116.613,121.140,4.527,- Hamburger? - You're so annoying. What do you mean? - Little bit of grease.
+clip_0027,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0027.mp4,121.140,125.610,4.470,"Little bit of greasy food. We got two ends of the spectrum, just drinking water,"
+clip_0028,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0028.mp4,125.610,130.470,4.860,"or just moisturizing. Who's right, Melissa? - I'm gonna figure this out."
+clip_0029,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0029.mp4,130.470,135.450,4.980,"I'm gonna get hydrated, healthy lips. And I'll prove both of you wrong. - What do you mean both of us wrong?"
+clip_0030,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0030.mp4,135.450,139.140,3.690,"I'm right. - No, I'm right. - Now, each of them have pretty different approaches"
+clip_0031,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0031.mp4,139.140,143.190,4.050,"to treating their chapped lips, and you know, I see what both of them are saying."
+clip_0032,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0032.mp4,143.190,146.220,3.030,"One challenge is getting our lips moisturized,"
+clip_0033,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0033.mp4,146.220,151.080,4.860,"and the other is keeping them that way. But, how do we actually do that?"
+clip_0034,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0034.mp4,151.080,155.700,4.620,"I think the secret formula lies in here, the ingredients list."
+clip_0035,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0035.mp4,155.700,159.150,3.450,My theory is that a lip balm with actual hydrating ingredients
+clip_0036,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0036.mp4,159.150,164.130,4.980,"will, one, make my lips feel soft, and two, mean that I need to reapply it less throughout the day."
+clip_0045,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0045.mp4,197.820,203.130,5.310,"I try to avoid fragrance in all of my skincare products because I have sensitive skin and eczema,"
+clip_0046,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0046.mp4,203.130,208.410,5.280,so I'd imagine that the same applies for my lip skin. I'll admit in the past I've been a little impulsive
+clip_0047,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0047.mp4,208.410,211.740,3.330,"with my lip product purchases, not really reading the ingredients,"
+clip_0048,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0048.mp4,211.740,214.200,2.460,and buying them mostly based on cute packaging.
+clip_0058,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0058.mp4,251.940,256.710,4.770,"Making sure to go outside at least once a day, because I needed to know if these products"
+clip_0059,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0059.mp4,256.710,259.950,3.240,"could stand up to the cold. Now, the reason I'm doing this experiment"
+clip_0060,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0060.mp4,259.950,264.120,4.170,"is because I don't want my lips to be dry, but the one thing I do wanna keep dry,"
+clip_0079,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0079.mp4,338.370,341.880,3.510,"All right, I have completed my experiment"
+clip_0080,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0080.mp4,341.880,345.090,3.210,and I'm here to report back with my findings.
+clip_0081,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0081.mp4,345.090,350.070,4.980,"These first two, I was like, so excited to try them, and these are the ones that I realized"
+clip_0082,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0082.mp4,350.070,354.593,4.523,after using them for two whole days that they did in fact have fragrance in them. Whoopsies.
+clip_0084,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0084.mp4,358.110,362.513,4.403,"The formula is a tube, it looks like, looks like that."
+clip_0086,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0086.mp4,366.900,370.750,3.850,"It smells kind of minty, like if you put a mint in a coffee shop"
+clip_0087,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0087.mp4,371.820,375.780,3.960,"and left it there. I was really excited about this one, because I used this brand's other products"
+clip_0088,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0088.mp4,375.780,378.967,3.187,"for like skincare and makeup, so I was like,"
+clip_0089,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0089.mp4,378.967,382.830,3.863,"""Their makeup and other skincare is great, this lip product must be also incredible,"""
+clip_0090,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0090.mp4,382.830,387.600,4.770,"but it was honestly underwhelming. This product felt nice when I first applied. It gave me that like nice glossy feeling,"
+clip_0091,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0091.mp4,387.600,390.240,2.640,but I remember my lips feeling
+clip_0092,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0092.mp4,390.240,394.200,3.960,"like almost sticky after wearing it for a few hours,"
+clip_0093,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0093.mp4,394.200,399.540,5.340,and like I wanted to reapply it to avoid that sticky feeling that I had.
+clip_0094,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0094.mp4,399.540,404.070,4.530,It almost felt like I had a layer of something extra on my skin. That wasn't pleasant.
+clip_0095,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0095.mp4,404.070,408.030,3.960,"When I move my mouth, I just don't wanna feel like I have something on my lips. I just want them to feel"
+clip_0096,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0096.mp4,408.870,412.730,3.860,like they blend in and are just there. This did not do that for me.
+clip_0097,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0097.mp4,414.000,415.410,1.410,"So, on to the next one."
+clip_0098,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0098.mp4,415.410,420.410,5.000,This is the Fresh Sugar Advanced Therapy Lip Treatment.
+clip_0099,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0099.mp4,420.990,426.570,5.580,"I don't think I know the difference between a lip balm and a lip treatment, and now that I think about it, it might just be marketing."
+clip_0102,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0102.mp4,434.130,437.460,3.330,"I applied this a total of four times this day,"
+clip_0103,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0103.mp4,437.460,442.710,5.250,"and also realized too late that there was fragrance in here. I remember needing to reapply it a lot throughout the day,"
+clip_0104,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0104.mp4,442.710,446.520,3.810,"because when you do apply this product to your lips, it feels really comfortable and cushiony,"
+clip_0106,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0106.mp4,449.970,454.470,4.500,"This product did an okay job at making my lips feel good,"
+clip_0107,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0107.mp4,454.470,458.190,3.720,I was just disappointed that I needed to put it on so many times throughout the day.
+clip_0111,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0111.mp4,470.633,472.980,2.347,This is the one that I got the most influence to buy.
+clip_0112,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0112.mp4,472.980,477.420,4.440,"I will admit, when I first put this on, glossy dream."
+clip_0113,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0113.mp4,477.420,482.490,5.070,"Oh my goodness, Mrs. Bieber. My lips, they feel wonderful."
+clip_0114,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0114.mp4,482.490,487.920,5.430,"Something that was interesting about this one is that it didn't leave my lips with that sticky feeling,"
+clip_0115,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0115.mp4,487.920,493.890,5.970,"so when I did wanna reapply this lip product, it wasn't because my lips felt bad,"
+clip_0116,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0116.mp4,493.890,497.520,3.630,it was just because the product had evaporated and I wanted to put it back on.
+clip_0117,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0117.mp4,497.520,499.890,2.370,I think the only downside to this one
+clip_0118,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0118.mp4,499.890,503.640,3.750,"is that I'm wondering if I had actually truly chapped lips,"
+clip_0119,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0119.mp4,503.640,508.792,5.152,"I don't know how it would've performed if I had, like,"
+clip_0120,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0120.mp4,508.792,511.170,2.378,"flakes, you know?"
+clip_0122,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0122.mp4,515.220,520.590,5.370,"It's French, so it's lip, cicaplast, lip. The ingredient highlights are triglycerides,"
+clip_0123,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0123.mp4,520.590,523.730,3.140,shea butter again. This balm...
+clip_0124,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0124.mp4,524.580,530.130,5.550,"It's so thick. This product, when I apply it, it feels greasy on my lips,"
+clip_0125,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0125.mp4,530.130,533.760,3.630,but it just feels like something is sitting on top of them. Is it doing anything?
+clip_0126,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0126.mp4,533.760,536.400,2.640,"And I thought that that it, because it's got like,"
+clip_0127,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0127.mp4,536.400,540.060,3.660,"ceramides or whatever in here and like, skin repairing."
+clip_0128,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0128.mp4,540.060,541.860,1.800,"So, I don't know if it's doing any repairing."
+clip_0129,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0129.mp4,541.860,546.120,4.260,I reapplied this for a total of five times in the day.
+clip_0130,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0130.mp4,546.120,550.410,4.290,"Yeah, this is the one that I ended up having to reapply the most amount of times. It's fine."
+clip_0131,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0131.mp4,550.410,555.450,5.040,"If I were to compare it to the fresh one, both of these products have the same kind of greasy,"
+clip_0132,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0132.mp4,555.450,561.000,5.550,"slippery feeling when I put them on my lips, but the fresh one felt like it was hydrating,"
+clip_0133,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0133.mp4,561.000,564.930,3.930,versus this one just felt like it was sitting on top of my skin.
+clip_0137,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0137.mp4,577.440,580.965,3.525,This is one that I have never sought out to purchase myself.
+clip_0138,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0138.mp4,580.965,583.860,2.895,"It was in my parents' home, and I took it."
+clip_0139,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0139.mp4,583.860,587.040,3.180,And it's also something you can find at like any drugstore.
+clip_0140,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0140.mp4,587.040,590.580,3.540,"Out of all the products, this one was the most surprising, for a couple of reasons."
+clip_0141,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0141.mp4,590.580,595.110,4.530,I was very skeptical that this one was going to work. I don't really feel good about this one.
+clip_0142,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0142.mp4,595.110,598.230,3.120,There's menthol and alcohol in it.
+clip_0143,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0143.mp4,598.230,603.120,4.890,Pretty sure that makes my lips worse. It makes my lips feel tingly and numb.
+clip_0144,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0144.mp4,603.120,607.380,4.260,"I don't think I like this one. When you first put this one and you go outside, feels terrible."
+clip_0145,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0145.mp4,607.380,612.570,5.190,"I just walked outside to get into the car, and my lips are so cold."
+clip_0146,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0146.mp4,612.570,617.640,5.070,"It's cold outside, but I think because of the the menthol, you know when you have, when you like eat a mint"
+clip_0147,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0147.mp4,617.640,621.660,4.020,"and then drink water, it just like, is icy cold? And for that reason,"
+clip_0148,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0148.mp4,621.660,625.470,3.810,I was hesitant to keep on reapplying it throughout the day.
+clip_0149,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0149.mp4,625.470,629.910,4.440,"I don't know how long I can use this one for. But then... You guys, I feel,"
+clip_0150,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0150.mp4,629.910,632.703,2.793,"like, a new lip has been reborn."
+clip_0151,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0151.mp4,635.430,639.780,4.350,And I don't wanna reapply. Maybe I don't need to reapply it because my lips actually feel fine.
+clip_0152,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0152.mp4,639.780,645.547,5.767,"Why does the most gross one work? All of these products, around $20."
+clip_0153,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0153.mp4,645.547,649.470,3.923,$2? Why would I buy these things if the $2 product works?
+clip_0154,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0154.mp4,649.470,652.590,3.120,"Well, I do know, because I... This is ugly."
+clip_0155,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0155.mp4,652.590,655.320,2.730,This product doesn't deliver the gloss of the Rhode one
+clip_0156,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0156.mp4,655.320,659.400,4.080,"or the Ilia one, but it sure as heck does unchap my lips."
+clip_0157,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0157.mp4,659.400,665.280,5.880,"I'm just confused here. What is making this work, and these not work?"
+clip_0158,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0158.mp4,665.280,668.880,3.600,"So to find some clarity, I spoke to both a cosmetic chemist"
+clip_0159,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0159.mp4,668.880,674.100,5.220,and a dermatologist to help me figure out where I was going wrong with my lip care approach.
+clip_0161,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0161.mp4,677.280,679.650,2.370,"the skin of your lips,"
+clip_0162,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0162.mp4,679.650,683.430,3.780,but that skin is experiencing an impaired barrier.
+clip_0163,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0163.mp4,683.430,687.990,4.560,- Our lip skin is some of the most vulnerable and thin skin on our body.
+clip_0168,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0168.mp4,703.410,707.820,4.410,"- Your lips are just in the worst place. So first off, you're breathing on them,"
+clip_0169,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0169.mp4,707.820,713.370,5.550,"and that gets worse in dry weather. So it's like, any sort of wind will accelerate that water leaving."
+clip_0170,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0170.mp4,713.370,715.800,2.430,"You've also got lots of things touching your lips,"
+clip_0171,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0171.mp4,715.800,719.430,3.630,"like water, saliva, food, that's washing that oil away,"
+clip_0172,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0172.mp4,719.430,723.780,4.350,"so it's getting rid of the natural moisturizer, - The transition to fall and winter,"
+clip_0173,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0173.mp4,723.780,728.040,4.260,"that's often when people start presenting with really dry chapped lips,"
+clip_0174,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0174.mp4,728.040,733.560,5.520,because whatever products and routine they were using for their lips isn't adequate enough
+clip_0175,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0175.mp4,733.560,737.220,3.660,to help trap in that moisture. - I realized that I misunderstood
+clip_0179,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0179.mp4,749.730,753.840,4.110,"- There are occlusives, and these tend to form a seal on your skin"
+clip_0180,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0180.mp4,753.840,757.860,4.020,"and help seal in water, petrolatum, lanolin. - It's like a bandage,"
+clip_0181,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0181.mp4,757.860,762.480,4.620,it just allows your skin barrier to repair itself.
+clip_0182,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0182.mp4,762.480,766.380,3.900,"It helps trap in moisture. - Then we've also got emollients, which are also oils,"
+clip_0183,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0183.mp4,766.380,769.590,3.210,but these ones don't necessarily seal in water very well.
+clip_0184,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0184.mp4,769.590,773.460,3.870,They mostly sort of fill in the gaps in your skin barrier.
+clip_0185,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0185.mp4,773.460,778.680,5.220,"And then you've also got humectants, which are ingredients that are really good at holding onto water."
+clip_0186,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0186.mp4,778.680,782.370,3.690,"All three types will help with hydration. In general, the one that works the best"
+clip_0187,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0187.mp4,782.370,786.420,4.050,for your lips are occlusives. - So I guess the reason that Blistex worked for me
+clip_0188,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0188.mp4,786.420,790.620,4.200,"was that it had the right combination of occlusives, emollients, and humectants"
+clip_0190,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0190.mp4,794.430,798.870,4.440,individual factors like genetics. Some people do produce more oil on their lips
+clip_0191,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0191.mp4,798.870,803.790,4.920,"and more oil in their skin overall. - There's no right answer, and everybody's different."
+clip_0194,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0194.mp4,811.617,817.140,5.523,"you don't need to use anything. - Products that are not in a stick form tend to do better,"
+clip_0196,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0196.mp4,820.170,825.300,5.130,"and partly because the ingredients that are needed to make a stick work, that's a lot harder"
+clip_0198,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0198.mp4,828.540,832.320,3.780,"So, yeah, I think goo products generally tend to work better for that,"
+clip_0199,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0199.mp4,832.320,836.510,4.190,even though they are like a bit of a pain to apply when you're out. - Should I start buying lip balms?
+clip_0200,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0200.mp4,839.040,842.700,3.660,"Well, maybe the problem all along wasn't my lips,"
+clip_0201,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0201.mp4,842.700,847.560,4.860,"just the the fact that I am a consumer and get mesmerized by pretty packaging and marketing,"
+clip_0202,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0202.mp4,847.560,850.620,3.060,so I'll definitely be giving some of these away to my mom and my sister.
+clip_0203,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0203.mp4,850.620,856.080,5.460,"I learned so much talking to both Dr. Michelle and Dr. Aegean, and I couldn't fit all of that information"
+clip_0204,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0204.mp4,856.080,859.980,3.900,"into this video, so if you're interested in listening to both of those full conversations,"
+clip_0205,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0205.mp4,859.980,863.640,3.660,we'll have both of those available in our next newsletter. Something important that I've really learned
+clip_0206,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0206.mp4,863.640,868.407,4.767,"is to separate the effectiveness from the glossiness of a product,"
+clip_0207,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0207.mp4,868.407,872.970,4.563,"and I don't mean glossiness just in like the physical aesthetics of the product,"
+clip_0208,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0208.mp4,872.970,876.390,3.420,I mean all of the marketing and packaging and lifestyle.
+clip_0209,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0209.mp4,876.390,881.027,4.637,"That doesn't mean that they do the job better. This product, it looks whatever, it's just chapstick,"
+clip_0210,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0210.mp4,881.027,885.660,4.633,but it's the thing that worked and unchapped my lips.
+clip_0211,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0211.mp4,885.660,890.730,5.070,"While this doesn't give me that really glossy, beautiful look, it's something that works for me."
+clip_0212,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0212.mp4,890.730,893.820,3.090,There is a wide spectrum of lip.
+clip_0213,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0213.mp4,893.820,899.730,5.910,"There's no one-product solution for everyone, we all have different lip conditions, lip sensitivities,"
+clip_0214,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0214.mp4,899.730,903.270,3.540,and different preferences for what we want our lips to look and feel like.
+clip_0215,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0215.mp4,903.270,906.240,2.970,Sometimes I need to just heal chapped lips.
+clip_0216,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0216.mp4,906.240,910.560,4.320,"Sometimes my lips are healthy and I want something glossy. I mean, it's still fun"
+clip_0217,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0217.mp4,910.560,914.700,4.140,"to have fun with lip care if you want to, just don't go overboard, Melissa,"
+clip_0218,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0218.mp4,914.700,919.200,4.500,this is a message for you in the future when you rewatch this video a year from now when your lips get chapped again.
+clip_0219,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0219.mp4,919.200,923.490,4.290,"Rewatch this video and remember these three things, one, you are allergic to fragrances."
+clip_0220,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0220.mp4,923.490,928.110,4.620,"Stop buying products with fragrance in them. Two, what do your lips actually need?"
+clip_0221,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0221.mp4,928.110,931.530,3.420,Do you just want a lip gloss? Do you just need to unchap your lips?
+clip_0222,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0222.mp4,931.530,935.970,4.440,"These are two different products, Melissa. Three, sometimes the cheap thing"
+clip_0223,oRUBvbGd9tU,answer_in_progress,train,train/answer_in_progress/oRUBvbGd9tU/clip_0223.mp4,935.970,943.150,7.180,is the thing that's gonna work. Why is the cheapest one the one that worked? So mad. Good night.
+clip_0003,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0003.mp4,12.480,17.580,5.100,"Now, the face value for these toys are generally a lot lower, but their resale prices are being driven"
+clip_0004,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0004.mp4,17.580,21.780,4.200,by this rapidly increasing demand for a toy that you might not have even heard of
+clip_0006,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0006.mp4,25.350,29.010,3.660,I'm talking about blind boxes containing surprise collectible characters.
+clip_0012,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0012.mp4,49.410,52.950,3.540,Surprise toys have been a thing for ages. Think trading cards or kinder eggs.
+clip_0013,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0013.mp4,52.950,56.220,3.270,"But when I first learned about blind boxes from a friend, the thing I found most interesting"
+clip_0014,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0014.mp4,56.220,59.310,3.090,is that the most popular ones don't have a franchise
+clip_0018,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0018.mp4,70.980,74.820,3.840,"I wanted to double-check this gut feeling, so I found Pop Mart's prospectus."
+clip_0020,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0020.mp4,79.740,82.740,3.000,"Now, they acknowledge that their designs are a major part of their success,"
+clip_0021,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0021.mp4,82.740,86.550,3.810,but their biggest driver is actually how they sell them.
+clip_0026,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0026.mp4,100.890,104.940,4.050,have been around since the '60s. So what's changed? Why is this industry
+clip_0027,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0027.mp4,104.940,109.230,4.290,"experiencing such explosive growth right now? Like, I went to the airport the other day"
+clip_0029,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0029.mp4,114.000,119.220,5.220,"making my own blind box collection, kind of. So, I'm usually down to bite off more than I can chew,"
+clip_0030,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0030.mp4,119.220,123.123,3.903,"but figuring out a global supply chain for 3D mini figures,"
+clip_0031,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0031.mp4,124.860,127.980,3.120,"that might be a bit much. So I made a website with my Hostinger business plan,"
+clip_0038,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0038.mp4,154.020,157.140,3.120,and all of the ones I designed are part of a release series.
+clip_0045,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0045.mp4,181.890,185.610,3.720,"Now, in reality, people will usually shake or squish the packaging"
+clip_0048,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0048.mp4,194.010,198.360,4.350,"Ooh, wow! Moving the claw doesn't actually do anything,"
+clip_0051,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0051.mp4,206.730,209.850,3.120,you'll have everything else you'll need at a fraction of the usual cost:
+clip_0053,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0053.mp4,214.650,219.053,4.403,"where you can embed your widget. Hostinger has been a really consistent sponsor of the channel,"
+clip_0061,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0061.mp4,250.080,254.540,4.460,"as much as you want for free. I know, that seems like a bad idea. It's just..."
+clip_0062,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0062.mp4,255.551,259.620,4.069,I'm worried that the reason these toys are so popular is because of gambling.
+clip_0063,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0063.mp4,259.620,264.450,4.830,"Now, I could be wrong. I just don't feel comfortable making money from that until I know for sure it's not gambling,"
+clip_0067,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0067.mp4,276.810,280.530,3.720,"We got science papers, policy papers, economics papers."
+clip_0068,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0068.mp4,280.530,283.890,3.360,I'm about to bankrupt Answer in Progress with printer ink alone.
+clip_0069,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0069.mp4,283.890,288.600,4.710,But it was worth it because I think I know why blind boxes are more common now than ever before.
+clip_0070,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0070.mp4,288.600,291.990,3.390,It's a story in three parts and actually explains the rise of a whole lot more
+clip_0071,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0071.mp4,291.990,296.010,4.020,than just these Japanese dolls. I borrowed this from a friend.
+clip_0072,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0072.mp4,296.010,299.730,3.720,"It was $50. So first, we need to talk about social capital"
+clip_0073,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0073.mp4,299.730,302.940,3.210,"because even though there are a lot of different types of blind box toys,"
+clip_0077,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0077.mp4,317.250,321.529,4.279,"Now, look at me. Look at where I am. I have a problem."
+clip_0086,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0086.mp4,357.930,362.400,4.470,I'm guessing these things had just the right value for their price point that people could get them as a little treat
+clip_0090,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0090.mp4,374.790,379.350,4.560,"and it made me wanna be a part of this in-group, but I probably wouldn't even consider buying one"
+clip_0093,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0093.mp4,389.970,394.860,4.890,Blind box has simplified this decision by reducing the amount of thought I need to make a choice. And it's great for companies
+clip_0098,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0098.mp4,410.670,414.450,3.780,"that they want to get rid of, they could just stuff it into a clearance bag and lower the price."
+clip_0100,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0100.mp4,418.620,423.094,4.474,These benefits at least partly explain why so many more companies have started selling blind boxes
+clip_0104,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0104.mp4,435.450,440.100,4.650,or a variable schedule of reinforcement is when an action leads to a reward.
+clip_0109,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0109.mp4,455.940,459.660,3.720,"because when the reward is worth money, the action counts as gambling,"
+clip_0110,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0110.mp4,459.660,465.600,5.940,at least in a few countries like the Netherlands or the UK. That means that blind boxes are technically gambling.
+clip_0111,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0111.mp4,465.600,470.670,5.070,"If you wanna talk gambler's fallacy, Pop Mart's prospectus found that 70% of their market"
+clip_0113,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0113.mp4,475.110,480.480,5.370,"Now, there aren't any specific regulations around blind boxes. The closest comparison is video game loot boxes."
+clip_0114,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0114.mp4,480.480,486.120,5.640,"However, learning what gambling is on a technical level made me realize that it is way more prevalent in our lives"
+clip_0115,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0115.mp4,486.120,489.270,3.150,than I originally expected because your attention is worth money.
+clip_0123,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0123.mp4,517.500,522.720,5.220,"Even though blind boxes are trendy among certain consumers and operationally efficient for certain companies,"
+clip_0124,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0124.mp4,522.720,526.770,4.050,the real reason why the blind box industry has exploded over the past few years
+clip_0125,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0125.mp4,526.770,529.920,3.150,is simply because the product is addictive.
+clip_0127,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0127.mp4,534.690,539.460,4.770,"to see how well it holds up. In order to do that, you should probably know that the economic definition of an addiction"
+clip_0128,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0128.mp4,539.460,543.300,3.840,is when doing something today causes you to wanna do it more in the future.
+clip_0129,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0129.mp4,543.300,546.930,3.630,"In a casino, that might mean spending more money. That killed a few dogs."
+clip_0130,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0130.mp4,546.930,550.470,3.540,"But in my game, I'm gonna define it as playing more. So, I looked into the behavior"
+clip_0131,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0131.mp4,550.470,556.470,6.000,"of 2,600-ish unique visitors to the site and found that approximately 1,700 played more than once."
+clip_0132,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0132.mp4,556.470,559.950,3.480,I say approximately because a couple of you Kobayashi-Marued me
+clip_0133,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0133.mp4,559.950,565.260,5.310,and decided to spend a little more time in the developer console instead of playing my fun game.
+clip_0137,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0137.mp4,578.430,582.270,3.840,"In order to understand this behavioral divide, I decided to do something stupid"
+clip_0138,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0138.mp4,582.270,586.946,4.676,"and read the comment section. Oh, my God. There were a lot of them."
+clip_0139,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0139.mp4,586.946,590.790,3.844,"A vast majority played the game for its novelty,"
+clip_0140,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0140.mp4,590.790,595.320,4.530,which wore off after one to two pulls. But the people who stuck around had a mission.
+clip_0141,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0141.mp4,595.320,598.620,3.300,"They wanted to collect every design, especially the secret brain."
+clip_0142,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0142.mp4,598.620,603.023,4.403,"For context, 15 people bought the secret brain design, that's cash money,"
+clip_0143,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0143.mp4,603.023,607.590,4.567,while 459 people got it in the game despite the odds.
+clip_0144,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0144.mp4,607.590,611.130,3.540,"They wanted to feel like they earned it. And it made me realize that for some people,"
+clip_0150,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0150.mp4,635.820,639.997,4.177,"they're buying a whole experience. - There's definitely instances where I'm like,"
+clip_0151,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0151.mp4,639.997,645.840,5.843,"""I really want that Sonny Angel specifically. Like, this ram helmet is so cute."
+clip_0152,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0152.mp4,645.840,649.650,3.810,"Like, I would love to have that one."" But then by and large, probably not."
+clip_0153,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0153.mp4,649.650,653.550,3.900,"I am really so down for any tiny toy,"
+clip_0154,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0154.mp4,653.550,658.590,5.040,"like it doesn't need to be a Sonny Angel, it could be literally anything, and I would be like, ""Sold,"" and immediately there."
+clip_0155,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0155.mp4,658.590,663.390,4.800,- I decided it was time to actually talk to the friends who inspired me to make this video. I wanted to understand
+clip_0156,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0156.mp4,663.390,668.490,5.100,"what they were actually getting from blind boxes. - Once I get a cute-ish one, then I'm okay."
+clip_0157,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0157.mp4,668.490,673.080,4.590,"I feel like if they were all ugly in a row, I wouldn't stop until I got a nice one."
+clip_0158,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0158.mp4,673.080,678.000,4.920,"- It's more of a, ""If you do it, if you get one, I'll get one."" - It helps that like some of my friends at work"
+clip_0159,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0159.mp4,678.000,681.295,3.295,"also collect them, so if we get doubles, we like swap. - I ended up finding answers"
+clip_0160,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0160.mp4,681.295,686.220,4.925,that were missing from journal papers and news articles. - I think there is a real communal aspect.
+clip_0162,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0162.mp4,690.510,695.820,5.310,and one of them knows that I like blind boxes and brought me Smiski duplicates that she had
+clip_0163,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0163.mp4,695.820,700.140,4.320,"because she was like, ""You should take one. I know you like these."" And I'm like, ""Absolutely."""
+clip_0164,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0164.mp4,700.140,704.700,4.560,"- I like buying stuff, but you don't wanna choose if you get a blind box, you don't have to choose."
+clip_0165,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0165.mp4,704.700,708.720,4.020,"- I would stare at them and be like, ""Which one do I pick?"" for so long that I would get overwhelmed and leave."
+clip_0166,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0166.mp4,708.720,711.960,3.240,"It's like a little bit more joyful than just like. ""I bought a cat."""
+clip_0167,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0167.mp4,711.960,715.620,3.660,- I also give them as gifts to other people because they make me so happy.
+clip_0168,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0168.mp4,715.620,719.340,3.720,"Why would I not, you know, bestow that honor to somebody else?"
+clip_0169,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0169.mp4,719.340,724.620,5.280,"- This one is the very first one I got, a gift from my brother, and I wanted the pink one."
+clip_0170,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0170.mp4,724.620,728.700,4.080,"I manifested it, my very first one, so this is what started my addiction"
+clip_0171,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0171.mp4,728.700,733.269,4.569,"'cause I got it, the one that I wanted. - And I realized that in order to actually answer my question"
+clip_0172,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0172.mp4,733.269,736.680,3.411,"of why blind boxes have become so popular,"
+clip_0173,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0173.mp4,736.680,740.550,3.870,"I needed to get one myself. I gathered up some friends and went to the Asian Mall,"
+clip_0185,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0185.mp4,787.590,791.370,3.780,"I'm an idiot. Why did I get into this? Right Before unboxing them,"
+clip_0186,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0186.mp4,791.370,794.970,3.600,"I realized that all of my friends had designs that they really wanted,"
+clip_0190,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0190.mp4,810.120,814.350,4.230,"So, of course. - Oh, no! - You can feel the flute?"
+clip_0191,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0191.mp4,814.350,819.360,5.010,"- No! I got it. To be totally honest, in that moment,"
+clip_0192,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0192.mp4,819.360,823.951,4.591,all of my intellectual understanding of the subject just flew out the window. - Me and Jade are happy.
+clip_0193,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0193.mp4,823.951,828.300,4.349,- Eepy. - These are the winners. I couldn't help myself.
+clip_0195,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0195.mp4,834.000,837.753,3.753,"and I was. But after the whole experience, deep down,"
+clip_0196,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0196.mp4,838.620,842.190,3.570,I had a feeling. I don't think that this is good for us.
+clip_0197,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0197.mp4,842.190,846.570,4.380,"So, it's been a few days since my trip to the mall"
+clip_0198,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0198.mp4,846.570,849.690,3.120,and I just wanna say... I love my Smiskis!
+clip_0199,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0199.mp4,849.690,852.720,3.030,"They're so cute, I am obsessed with them."
+clip_0200,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0200.mp4,852.720,855.990,3.270,"However, I know that I only bought two"
+clip_0201,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0201.mp4,855.990,860.850,4.860,"because they came in a blind box. Like, the flute design is actually really cute. It's just kind of different"
+clip_0202,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0202.mp4,860.850,865.470,4.620,"from the other ones in the series, so I felt disappointed. And that, plus the manic energy"
+clip_0203,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0203.mp4,865.470,869.730,4.260,"of hanging out with my friends, pushed me to buy a second one. It's also really cute."
+clip_0204,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0204.mp4,869.730,872.730,3.000,"He's doing little sit-ups, but I like to imagine he's just chilling."
+clip_0205,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0205.mp4,872.730,878.610,5.880,But the contrast between me really liking these toys and knowing I wasn't fully in control when I got them
+clip_0206,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0206.mp4,878.610,883.650,5.040,"has left me feeling pretty torn. Because on one hand, I like the things I got and I had fun getting them,"
+clip_0207,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0207.mp4,883.650,886.950,3.300,but I have no interest in doing it over and over again.
+clip_0208,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0208.mp4,886.950,890.790,3.840,"In other words, I show no economic signs of addiction, and I'm probably not a rare case."
+clip_0210,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0210.mp4,896.040,901.380,5.340,were able to gamble without signs of a problem. So maybe the blind box boom happens simply because it's fun.
+clip_0211,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0211.mp4,901.380,904.770,3.390,The designs are cute and the communities built around them are so endearing
+clip_0212,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0212.mp4,904.770,908.400,3.630,"because they're focused on art and joy. But on the other hand,"
+clip_0213,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0213.mp4,908.400,913.830,5.430,"that casino papers data came from 2004 and '05 when gambling mechanisms were just less prevalent,"
+clip_0215,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0215.mp4,918.540,922.980,4.440,and I can't help but worry if the blind box boom is a part of the problem.
+clip_0216,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0216.mp4,922.980,928.920,5.940,Like what if it is just another step in the gateway leading many people to shift money away from their savings
+clip_0217,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0217.mp4,928.920,933.900,4.980,"to make a sports bet? I don't know the right answer, it's probably a mix of both."
+clip_0218,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0218.mp4,933.900,938.130,4.230,But I'm curious to know what you guys think is driving the boom. I think we could have a really interesting discussion
+clip_0219,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0219.mp4,938.130,942.690,4.560,"in the comments. But if you wanna keep design that isn't left up to chance, we are selling a sticker sheet"
+clip_0221,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0221.mp4,947.070,950.640,3.570,"and you wanna help us keep making more like it, supporting us on Patreon or buying merch"
+clip_0222,qzxGPNiFiFI,answer_in_progress,train,train/answer_in_progress/qzxGPNiFiFI/clip_0222.mp4,950.640,954.333,3.693,"is one of the biggest ways you can help. But either way, have a lovely day."

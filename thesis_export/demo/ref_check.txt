@@ -1,0 +1,144 @@
+=====================================================================================
+MANUAL REF-QUALITY CHECK — look at each clip's video, judge if REF is correct
+=====================================================================================
+
+### DAVE2D ###
+
+  Clip:  dave2d__ZedAs9P7yE8__clip_0054.mp4
+  REF:   it s like i can actually time it feels like twenty seconds or so but you ll notice when it boots up that
+  T1:    two thousand twenty six or so but you notice one person
+  B2:    six twenty seconds or so but you ll notice where a person is
+
+  Clip:  dave2d__ZedAs9P7yE8__clip_0025.mp4
+  REF:   can actually move these things up wherever you want like you want to put on your desktop you can uh i just moved some random markdown
+  T1:    whatever you want you don t want to put in your desktop you can i just moved some random
+  B2:    wherever you want that you want to put on your desktop you can i just move some random mark
+
+  Clip:  dave2d__dDVsNmiSzwQ__clip_0004.mp4
+  REF:   like we call it the a cam in the business but this is like the facial shot and then uh there s this like
+  T1:    and then there s
+  B2:    whether it s the effect or not and then there s this
+
+### FIRESHIP ###
+
+  Clip:  fireship__wajoP_5Cpw8__clip_0014.mp4
+  REF:   sets and even oci container layers entangled in declarative infrastructure manifests in layman s terms that means
+  T1:    i m not going to do that i m not going to do that
+  B2:    i m going to tell you a little bit about it
+
+  Clip:  fireship__l3L_lETiSzc__clip_0056.mp4
+  REF:   would do and they just bought the whole company the plan is to have ryan and co founder bert belder merge celld into
+  T1:    i don t know how to do it i don t know how to do it
+  B2:    i m going to tell you a little bit about what s going to happen next
+
+  Clip:  fireship__wajoP_5Cpw8__clip_0038.mp4
+  REF:   the sad reality is that film craft is just not good enough yet but i sincerely hope it gets there someday because adobe but then that got me
+  T1:    no no no no no no no no no no no
+  B2:    and you re
+
+### JACK_EDWARDS ###
+
+  Clip:  jack_edwards__ep5psukjc4E__clip_0183.mp4
+  REF:   lot of drama up until this point had been about nobl men and kings and emperors and arthur miller wanted to
+  T1:    being about noble men gains inputs that aren t the matter
+  B2:    about nobelmen kings and empras and all the men i want
+
+  Clip:  jack_edwards__z76kQ_hNGCI__clip_0134.mp4
+  REF:   published and maurice by ian fster was also published postumously a short story by sylvia pla called mary ventura
+  T1:    i m not going to be able to do that i m going to be able to do that
+  B2:    what i m going to do is i m going to show you how to do that
+
+  Clip:  jack_edwards__ep5psukjc4E__clip_0062.mp4
+  REF:   misconception i think that the humor holds up in a modern way i always say this but if you want to really capture
+  T1:    to hold up in a modern way i always say this but if you want to recapture
+  B2:    hold up in a modern way i always say this but if you want to recapture
+
+### MIKE_BOYD ###
+
+  Clip:  mike_boyd__sxfAVFUtJ6A__clip_0107.mp4
+  REF:   round and then if you continue doing that it will be so round that it will be
+  T1:    and if you want to see you it will be your favorite
+  B2:    if you predict it will be your framework your
+
+  Clip:  mike_boyd__sxfAVFUtJ6A__clip_0123.mp4
+  REF:   all about moisture control like if it s too wet you re removing too much material it s too muddy it s
+  T1:    but it s still too much
+  B2:    but there s only two monkeys
+
+  Clip:  mike_boyd__g1ZUIvceZtc__clip_0136.mp4
+  REF:   learn something new or just sharpen up the spring and summer go check out brilliant you can learn for free on
+  T1:    this is by someone who s in our program
+  B2:    my summer google check out program
+
+### MRWHOSETHEBOSS ###
+
+  Clip:  mrwhosetheboss__5pV3D14y1FQ__clip_0015.mp4
+  REF:   actually done something pretty clever here to keep it feeling like the iphones that you re used to because instead of
+  T1:    to keep it feeling like the iphones are all used
+  B2:    to keep it feeling like the iphones in order to
+
+  Clip:  mrwhosetheboss__5pV3D14y1FQ__clip_0075.mp4
+  REF:   polished for a first gen product and that s not just hardware the software too like they have absolutely cleaned
+  T1:    and if things don t just aren t right then so far it s cool it s cool
+  B2:    that s soldier s hardware don t run too cool it s soldier
+
+  Clip:  mrwhosetheboss__5pV3D14y1FQ__clip_0065.mp4
+  REF:   vapor chamber and apple s still claiming that this phone will have much better thermal performance than last year s pro
+  T1:    i m not going to be able to do that i m going to be able to do that
+  B2:    i m going to tell you a little bit about it
+
+### NATHANIEL_DREW ###
+
+  Clip:  nathaniel_drew__U-w7Koq_LkE__clip_0048.mp4
+  REF:   was just marveling at the immense feeling of possibility on the other side of this big fear and on the other side of this big fear and
+  T1:    of feeling possibly like on the other side of this big fear
+  B2:    possibly like on the other side of this pink finger
+
+  Clip:  nathaniel_drew__uxb8OjkiZBY__clip_0077.mp4
+  REF:   look and is simply silent he does not dictate so reginald asks what s going on why are
+  T1:    that s why it isn t that day as you wrestle on the coast it s a whole lot of
+  B2:    it doesn t dictate so rachel knows what s going on
+
+  Clip:  nathaniel_drew__nzm77GMSNwU__clip_0032.mp4
+  REF:   in a world that is conspiring against you in essence at the center of your
+  T1:    i don t know what to say i don t know what to say
+  B2:    that s what i m looking for
+
+### PETER_MCKINNON ###
+
+  Clip:  peter_mckinnon__sXkn6AV3TIc__clip_0028.mp4
+  REF:   now oh stop just stop so it needs to be unplugged so it needs to be unplugged
+  T1:    so it needs to be i m blocked
+  B2:    it needs to be complex
+
+  Clip:  peter_mckinnon__fA3pFXwTnKw__clip_0012.mp4
+  REF:   went into it just like the love and craftsmanship put into printing photos did you see
+  T1:    make sure you love your craft that goes into printing photos are consistent
+  B2:    mentioning the love craft that goes into printed photos
+
+  Clip:  peter_mckinnon__fA3pFXwTnKw__clip_0006.mp4
+  REF:   this is impossible to compare i don t care what anyone says but purover is
+  T1:    i don t care what anyone says or oversight
+  B2:    i don t care what anyone says poor over a saying
+
+### RACHEL_AUST ###
+
+  Clip:  rachel_aust__lYFOvGBVNj8__clip_0109.mp4
+  REF:   do notice a big difference in terms of the exaggeration between my hips and my waist now i want to show you this little
+  T1:    this is an exaggeration between my hips and my waist i want to show you this
+  B2:    exaggeration between my hips and my waste i want to show you this
+
+  Clip:  rachel_aust__-U5sRoPI0KQ__clip_0174.mp4
+  REF:   suitcase this one s going to have my camera and stuff in it which and this is actually my first time picking up the
+  T1:    this is actually my first time picking up the
+  B2:    this is actually my first tip here
+
+  Clip:  rachel_aust__lYFOvGBVNj8__clip_0145.mp4
+  REF:   start to recognize any triggers so my clients who experience a lot of bloating when they first start with me when they re doing their food diary i also
+  T1:    i like to experience a lot of beauty when they first start with me when they do with their food diary i also
+  B2:    clients who experience a lot of beauty when they first got with me when they do what their food area i also
+
+
+Total 2453 clips in test set. Showing 3 per speaker = ~24 clips.
+Videos at: /root/autodl-tmp/vsr_bench/gui/videos/multispeakerdemo/ (if available)
+Or:        /root/autodl-tmp/speaker_clips/test/<speaker>/<video>/<clip>.mp4

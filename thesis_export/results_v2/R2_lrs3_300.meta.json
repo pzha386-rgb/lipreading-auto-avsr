@@ -1,0 +1,26 @@
+{
+  "model_id": "R2",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth",
+  "lm": "",
+  "lm_weight": null,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 2900,
+  "total_seconds": 605.5,
+  "n_clips": 300,
+  "errors": 736,
+  "n_words": 2373,
+  "wer": 31.02,
+  "mean_seconds": 2.013,
+  "n_failed": 0
+}

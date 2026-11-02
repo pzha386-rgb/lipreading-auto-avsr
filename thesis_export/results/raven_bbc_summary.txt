@@ -1,0 +1,4 @@
+Model: BRAVEn Large
+Dataset: BBC (5)
+Raw WER: 48.72%
+Norm WER: 35.80%

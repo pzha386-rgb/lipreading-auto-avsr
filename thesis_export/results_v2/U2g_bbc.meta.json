@@ -1,0 +1,17 @@
+{
+  "model_id": "U2g",
+  "dataset": "bbc",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth",
+  "backbone": "resnet_transformer_baseplus",
+  "beam": 1,
+  "ctc_weight": 0.0,
+  "params_M": 171.1,
+  "peak_gpu_MB": 885,
+  "total_seconds": 11.1,
+  "n_clips": 91,
+  "errors": 600,
+  "n_words": 1374,
+  "wer": 43.67,
+  "mean_seconds": 0.108,
+  "n_failed": 0
+}

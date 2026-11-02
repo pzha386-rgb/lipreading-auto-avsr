@@ -1,0 +1,75 @@
+video_id,clip_id,path,start,end,dur,text
+HeKuX063bcs,clip_0000,HeKuX063bcs/clip_0000.mp4,0.080,2.960,2.880,"Okay, I'm just going to address the elephant in the room as I start,"
+HeKuX063bcs,clip_0001,HeKuX063bcs/clip_0001.mp4,4.080,8.080,4.000,"yep, we are three months into Britain's third lockdown at the minute,"
+HeKuX063bcs,clip_0002,HeKuX063bcs/clip_0002.mp4,8.080,11.280,3.200,"uh, I desperately need a haircut, and there is a sideways wind here, so"
+HeKuX063bcs,clip_0003,HeKuX063bcs/clip_0003.mp4,11.280,16.080,4.800,"we're just going to have to deal with what's going on up here. According to the manufacturer, my hoodie is grey."
+HeKuX063bcs,clip_0004,HeKuX063bcs/clip_0004.mp4,16.080,19.840,3.760,"That was what I bought. I picked the most generic colour possible. It's not going to clash with anything I film against,"
+HeKuX063bcs,clip_0005,HeKuX063bcs/clip_0005.mp4,19.840,25.520,5.680,"it's not going to blend into a green screen or a blue screen. Although to be fair, if I am filming under a blank grey sky,"
+HeKuX063bcs,clip_0006,HeKuX063bcs/clip_0006.mp4,25.520,29.600,4.080,"it can make the shot look a little dull. But if I am filming against a grey sky,"
+HeKuX063bcs,clip_0007,HeKuX063bcs/clip_0007.mp4,29.600,33.040,3.440,and we compare the colors between the clouds and my hoodie...
+HeKuX063bcs,clip_0008,HeKuX063bcs/clip_0008.mp4,33.040,36.640,3.600,then this looks just a little bit blue. Or maybe purple?
+HeKuX063bcs,clip_0009,HeKuX063bcs/clip_0009.mp4,36.640,40.000,3.360,"It looks a bit different in all those thumbnails. I mean, technically those aren't all the same hoodie,"
+HeKuX063bcs,clip_0010,HeKuX063bcs/clip_0010.mp4,40.000,44.800,4.800,"I've got several, but they're all identical. To explain the magical color-changing hoodie,"
+HeKuX063bcs,clip_0011,HeKuX063bcs/clip_0011.mp4,44.800,49.440,4.640,"we need to talk about how color perception works, and also about the history of laundry."
+HeKuX063bcs,clip_0012,HeKuX063bcs/clip_0012.mp4,50.240,53.520,3.280,First up: a brief run through what you probably already know from school.
+HeKuX063bcs,clip_0013,HeKuX063bcs/clip_0013.mp4,53.520,55.680,2.160,"Electromagnetic radiation is a spectrum,"
+HeKuX063bcs,clip_0014,HeKuX063bcs/clip_0014.mp4,55.680,60.160,4.480,that includes x-rays and microwaves and radio waves and visible light.
+HeKuX063bcs,clip_0015,HeKuX063bcs/clip_0015.mp4,60.160,63.280,3.120,The difference between those types of radiation is the wavelength.
+HeKuX063bcs,clip_0016,HeKuX063bcs/clip_0016.mp4,63.280,66.800,3.520,"We have special cells called ""cones"" in the back of our eyes, three types of them,"
+HeKuX063bcs,clip_0017,HeKuX063bcs/clip_0017.mp4,66.800,70.320,3.520,and each type reacts to a small set of different wavelengths.
+HeKuX063bcs,clip_0018,HeKuX063bcs/clip_0018.mp4,70.320,75.520,5.200,"Which are, oh-so-conveniently, the wavelengths that the atmosphere easily lets through."
+HeKuX063bcs,clip_0019,HeKuX063bcs/clip_0019.mp4,75.520,78.400,2.880,"The wavelengths for each type of cone overlap a bit, it's not precise,"
+HeKuX063bcs,clip_0020,HeKuX063bcs/clip_0020.mp4,78.400,82.320,3.920,"but it's roughly equivalent to red, green and blue."
+HeKuX063bcs,clip_0021,HeKuX063bcs/clip_0021.mp4,82.320,87.040,4.720,"So if these cells notice radiation but these mostly don't, you see blue."
+HeKuX063bcs,clip_0022,HeKuX063bcs/clip_0022.mp4,87.040,90.240,3.200,"If these and these do, but these don't? Magenta."
+HeKuX063bcs,clip_0023,HeKuX063bcs/clip_0023.mp4,90.240,95.120,4.880,"And if all of them do, at just the right balance? Well, that'll be white, or grey."
+HeKuX063bcs,clip_0024,HeKuX063bcs/clip_0024.mp4,95.120,100.960,5.840,"But you have to remember that color is not a real thing. Colors are experiences, the philosophical term is qualia,"
+HeKuX063bcs,clip_0025,HeKuX063bcs/clip_0025.mp4,100.960,105.440,4.480,your brain just creates color in your head based on the signals it receives from those cells.
+HeKuX063bcs,clip_0026,HeKuX063bcs/clip_0026.mp4,105.440,111.120,5.680,"Depending on the context, you can see the exact same wavelengths as different colors, even at the same time."
+HeKuX063bcs,clip_0027,HeKuX063bcs/clip_0027.mp4,111.120,115.520,4.400,"There are a lot of optical illusions that play with that. Color perception isn't just about wavelengths,"
+HeKuX063bcs,clip_0028,HeKuX063bcs/clip_0028.mp4,115.520,121.120,5.600,"it's about comparing those wavelengths to everything around. A camera doesn't do that,"
+HeKuX063bcs,clip_0029,HeKuX063bcs/clip_0029.mp4,121.120,125.360,4.240,"as I shall now demonstrate with a white wall. It's daytime as I record this,"
+HeKuX063bcs,clip_0030,HeKuX063bcs/clip_0030.mp4,125.360,129.360,4.000,and the camera is set up for the daytime light that's shining in. Bright sunshine.
+HeKuX063bcs,clip_0031,HeKuX063bcs/clip_0031.mp4,129.360,133.840,4.480,"Now, there is an official, precise definition of ""average sunlight"", it's called Illuminant D65,"
+HeKuX063bcs,clip_0032,HeKuX063bcs/clip_0032.mp4,133.840,138.560,4.720,"it's meant to simulate the middle of the day in Western Europe, and if you'd like to spend literal hours"
+HeKuX063bcs,clip_0033,HeKuX063bcs/clip_0033.mp4,138.560,142.720,4.160,"going down a rabbit hole of color theory that I couldn't understand, you're welcome to use those keywords"
+HeKuX063bcs,clip_0034,HeKuX063bcs/clip_0034.mp4,142.720,146.320,3.600,"as a starting point to your research, but the basic idea is:"
+HeKuX063bcs,clip_0035,HeKuX063bcs/clip_0035.mp4,146.320,151.200,4.880,"this wall is white, and therefore, the colour that comes out of\h your screen should also be white."
+HeKuX063bcs,clip_0036,HeKuX063bcs/clip_0036.mp4,151.840,155.120,3.280,"But if I come back at night, lit by\h the artificial lighting in the room,"
+HeKuX063bcs,clip_0037,HeKuX063bcs/clip_0037.mp4,155.120,157.840,2.720,and I don't change the colour\h settings on the camera...
+HeKuX063bcs,clip_0038,HeKuX063bcs/clip_0038.mp4,159.040,164.480,5.440,"...this looks very, very yellow. Because artificial light usually has less blue in it."
+HeKuX063bcs,clip_0039,HeKuX063bcs/clip_0039.mp4,164.480,169.200,4.720,Maybe that's because it's imitating old firelight and candlelight and it feels more comfortable somehow.
+HeKuX063bcs,clip_0040,HeKuX063bcs/clip_0040.mp4,169.200,172.640,3.440,Maybe it's just because that was how old light bulbs happened to work.
+HeKuX063bcs,clip_0041,HeKuX063bcs/clip_0041.mp4,172.640,176.240,3.600,"That yellow-blue distinction is called ""color temperature""."
+HeKuX063bcs,clip_0042,HeKuX063bcs/clip_0042.mp4,176.240,180.720,4.480,Yellow and blue are complementary colors: remove one and you'll start to see more of the other.
+HeKuX063bcs,clip_0043,HeKuX063bcs/clip_0043.mp4,180.720,185.440,4.720,"If you're working with cameras, color temperature is something you have to watch out for,"
+HeKuX063bcs,clip_0044,HeKuX063bcs/clip_0044.mp4,185.440,188.400,2.960,"because colors seen on a screen are out of context,"
+HeKuX063bcs,clip_0045,HeKuX063bcs/clip_0045.mp4,188.400,192.640,4.240,"the audience is used to seeing certain wavelengths from their screen as ""white"","
+HeKuX063bcs,clip_0046,HeKuX063bcs/clip_0046.mp4,192.640,197.680,5.040,"no matter the lighting used in the room. So the video colors have to be adjusted to match the light,"
+HeKuX063bcs,clip_0047,HeKuX063bcs/clip_0047.mp4,197.680,203.120,5.440,"so this wall still looks white to you. I didn't change the lighting just then, only the color settings on my camera."
+HeKuX063bcs,clip_0048,HeKuX063bcs/clip_0048.mp4,203.120,208.480,5.360,"Or, actually, in my editing program. \h But if I take these new settings\h back to daytime and sunlight..."
+HeKuX063bcs,clip_0049,HeKuX063bcs/clip_0049.mp4,209.680,212.160,2.480,"...it looks very, very blue in here."
+HeKuX063bcs,clip_0050,HeKuX063bcs/clip_0050.mp4,212.160,216.160,4.000,"To be clear, in person this is\h always obviously a white wall."
+HeKuX063bcs,clip_0051,HeKuX063bcs/clip_0051.mp4,216.160,219.280,3.120,Your brain establishes color from context.
+HeKuX063bcs,clip_0052,HeKuX063bcs/clip_0052.mp4,219.280,222.480,3.200,"Which is why my hoodie looks grey against something brightly colored,"
+HeKuX063bcs,clip_0053,HeKuX063bcs/clip_0053.mp4,223.040,227.520,4.480,"well, as brightly coloured as you can get in the British countryside when spring hasn't quite arrived yet,"
+HeKuX063bcs,clip_0054,HeKuX063bcs/clip_0054.mp4,227.520,232.080,4.560,but against something that's also grey or white... ...maybe not so much.
+HeKuX063bcs,clip_0055,HeKuX063bcs/clip_0055.mp4,232.080,236.640,4.560,"Because there's one other factor here: if your clothing is slightly yellow,"
+HeKuX063bcs,clip_0056,HeKuX063bcs/clip_0056.mp4,236.640,242.000,5.360,"it looks stained and tired. Because usually, slightly yellow clothing is stained and tired."
+HeKuX063bcs,clip_0057,HeKuX063bcs/clip_0057.mp4,242.000,246.800,4.800,"There used to be a common product called ""laundry bluing"". It's mostly obsolete now with modern detergents,"
+HeKuX063bcs,clip_0058,HeKuX063bcs/clip_0058.mp4,246.800,251.760,4.960,"I actually couldn't find it in shops around where I live, but it added a hint of blue dye to your washing."
+HeKuX063bcs,clip_0059,HeKuX063bcs/clip_0059.mp4,251.760,254.160,2.400,"If your white shirt is actually very slightly blue,"
+HeKuX063bcs,clip_0060,HeKuX063bcs/clip_0060.mp4,254.160,258.560,4.400,it can trick the eye into thinking that it's cleaner and brighter and whiter
+HeKuX063bcs,clip_0061,HeKuX063bcs/clip_0061.mp4,258.560,263.520,4.960,than the actually-white shirt of the person you're competing with for that promotion.
+HeKuX063bcs,clip_0062,HeKuX063bcs/clip_0062.mp4,263.520,268.880,5.360,"So maybe, if a company's selling a grey hoodie, their customers will look better and like the product a little bit more"
+HeKuX063bcs,clip_0063,HeKuX063bcs/clip_0063.mp4,268.880,272.560,3.680,"if it is ever so slightly blue. And as a personal choice,"
+HeKuX063bcs,clip_0064,HeKuX063bcs/clip_0064.mp4,272.560,275.440,2.880,"when I tweak the color temperature on my camera or in my editing program,"
+HeKuX063bcs,clip_0065,HeKuX063bcs/clip_0065.mp4,275.440,280.240,4.800,"I'm going to favor going just ever-so-slightly towards blue, partly for that reason,"
+HeKuX063bcs,clip_0066,HeKuX063bcs/clip_0066.mp4,280.240,284.160,3.920,"and partly because I like the way it looks. Now, I would call this hoodie ""grey""."
+HeKuX063bcs,clip_0067,HeKuX063bcs/clip_0067.mp4,284.160,287.120,2.960,Even if it might seem to have a bit of blue in it. It's all subjective anyway.
+HeKuX063bcs,clip_0068,HeKuX063bcs/clip_0068.mp4,287.120,290.960,3.840,"But there is a way to get some sort of definitive, objective answer."
+HeKuX063bcs,clip_0069,HeKuX063bcs/clip_0069.mp4,291.600,297.280,5.680,"A calibrated color sensor. It will light up my hoodie with very precise amounts of light,"
+HeKuX063bcs,clip_0070,HeKuX063bcs/clip_0070.mp4,297.280,302.240,4.960,"and measure the wavelengths that are coming back into its sensor. Which means it can give me calibrated color numbers,"
+HeKuX063bcs,clip_0071,HeKuX063bcs/clip_0071.mp4,302.240,306.880,4.640,but it'll also match the color to the descriptive names that paint companies use.
+HeKuX063bcs,clip_0072,HeKuX063bcs/clip_0072.mp4,306.880,311.440,4.560,"Which means that if I test it on this spare hoodie, the color is..."
+HeKuX063bcs,clip_0073,HeKuX063bcs/clip_0073.mp4,313.600,318.400,4.800,...Amethyst Sky. I'm not sure that's helpful.

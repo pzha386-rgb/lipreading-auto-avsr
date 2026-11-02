@@ -1,0 +1,15 @@
+===== T3 on bbc_dark05 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+Load pretrained model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[20/91] WER so far 29.49%  (2.1s)
+[40/91] WER so far 25.20%  (2.4s)
+[60/91] WER so far 26.76%  (2.9s)
+[80/91] WER so far 27.09%  (3.9s)
+==================================================
+T3  bbc_dark05
+clips: 91   failed: 0   WER: 26.86%
+mean seconds/clip: 3.114
+saved: /root/autodl-tmp/results_v2/T3_bbc_dark05.csv
+==================================================

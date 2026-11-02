@@ -1,0 +1,92 @@
+clip_id,path,start,end,dur,text
+clip_0000,clip_0000.mp4,0.120,5.930,5.810,"When you put English text into a computer, it is saving every individual character as eight bits of data."
+clip_0001,clip_0001.mp4,5.930,9.019,3.089,"Eight ones and zeros. I mean, they're not actually ones and zeros,"
+clip_0002,clip_0002.mp4,9.020,13.790,4.770,"they're particular positions of atoms on a disk or a few electrons going over a wire,"
+clip_0003,clip_0003.mp4,13.790,18.420,4.630,"but as far as we're concerned in the computer science world, they are ones and zeros. Bits."
+clip_0004,clip_0004.mp4,18.420,22.720,4.300,"And yes, a modern phone or computer might store a few quadrillion of them"
+clip_0005,clip_0005.mp4,22.720,27.670,4.950,"But every time you've had to wait a long time for a download, or your phone's complained that its storage is full,"
+clip_0006,clip_0006.mp4,27.670,31.680,4.010,you're running up against the same question that computer scientists have been working on
+clip_0007,clip_0007.mp4,31.680,35.000,3.320,since before these things here were state of the art:
+clip_0008,clip_0008.mp4,35.000,38.160,3.160,can we please not use so many bits?
+clip_0009,clip_0009.mp4,40.540,45.460,4.920,"So, let’s run through how computers compress text. Images and video are different — that's lossy compression,"
+clip_0010,clip_0010.mp4,45.460,50.480,5.020,where it doesn't matter if you lose a little bit of detail. But text has to be losslessly compressed:
+clip_0011,clip_0011.mp4,50.480,55.010,4.530,"you can't just lose a bit of detail, otherwise you end up sending the wrong worms."
+clip_0012,clip_0012.mp4,55.010,59.880,4.870,So the first thing we need to know is how text is stored on disk before it's compressed.
+clip_0013,clip_0013.mp4,59.880,63.089,3.209,"To make this easier, I am just going to talk about English text here:"
+clip_0014,clip_0014.mp4,63.089,66.400,3.311,"I know only too well that it gets more complicated than this,"
+clip_0015,clip_0015.mp4,66.400,69.840,3.440,"but hey, the series is called ""the basics"", so deal with it."
+clip_0016,clip_0016.mp4,69.840,72.500,2.660,"On a modern computer, each English character takes up"
+clip_0017,clip_0017.mp4,72.500,76.690,4.190,"exactly eight ones and zeros on disk - eight bits, or one byte."
+clip_0018,clip_0018.mp4,76.690,79.850,3.160,"And there are 256 possible combinations of those ones and zeros,"
+clip_0019,clip_0019.mp4,79.850,83.310,3.460,so you can have 256 possible characters.
+clip_0020,clip_0020.mp4,83.310,89.201,5.891,"That's enough for the English alphabet, numbers, some punctuation, and... well, then it gets complicated depending on which country you’re in"
+clip_0021,clip_0021.mp4,89.201,94.080,4.879,and oh my god that's a whole separate video we do not want to get into right now.
+clip_0022,clip_0022.mp4,94.080,97.540,3.460,Why eight bits? Because it was big enough to store all the characters
+clip_0023,clip_0023.mp4,97.540,101.610,4.070,"that American computers usually needed, but no bigger,"
+clip_0024,clip_0024.mp4,101.610,105.410,3.800,so the text doesn't take up any more space than it absolutely has to.
+clip_0025,clip_0025.mp4,105.410,110.520,5.110,"Eight is also a power of two, which means it's easy to deal with at the really low levels of programming."
+clip_0026,clip_0026.mp4,110.520,114.340,3.820,It's also helpful to have a fixed number of bits per character
+clip_0027,clip_0027.mp4,114.340,119.800,5.460,"because it makes searching through text really fast. If you want to go to the 100,000th character in some text,"
+clip_0028,clip_0028.mp4,119.800,123.120,3.320,you know exactly where the ones and zeros are going to be without
+clip_0029,clip_0029.mp4,123.120,127.150,4.030,having to count the number of bits in every single character before it.
+clip_0030,clip_0030.mp4,127.150,132.549,5.399,"If you want to know how long a string of text is, you just count the bits and you divide by eight."
+clip_0031,clip_0031.mp4,132.549,134.909,2.360,"Computers don't have the luxury of spaces, remember:"
+clip_0032,clip_0032.mp4,134.909,138.620,3.711,it's just one long string of 1s and 0s.
+clip_0033,clip_0033.mp4,138.620,142.760,4.140,"But let's say we're not worried about speed right now, we just want to fit as much text as possible"
+clip_0034,clip_0034.mp4,142.760,147.400,4.640,into as small a number of 1s and 0s as possible. Compression.
+clip_0035,clip_0035.mp4,147.400,152.060,4.660,A good plan would be to assign the most common characters to smaller arrangements of bits.
+clip_0036,clip_0036.mp4,152.060,157.150,5.090,"So those researchers, way way back, could have said: well, the space bar is generally used most often."
+clip_0037,clip_0037.mp4,157.150,161.010,3.860,"Just give that the code ""0"". Then it's the lowercase e. Give that the code ""1""."
+clip_0038,clip_0038.mp4,161.010,166.319,5.309,"Then it's lowercase t: give that two zeros... ...and immediately, we've hit a problem."
+clip_0039,clip_0039.mp4,166.319,169.340,3.021,Because the computer running through that text later has no way of knowing
+clip_0040,clip_0040.mp4,169.340,172.769,3.429,"whether ""00"" is a t, or the space bar twice."
+clip_0041,clip_0041.mp4,172.769,176.620,3.851,"And if we keep on assigning letters like that, the problems keep getting worse:"
+clip_0042,clip_0042.mp4,176.620,180.859,4.239,is three zeros a lowercase n? Or a t followed by a space? Or three spaces?
+clip_0043,clip_0043.mp4,180.859,184.469,3.610,"Remember, there are no gaps here, no actual space separators,"
+clip_0044,clip_0044.mp4,184.469,188.440,3.971,all the computer can see is a constant stream of 1s and 0s.
+clip_0045,clip_0045.mp4,188.440,190.719,2.279,There's no way to know which is meant.
+clip_0046,clip_0046.mp4,190.719,196.939,6.220,"Except. In 1952, a very clever mathematician called David Huffman invented Huffman coding."
+clip_0047,clip_0047.mp4,196.939,201.029,4.090,"You invent something like that, your name gets put on it. Yes, there are much better,"
+clip_0048,clip_0048.mp4,201.029,203.980,2.951,"more modern, more complicated, mathematical ways to do this,"
+clip_0049,clip_0049.mp4,203.980,208.090,4.110,but Huffman coding is the basic foundation of modern text compression.
+clip_0050,clip_0050.mp4,208.090,211.909,3.819,And here is how it works. Let's say we want to compress...
+clip_0051,clip_0051.mp4,211.909,214.319,2.410,"let's go with the lyrics to Will Smith's ""Wild Wild West""."
+clip_0052,clip_0052.mp4,214.319,219.700,5.381,"Uncompressed, that is 3,684 characters taking up nearly 30,000 bits."
+clip_0053,clip_0053.mp4,219.700,223.240,3.540,"First up: you count how many times each character is used,"
+clip_0054,clip_0054.mp4,223.240,227.139,3.899,and you put that in a list in order. Now that'll be different for each block of text you're compressing:
+clip_0055,clip_0055.mp4,227.139,232.239,5.100,this has way more Ws than usual. Now take the two least used characters.
+clip_0056,clip_0056.mp4,232.239,235.829,3.590,Those two are going to be the bottom branches on your “Huffman tree”.
+clip_0057,clip_0057.mp4,235.829,239.950,4.121,"Write them down, with how often they're used next to them. That’s called their frequency."
+clip_0058,clip_0058.mp4,239.950,244.340,4.390,"Then connect them together, one level up, with the sum of their frequencies."
+clip_0059,clip_0059.mp4,244.340,249.069,4.729,"Now add that new sum back into your list, wherever it sits, higher up."
+clip_0060,clip_0060.mp4,249.069,252.400,3.331,"And repeat! Take the bottom two off your list, connect them up,"
+clip_0061,clip_0061.mp4,252.400,257.930,5.530,"add the result back in your list. Keep that going. And when one of the sums reaches the bottom two of the list,"
+clip_0062,clip_0062.mp4,257.930,263.660,5.730,"you connect it up like that. And eventually, you're going to be down to one thing in your list,"
+clip_0063,clip_0063.mp4,263.660,267.750,4.090,"right at the top. You now have a Huffman tree, and it looks like this,"
+clip_0064,clip_0064.mp4,267.750,271.860,4.110,and it tells you how to convert your text into ones and zeros.
+clip_0065,clip_0065.mp4,271.860,276.620,4.760,Our first letter is the first uppercase W in 'wiki-wiki-wild-wild-West'.
+clip_0066,clip_0066.mp4,276.620,281.229,4.609,"Uppercase W is here, there’s 141 of them. So go the top, follow the path down."
+clip_0067,clip_0067.mp4,281.229,285.910,4.681,"Each time you take the left hand side, write a 0; each time you take the right hand side, write a 1."
+clip_0068,clip_0068.mp4,285.910,289.820,3.910,"So W is this: only 5 bits instead of 8. Next, lowercase i."
+clip_0069,clip_0069.mp4,289.820,292.949,3.129,"Follow the code down, only four bits this time, it’s more common."
+clip_0070,clip_0070.mp4,292.949,296.960,4.011,"Then the k, which is less common; that actually takes up seven bits. And you keep going."
+clip_0071,clip_0071.mp4,296.960,299.580,2.620,"Some of the letters will take up more than 8 bits,"
+clip_0072,clip_0072.mp4,299.580,303.030,3.450,"but that’s fine, because they’re not used very often."
+clip_0073,clip_0073.mp4,303.030,306.810,3.780,"Now, you do have to also store this tree to provide a translation table"
+clip_0074,clip_0074.mp4,306.810,311.699,4.889,between your new symbols and the uncompressed ones - so this is not efficient for short bits of text.
+clip_0075,clip_0075.mp4,311.699,316.590,4.891,"If you’re ever asked to do this in a computer science exam, then they’ll ignore all that and just ask you"
+clip_0076,clip_0076.mp4,316.590,322.419,5.829,"to do one easy word from a tree by hand. But for Will Smith's magnum opus, we have compressed it down"
+clip_0077,clip_0077.mp4,322.419,326.559,4.140,"to just over 20,000 bits: about a 30% saving."
+clip_0078,clip_0078.mp4,326.559,332.450,5.891,"To uncompress the resulting stream of bits, it works the other way: just read across, take the left fork every time you see a 0"
+clip_0079,clip_0079.mp4,332.450,337.080,4.630,"and the right fork every time you see a 1. When you reach a letter, that's it, you know that’s the end,"
+clip_0080,clip_0080.mp4,337.080,341.190,4.110,and you know that there is no other path you could have possibly taken.
+clip_0081,clip_0081.mp4,341.190,346.900,5.710,"You start again with the next bit. Now in practice, computers might do this working backwards from the bottom up sometimes,"
+clip_0082,clip_0082.mp4,346.900,350.180,3.280,but this is a pretty good way to at least understand what's going on.
+clip_0083,clip_0083.mp4,350.180,355.490,5.310,And here's the really clever part: Huffman proved that this is the most efficient way
+clip_0084,clip_0084.mp4,355.490,357.810,2.320,to assign 0s and 1s to single characters.
+clip_0085,clip_0085.mp4,357.810,362.009,4.199,It is mathematically impossible to beat this.
+clip_0086,clip_0086.mp4,362.009,364.770,2.761,"Unless, as you might already have figured out,"
+clip_0087,clip_0087.mp4,364.770,368.260,3.490,you start working on blocks bigger than one character.
+clip_0088,clip_0088.mp4,368.260,373.889,5.629,"Clever tricks like that are basically how zip files work... but then, this is just the basics."
+clip_0089,clip_0089.mp4,373.889,377.599,3.710,"Thank you to all my proofreaders who helped with that script, thank you to my graphics team,"
+clip_0090,clip_0090.mp4,377.599,382.419,4.820,and also thank you to the Centre for Computing History in Cambridge for letting me film with their old kit.

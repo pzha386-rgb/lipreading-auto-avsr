@@ -1,0 +1,4 @@
+Model: AV-HuBERT MuAViC-en
+Dataset: LRS3 test (1321)
+Raw WER: 35.82%
+Norm WER: 35.62%

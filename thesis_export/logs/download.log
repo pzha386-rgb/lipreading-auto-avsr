@@ -1,0 +1,1775 @@
+nohup: ignoring input
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+下载: new/B4_braven_high_large_avs_st.pth
+完成: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+下载: new/LM_autoavsr.zip
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/response.py", line 712, in _error_catcher
+    yield
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/response.py", line 833, in _raw_read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+urllib3.exceptions.IncompleteRead: IncompleteRead(144807197 bytes read, 55726841 more expected)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/response.py", line 934, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/response.py", line 905, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/response.py", line 811, in _raw_read
+    with self._error_catcher():
+  File "/root/miniconda3/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/response.py", line 729, in _error_catcher
+    raise ProtocolError(f"Connection broken: {e!r}", e) from e
+urllib3.exceptions.ProtocolError: ('Connection broken: IncompleteRead(144807197 bytes read, 55726841 more expected)', IncompleteRead(144807197 bytes read, 55726841 more expected))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 15, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1304, in _hf_hub_download_to_local_dir
+    _download_to_tmp_and_move(
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1742, in _download_to_tmp_and_move
+    http_get(
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 500, in http_get
+    for chunk in r.iter_content(chunk_size=constants.DOWNLOAD_CHUNK_SIZE):
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 818, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(144807197 bytes read, 55726841 more expected)', IncompleteRead(144807197 bytes read, 55726841 more expected))
+第 1 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+下载: new/LM_autoavsr.zip
+完成: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+下载: new/LM_vsrml.zip
+完成: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+下载: new/R2_raven_high_large_st.pth
+完成: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+下载: new/S2_autoavsr_vsrml.pth.zip
+完成: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+下载: new/S4_vsrml_lrs3.zip
+完成: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+下载: new/S5_vsrml_lrs2.zip
+完成: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+下载: new/S6_autoavsr_23h.pth
+完成: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+下载: new/U1_usr2_low_large.pth
+完成: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+下载: new/U2_usr2_high_baseplus.pth
+完成: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+下载: new/U3_usr2_high_large.pth
+完成: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+下载: new/U4_usr2_high_huge.pth
+完成: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f1fd-342437c50fc4dbd245a68230;fb127705-b01c-43c8-afff-fe0722db4c28)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 2 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f203-0a6df9ab004b42a7077d8668;7268ad4e-f354-4fa0-8505-1f51c07ef02a)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 3 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f20a-2c5b373a41d0a90073076e87;8a54a450-30bb-4195-9067-ca71de5dc868)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 4 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f210-316bbaec53a997c63a1cb54f;e53343a5-7bb1-44f3-b41a-1a68d46f62e4)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 5 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f217-7cc4216c7ca1256c553f53a3;4507f643-4337-444c-8fc3-895a35974acf)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 6 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f21e-44ecc077298fbf12194c94db;fbe5e322-0811-4f11-86b1-06ac35477d73)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 7 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f22c-265a5aa4233f0b4857090565;0ce8ede9-b1d2-47f6-9a58-5710d15b2091)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 8 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f232-05b095b217bc6b3e79b46a3d;ecaac39f-5c34-48b9-b21c-df6462bdfa38)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 9 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f239-08b2f68528741ef1320dbecf;a63ab5ef-7812-4971-b263-5a47efddb1a0)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 10 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f240-667184224fb6b652746f0818;a0387044-eeb6-4033-98e0-eb5b7be3200f)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 11 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f246-6ba26f31141293df69224ba9;b8a3eb79-f604-4935-ae21-73759ea86c0a)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 12 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f24d-31fee3566f0902861159d3cf;0f297bc7-dcfa-4d14-990d-70e8d1fd8bb1)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 13 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f253-0510be4f569586a25e42703c;613fb918-90e5-498d-82ce-32f3b7d4bff0)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 14 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f25a-7be6bd9f6fcc8ebb57a97806;e6e080c8-4cf9-46ed-b174-df96a3c61896)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 15 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f261-01d645621954fafc1d6575a2;08177d22-8c52-422d-950f-67b9d46a1c07)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 16 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f268-633e72e374896498071049b0;c2aec504-0abe-4a56-9c94-e270705d0e4b)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 17 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f26e-64c77fd847b962007bc93c22;4852a417-2853-43d1-9af0-84dc63aba7f1)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 18 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f274-6f04df6f522f2afd13f61e00;0a237baa-a461-4687-a797-0fa243159ea3)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 19 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f27b-608ed0591e3efdca04a1e57a;c3748f90-a6d5-4afe-99da-94e763b04932)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 20 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f281-343102bb00ef87e678536eb2;89a62c34-abc4-42bf-88e8-b061deadc17d)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 21 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f288-7b75e6e569c94f032c00f75c;5b969872-596b-473a-aff5-15b278031f78)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 22 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f28f-54723c8079d8d5505be9a35c;746be81b-853b-4066-9f6c-c9b46cb89601)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 23 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f296-2860722c00f5e2fa1b192901;44e4c277-fe87-4200-93bc-504c77e148a4)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 24 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f2a0-7d9758056e333b2f2d55ee25;30818062-1b50-44fa-927f-635cbcb38be8)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 25 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f2a6-629d0eb5792832a97a04c05f;37162662-9a81-49ed-a059-6d4b7b2bc3fe)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 26 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f2ad-3d0998473b35160721c64351;5cdf82f4-10f4-4f6d-989d-3c6de083c644)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 27 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f2b4-5a63b57f7a5b33c062ef149f;bc02c679-1006-4e9e-b873-158e910cc27b)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 28 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f2bc-26328ec3774da6007c680fdf;32936d26-e795-449c-9ab4-5698633682c8)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 29 次中断，5 秒后续传
+私有库中的新权重: ['new/B1_braven_low_large_avs.pth', 'new/B3_braven_high_large_avs.pth', 'new/B4_braven_high_large_avs_st.pth', 'new/LM_autoavsr.zip', 'new/LM_vsrml.zip', 'new/R2_raven_high_large_st.pth', 'new/S2_autoavsr_vsrml.pth.zip', 'new/S4_vsrml_lrs3.zip', 'new/S5_vsrml_lrs2.zip', 'new/S6_autoavsr_23h.pth', 'new/U1_usr2_low_large.pth', 'new/U2_usr2_high_baseplus.pth', 'new/U3_usr2_high_large.pth', 'new/U4_usr2_high_huge.pth']
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_autoavsr.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/LM_vsrml.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml.pth.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2.zip
+已存在，跳过: /root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth
+已存在，跳过: /root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth
+下载: vsr_trlrs3_base.pth
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 403, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 24, in <module>
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 994, in hf_hub_download
+    return _hf_hub_download_to_local_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1257, in _hf_hub_download_to_local_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1662, in _raise_on_head_call_error
+    raise head_call_error
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1550, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 1467, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 283, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/file_download.py", line 307, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 453, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 404 Client Error. (Request ID: Root=1-6ac0f2c4-0cd19fa44b156d1a0f7ad011;aa5e21e7-af74-4d8d-8132-ed60a02a7e6b)
+
+Repository Not Found for url: https://hf-mirror.com/mpc001/auto_avsr/resolve/main/vsr_trlrs3_base.pth.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+第 30 次中断，5 秒后续传

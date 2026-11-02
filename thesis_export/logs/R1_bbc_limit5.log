@@ -1,0 +1,28 @@
+===== R1 on bbc =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+RAVEn 仓库脚本里的 lm_weight: ['0.0', '0.2', '0.3']
+使用语言模型，lm_weight = 0.1
+Load pretrained model weights
+Load pretrained language model weights
+参数量: 493.7 M
+[1/5] WER so far 15.79%  (32.4s)
+   REF: when you put english text into a computer it is saving every individual character as eight bits of data
+   HYP: when he put english text into a computer it is saving every individual character and bits of data
+[2/5] WER so far 31.25%  (14.6s)
+   REF: eight ones and zeros i mean they re not actually ones and zeros
+   HYP: want zeros i mean they don t actually want zeros
+[3/5] WER so far 28.57%  (30.3s)
+   REF: they re particular positions of atoms on a disk or a few electrons going over a wire
+   HYP: there are particular positions of atoms on a desk or a few electrons going over wire
+[4/5] WER so far 22.39%  (24.8s)
+   REF: but as far as we re concerned in the computer science world they are ones and zeros bits
+   HYP: as far as we re concerned in the computer science world they are ones and zeros bits
+[5/5] WER so far 24.69%  (19.6s)
+   REF: and yes a modern phone or computer might store a few quadrillion of them
+   HYP: and yes a microphone or a computer might score a few quarterly of them
+==================================================
+R1  bbc
+clips: 5   failed: 0   WER: 24.69%
+mean seconds/clip: 24.348
+saved: /root/autodl-tmp/results_v2/R1_bbc_limit5.csv
+==================================================

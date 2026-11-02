@@ -1,0 +1,48 @@
+========== 1. 安装依赖（每次新容器都要装）==========
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+
+========== 2. GPU 和磁盘 ==========
+name, memory.total [MiB], memory.used [MiB]
+NVIDIA GeForce RTX 5090, 32607 MiB, 2 MiB
+/dev/md0         50G   11G   40G  22% /root/autodl-tmp
+（数据盘至少要剩 60 GB）
+
+========== 3. 代码仓库 ==========
+OK  /root/autodl-tmp/code/raven
+OK  /root/autodl-tmp/code/auto_avsr
+20words_mean_face.npy
+__pycache__
+detector.py
+video_process.py
+
+========== 4. 权重（把文件名填进 models.csv 的 FILL_ 位置）==========
+-rw-r--r-- 1 root root 956M Aug 23 01:53 /root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth
+--- raven 文件夹 ---
+total 3.9G
+-rw-r--r-- 1 root root 196M Aug 23 21:04 rnnlm.model.best
+-rw-r--r-- 1 root root 1.9G Aug 23 23:44 vsr_prelrs3vox2_large_ftlrs3trainvalvox2_selftrain.pth
+-rw-r--r-- 1 root root 1.9G Aug 23 22:19 vsr_prelrs3vox2avs_large_ftlrs3trainvalvox2avs_selftrain_braven.pth
+（BRAVEn 应该是 vsr_prelrs3vox2avs_large_ftlrs3trainvalvox2avs_selftrain_braven.pth；
+  语言模型通常是另一个约几百 MB 的 .pth，名字里可能有 lm 或 language）
+
+========== 5. 数据 ==========
+train-00000-of-00002-6d235766a16b101a.parquet
+train-00001-of-00002-a89b175a3b0aa629.parquet
+--- BBC manifest（找 clip_id,path,text 这种 CSV）---
+/root/autodl-tmp/bbc_manifest.csv
+/root/autodl-tmp/manifest.csv
+--- BBC 视频文件夹 ---
+/root/autodl-tmp/bbc_clips
+
+========== 6. 备份 facexlib 权重到持久盘 ==========
+已从备份恢复 facexlib 权重
+
+========== 7. 语法检查 ==========
+OK  common.py
+OK  prep_lrs3_cache.py
+OK  cache_bbc_rois.py
+OK  eval_raven_family.py
+OK  eval_autoavsr_cache.py
+OK  run_queue.py
+
+完成。把第 4、5 部分的输出发给 Claude，确认文件名和路径。

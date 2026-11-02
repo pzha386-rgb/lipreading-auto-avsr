@@ -1,0 +1,114 @@
+{
+ "format_version": 1,
+ "files": {
+  ".gitattributes": {
+   "size": 1519,
+   "blob_id": "a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "README.md": {
+   "size": 16675,
+   "blob_id": "b55c4f84efe2b353f19e502ecdaf66e202b72d2d"
+  },
+  "data/en_token_list/bpe_unigram1000/bpe.model": {
+   "size": 253495,
+   "blob_id": "b6ae3ddea41e02286063320ef39016b8be1cf768",
+   "lfs_sha256": "f17273f292963ccee91e9975e1c500522bcd2a3db3438650223a35b30fd13e3e",
+   "lfs_size": 253495,
+   "xet_hash": "d60489826ec45a6ea2fe8018467b993b3f1228607e48c2b67303f513f5b7c685"
+  },
+  "exp/asr_stats_extracted_en_bpe1000/train/feats_stats.npz": {
+   "size": 17146,
+   "blob_id": "0989974290acb2c3f6a3d1222426f897b1ad29b2",
+   "lfs_sha256": "762b9d682c1e29c737eb764b96ac26f5e604c50502ddde2918f7613751ac0709",
+   "lfs_size": 17146,
+   "xet_hash": "f4f71c65ee0d9d82bcbfcd64d297f421ba3ee5870144f5238ee75baf136f07b6"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/RESULTS.md": {
+   "size": 937,
+   "blob_id": "cd6518371a01b8fcbd5a6828a86b6e62d97ee538"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/config.yaml": {
+   "size": 14033,
+   "blob_id": "8f14e8915f34146863a8e3d8320a34c65f07e0be"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/acc.png": {
+   "size": 26362,
+   "blob_id": "1dd0601a3e86d39341b1be982355dcbd9d147e46"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/backward_time.png": {
+   "size": 26573,
+   "blob_id": "587b0482f0fcbb6a2b7a8a81bc22a85d47bfefea"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/cer.png": {
+   "size": 21595,
+   "blob_id": "c06b7dfdf75eb14f9e1d9cfe561e8bd8fae41972"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/cer_ctc.png": {
+   "size": 23619,
+   "blob_id": "ba2f04edcd66db1df3414f5ef7848ac9fd4d1916"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/clip.png": {
+   "size": 29120,
+   "blob_id": "60d9570695106ef656420d23a2baf39172822f85"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/forward_time.png": {
+   "size": 28521,
+   "blob_id": "07a3d22595c75cd1e5abaa93af0d336ac95bff1b"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/gpu_max_cached_mem_GB.png": {
+   "size": 29263,
+   "blob_id": "0ca3b16b074848e11dcaedfff6f42e72a575d70e"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/grad_norm.png": {
+   "size": 35147,
+   "blob_id": "e0e8e270bcb42200a31f4b011d46c74cf4166d3f"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/iter_time.png": {
+   "size": 39008,
+   "blob_id": "9158462c181e49e3d739aca1940076e2f22a0c10"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/loss.png": {
+   "size": 23688,
+   "blob_id": "daa5b54f147b489b4ee2aca168554275ec9bd610"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/loss_att.png": {
+   "size": 27439,
+   "blob_id": "c069781324b76cb2be573a36a78f8d8b427eb6eb"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/loss_ctc.png": {
+   "size": 24233,
+   "blob_id": "3033806012e6566c8c68375813d46fc55cec13d1"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/loss_scale.png": {
+   "size": 16619,
+   "blob_id": "9e60c118ae3d4f35ffd9c20c4c35e431fb8b94fb"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/optim0_lr0.png": {
+   "size": 31643,
+   "blob_id": "f0e2bf19675207c7059be4aa218f0b25fd50b6c7"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/optim_step_time.png": {
+   "size": 29762,
+   "blob_id": "85e7bd0e94efe719a379be73e149b33fdc4109d6"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/train_time.png": {
+   "size": 27789,
+   "blob_id": "ebe3da0b356eff0da129a83b5f72a325069c1b25"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/images/wer.png": {
+   "size": 23197,
+   "blob_id": "22012e87281683a64069e3f7a0b6bea8153523cd"
+  },
+  "exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/valid.acc.ave_10best.pth": {
+   "size": 1714241991,
+   "blob_id": "2536f5868991af666a976cc1fb62916aee285d80",
+   "lfs_sha256": "bab5023e170d2fa1bdce1b185374decd2f190b2d48646e2c8f32d35103ea2c89",
+   "lfs_size": 1714241991,
+   "xet_hash": "43dbad5b7eb13ad5340565e3b283e9f3fa6090d71595465c937ae440dd9e57b8"
+  },
+  "meta.yaml": {
+   "size": 305,
+   "blob_id": "6af546cdd70dd60b0b15ec20c9cba985fadefbfe"
+  }
+ }
+}

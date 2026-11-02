@@ -1,0 +1,26 @@
+{
+  "model_id": "B2",
+  "dataset": "bbc_speed",
+  "ckpt": "/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2avs_large_ftlrs3trainvalvox2avs_selftrain_braven.pth",
+  "lm": "/root/autodl-tmp/checkpoints/raven/rnnlm.model.best",
+  "lm_weight": 0.2,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 3522,
+  "total_seconds": 28.5,
+  "n_clips": 21,
+  "errors": 85,
+  "n_words": 318,
+  "wer": 26.73,
+  "mean_seconds": 1.29,
+  "n_failed": 0
+}

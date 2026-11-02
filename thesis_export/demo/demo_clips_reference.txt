@@ -1,0 +1,110 @@
+DEMO CLIPS — REFERENCE TEXT (copy-paste into GUI Reference box)
+======================================================================
+
+### DAVE2D ###
+
+  Clip:  dave2d__ZedAs9P7yE8__clip_0059.mp4
+  Conf:  logp=-0.187
+  REF:   look at my password it s super secure and this is an operating system that was built at least what they re saying
+  T1:    and this is an operating system that was built at least what you re seeing
+
+  Clip:  dave2d__CEgynoERrqc__clip_0007.mp4
+  Conf:  logp=-0.194
+  REF:   way and only then do they shoot their shot and today s product is a perfect example
+  T1:    and only then do they shoot the shot and today s product is a perfect example
+
+----------------------------------------------------------------------
+
+### FIRESHIP ###
+
+  Clip:  fireship___5p1_TNSWqQ__clip_0037.mp4
+  Conf:  logp=-0.832
+  REF:   distillation i was determined to distill just a little bit
+  T1:    this guy wants the tournament to just uh just a little bit
+
+----------------------------------------------------------------------
+
+### JACK_EDWARDS ###
+
+  Clip:  jack_edwards__ep5psukjc4E__clip_0137.mp4
+  Conf:  logp=-0.164
+  REF:   getting you back on track if you need to also i think it s important to remember that mental health is not something you have or don t have everyone has mental
+  T1:    also i think it s important to remember that mental health is not something you have or don t have everyone has mental health
+
+  Clip:  jack_edwards__z76kQ_hNGCI__clip_0152.mp4
+  Conf:  logp=-0.375
+  REF:   incredible colombian writer he was extremely extremely talented and while i was researching for this video i read this book that was published after his
+  T1:    extremely talented and while i was researching for this video i read this book that was published after
+
+----------------------------------------------------------------------
+
+### MIKE_BOYD ###
+
+  Clip:  mike_boyd__sxfAVFUtJ6A__clip_0016.mp4
+  Conf:  logp=-1.173
+  REF:   hour zero right
+  T1:    it s crazy it s crazy it s crazy it s crazy it s crazy it s crazy it s crazy
+
+----------------------------------------------------------------------
+
+### MRWHOSETHEBOSS ###
+
+  Clip:  mrwhosetheboss__5pV3D14y1FQ__clip_0145.mp4
+  Conf:  logp=-0.214
+  REF:   pro iphones are not a showy upgrade but what i wanted to find out is are they still an important one well the
+  T1:    but what i wanted to find out is are these that are important work
+
+  Clip:  mrwhosetheboss__eYBEJBfq_Zs__clip_0222.mp4
+  Conf:  logp=-0.322
+  REF:   iphone dual i don t think so this feels like a tick boxer of a phone and it s definitely
+  T1:    i don t think so this feels like a tab obviously of the phone but it s definitely
+
+----------------------------------------------------------------------
+
+### NATHANIEL_DREW ###
+
+  Clip:  nathaniel_drew__U-w7Koq_LkE__clip_0093.mp4
+  Conf:  logp=-0.160
+  REF:   new twenty five oh here we are so i d like to propose a different interpretation
+  T1:    so i d like to propose a different interpretation
+
+  Clip:  nathaniel_drew__yemarhfhVA0__clip_0225.mp4
+  Conf:  logp=-0.370
+  REF:   video do better in the algorithms or you can check out my substack i ll leave a link to it in the description below totally
+  T1:    do better in the algorithms or you can check out my website i ll even let you in the description below
+
+  Clip:  nathaniel_drew__U-w7Koq_LkE__clip_0000.mp4
+  Conf:  logp=-0.520
+  REF:   so i made a terrible mistake with my house
+  T1:    i made a terrible mistake with my house
+
+----------------------------------------------------------------------
+
+### PETER_MCKINNON ###
+
+  Clip:  peter_mckinnon__fA3pFXwTnKw__clip_0020.mp4
+  Conf:  logp=-0.285
+  REF:   just weird but it s really cool to see your friends work at your own institution it s cool to see your own work in your own
+  T1:    but it s very cool to see your friend s work in your own spot it s cool to see your own work in your own
+
+  Clip:  peter_mckinnon__fA3pFXwTnKw__clip_0004.mp4
+  Conf:  logp=-0.475
+  REF:   the meaning what does it mean to be a real photographer and am i not a real photographer
+  T1:    what does it mean to be a weird photographer am i not a weird photographer
+
+----------------------------------------------------------------------
+
+### RACHEL_AUST ###
+
+  Clip:  rachel_aust__lYFOvGBVNj8__clip_0016.mp4
+  Conf:  logp=-0.264
+  REF:   can do to enhance that shape if that s what you re looking for if you re not familiar with me or if you re new to my channel or if you haven t seen much of
+  T1:    quite grateful if you re not familiar with me or if you go to my channel or if you haven t seen much of my
+
+  Clip:  rachel_aust__ck-S90-WET4__clip_0002.mp4
+  Conf:  logp=-0.387
+  REF:   meals and that habit only lasts a couple of days and then you fall off and you tell yourself like right i just need to get it back together i can push
+  T1:    a couple of days and then you fool off and you tell yourself like right i just need to get back together i can push
+
+----------------------------------------------------------------------
+

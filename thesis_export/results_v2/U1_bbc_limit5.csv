@@ -1,0 +1,6 @@
+utt_id,ref,hyp,ref_norm,hyp_norm,errors,n_words,seconds
+clip_0000,"When you put English text into a computer, it is saving every individual character as eight bits of data.",WHEN HE PUT ENGLISH TEXT INTO A COMPUTER IT IS SAVING EVERY INDIVIDUAL CHARACTER'S EIGHT BASE OF DATA EIGHT,when you put english text into a computer it is saving every individual character as eight bits of data,when he put english text into a computer it is saving every individual character s eight base of data eight,4,19,14.395
+clip_0001,"Eight ones and zeros. I mean, they're not actually ones and zeros,",,eight ones and zeros i mean they re not actually ones and zeros,,13,13,0.0
+clip_0002,"they're particular positions of atoms on a disk or a few electrons going over a wire,",,they re particular positions of atoms on a disk or a few electrons going over a wire,,17,17,0.0
+clip_0003,"but as far as we're concerned in the computer science world, they are ones and zeros. Bits.",,but as far as we re concerned in the computer science world they are ones and zeros bits,,18,18,0.0
+clip_0004,"And yes, a modern phone or computer might store a few quadrillion of them",,and yes a modern phone or computer might store a few quadrillion of them,,14,14,0.0

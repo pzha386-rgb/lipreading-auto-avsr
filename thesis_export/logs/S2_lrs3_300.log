@@ -1,0 +1,26 @@
+===== S2 on lrs3_300 =====
+官方配置 LRS3_V_WER19.1: beam=40 ctc=0.1 penalty=0.0 lm_weight(ini)=0.3 -> 本次 lm_weight=0.0
+模型: /root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml/LRS3_V_WER19.1/model.pth
+语言模型: None
+参数量: 250.4 M
+[20/300] WER so far 18.56%  (3.69s)
+[40/300] WER so far 24.52%  (1.94s)
+[60/300] WER so far 27.33%  (1.94s)
+[80/300] WER so far 26.20%  (2.04s)
+[100/300] WER so far 26.90%  (1.67s)
+[120/300] WER so far 25.77%  (2.23s)
+[140/300] WER so far 26.19%  (1.86s)
+[160/300] WER so far 26.84%  (1.62s)
+[180/300] WER so far 25.69%  (3.42s)
+[200/300] WER so far 25.64%  (3.62s)
+[220/300] WER so far 25.77%  (1.93s)
+[240/300] WER so far 25.77%  (1.68s)
+[260/300] WER so far 25.60%  (2.43s)
+[280/300] WER so far 25.87%  (2.16s)
+[300/300] WER so far 25.16%  (0.90s)
+==================================================
+S2  lrs3_300
+clips: 300   failed: 0   WER: 25.16%
+mean seconds/clip: 2.02
+saved: /root/autodl-tmp/results_v2/S2_lrs3_300.csv
+==================================================

@@ -1,0 +1,12 @@
+===== T1a_m1 N-best on multispeaker_test =====
+权重直接加载成功
+[20/2453] WER so far 57.65%  (0.87s)  logp=-0.859 margin=0.047 nbest=0.82
+[40/2453] WER so far 62.84%  (0.73s)  logp=-0.464 margin=0.020 nbest=0.77
+[60/2453] WER so far 64.78%  (0.51s)  logp=-1.363 margin=0.093 nbest=0.67
+[80/2453] WER so far 63.26%  (0.50s)  logp=-0.509 margin=0.018 nbest=0.82
+[100/2453] WER so far 64.00%  (0.69s)  logp=-0.735 margin=0.072 nbest=0.76
+[120/2453] WER so far 65.62%  (0.69s)  logp=-0.936 margin=0.020 nbest=0.43
+[140/2453] WER so far 66.53%  (0.61s)  logp=-2.043 margin=0.071 nbest=0.43
+[160/2453] WER so far 65.89%  (0.86s)  logp=-0.831 margin=0.002 nbest=0.82
+[180/2453] WER so far 65.46%  (0.84s)  logp=-0.407 margin=0.080 nbest=0.82
+[200/2453] WER so far 64.53%  (0.46s)  logp=-0.236 margin=0.167 nbest=0.79

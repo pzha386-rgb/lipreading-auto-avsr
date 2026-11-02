@@ -1,0 +1,84 @@
+video_id,clip_id,path,start,end,dur,text
+ar0klhiJfDI,clip_0000,ar0klhiJfDI/clip_0000.mp4,0.150,3.510,3.360,I thought that scientists understood how explosions work.
+ar0klhiJfDI,clip_0001,ar0klhiJfDI/clip_0001.mp4,3.510,7.020,3.510,"Now, we're not going to see big orange fireballs going up into the sky."
+ar0klhiJfDI,clip_0002,ar0klhiJfDI/clip_0002.mp4,7.020,10.950,3.930,"I've done that before, I've filmed with a pyrotechnician. We added a load of fuel"
+ar0klhiJfDI,clip_0003,ar0klhiJfDI/clip_0003.mp4,10.950,15.540,4.590,to make the blast look like a Hollywood explosion. But that is not realistic.
+ar0klhiJfDI,clip_0004,ar0klhiJfDI/clip_0004.mp4,15.540,17.940,2.400,"Besides, these days Hollywood, and scientists,"
+ar0klhiJfDI,clip_0005,ar0klhiJfDI/clip_0005.mp4,17.940,22.433,4.493,can simulate those sort of effects near-perfectly in a computer. I looked it up.
+ar0klhiJfDI,clip_0006,ar0klhiJfDI/clip_0006.mp4,22.433,25.650,3.217,There are industry standard ways of predicting blast waves.
+ar0klhiJfDI,clip_0007,ar0klhiJfDI/clip_0007.mp4,25.650,29.160,3.510,They are very accurate... once you're about half a meter away
+ar0klhiJfDI,clip_0008,ar0klhiJfDI/clip_0008.mp4,29.160,33.840,4.680,"and there's clear air in between, which is good enough for most people, 'cause let's face it,"
+ar0klhiJfDI,clip_0009,ar0klhiJfDI/clip_0009.mp4,33.840,38.430,4.590,"if you're five centimeters away from an explosion, you've probably got bigger problems."
+ar0klhiJfDI,clip_0010,ar0klhiJfDI/clip_0010.mp4,38.430,43.080,4.650,"But it turns out that's big picture stuff. Right at the start, in the detonation,"
+ar0klhiJfDI,clip_0011,ar0klhiJfDI/clip_0011.mp4,43.080,47.220,4.140,"in the first few instants of an explosion as all that energy is released,"
+ar0klhiJfDI,clip_0012,ar0klhiJfDI/clip_0012.mp4,47.220,51.960,4.740,"that's where the simulations break down, and solving that problem could save lives."
+ar0klhiJfDI,clip_0013,ar0klhiJfDI/clip_0013.mp4,51.960,57.330,5.370,This bleak old World War II munitions site is now a university test laboratory
+ar0klhiJfDI,clip_0014,ar0klhiJfDI/clip_0014.mp4,57.330,61.680,4.350,and the research is close up. So let's see a test.
+ar0klhiJfDI,clip_0015,ar0klhiJfDI/clip_0015.mp4,61.680,66.030,4.350,Explosions are very difficult to measure. We need something that's going to be rugged
+ar0klhiJfDI,clip_0016,ar0klhiJfDI/clip_0016.mp4,66.030,70.710,4.680,"and strong enough to survive an explosion, but we also need something that's sensitive enough"
+ar0klhiJfDI,clip_0017,ar0klhiJfDI/clip_0017.mp4,70.710,72.870,2.160,to measure things that are changing
+ar0klhiJfDI,clip_0018,ar0klhiJfDI/clip_0018.mp4,72.870,77.130,4.260,over millimeter length scales and sub-microsecond timescales.
+ar0klhiJfDI,clip_0019,ar0klhiJfDI/clip_0019.mp4,77.130,79.860,2.730,"The rig that we're going to be using today is called MaCE,"
+ar0klhiJfDI,clip_0020,ar0klhiJfDI/clip_0020.mp4,79.860,84.780,4.920,"which stands for ""Mechanisms and Characterization of Explosions"". It's a bit of world-leading kit"
+ar0klhiJfDI,clip_0021,ar0klhiJfDI/clip_0021.mp4,84.780,89.310,4.530,"where we can directly measure much closer than anybody worldwide can do,"
+ar0klhiJfDI,clip_0022,ar0klhiJfDI/clip_0022.mp4,89.310,93.450,4.140,"gigapascals worth of pressures, and that's a very, very complicated situation"
+ar0klhiJfDI,clip_0023,ar0klhiJfDI/clip_0023.mp4,93.450,97.350,3.900,which we can't necessarily model or predict currently. And we're going to use some high speed video cameras
+ar0klhiJfDI,clip_0024,ar0klhiJfDI/clip_0024.mp4,97.350,101.730,4.380,"to film what's going on as well. If you hit a metal bar the right way,"
+ar0klhiJfDI,clip_0025,ar0klhiJfDI/clip_0025.mp4,101.730,106.980,5.250,"it'll make a ringing sound, basically a musical note. That ringing is made by the bar itself vibrating"
+ar0klhiJfDI,clip_0026,ar0klhiJfDI/clip_0026.mp4,106.980,111.030,4.050,as the force from that initial hit bounces back and forth within the metal.
+ar0klhiJfDI,clip_0027,ar0klhiJfDI/clip_0027.mp4,111.030,115.920,4.890,And the pitch of that note is really easy to measure. You just listen. The work the researchers are doing here
+ar0klhiJfDI,clip_0028,ar0klhiJfDI/clip_0028.mp4,115.920,120.480,4.560,"is much more technical and much more precise, but it's kind of the same process."
+ar0klhiJfDI,clip_0029,ar0klhiJfDI/clip_0029.mp4,120.480,126.090,5.610,"It's based on theory by a British physicist called Bertram Hopkinson, 109 years ago,"
+ar0klhiJfDI,clip_0030,ar0klhiJfDI/clip_0030.mp4,126.090,131.730,5.640,"and it's only now that the technology is catching up where we can affix very, very small strain gauges"
+ar0klhiJfDI,clip_0031,ar0klhiJfDI/clip_0031.mp4,131.730,135.810,4.080,and we've got data acquisition systems that can sample it at the required rates and required frequencies.
+ar0klhiJfDI,clip_0032,ar0klhiJfDI/clip_0032.mp4,135.810,141.330,5.520,"The strain gauge is a tiny dot that we mount on the outside of Hopkinson pressure bars,"
+ar0klhiJfDI,clip_0033,ar0klhiJfDI/clip_0033.mp4,141.330,145.287,3.957,"solid steel, one meter long, four millimeter diameter."
+ar0klhiJfDI,clip_0034,ar0klhiJfDI/clip_0034.mp4,145.287,150.540,5.253,"And we fix this strain gauge 40mm from the loaded face of the bar,"
+ar0klhiJfDI,clip_0035,ar0klhiJfDI/clip_0035.mp4,150.540,154.200,3.660,We sample it 5 million times per second.
+ar0klhiJfDI,clip_0036,ar0klhiJfDI/clip_0036.mp4,154.200,158.400,4.200,"We're going to set the explosive a little bit further away from the surface,"
+ar0klhiJfDI,clip_0037,ar0klhiJfDI/clip_0037.mp4,158.400,163.530,5.130,so hopefully we can see the fireball and the detonation products start to expand.
+ar0klhiJfDI,clip_0038,ar0klhiJfDI/clip_0038.mp4,163.530,168.570,5.040,That's going to set up a blast wave that's going to propagate through the bar as a stress wave.
+ar0klhiJfDI,clip_0039,ar0klhiJfDI/clip_0039.mp4,168.570,171.960,3.390,So the strain gauge records a change in voltage.
+ar0klhiJfDI,clip_0040,ar0klhiJfDI/clip_0040.mp4,171.960,176.430,4.470,"We can work out stress, which we can work out the pressure and the load on the end of the bar from."
+ar0klhiJfDI,clip_0041,ar0klhiJfDI/clip_0041.mp4,176.430,179.263,2.833,And there's a whacking great big steel plate
+ar0klhiJfDI,clip_0042,ar0klhiJfDI/clip_0042.mp4,179.263,182.970,3.707,that just acts as a shield and just deflects everything away.
+ar0klhiJfDI,clip_0043,ar0klhiJfDI/clip_0043.mp4,182.970,186.330,3.360,"So the pressure bars trap that pressure and send it downwards, and then the arrangement"
+ar0klhiJfDI,clip_0044,ar0klhiJfDI/clip_0044.mp4,186.330,191.010,4.680,of the MaCE rig that we're building towards is 37 of these measurement locations.
+ar0klhiJfDI,clip_0045,ar0klhiJfDI/clip_0045.mp4,191.010,194.670,3.660,But today we've just got one! Just to focus on what's happening
+ar0klhiJfDI,clip_0046,ar0klhiJfDI/clip_0046.mp4,194.670,199.830,5.160,"right in the most severe part. So I asked the researchers, what's the use for this?"
+ar0klhiJfDI,clip_0047,ar0klhiJfDI/clip_0047.mp4,199.830,203.670,3.840,"Their first answer was, well, for science, and that's fair enough,"
+ar0klhiJfDI,clip_0048,ar0klhiJfDI/clip_0048.mp4,203.670,207.330,3.660,"but there are practical applications. To start with, if this works,"
+ar0klhiJfDI,clip_0049,ar0klhiJfDI/clip_0049.mp4,207.330,212.160,4.830,building things that resist explosions will become a lot easier and cheaper.
+ar0klhiJfDI,clip_0050,ar0klhiJfDI/clip_0050.mp4,212.160,213.630,1.470,"In the 80s and the 90s,"
+ar0klhiJfDI,clip_0051,ar0klhiJfDI/clip_0051.mp4,213.630,218.760,5.130,the big challenge was big truck bombs with tonnes of explosives.
+ar0klhiJfDI,clip_0052,ar0klhiJfDI/clip_0052.mp4,218.760,221.850,3.090,"Nowadays, explosive attacks are much more targeted."
+ar0klhiJfDI,clip_0053,ar0klhiJfDI/clip_0053.mp4,221.850,225.330,3.480,"They tend to be smaller devices, and as a result,"
+ar0klhiJfDI,clip_0054,ar0klhiJfDI/clip_0054.mp4,225.330,228.390,3.060,they're located closer to the thing that they want to damage.
+ar0klhiJfDI,clip_0055,ar0klhiJfDI/clip_0055.mp4,228.390,232.110,3.720,So that's why we've looked in this very extreme near-field setting.
+ar0klhiJfDI,clip_0056,ar0klhiJfDI/clip_0056.mp4,232.110,236.250,4.140,We're going to be doing some tests today with 100 grams of high explosive.
+ar0klhiJfDI,clip_0057,ar0klhiJfDI/clip_0057.mp4,236.250,241.110,4.860,It's around about tennis ball sized. There are a lot of secondary reactions that go on.
+ar0klhiJfDI,clip_0058,ar0klhiJfDI/clip_0058.mp4,241.110,245.970,4.860,"It takes a while to develop, at least on our time scales, and there are ongoing chemical reactions."
+ar0klhiJfDI,clip_0059,ar0klhiJfDI/clip_0059.mp4,245.970,250.680,4.710,"And that offers up the really interesting prospect of, can we do something that's going to mitigate them"
+ar0klhiJfDI,clip_0060,ar0klhiJfDI/clip_0060.mp4,250.680,255.660,4.980,or even turn them off? Can we surround explosives in a particular type of material
+ar0klhiJfDI,clip_0061,ar0klhiJfDI/clip_0061.mp4,255.660,257.400,1.740,to manage those reactions?
+ar0klhiJfDI,clip_0062,ar0klhiJfDI/clip_0062.mp4,257.400,261.900,4.500,Bombproof luggage containers or storage containers on transport?
+ar0klhiJfDI,clip_0063,ar0klhiJfDI/clip_0063.mp4,261.900,264.744,2.844,That's a potential thing that could be done with this research.
+ar0klhiJfDI,clip_0064,ar0klhiJfDI/clip_0064.mp4,267.190,270.630,3.440,"If we can understand those first instants of an explosion,"
+ar0klhiJfDI,clip_0065,ar0klhiJfDI/clip_0065.mp4,270.630,274.860,4.230,"then maybe we can help keep it under control. After all, this munitions site is built to do that."
+ar0klhiJfDI,clip_0066,ar0klhiJfDI/clip_0066.mp4,274.860,278.346,3.486,"It was designed to contain anything that goes wrong by brute force,"
+ar0klhiJfDI,clip_0067,ar0klhiJfDI/clip_0067.mp4,278.346,281.820,3.474,just using huge amounts of earth and concrete bunkers.
+ar0klhiJfDI,clip_0068,ar0klhiJfDI/clip_0068.mp4,281.820,285.960,4.140,So can that be done with less materials and less cost?
+ar0klhiJfDI,clip_0069,ar0klhiJfDI/clip_0069.mp4,285.960,289.117,3.157,We're about to take just one step towards finding out.
+ar0klhiJfDI,clip_0070,ar0klhiJfDI/clip_0070.mp4,290.199,295.170,4.971,"We've never been able to observe these features before,"
+ar0klhiJfDI,clip_0071,ar0klhiJfDI/clip_0071.mp4,295.170,299.370,4.200,"so we kind of don't know what we don't know. That's what the group looks at,"
+ar0klhiJfDI,clip_0072,ar0klhiJfDI/clip_0072.mp4,299.370,301.953,2.583,uncovering what we don't know about explosions yet.
+ar0klhiJfDI,clip_0073,ar0klhiJfDI/clip_0073.mp4,309.750,315.660,5.910,"All right, what have we got? So this is filmed at about a quarter of a million frames per second."
+ar0klhiJfDI,clip_0074,ar0klhiJfDI/clip_0074.mp4,315.660,316.533,0.873,"Wow, okay."
+ar0klhiJfDI,clip_0075,ar0klhiJfDI/clip_0075.mp4,321.330,326.863,5.533,Wow. You can see it bounce back!
+ar0klhiJfDI,clip_0076,ar0klhiJfDI/clip_0076.mp4,327.747,333.330,5.583,"So it hits the surface. And then as it goes back up, see it reigniting."
+ar0klhiJfDI,clip_0077,ar0klhiJfDI/clip_0077.mp4,333.330,337.050,3.720,All that hot gas is getting churned back up and it's mixing with the oxygen.
+ar0klhiJfDI,clip_0078,ar0klhiJfDI/clip_0078.mp4,337.050,341.100,4.050,And that's giving that secondary kick that we see at these sorts of scale distances.
+ar0klhiJfDI,clip_0079,ar0klhiJfDI/clip_0079.mp4,341.100,345.450,4.350,It's continually pushing the end of that bar and it's sending that information down
+ar0klhiJfDI,clip_0080,ar0klhiJfDI/clip_0080.mp4,345.450,350.550,5.100,Because it's not one hit. It's a push that- It feels like one hit. It feels like one hit.
+ar0klhiJfDI,clip_0081,ar0klhiJfDI/clip_0081.mp4,350.550,354.060,3.510,Exactly. But you are recording that so quickly
+ar0klhiJfDI,clip_0082,ar0klhiJfDI/clip_0082.mp4,354.060,361.276,7.216,"that what you're actually getting is a push. Yep. Wow. Cool, isn't it? That's pretty cool."

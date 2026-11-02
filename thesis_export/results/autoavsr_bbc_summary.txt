@@ -1,0 +1,3 @@
+Model: vsr_trlrs2lrs3vox2avsp_base.pth
+Dataset: BBC Tom Scott (3 clips)
+WER: 38.30%

@@ -1,0 +1,95 @@
+video_id,clip_id,path,start,end,dur,text
+KXJSjte_OAI,clip_0000,KXJSjte_OAI/clip_0000.mp4,0.149,3.770,3.621,There are many different ways to put a shelf of books in order.
+KXJSjte_OAI,clip_0001,KXJSjte_OAI/clip_0001.mp4,3.770,8.380,4.610,"Alphabetically by author, or by title. By subject. Or by the colour of the spine."
+KXJSjte_OAI,clip_0002,KXJSjte_OAI/clip_0002.mp4,8.380,13.849,5.469,Those are all valid approaches for different situations: if you’re a bookstore that has a lot of customers coming in and saying
+KXJSjte_OAI,clip_0003,KXJSjte_OAI/clip_0003.mp4,13.849,17.560,3.711,"“I don’t remember the title, but I know it was red…”"
+KXJSjte_OAI,clip_0004,KXJSjte_OAI/clip_0004.mp4,17.560,20.849,3.289,then sorting by colour is a reasonable approach.
+KXJSjte_OAI,clip_0005,KXJSjte_OAI/clip_0005.mp4,20.849,25.669,4.820,"In 1876, an American librarian called Melvil Dewey published a four-page pamphlet"
+KXJSjte_OAI,clip_0006,KXJSjte_OAI/clip_0006.mp4,25.669,29.410,3.741,describing how he thought a public library should be ordered.
+KXJSjte_OAI,clip_0007,KXJSjte_OAI/clip_0007.mp4,29.410,34.270,4.860,"Before Dewey, books in many libraries were ordered by when they were purchased."
+KXJSjte_OAI,clip_0008,KXJSjte_OAI/clip_0008.mp4,34.270,39.250,4.980,"As new books arrived, they’d just be allotted to a shelf or a box that matched their size,"
+KXJSjte_OAI,clip_0009,KXJSjte_OAI/clip_0009.mp4,39.250,42.840,3.590,and there’d be a central card file somewhere listing where everything was.
+KXJSjte_OAI,clip_0010,KXJSjte_OAI/clip_0010.mp4,42.840,47.680,4.840,"You would have to ask a librarian if you wanted a certain book, and they’d retrieve it for you."
+KXJSjte_OAI,clip_0011,KXJSjte_OAI/clip_0011.mp4,47.680,50.940,3.260,Just browsing the shelves wasn’t a thing.
+KXJSjte_OAI,clip_0012,KXJSjte_OAI/clip_0012.mp4,50.940,53.980,3.040,"Dewey gave each subject an index number,"
+KXJSjte_OAI,clip_0013,KXJSjte_OAI/clip_0013.mp4,53.980,57.650,3.670,and then said that the shelves should be ordered by that number.
+KXJSjte_OAI,clip_0014,KXJSjte_OAI/clip_0014.mp4,57.650,61.930,4.280,"Over the years, the Dewey Decimal system became a standard."
+KXJSjte_OAI,clip_0015,KXJSjte_OAI/clip_0015.mp4,61.930,63.800,1.870,Dewey had solved a serious problem:
+KXJSjte_OAI,clip_0016,KXJSjte_OAI/clip_0016.mp4,63.800,68.140,4.340,"how to sort and find information, without having to bother the head librarian."
+KXJSjte_OAI,clip_0017,KXJSjte_OAI/clip_0017.mp4,68.140,70.330,2.190,"And because books were clustered by their subject,"
+KXJSjte_OAI,clip_0018,KXJSjte_OAI/clip_0018.mp4,70.330,74.830,4.500,it encouraged general-interest browsing of the shelves.
+KXJSjte_OAI,clip_0019,KXJSjte_OAI/clip_0019.mp4,74.830,80.490,5.660,"Side note: while researching this, I found out that Dewey was a terrible person."
+KXJSjte_OAI,clip_0020,KXJSjte_OAI/clip_0020.mp4,80.490,82.920,2.430,"Not in a “oh, but he was of his time” way,"
+KXJSjte_OAI,clip_0021,KXJSjte_OAI/clip_0021.mp4,82.920,87.870,4.950,"like, he resigned from the American Library Association because of sexual harassment complaints"
+KXJSjte_OAI,clip_0022,KXJSjte_OAI/clip_0022.mp4,87.870,92.470,4.600,in 1905. How bad do you have to be in 1905 to get kicked-
+KXJSjte_OAI,clip_0023,KXJSjte_OAI/clip_0023.mp4,92.470,96.980,4.510,His sexist and racist biases made it into the early versions of the Dewey Decimal system.
+KXJSjte_OAI,clip_0024,KXJSjte_OAI/clip_0024.mp4,96.980,100.440,3.460,Lots of libraries these days use completely different classifications.
+KXJSjte_OAI,clip_0025,KXJSjte_OAI/clip_0025.mp4,100.440,103.670,3.230,"But, yeah, we do still remember his name."
+KXJSjte_OAI,clip_0026,KXJSjte_OAI/clip_0026.mp4,103.670,108.520,4.850,"Anyway, here’s the key point: by creating a useful index and sorting by it,"
+KXJSjte_OAI,clip_0027,KXJSjte_OAI/clip_0027.mp4,108.520,110.330,1.810,readers could find books more quickly.
+KXJSjte_OAI,clip_0028,KXJSjte_OAI/clip_0028.mp4,110.330,116.160,5.830,"That same principle of indexing applies to computers, and has since the early days."
+KXJSjte_OAI,clip_0029,KXJSjte_OAI/clip_0029.mp4,119.100,123.130,4.030,There are two basic ways that a computer can search: linear and binary.
+KXJSjte_OAI,clip_0030,KXJSjte_OAI/clip_0030.mp4,123.130,128.789,5.659,Let’s say you’ve got a stack of cards. They’ve got numbers on them that are somewhere between 1 and 50.
+KXJSjte_OAI,clip_0031,KXJSjte_OAI/clip_0031.mp4,128.789,132.760,3.971,"and you want to find lucky number 13. If it’s a shuffled stack,"
+KXJSjte_OAI,clip_0032,KXJSjte_OAI/clip_0032.mp4,132.760,137.640,4.880,"then there’s no shortcut: you just run through, looking at one card after another after another after another,"
+KXJSjte_OAI,clip_0033,KXJSjte_OAI/clip_0033.mp4,137.640,141.769,4.129,until eventually you find number 13. That is linear search:
+KXJSjte_OAI,clip_0034,KXJSjte_OAI/clip_0034.mp4,141.769,144.779,3.010,"going through every card in a stack, every element in a list,"
+KXJSjte_OAI,clip_0035,KXJSjte_OAI/clip_0035.mp4,144.779,149.430,4.651,"until you find the one or many that you’re looking for. That’ll work on any list, in any order."
+KXJSjte_OAI,clip_0036,KXJSjte_OAI/clip_0036.mp4,149.430,152.450,3.020,"But most of the time, it will be slow."
+KXJSjte_OAI,clip_0037,KXJSjte_OAI/clip_0037.mp4,152.450,155.840,3.390,But what if the cards are in order by number?
+KXJSjte_OAI,clip_0038,KXJSjte_OAI/clip_0038.mp4,155.840,159.800,3.960,"Sure, you have to spend some time to sort them. I’ve got a whole other video about that."
+KXJSjte_OAI,clip_0039,KXJSjte_OAI/clip_0039.mp4,159.800,164.475,4.675,"But once you’ve done that, once they’re in order, you can use a binary search."
+KXJSjte_OAI,clip_0040,KXJSjte_OAI/clip_0040.mp4,164.475,169.406,4.931,"Binary not in terms of zeros and ones on disk, but binary in terms of splitting things in two."
+KXJSjte_OAI,clip_0041,KXJSjte_OAI/clip_0041.mp4,169.406,173.840,4.434,"Look at the middle item of the list. Is it higher or lower than the number we’re looking for, 13?"
+KXJSjte_OAI,clip_0042,KXJSjte_OAI/clip_0042.mp4,173.840,179.140,5.300,"So in this case, it’s lower. So we can forget about the first half of the list, and we can do the same again."
+KXJSjte_OAI,clip_0043,KXJSjte_OAI/clip_0043.mp4,179.140,182.670,3.530,"Look in the middle of what's left, forget about the side that we don’t want, look in the middle,"
+KXJSjte_OAI,clip_0044,KXJSjte_OAI/clip_0044.mp4,182.670,188.069,5.399,"forget about the side we don't want, and so on, and so on, and so on, until eventually we find the card we’re looking for"
+KXJSjte_OAI,clip_0045,KXJSjte_OAI/clip_0045.mp4,188.069,190.590,2.521,or we know it’s not in the list at all.
+KXJSjte_OAI,clip_0046,KXJSjte_OAI/clip_0046.mp4,190.590,194.430,3.840,"Okay, with eleven cards, binary search doesn’t make much difference."
+KXJSjte_OAI,clip_0047,KXJSjte_OAI/clip_0047.mp4,194.430,199.459,5.029,"But with a million cards, it is lightning-fast compared to linear search."
+KXJSjte_OAI,clip_0048,KXJSjte_OAI/clip_0048.mp4,199.459,204.019,4.560,Provided that the list is in order. But a stack of cards is a simple example.
+KXJSjte_OAI,clip_0049,KXJSjte_OAI/clip_0049.mp4,204.019,208.250,4.231,A database is much more complex. Let’s say we don’t just have numbers on the cards:
+KXJSjte_OAI,clip_0050,KXJSjte_OAI/clip_0050.mp4,208.250,210.290,2.040,"we also have letters, and let's add some colours as well."
+KXJSjte_OAI,clip_0051,KXJSjte_OAI/clip_0051.mp4,210.290,215.749,5.459,We can’t sort the cards by more than one of these properties at a time.
+KXJSjte_OAI,clip_0052,KXJSjte_OAI/clip_0052.mp4,215.749,221.150,5.401,"So right now, I can use binary search for number, but not for letter or colour."
+KXJSjte_OAI,clip_0053,KXJSjte_OAI/clip_0053.mp4,221.150,225.949,4.799,"In the same way that librarians can sort their books by title, or author, or colour,"
+KXJSjte_OAI,clip_0054,KXJSjte_OAI/clip_0054.mp4,225.949,231.870,5.921,"you can only optimise for one property at a time. For everything else, you’ve got to run through every book on the shelf,"
+KXJSjte_OAI,clip_0055,KXJSjte_OAI/clip_0055.mp4,231.870,234.639,2.769,"every card in the stack, every item in the list."
+KXJSjte_OAI,clip_0056,KXJSjte_OAI/clip_0056.mp4,234.639,238.189,3.550,Unless you use indexes.
+KXJSjte_OAI,clip_0057,KXJSjte_OAI/clip_0057.mp4,238.189,241.439,3.250,"Now, physically rearranging data on a hard disk, moving the cards around,"
+KXJSjte_OAI,clip_0058,KXJSjte_OAI/clip_0058.mp4,241.439,246.259,4.820,that’s called a “clustered index”. It’s like making sure your dictionary is in alphabetical order
+KXJSjte_OAI,clip_0059,KXJSjte_OAI/clip_0059.mp4,246.259,248.040,1.781,because that's mostly how you're going to use it.
+KXJSjte_OAI,clip_0060,KXJSjte_OAI/clip_0060.mp4,248.040,253.359,5.319,"But a “non-clustered index” is like the index at the back of a book, or a library catalogue."
+KXJSjte_OAI,clip_0061,KXJSjte_OAI/clip_0061.mp4,253.359,256.820,3.461,"It’s a separate store of just the property you’re interested in,"
+KXJSjte_OAI,clip_0062,KXJSjte_OAI/clip_0062.mp4,256.820,258.620,1.800,"stored in a simple, easy-to-access format."
+KXJSjte_OAI,clip_0063,KXJSjte_OAI/clip_0063.mp4,258.620,263.130,4.510,If I want to find the card with the letter K on it?
+KXJSjte_OAI,clip_0064,KXJSjte_OAI/clip_0064.mp4,263.130,266.099,2.969,"Well, I can do a binary search through the index at speed,"
+KXJSjte_OAI,clip_0065,KXJSjte_OAI/clip_0065.mp4,266.099,270.470,4.371,"identify the number of the card, and then use another binary search to go straight to it."
+KXJSjte_OAI,clip_0066,KXJSjte_OAI/clip_0066.mp4,270.470,276.360,5.890,"If I want to pull all the green cards, I can pull just those out of the colour index, index, note down all those numbers,"
+KXJSjte_OAI,clip_0067,KXJSjte_OAI/clip_0067.mp4,276.360,282.349,5.989,and then pull just those cards. There's no linear search happening anywhere. Again: it doesn’t make much difference with eleven cards.
+KXJSjte_OAI,clip_0068,KXJSjte_OAI/clip_0068.mp4,282.349,284.940,2.591,"But with a thousand, or a million, or a billion,"
+KXJSjte_OAI,clip_0069,KXJSjte_OAI/clip_0069.mp4,284.940,289.229,4.289,"that’s the difference between waiting hours for a response to your query,"
+KXJSjte_OAI,clip_0070,KXJSjte_OAI/clip_0070.mp4,289.229,291.560,2.331,and having it in a fraction of a second.
+KXJSjte_OAI,clip_0071,KXJSjte_OAI/clip_0071.mp4,291.560,296.870,5.310,"Of course, each index that you add takes time to create, and space to store."
+KXJSjte_OAI,clip_0072,KXJSjte_OAI/clip_0072.mp4,296.870,300.060,3.190,"If your computer’s ever been slow because of the “Indexing Service” on Windows,"
+KXJSjte_OAI,clip_0073,KXJSjte_OAI/clip_0073.mp4,300.060,304.187,4.127,or “Spotlight Search” on Mac; that’s it taking the time to
+KXJSjte_OAI,clip_0074,KXJSjte_OAI/clip_0074.mp4,304.187,307.840,3.653,"run through all your files and index all the properties that it can,"
+KXJSjte_OAI,clip_0075,KXJSjte_OAI/clip_0075.mp4,307.840,312.849,5.009,"so that when you type something into your search bar, it’ll be able to reply as quickly as possible."
+KXJSjte_OAI,clip_0076,KXJSjte_OAI/clip_0076.mp4,312.849,316.460,3.611,"But every time you make any change to your database,"
+KXJSjte_OAI,clip_0077,KXJSjte_OAI/clip_0077.mp4,316.460,322.060,5.600,"if you add, remove, or change something, you also have to keep the indices... indexes... whichever, up to date."
+KXJSjte_OAI,clip_0078,KXJSjte_OAI/clip_0078.mp4,322.060,326.650,4.590,"So there’s a skill in choosing which properties, which fields in a database,"
+KXJSjte_OAI,clip_0079,KXJSjte_OAI/clip_0079.mp4,326.650,331.150,4.500,"you want to create indices for. If you’re only going to search by colour once or twice a year,"
+KXJSjte_OAI,clip_0080,KXJSjte_OAI/clip_0080.mp4,331.150,336.099,4.949,"it might not be worth indexing. As with many things in computer science,"
+KXJSjte_OAI,clip_0081,KXJSjte_OAI/clip_0081.mp4,336.099,340.069,3.970,there’s a trade-off between space and time.
+KXJSjte_OAI,clip_0082,KXJSjte_OAI/clip_0082.mp4,340.069,345.080,5.011,"Now, Google say that their full search index is 100 petabytes in size,"
+KXJSjte_OAI,clip_0083,KXJSjte_OAI/clip_0083.mp4,345.080,349.419,4.339,"and they’re customising every result from it for every user, usually in under a second."
+KXJSjte_OAI,clip_0084,KXJSjte_OAI/clip_0084.mp4,349.419,351.539,2.120,"Even after all the changes to Google over the years,"
+KXJSjte_OAI,clip_0085,KXJSjte_OAI/clip_0085.mp4,351.539,356.500,4.961,even after all the space that they’ve given over to knowledge boxes -- and adverts --
+KXJSjte_OAI,clip_0086,KXJSjte_OAI/clip_0086.mp4,356.500,361.945,5.445,even after all the optimisation they’ve added to give the user exactly what they want…
+KXJSjte_OAI,clip_0087,KXJSjte_OAI/clip_0087.mp4,361.945,368.297,6.352,Google still put the time it took to answer every query on every desktop search result.
+KXJSjte_OAI,clip_0088,KXJSjte_OAI/clip_0088.mp4,368.297,373.939,5.642,Because they're still proud of it. Because the logistics and computer science skills required to do that are the sort of thing
+KXJSjte_OAI,clip_0089,KXJSjte_OAI/clip_0089.mp4,373.939,378.000,4.061,"that PhDs are written about. Or, because it’s a trade secret,"
+KXJSjte_OAI,clip_0090,KXJSjte_OAI/clip_0090.mp4,378.000,380.750,2.750,"they’re the sort of thing that commands very, very high salaries."
+KXJSjte_OAI,clip_0091,KXJSjte_OAI/clip_0091.mp4,380.750,384.910,4.160,"It’s a long, long way between Dewey and his decimal system"
+KXJSjte_OAI,clip_0092,KXJSjte_OAI/clip_0092.mp4,384.910,386.611,1.701,and the Google search result.
+KXJSjte_OAI,clip_0093,KXJSjte_OAI/clip_0093.mp4,386.611,391.682,5.071,"But the basic principle, ""create an index"", is the same."

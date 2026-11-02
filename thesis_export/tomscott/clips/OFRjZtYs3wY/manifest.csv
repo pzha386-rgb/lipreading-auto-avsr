@@ -1,0 +1,135 @@
+video_id,clip_id,path,start,end,dur,text
+OFRjZtYs3wY,clip_0000,OFRjZtYs3wY/clip_0000.mp4,0.080,2.720,2.640,When Tim Berners-Lee pr…
+OFRjZtYs3wY,clip_0001,OFRjZtYs3wY/clip_0001.mp4,5.320,10.800,5.480,When Tim Berners-Lee prop… When T…
+OFRjZtYs3wY,clip_0002,OFRjZtYs3wY/clip_0002.mp4,15.520,17.280,1.760,When Tim Bern… oh come on!
+OFRjZtYs3wY,clip_0003,OFRjZtYs3wY/clip_0003.mp4,20.480,24.800,4.320,"When Tim Berners-Lee proposed the idea\h for the World Wide Web back in 1989,\h\h"
+OFRjZtYs3wY,clip_0004,OFRjZtYs3wY/clip_0004.mp4,24.800,29.600,4.800,he wrote about a “universal linked\h information system”. His exact words:\h\h
+OFRjZtYs3wY,clip_0005,OFRjZtYs3wY/clip_0005.mp4,29.600,32.640,3.040,“a place to be found for any\h information or reference which\h\h
+OFRjZtYs3wY,clip_0006,OFRjZtYs3wY/clip_0006.mp4,32.640,36.000,3.360,"one felt was important, and a\h way of finding it afterwards”."
+OFRjZtYs3wY,clip_0007,OFRjZtYs3wY/clip_0007.mp4,37.120,43.120,6.000,"Three decades later, and you’ve possibly\h noticed that the web is a bit of a mess."
+OFRjZtYs3wY,clip_0008,OFRjZtYs3wY/clip_0008.mp4,43.120,46.880,3.760,What happened to that\h universal information system?\h\h
+OFRjZtYs3wY,clip_0009,OFRjZtYs3wY/clip_0009.mp4,46.880,49.760,2.880,"What even is a cookie, and\h why do we need to accept them?"
+OFRjZtYs3wY,clip_0010,OFRjZtYs3wY/clip_0010.mp4,50.640,53.760,3.120,There are two reasons that\h the web is terrible right now:
+OFRjZtYs3wY,clip_0011,OFRjZtYs3wY/clip_0011.mp4,53.760,57.840,4.080,"first, advertisers. And second, people."
+OFRjZtYs3wY,clip_0012,OFRjZtYs3wY/clip_0012.mp4,58.640,63.040,4.400,"...I actually just realised that I just implied that advertisers are not people,\h\h"
+OFRjZtYs3wY,clip_0013,OFRjZtYs3wY/clip_0013.mp4,63.040,67.840,4.800,"and there’s some really interesting stuff about corporate\hpersonhood and, employees acting as a hive-mind there, and--"
+OFRjZtYs3wY,clip_0014,OFRjZtYs3wY/clip_0014.mp4,67.840,70.800,2.960,Anyway! Let’s talk\h about the advertisers.
+OFRjZtYs3wY,clip_0015,OFRjZtYs3wY/clip_0015.mp4,70.800,74.880,4.080,The first versions of the web\h were simple. Text and images\h\h
+OFRjZtYs3wY,clip_0016,OFRjZtYs3wY/clip_0016.mp4,74.880,79.440,4.560,"and links to other text and images.\h You could use forms to send information,\h\h"
+OFRjZtYs3wY,clip_0017,OFRjZtYs3wY/clip_0017.mp4,79.440,83.464,4.024,but the whole thing was ‘stateless’. This means neither the web browser
+OFRjZtYs3wY,clip_0018,OFRjZtYs3wY/clip_0018.mp4,83.464,86.324,2.860,nor the web server kept track of you from one page to the next:
+OFRjZtYs3wY,clip_0019,OFRjZtYs3wY/clip_0019.mp4,86.324,89.781,3.457,"you just sent a request for a document, you got the document back,"
+OFRjZtYs3wY,clip_0020,OFRjZtYs3wY/clip_0020.mp4,89.781,95.653,5.872,"and\hthat was it. If you submitted a form, that one response could be\h tailored, but after that, nope,"
+OFRjZtYs3wY,clip_0021,OFRjZtYs3wY/clip_0021.mp4,95.653,98.636,2.983,the server’s forgotten\habout you because it can’t tell you apart
+OFRjZtYs3wY,clip_0022,OFRjZtYs3wY/clip_0022.mp4,98.636,102.081,3.445,from anyone\helse who’s using the same network.
+OFRjZtYs3wY,clip_0023,OFRjZtYs3wY/clip_0023.mp4,102.081,105.120,3.039,"Now this wasn't, long-term, a great plan."
+OFRjZtYs3wY,clip_0024,OFRjZtYs3wY/clip_0024.mp4,105.120,107.760,2.640,"In theory you could hack together\h something more complicated,\h\h"
+OFRjZtYs3wY,clip_0025,OFRjZtYs3wY/clip_0025.mp4,107.760,112.204,4.444,"send forms back and forth, and people\h did build things like that,"
+OFRjZtYs3wY,clip_0026,OFRjZtYs3wY/clip_0026.mp4,112.204,114.451,2.247,"but they’d break very, very easily."
+OFRjZtYs3wY,clip_0027,OFRjZtYs3wY/clip_0027.mp4,114.451,118.691,4.240,It was impossible to have something\h both reliable and personalised.
+OFRjZtYs3wY,clip_0028,OFRjZtYs3wY/clip_0028.mp4,118.720,122.240,3.520,"Then in 1994, a programmer called\h Lou Montulli, who was building a\h\h"
+OFRjZtYs3wY,clip_0029,OFRjZtYs3wY/clip_0029.mp4,122.240,126.480,4.240,"web browser at a company called\h Netscape, came up with “cookies”,\h\h"
+OFRjZtYs3wY,clip_0030,OFRjZtYs3wY/clip_0030.mp4,126.480,130.400,3.920,adapting an old computer science\h technique called “magic cookies”.\h\h
+OFRjZtYs3wY,clip_0031,OFRjZtYs3wY/clip_0031.mp4,130.400,134.640,4.240,"They were so useful that every other\h browser started to use them as well,\h\h"
+OFRjZtYs3wY,clip_0032,OFRjZtYs3wY/clip_0032.mp4,134.640,137.120,2.480,and they got built\h into the web standards.
+OFRjZtYs3wY,clip_0033,OFRjZtYs3wY/clip_0033.mp4,138.160,142.800,4.640,A cookie is “client-side storage”:\h your web browser sends the request to\h\h
+OFRjZtYs3wY,clip_0034,OFRjZtYs3wY/clip_0034.mp4,142.800,147.555,4.755,"the server, as usual, but the server sends back\h two things: the page you asked for,"
+OFRjZtYs3wY,clip_0035,OFRjZtYs3wY/clip_0035.mp4,147.555,152.158,4.603,and a little text file called a cookie\h that your browser then saves.
+OFRjZtYs3wY,clip_0036,OFRjZtYs3wY/clip_0036.mp4,152.158,156.640,4.482,"After it’s saved, every time that browser\h makes a request to that same server,\h\h"
+OFRjZtYs3wY,clip_0037,OFRjZtYs3wY/clip_0037.mp4,156.640,161.120,4.480,it sends the cookie along with it.\h So that cookie could contain your\h\h
+OFRjZtYs3wY,clip_0038,OFRjZtYs3wY/clip_0038.mp4,161.120,165.301,4.181,"preferences: if you choose “dark mode”,\h then the browser would now send a"
+OFRjZtYs3wY,clip_0039,OFRjZtYs3wY/clip_0039.mp4,165.301,169.197,3.896,"“dark mode” preference, in that cookie, every single request."
+OFRjZtYs3wY,clip_0040,OFRjZtYs3wY/clip_0040.mp4,169.197,174.800,5.603,"If the server asked for it, then that cookie would last even if you closed the\hbrowser, and restarted your computer."
+OFRjZtYs3wY,clip_0041,OFRjZtYs3wY/clip_0041.mp4,174.800,180.720,5.920,For years and years and years. Or a cookie could be used for\h authentication: so after you’ve\h\h
+OFRjZtYs3wY,clip_0042,OFRjZtYs3wY/clip_0042.mp4,180.720,186.405,5.685,"logged into a site, that site gives your\h browser a cookie that’s just a long, random string of characters."
+OFRjZtYs3wY,clip_0043,OFRjZtYs3wY/clip_0043.mp4,186.405,191.714,5.309,"But because no-one except the server and that cookie have that long string of characters,"
+OFRjZtYs3wY,clip_0044,OFRjZtYs3wY/clip_0044.mp4,191.714,196.640,4.926,"it can act like a password: the browser sends it back along\hwith every page request,\h\h"
+OFRjZtYs3wY,clip_0045,OFRjZtYs3wY/clip_0045.mp4,196.640,200.320,3.680,"and the server looks at it and\h goes “oh, yeah, I remember you”."
+OFRjZtYs3wY,clip_0046,OFRjZtYs3wY/clip_0046.mp4,201.760,206.480,4.720,"The designers of cookies\hlooked at that, and they knew that they could be used\h\h"
+OFRjZtYs3wY,clip_0047,OFRjZtYs3wY/clip_0047.mp4,206.480,210.160,3.680,"to track people, so there was a\h very, very important rule for privacy:\h\h"
+OFRjZtYs3wY,clip_0048,OFRjZtYs3wY/clip_0048.mp4,210.160,216.560,6.400,"from the very start, only the site that set the\h cookie can read the cookie back."
+OFRjZtYs3wY,clip_0049,OFRjZtYs3wY/clip_0049.mp4,216.560,220.160,3.600,"Except. Because of the way the web\h is built, sites can include material\h\h"
+OFRjZtYs3wY,clip_0050,OFRjZtYs3wY/clip_0050.mp4,220.160,223.760,3.600,"from other servers. A web page can\h pull in an image from somewhere else,\h\h"
+OFRjZtYs3wY,clip_0051,OFRjZtYs3wY/clip_0051.mp4,223.760,227.440,3.680,"or some scripting code, or even an\h entire other web site, included in a\hframe."
+OFRjZtYs3wY,clip_0052,OFRjZtYs3wY/clip_0052.mp4,227.440,232.720,5.280,And those other servers could\h all set and read their own cookies.\h\h
+OFRjZtYs3wY,clip_0053,OFRjZtYs3wY/clip_0053.mp4,232.720,235.200,2.480,"“Third-party cookies”, they were called."
+OFRjZtYs3wY,clip_0054,OFRjZtYs3wY/clip_0054.mp4,235.200,241.360,6.160,"So when web pages included advertising,\h well, those adverts came from the advertising\h\h"
+OFRjZtYs3wY,clip_0055,OFRjZtYs3wY/clip_0055.mp4,241.360,245.680,4.320,"company’s servers, so those advertisers\h could set a cookie that tracked people\h\h"
+OFRjZtYs3wY,clip_0056,OFRjZtYs3wY/clip_0056.mp4,245.680,250.080,4.400,across the entire web. If the same\h ad company partnered with loads\h\h
+OFRjZtYs3wY,clip_0057,OFRjZtYs3wY/clip_0057.mp4,250.080,255.440,5.360,"of different web sites, they could start\h building up some very detailed profiles."
+OFRjZtYs3wY,clip_0058,OFRjZtYs3wY/clip_0058.mp4,255.440,260.160,4.720,"No, they might not know who you\h are at first. But they knew you visited\h\h"
+OFRjZtYs3wY,clip_0059,OFRjZtYs3wY/clip_0059.mp4,260.160,263.840,3.680,"that web site about your hometown,\hthen you visited that web site about your college,\h\h"
+OFRjZtYs3wY,clip_0060,OFRjZtYs3wY/clip_0060.mp4,263.840,268.494,4.654,and then you visited that web site about a very specific\h medical condition.
+OFRjZtYs3wY,clip_0061,OFRjZtYs3wY/clip_0061.mp4,268.494,272.960,4.466,"Oh, and then you bought something from an online shop, so they can work behind-the-scenes"
+OFRjZtYs3wY,clip_0062,OFRjZtYs3wY/clip_0062.mp4,272.960,278.800,5.840,"combine the details from that shop and their cookies, and add your name and address to the profile."
+OFRjZtYs3wY,clip_0063,OFRjZtYs3wY/clip_0063.mp4,278.800,282.000,3.200,"All those fancy “share with\hFacebook” buttons? Well, yeah, loads of them\h\h"
+OFRjZtYs3wY,clip_0064,OFRjZtYs3wY/clip_0064.mp4,282.000,284.495,2.495,could report back to Facebook where you were going.
+OFRjZtYs3wY,clip_0065,OFRjZtYs3wY/clip_0065.mp4,284.495,289.088,4.593,"""Hey, this person's looking at all these sites! So now you can tailor adverts for them!"""
+OFRjZtYs3wY,clip_0066,OFRjZtYs3wY/clip_0066.mp4,289.088,293.353,4.265,"Which\his why you could be on a site that seems to be completely disconnected from Facebook,"
+OFRjZtYs3wY,clip_0067,OFRjZtYs3wY/clip_0067.mp4,293.353,298.880,5.527,and still see adverts that were uncannily linked to\h things you’ve been thinking about.
+OFRjZtYs3wY,clip_0068,OFRjZtYs3wY/clip_0068.mp4,299.920,303.760,3.840,"It took a long while before\h regulators decided that,\h\h"
+OFRjZtYs3wY,clip_0069,OFRjZtYs3wY/clip_0069.mp4,303.760,307.920,4.160,"maybe, advertising companies having\h enormous databases on basically\h\h"
+OFRjZtYs3wY,clip_0070,OFRjZtYs3wY/clip_0070.mp4,307.920,312.400,4.480,everything that people were thinking\h might be a bit of a privacy problem.
+OFRjZtYs3wY,clip_0071,OFRjZtYs3wY/clip_0071.mp4,312.400,315.440,3.040,"The European Union acted\h first. The “Cookie Law”,\h\h"
+OFRjZtYs3wY,clip_0072,OFRjZtYs3wY/clip_0072.mp4,315.440,320.103,4.663,"which was the euphemistic name for, um, this mess..."
+OFRjZtYs3wY,clip_0073,OFRjZtYs3wY/clip_0073.mp4,320.103,323.360,3.257,meant that all the EU member\h countries had to put a law in place\h\h
+OFRjZtYs3wY,clip_0074,OFRjZtYs3wY/clip_0074.mp4,323.360,326.735,3.375,requiring consent to place cookies.
+OFRjZtYs3wY,clip_0075,OFRjZtYs3wY/clip_0075.mp4,326.735,331.689,4.954,"That wasn’t particularly well-thought-out, because “consent” requires clicking\hOK,"
+OFRjZtYs3wY,clip_0076,OFRjZtYs3wY/clip_0076.mp4,331.689,334.770,3.081,and if there’s a confusing box in between the average person
+OFRjZtYs3wY,clip_0077,OFRjZtYs3wY/clip_0077.mp4,334.770,340.000,5.230,"and the article they want to read, look, nearly everyone is just going to just click OK."
+OFRjZtYs3wY,clip_0078,OFRjZtYs3wY/clip_0078.mp4,340.000,343.120,3.120,"And by this point, browser makers\h were starting to give users options\h\h"
+OFRjZtYs3wY,clip_0079,OFRjZtYs3wY/clip_0079.mp4,343.120,347.120,4.000,"to block third-party cookies anyway, so advertisers were adjusting,\h\h"
+OFRjZtYs3wY,clip_0080,OFRjZtYs3wY/clip_0080.mp4,347.120,350.450,3.330,"they were tracking people not through cookies, but\h through “fingerprinting”:"
+OFRjZtYs3wY,clip_0081,OFRjZtYs3wY/clip_0081.mp4,350.450,354.784,4.334,looking at all the apparently-innocent individual quirks
+OFRjZtYs3wY,clip_0082,OFRjZtYs3wY/clip_0082.mp4,354.784,358.815,4.031,of how that exact\hcomputer was set up and how it rendered a web page.
+OFRjZtYs3wY,clip_0083,OFRjZtYs3wY/clip_0083.mp4,358.815,363.005,4.190,"The fonts you had installed, the size of your monitor,\h the web sites you've visited in the past,"
+OFRjZtYs3wY,clip_0084,OFRjZtYs3wY/clip_0084.mp4,363.005,367.249,4.244,all things that individually appear\h innocent and safe but which together
+OFRjZtYs3wY,clip_0085,OFRjZtYs3wY/clip_0085.mp4,367.249,370.111,2.862,uniquely identify each person.
+OFRjZtYs3wY,clip_0086,OFRjZtYs3wY/clip_0086.mp4,370.111,374.670,4.559,Browser\hmakers and advertisers ended up in an odd war with each other about\hprivacy:
+OFRjZtYs3wY,clip_0087,OFRjZtYs3wY/clip_0087.mp4,374.670,378.675,4.005,"occasionally a civil war, given that one of the\h most popular browsers"
+OFRjZtYs3wY,clip_0088,OFRjZtYs3wY/clip_0088.mp4,378.675,383.040,4.365,and also one of the\hmajor advertising companies
+OFRjZtYs3wY,clip_0089,OFRjZtYs3wY/clip_0089.mp4,383.040,386.560,3.520,were under the same corporate umbrella.
+OFRjZtYs3wY,clip_0090,OFRjZtYs3wY/clip_0090.mp4,386.560,390.080,3.520,"So later, the General Data\h Protection Regulation, GDPR,\h\h"
+OFRjZtYs3wY,clip_0091,OFRjZtYs3wY/clip_0091.mp4,390.080,393.067,2.987,"put even stronger requirements in\h place, at least for EU citizens."
+OFRjZtYs3wY,clip_0092,OFRjZtYs3wY/clip_0092.mp4,393.067,397.840,4.773,"Not just “no cookies without consent”: no\h tracking without consent. At all times,\h\h"
+OFRjZtYs3wY,clip_0093,OFRjZtYs3wY/clip_0093.mp4,397.840,400.749,2.909,"the user must have full knowledge\h what they are signing up for,"
+OFRjZtYs3wY,clip_0094,OFRjZtYs3wY/clip_0094.mp4,400.749,404.151,3.402,and must consent to it. Even if the company’s not\hin the EU.
+OFRjZtYs3wY,clip_0095,OFRjZtYs3wY/clip_0095.mp4,404.151,408.891,4.740,"Even if they’re storing data on EU citizens ""outside"", it still applies to them."
+OFRjZtYs3wY,clip_0096,OFRjZtYs3wY/clip_0096.mp4,408.891,413.049,4.158,The potential maximum fine is 4% of the company’s global annual revenue.
+OFRjZtYs3wY,clip_0097,OFRjZtYs3wY/clip_0097.mp4,413.049,418.016,4.967,"Not profit, revenue. Or €20 million, whichever is higher."
+OFRjZtYs3wY,clip_0098,OFRjZtYs3wY/clip_0098.mp4,418.016,422.023,4.007,"And yeah, sure, maybe the EU couldn’t easily fine an all-American\hcompany,"
+OFRjZtYs3wY,clip_0099,OFRjZtYs3wY/clip_0099.mp4,422.023,426.240,4.217,but they can definitely\hstop them doing business in Europe if they don't pay.
+OFRjZtYs3wY,clip_0100,OFRjZtYs3wY/clip_0100.mp4,426.240,431.477,5.237,So all the advertisers had two options. Number one: stop tracking people!
+OFRjZtYs3wY,clip_0101,OFRjZtYs3wY/clip_0101.mp4,431.477,435.738,4.261,"Or number two, add a big box on each\hpage saying “hey, is it OK if we track you?”"
+OFRjZtYs3wY,clip_0102,OFRjZtYs3wY/clip_0102.mp4,435.738,438.365,2.627,"And legally, you should\h be able to easily say no"
+OFRjZtYs3wY,clip_0103,OFRjZtYs3wY/clip_0103.mp4,438.365,442.329,3.964,"and still access the site. Opting out should\h be a simple, one-click process.\h\h"
+OFRjZtYs3wY,clip_0104,OFRjZtYs3wY/clip_0104.mp4,442.329,446.601,4.272,And anyone who’s been on the web\h lately knows that’s often not true.
+OFRjZtYs3wY,clip_0105,OFRjZtYs3wY/clip_0105.mp4,446.601,451.320,4.719,"So, yes, at least some of those\hpopups and frustrations are because of\hadvertisers."
+OFRjZtYs3wY,clip_0106,OFRjZtYs3wY/clip_0106.mp4,451.320,454.800,3.480,"Certainly, they normalised\h the idea of intrusive popup boxes."
+OFRjZtYs3wY,clip_0107,OFRjZtYs3wY/clip_0107.mp4,455.840,458.720,2.880,But why can they put those\h boxes there in the first place?
+OFRjZtYs3wY,clip_0108,OFRjZtYs3wY/clip_0108.mp4,459.600,463.200,3.600,The web is built around freedom\h of design. It’s one of the most\h\h
+OFRjZtYs3wY,clip_0109,OFRjZtYs3wY/clip_0109.mp4,463.200,468.000,4.800,"fundamental principles: within the\h box that the web browser gives you,\h\h"
+OFRjZtYs3wY,clip_0110,OFRjZtYs3wY/clip_0110.mp4,468.000,471.120,3.120,a designer can put almost anything.\h\h
+OFRjZtYs3wY,clip_0111,OFRjZtYs3wY/clip_0111.mp4,471.120,476.326,5.206,"For decade after decade after decade, programmers\hhave pushed the limits of what’s possible:"
+OFRjZtYs3wY,clip_0112,OFRjZtYs3wY/clip_0112.mp4,476.326,481.203,4.877,someone has even managed to\hemulate an entire Windows 95 computer in the web browser.
+OFRjZtYs3wY,clip_0113,OFRjZtYs3wY/clip_0113.mp4,481.203,484.570,3.367,"I don’t mean just\hmaking a web page look like Windows 95,"
+OFRjZtYs3wY,clip_0114,OFRjZtYs3wY/clip_0114.mp4,484.570,489.701,5.131,I mean an entire virtual machine\hthat thinks it’s running on regular computer hardware
+OFRjZtYs3wY,clip_0115,OFRjZtYs3wY/clip_0115.mp4,489.701,493.920,4.219,"but is actually just\hsimulated in code, in a web browser."
+OFRjZtYs3wY,clip_0116,OFRjZtYs3wY/clip_0116.mp4,493.920,498.785,4.865,And that's incredible! Give people power to create and\h some will make amazing things.
+OFRjZtYs3wY,clip_0117,OFRjZtYs3wY/clip_0117.mp4,498.785,502.573,3.788,But some will look at the ability\h to run almost any code
+OFRjZtYs3wY,clip_0118,OFRjZtYs3wY/clip_0118.mp4,502.573,506.256,3.683,"and put\halmost anything on screen, at least within that\hbox, and go"
+OFRjZtYs3wY,clip_0119,OFRjZtYs3wY/clip_0119.mp4,506.256,509.823,3.567,“maybe I can get some more newsletter signups if I interrupt\hthe reader”.
+OFRjZtYs3wY,clip_0120,OFRjZtYs3wY/clip_0120.mp4,509.823,513.943,4.120,"Or ""maybe I can make people’s browsers mine cryptocurrency in the\hbackground"
+OFRjZtYs3wY,clip_0121,OFRjZtYs3wY/clip_0121.mp4,513.943,519.219,5.276,"""while they’re on my site!"" So the war starts again."
+OFRjZtYs3wY,clip_0122,OFRjZtYs3wY/clip_0122.mp4,519.219,522.924,3.705,"Most web\hbrowsers now have a separate view that you can switch into,"
+OFRjZtYs3wY,clip_0123,OFRjZtYs3wY/clip_0123.mp4,522.924,527.350,4.426,that shows just\h the text you want. It might be called “article view” or “reader mode”.
+OFRjZtYs3wY,clip_0124,OFRjZtYs3wY/clip_0124.mp4,527.350,531.828,4.478,"The browser tries to figure out what the main content is, what the user actually wants to see,"
+OFRjZtYs3wY,clip_0125,OFRjZtYs3wY/clip_0125.mp4,531.828,537.200,5.372,"and\hputs just that text on screen. Stripping out the adverts,\h removing all the popup boxes, and,"
+OFRjZtYs3wY,clip_0126,OFRjZtYs3wY/clip_0126.mp4,537.200,540.560,3.360,"yes, losing all the creativity\h and design that the web allows.\h\h"
+OFRjZtYs3wY,clip_0127,OFRjZtYs3wY/clip_0127.mp4,540.560,545.520,4.960,But that ‘reader view’ is a lot closer\h to Tim Berners-Lee’s original design:\h\h
+OFRjZtYs3wY,clip_0128,OFRjZtYs3wY/clip_0128.mp4,545.520,548.560,3.040,"a place for information, and\h a way to find it afterwards."
+OFRjZtYs3wY,clip_0129,OFRjZtYs3wY/clip_0129.mp4,549.440,553.120,3.680,"Of course, there are already techniques\h to detect and defeat reader view,\h\h"
+OFRjZtYs3wY,clip_0130,OFRjZtYs3wY/clip_0130.mp4,553.120,557.680,4.560,"and make sure that the user has to see the\h adverts, or the newsletter popups, or\h\h"
+OFRjZtYs3wY,clip_0131,OFRjZtYs3wY/clip_0131.mp4,557.680,558.560,0.880,whatever else.
+OFRjZtYs3wY,clip_0132,OFRjZtYs3wY/clip_0132.mp4,559.280,563.760,4.480,Every bit of freedom that a\h designer has for creativity and good\h\h
+OFRjZtYs3wY,clip_0133,OFRjZtYs3wY/clip_0133.mp4,563.760,570.240,6.480,"is also freedom for abuse.\h That’s true not just on the web,\h\h but in every single aspect\h of the online world."

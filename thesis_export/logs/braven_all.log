@@ -1,0 +1,97 @@
+nohup: ignoring input
+===== B2 on tomscott_test   10:38
+===== B2 N-best on tomscott_test =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+RAVEn 仓库脚本里的 lm_weight: ['0.0', '0.2', '0.3']
+使用语言模型，lm_weight = 0.1
+Load pretrained model weights
+Load pretrained language model weights
+[20/435] WER so far 40.75%  (7.30s)  logp=-0.501 margin=0.008 nbest=0.91
+[40/435] WER so far 35.26%  (11.80s)  logp=-0.399 margin=0.032 nbest=0.94
+[60/435] WER so far 32.22%  (3.68s)  logp=-0.373 margin=0.192 nbest=0.91
+[80/435] WER so far 29.89%  (10.80s)  logp=-0.612 margin=0.035 nbest=0.94
+[100/435] WER so far 29.92%  (4.95s)  logp=-0.782 margin=0.007 nbest=0.72
+[120/435] WER so far 30.94%  (13.42s)  logp=-0.513 margin=0.012 nbest=0.89
+[140/435] WER so far 30.50%  (9.35s)  logp=-0.563 margin=0.004 nbest=0.91
+[160/435] WER so far 29.51%  (5.99s)  logp=-0.484 margin=0.044 nbest=0.81
+[180/435] WER so far 28.73%  (9.07s)  logp=-0.644 margin=0.026 nbest=0.92
+[200/435] WER so far 29.10%  (10.78s)  logp=-0.634 margin=0.047 nbest=0.92
+[220/435] WER so far 29.42%  (9.22s)  logp=-0.549 margin=0.014 nbest=0.92
+[240/435] WER so far 29.73%  (7.52s)  logp=-0.470 margin=0.089 nbest=0.85
+[260/435] WER so far 30.42%  (7.60s)  logp=-0.578 margin=0.043 nbest=0.94
+[280/435] WER so far 31.96%  (2.28s)  logp=-1.025 margin=0.058 nbest=0.69
+[300/435] WER so far 32.67%  (9.43s)  logp=-0.909 margin=0.000 nbest=0.82
+[320/435] WER so far 32.70%  (5.45s)  logp=-0.536 margin=0.089 nbest=0.90
+[340/435] WER so far 32.54%  (5.91s)  logp=-0.474 margin=0.010 nbest=0.86
+[360/435] WER so far 32.37%  (5.78s)  logp=-0.510 margin=0.074 nbest=0.91
+[380/435] WER so far 32.35%  (8.27s)  logp=-1.194 margin=0.047 nbest=0.89
+[400/435] WER so far 32.34%  (10.15s)  logp=-0.487 margin=0.060 nbest=0.95
+[420/435] WER so far 32.11%  (6.30s)  logp=-0.764 margin=0.001 nbest=0.85
+
+final WER 32.45%   total 3531s
+saved /root/autodl-tmp/day1/conf/B2_tomscott_test_confA.csv
+===== B2 on bbc   11:37
+===== B2 N-best on bbc =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+RAVEn 仓库脚本里的 lm_weight: ['0.0', '0.2', '0.3']
+使用语言模型，lm_weight = 0.1
+Load pretrained model weights
+Load pretrained language model weights
+[20/91] WER so far 27.46%  (4.53s)  logp=-0.645 margin=0.110 nbest=0.90
+[40/91] WER so far 23.57%  (5.02s)  logp=-0.595 margin=0.033 nbest=0.92
+[60/91] WER so far 24.83%  (6.94s)  logp=-0.915 margin=0.005 nbest=0.74
+[80/91] WER so far 25.61%  (9.95s)  logp=-0.558 margin=0.018 nbest=0.95
+
+final WER 25.33%   total 705s
+saved /root/autodl-tmp/day1/conf/B2_bbc_confA.csv
+===== B2 on lrs3_300   11:49
+===== B2 N-best on lrs3_300 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+RAVEn 仓库脚本里的 lm_weight: ['0.0', '0.2', '0.3']
+使用语言模型，lm_weight = 0.1
+Load pretrained model weights
+Load pretrained language model weights
+[20/300] WER so far 16.17%  (8.69s)  logp=-0.444 margin=0.038 nbest=0.91
+[40/300] WER so far 24.52%  (3.14s)  logp=-1.413 margin=0.068 nbest=0.68
+[60/300] WER so far 26.00%  (3.52s)  logp=-0.610 margin=0.020 nbest=0.67
+[80/300] WER so far 23.97%  (3.50s)  logp=-0.510 margin=0.083 nbest=0.88
+[100/300] WER so far 23.23%  (2.66s)  logp=-0.477 margin=0.530 nbest=0.80
+[120/300] WER so far 22.02%  (5.19s)  logp=-0.426 margin=0.256 nbest=0.93
+[140/300] WER so far 22.67%  (3.41s)  logp=-0.722 margin=0.043 nbest=0.62
+[160/300] WER so far 23.65%  (2.37s)  logp=-0.470 margin=0.327 nbest=0.73
+[180/300] WER so far 23.00%  (13.48s)  logp=-0.485 margin=0.007 nbest=0.84
+[200/300] WER so far 23.58%  (10.29s)  logp=-0.418 margin=0.004 nbest=0.91
+[220/300] WER so far 23.82%  (3.48s)  logp=-0.525 margin=0.027 nbest=0.84
+[240/300] WER so far 24.26%  (3.95s)  logp=-0.328 margin=0.324 nbest=0.89
+[260/300] WER so far 24.37%  (4.69s)  logp=-0.709 margin=0.065 nbest=0.81
+[280/300] WER so far 24.59%  (3.27s)  logp=-0.425 margin=0.339 nbest=0.82
+[300/300] WER so far 23.68%  (1.97s)  logp=-0.489 margin=0.127 nbest=0.80
+
+final WER 23.68%   total 1136s
+saved /root/autodl-tmp/day1/conf/B2_lrs3_300_confA.csv
+===== B2 on tomscott   12:08
+===== B2 N-best on tomscott =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+RAVEn 仓库脚本里的 lm_weight: ['0.0', '0.2', '0.3']
+使用语言模型，lm_weight = 0.1
+Load pretrained model weights
+Load pretrained language model weights
+[20/4361] WER so far 45.78%  (5.37s)  logp=-0.488 margin=0.037 nbest=0.90
+[40/4361] WER so far 55.43%  (7.46s)  logp=-1.264 margin=0.002 nbest=0.77
+[60/4361] WER so far 51.36%  (3.78s)  logp=-0.400 margin=0.112 nbest=0.86
+[80/4361] WER so far 46.03%  (6.46s)  logp=-0.737 margin=0.028 nbest=0.92
+[100/4361] WER so far 43.55%  (8.48s)  logp=-0.669 margin=0.018 nbest=0.93
+[120/4361] WER so far 40.13%  (12.58s)  logp=-1.184 margin=0.018 nbest=0.83
+[140/4361] WER so far 40.12%  (7.26s)  logp=-0.467 margin=0.069 nbest=0.91
+[160/4361] WER so far 40.73%  (9.35s)  logp=-0.787 margin=0.003 nbest=0.91
+[180/4361] WER so far 42.00%  (8.65s)  logp=-0.799 margin=0.017 nbest=0.92
+[200/4361] WER so far 41.97%  (9.41s)  logp=-0.719 margin=0.015 nbest=0.89
+[220/4361] WER so far 42.00%  (8.95s)  logp=-0.473 margin=0.009 nbest=0.94
+[240/4361] WER so far 41.74%  (6.47s)  logp=-0.846 margin=0.009 nbest=0.77
+[260/4361] WER so far 41.03%  (3.39s)  logp=-0.511 margin=0.035 nbest=0.69
+[280/4361] WER so far 41.08%  (7.73s)  logp=-0.719 margin=0.001 nbest=0.92
+[300/4361] WER so far 40.69%  (6.75s)  logp=-1.175 margin=0.014 nbest=0.72
+[320/4361] WER so far 40.00%  (9.91s)  logp=-0.405 margin=0.028 nbest=0.94
+[340/4361] WER so far 39.24%  (10.96s)  logp=-0.530 margin=0.007 nbest=0.93
+[360/4361] WER so far 39.27%  (14.02s)  logp=-0.499 margin=0.025 nbest=0.94
+[380/4361] WER so far 38.40%  (7.55s)  logp=-0.402 margin=0.108 nbest=0.92

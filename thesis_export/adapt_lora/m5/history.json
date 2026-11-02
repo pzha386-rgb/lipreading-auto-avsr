@@ -1,0 +1,61 @@
+{
+  "args": {
+    "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+    "convert_fn": "",
+    "minutes": 5.0,
+    "name": "tomscott",
+    "out": "/root/autodl-tmp/adapt_lora/m5",
+    "rank": 8,
+    "alpha": 16.0,
+    "lr": 0.0005,
+    "epochs": 15,
+    "patience": 4,
+    "max_frames": 2000,
+    "seed": 0,
+    "check": false
+  },
+  "train_min": 4.9366666666666665,
+  "n_lora_params": 1179648,
+  "history": [
+    {
+      "epoch": 0,
+      "val_loss": 24.289604873300714
+    },
+    {
+      "epoch": 1,
+      "train_loss": 57.99870350781609,
+      "val_loss": 24.239167454086733,
+      "minutes": 0.060875527064005536
+    },
+    {
+      "epoch": 2,
+      "train_loss": 54.90705108642578,
+      "val_loss": 23.997431046494814,
+      "minutes": 0.09417803684870402
+    },
+    {
+      "epoch": 3,
+      "train_loss": 53.77436845442828,
+      "val_loss": 24.4269421613105,
+      "minutes": 0.1263033628463745
+    },
+    {
+      "epoch": 4,
+      "train_loss": 50.90753516028909,
+      "val_loss": 24.91937852574286,
+      "minutes": 0.15632335344950357
+    },
+    {
+      "epoch": 5,
+      "train_loss": 48.86948232089772,
+      "val_loss": 25.159626564132832,
+      "minutes": 0.18750513394673665
+    },
+    {
+      "epoch": 6,
+      "train_loss": 47.97888211642994,
+      "val_loss": 25.127118743468667,
+      "minutes": 0.21927886009216307
+    }
+  ]
+}

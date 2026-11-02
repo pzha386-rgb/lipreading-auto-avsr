@@ -1,0 +1,80 @@
+nohup: ignoring input
+===== baseline T1 (no adaptation)   08:07
+skip eval T1 on tomscott_test (done)
+skip eval T1 on bbc (done)
+skip eval T1 on lrs3_300 (done)
+
+===== adapt 5 min   08:07
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+trainable params: 239.2 M   (frontend frozen)
+train: 68 clips, 4.9 min   val: 214 clips
+epoch 0  val loss 24.290  (before adaptation)
+epoch  1  train 56.250  val 23.677  * saved   (0.1 min)
+epoch  2  train 54.089  val 23.003  * saved   (0.2 min)
+epoch  3  train 47.817  val 22.341  * saved   (0.2 min)
+epoch  4  train 42.183  val 21.952  * saved   (0.3 min)
+epoch  5  train 38.185  val 21.712  * saved   (0.4 min)
+epoch  6  train 32.136  val 21.401  * saved   (0.5 min)
+epoch  7  train 30.946  val 20.937  * saved   (0.5 min)
+epoch  8  train 28.887  val 20.344  * saved   (0.6 min)
+epoch  9  train 26.665  val 20.189  * saved   (0.7 min)
+epoch 10  train 23.213  val 19.840  * saved   (0.8 min)
+epoch 11  train 24.032  val 19.543  * saved   (0.9 min)
+epoch 12  train 20.883  val 19.475  * saved   (0.9 min)
+epoch 13  train 19.782  val 19.434  * saved   (1.0 min)
+epoch 14  train 18.545  val 19.320  * saved   (1.1 min)
+epoch 15  train 17.675  val 19.265  * saved   (1.1 min)
+epoch 16  train 17.346  val 19.131  * saved   (1.2 min)
+epoch 17  train 16.279  val 19.129  * saved   (1.3 min)
+epoch 18  train 16.407  val 19.176   (1.3 min)
+epoch 19  train 15.631  val 19.205   (1.4 min)
+epoch 20  train 14.685  val 19.191   (1.4 min)
+epoch 21  train 14.436  val 19.192   (1.4 min)
+early stop
+
+DONE  best val loss 19.129 (start 24.290)  ->  /root/autodl-tmp/adapt/autoavsr_m5/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A5 --ckpt /root/autodl-tmp/adapt/autoavsr_m5/best.pth --dataset bbc
+>>> eval A5 on tomscott_test   08:08
+final WER 34.79%   total 408s
+saved /root/autodl-tmp/day1/conf/A5_tomscott_test_confA.csv
+>>> eval A5 on bbc   08:15
+final WER 27.44%   total 85s
+saved /root/autodl-tmp/day1/conf/A5_bbc_confA.csv
+>>> eval A5 on lrs3_300   08:17
+final WER 34.26%   total 176s
+saved /root/autodl-tmp/day1/conf/A5_lrs3_300_confA.csv
+
+===== adapt 15 min   08:20
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+trainable params: 239.2 M   (frontend frozen)
+train: 220 clips, 15.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before adaptation)
+epoch  1  train 53.768  val 23.996  * saved   (0.1 min)
+epoch  2  train 47.375  val 22.976  * saved   (0.2 min)
+epoch  3  train 40.882  val 20.834  * saved   (0.3 min)
+epoch  4  train 35.246  val 19.377  * saved   (0.4 min)
+epoch  5  train 30.661  val 18.317  * saved   (0.5 min)
+epoch  6  train 27.202  val 17.685  * saved   (0.6 min)
+epoch  7  train 23.839  val 17.169  * saved   (0.7 min)
+epoch  8  train 21.823  val 16.890  * saved   (0.8 min)
+epoch  9  train 19.308  val 16.804  * saved   (0.9 min)
+epoch 10  train 17.718  val 16.806   (1.0 min)
+epoch 11  train 16.288  val 16.782  * saved   (1.1 min)
+epoch 12  train 15.158  val 16.682  * saved   (1.2 min)
+epoch 13  train 13.900  val 16.730   (1.2 min)
+epoch 14  train 13.109  val 16.686   (1.3 min)
+epoch 15  train 12.564  val 16.713   (1.4 min)
+epoch 16  train 12.539  val 16.602  * saved   (1.5 min)
+epoch 17  train 11.570  val 16.664   (1.5 min)
+epoch 18  train 10.779  val 16.660   (1.6 min)
+epoch 19  train 10.971  val 16.678   (1.7 min)
+epoch 20  train 10.339  val 16.745   (1.7 min)
+early stop
+
+DONE  best val loss 16.602 (start 24.290)  ->  /root/autodl-tmp/adapt/autoavsr_m15/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A15 --ckpt /root/autodl-tmp/adapt/autoavsr_m15/best.pth --dataset bbc
+>>> eval A15 on tomscott_test   08:22

@@ -1,0 +1,26 @@
+{
+  "model_id": "B4",
+  "dataset": "bbc_low25",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth",
+  "lm": "",
+  "lm_weight": null,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 3002,
+  "total_seconds": 300.7,
+  "n_clips": 91,
+  "errors": 453,
+  "n_words": 1374,
+  "wer": 32.97,
+  "mean_seconds": 3.29,
+  "n_failed": 0
+}

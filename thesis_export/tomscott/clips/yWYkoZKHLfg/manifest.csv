@@ -1,0 +1,47 @@
+video_id,clip_id,path,start,end,dur,text
+yWYkoZKHLfg,clip_0000,yWYkoZKHLfg/clip_0000.mp4,1.719,7.220,5.501,To make it easy to sychronise the audio and video later.
+yWYkoZKHLfg,clip_0001,yWYkoZKHLfg/clip_0001.mp4,7.220,12.380,5.160,"Except... that's not really an answer to the question, is it? If the question was ""why do YouTubers clap at the start of their recordings"","
+yWYkoZKHLfg,clip_0002,yWYkoZKHLfg/clip_0002.mp4,12.380,17.930,5.550,"then yes, that's the answer, it's to help with synchronisation. A lot of the time, audio and video are being recorded separately."
+yWYkoZKHLfg,clip_0003,yWYkoZKHLfg/clip_0003.mp4,17.930,23.070,5.140,The microphone on my collar is sending its signal to a small and very beaten-up recorder that's clipped to my back pocket.
+yWYkoZKHLfg,clip_0004,yWYkoZKHLfg/clip_0004.mp4,23.070,27.539,4.469,"The camera is recording its own sound too, and saving that as part of the video file on its memory card,"
+yWYkoZKHLfg,clip_0005,yWYkoZKHLfg/clip_0005.mp4,27.539,31.089,3.550,but it sounds terrbile. So when I'm working on the edit
+yWYkoZKHLfg,clip_0006,yWYkoZKHLfg/clip_0006.mp4,31.089,35.270,4.181,"and putting the two files back together, it's really useful to have a short, loud, impulse sound"
+yWYkoZKHLfg,clip_0007,yWYkoZKHLfg/clip_0007.mp4,35.270,39.480,4.210,"at the start of both files, so I can synchronise them just by looking for the spike on the display."
+yWYkoZKHLfg,clip_0008,yWYkoZKHLfg/clip_0008.mp4,39.480,43.220,3.740,"There's a couple of extra complications there, though. First of all:"
+yWYkoZKHLfg,clip_0009,yWYkoZKHLfg/clip_0009.mp4,43.220,47.460,4.240,should that synchronisation be perfect? That camera is about two metres away from me.
+yWYkoZKHLfg,clip_0010,yWYkoZKHLfg/clip_0010.mp4,47.460,52.360,4.900,"The speed of sound changes a little with temperature, but roughly, that's about 6 or 7 milliseconds."
+yWYkoZKHLfg,clip_0011,yWYkoZKHLfg/clip_0011.mp4,52.360,57.230,4.870,"Not enough to care about here, but once you start putting the camera further away, ten or twenty metres for long shots..."
+yWYkoZKHLfg,clip_0012,yWYkoZKHLfg/clip_0012.mp4,57.230,61.970,4.740,that sound can take a couple of frames to reach the camera and the audience.
+yWYkoZKHLfg,clip_0013,yWYkoZKHLfg/clip_0013.mp4,61.970,66.740,4.770,"That would feel weird, so I'd have to slip the audio a little. That's why it's worth double-checking the synchronisation by looking"
+yWYkoZKHLfg,clip_0014,yWYkoZKHLfg/clip_0014.mp4,66.740,70.110,3.370,for the frame of video where the hands touch.
+yWYkoZKHLfg,clip_0015,yWYkoZKHLfg/clip_0015.mp4,70.110,74.970,4.860,"Plus, some cameras, particularly old GoPros, actually add some sound delay to the video file,"
+yWYkoZKHLfg,clip_0016,yWYkoZKHLfg/clip_0016.mp4,74.970,79.720,4.750,"their synchronisation is terrible. So if I've got three, or ten, or a hundred different cameras"
+yWYkoZKHLfg,clip_0017,yWYkoZKHLfg/clip_0017.mp4,79.720,83.260,3.540,"all looking at the same thing, I can use that clap to synchronise them all:"
+yWYkoZKHLfg,clip_0018,yWYkoZKHLfg/clip_0018.mp4,83.260,87.180,3.920,"get it close by looking for the spike, confirm it by looking at the hands."
+yWYkoZKHLfg,clip_0019,yWYkoZKHLfg/clip_0019.mp4,87.180,91.620,4.440,"Actually, worst case, the audio can actually be late by up to... maybe three frames or so?"
+yWYkoZKHLfg,clip_0020,yWYkoZKHLfg/clip_0020.mp4,91.620,97.110,5.490,"And the chances are no-one will mind or even notice. Actually, the sound on this video has been three frames late"
+yWYkoZKHLfg,clip_0021,yWYkoZKHLfg/clip_0021.mp4,97.110,101.479,4.369,"ever since I cut back to this shot of me? If you did actually notice, well done, I'll put it back to normal now."
+yWYkoZKHLfg,clip_0022,yWYkoZKHLfg/clip_0022.mp4,101.479,107.420,5.941,"I suspect that works because brains are used to correcting for small speed-of-sound lags for people shouting from a distance,"
+yWYkoZKHLfg,clip_0023,yWYkoZKHLfg/clip_0023.mp4,107.420,112.080,4.660,"but that's just speculation, I can't find research to back that up. And because the viewer might have things"
+yWYkoZKHLfg,clip_0024,yWYkoZKHLfg/clip_0024.mp4,112.080,115.690,3.610,"like a cheap external soundbar on a television that adds more lag,"
+yWYkoZKHLfg,clip_0025,yWYkoZKHLfg/clip_0025.mp4,115.690,120.780,5.090,"it's best to synchronise as close as you can. If the production's got a high budget, they might use a clapperboard instead."
+yWYkoZKHLfg,clip_0026,yWYkoZKHLfg/clip_0026.mp4,120.780,125.020,4.240,"That means the editor has a record of which file is which take of which scene, at the start,"
+yWYkoZKHLfg,clip_0027,yWYkoZKHLfg/clip_0027.mp4,125.020,129.860,4.840,and they can sync up the audio at the same time. But all that is still not an answer to the question.
+yWYkoZKHLfg,clip_0028,yWYkoZKHLfg/clip_0028.mp4,129.860,133.590,3.730,"It's the answer everyone gives, but it's not what the title of this video is actually asking."
+yWYkoZKHLfg,clip_0029,yWYkoZKHLfg/clip_0029.mp4,133.590,139.560,5.970,"This isn't ""why do YouTubers clap at the start of recordings"", it's ""why do YouTubers clap at the start of videos""."
+yWYkoZKHLfg,clip_0030,yWYkoZKHLfg/clip_0030.mp4,139.560,144.260,4.700,I've done that plenty of times before. I did it in this video. Why do we leave a bit of technical junk in the video?
+yWYkoZKHLfg,clip_0031,yWYkoZKHLfg/clip_0031.mp4,144.260,149.090,4.830,"Why do I set up a really nice shot and then ruin it by showing the setup part, letting my camera fuzz about with autofocus,"
+yWYkoZKHLfg,clip_0032,yWYkoZKHLfg/clip_0032.mp4,149.090,154.540,5.450,"and make the whole video... worse? Well, I can't speak for everyone, but my reason is:"
+yWYkoZKHLfg,clip_0033,yWYkoZKHLfg/clip_0033.mp4,154.540,157.980,3.440,"it sets the audience's expectations, and it makes it feel more authentic."
+yWYkoZKHLfg,clip_0034,yWYkoZKHLfg/clip_0034.mp4,157.980,162.950,4.970,"When I'm filming on my own with a static camera, it can sometimes look like I'm just stood against a green-screen."
+yWYkoZKHLfg,clip_0035,yWYkoZKHLfg/clip_0035.mp4,162.950,167.650,4.700,"But clapping, walking into frame, letting the focus settle, showing that behind-the-scenes moment..."
+yWYkoZKHLfg,clip_0036,yWYkoZKHLfg/clip_0036.mp4,167.650,173.319,5.669,"it proves I'm here, it makes me seem more trustworthy. For someone vlogging from their bedroom, keeping those claps and the preparation in,"
+yWYkoZKHLfg,clip_0037,yWYkoZKHLfg/clip_0037.mp4,173.319,176.760,3.441,letting the audience see a little bit of the slip-ups and how it's made...
+yWYkoZKHLfg,clip_0038,yWYkoZKHLfg/clip_0038.mp4,176.760,180.910,4.150,"it helps make a connection, helps make them relatable."
+yWYkoZKHLfg,clip_0039,yWYkoZKHLfg/clip_0039.mp4,180.910,184.569,3.659,I don't need to be relatable. I don't really want to be relatable? But trustworthy.
+yWYkoZKHLfg,clip_0040,yWYkoZKHLfg/clip_0040.mp4,184.569,189.550,4.981,"Trustworthy is good, and leaving the clap and walk in the video establishes that I'm one person with one camera,"
+yWYkoZKHLfg,clip_0041,yWYkoZKHLfg/clip_0041.mp4,189.550,194.980,5.430,"that I don't have a crew on this shoot, and that I am actually here, wherever here is."
+yWYkoZKHLfg,clip_0042,yWYkoZKHLfg/clip_0042.mp4,194.980,199.070,4.090,Sometimes I'll leave that in when I actually do have a crew.
+yWYkoZKHLfg,clip_0043,yWYkoZKHLfg/clip_0043.mp4,199.070,202.620,3.550,"It's all about the aesthetics. Showing that setup, leaving that synchronisation clap in,"
+yWYkoZKHLfg,clip_0044,yWYkoZKHLfg/clip_0044.mp4,202.620,207.610,4.990,"it's all about fitting the message to the medium, planning not just what you want to say, but the subtext of how you say it,"
+yWYkoZKHLfg,clip_0045,yWYkoZKHLfg/clip_0045.mp4,207.610,213.400,5.790,"and handling all the subtle cues that connect performer to audience and say, it's okay. You can trust me."

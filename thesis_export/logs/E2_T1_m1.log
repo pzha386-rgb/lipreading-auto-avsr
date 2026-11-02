@@ -1,0 +1,12 @@
+权重直接加载成功
+trainable params: 239.2 M   (frontend frozen)
+train: 15 clips, 1.0 min   val: 1470 clips
+epoch 0  val loss 70.059  (before adaptation)
+epoch  1  train 82.899  val 70.095  * saved   (0.3 min)
+epoch  2  train 80.654  val 70.128   (0.4 min)
+epoch  3  train 76.717  val 70.164   (0.5 min)
+epoch  4  train 77.150  val 70.191   (0.6 min)
+early stop
+
+DONE  best val loss 70.095 (start 70.059)  ->  /root/autodl-tmp/adapt/autoavsr_m1/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A1 --ckpt /root/autodl-tmp/adapt/autoavsr_m1/best.pth --dataset bbc

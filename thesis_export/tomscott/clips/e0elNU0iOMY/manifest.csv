@@ -1,0 +1,74 @@
+video_id,clip_id,path,start,end,dur,text
+e0elNU0iOMY,clip_0000,e0elNU0iOMY/clip_0000.mp4,0.040,4.240,4.200,The alternating current running through these power lines changes direction constantly.
+e0elNU0iOMY,clip_0001,e0elNU0iOMY/clip_0001.mp4,4.240,7.080,2.840,"A full cycle back and forth, 50 times a second."
+e0elNU0iOMY,clip_0002,e0elNU0iOMY/clip_0002.mp4,7.080,10.400,3.320,"60 in some of the parts of the world, but here in Europe, 50 times a second."
+e0elNU0iOMY,clip_0003,e0elNU0iOMY/clip_0003.mp4,10.400,14.680,4.280,But that transmission isn't perfectly efficient. There are imperfections and stray electromagnetic fields.
+e0elNU0iOMY,clip_0004,e0elNU0iOMY/clip_0004.mp4,14.680,19.880,5.200,"And a little bit of that power becomes vibration, which makes sound at that frequency of 50 hertz."
+e0elNU0iOMY,clip_0005,e0elNU0iOMY/clip_0005.mp4,19.880,25.200,5.320,"Or 100, or other multiples of 50. That's the ""mains hum"" you can sometimes hear coming"
+e0elNU0iOMY,clip_0006,e0elNU0iOMY/clip_0006.mp4,25.200,29.000,3.800,"from power lines, or maybe from speakers that aren't quite plugged in properly."
+e0elNU0iOMY,clip_0007,e0elNU0iOMY/clip_0007.mp4,29.000,32.520,3.520,"Also, that hum isn't exactly 50 cycles a second."
+e0elNU0iOMY,clip_0008,e0elNU0iOMY/clip_0008.mp4,32.520,35.520,3.000,The grid frequency shifts slightly and constantly over time
+e0elNU0iOMY,clip_0009,e0elNU0iOMY/clip_0009.mp4,35.520,40.120,4.600,"as the engineers in charge balance supply and demand. It's only a tiny fraction of a shift, but it's there."
+e0elNU0iOMY,clip_0010,e0elNU0iOMY/clip_0010.mp4,40.120,44.520,4.400,"The whole grid runs at the same, slightly wobbling, almost-50 hertz,"
+e0elNU0iOMY,clip_0011,e0elNU0iOMY/clip_0011.mp4,44.520,49.520,5.000,no matter where you are. That mains hum can be really annoying for people recording audio.
+e0elNU0iOMY,clip_0012,e0elNU0iOMY/clip_0012.mp4,49.520,54.560,5.040,You can hear it in the background sometimes. But if you were to log what that wobbling grid
+e0elNU0iOMY,clip_0013,e0elNU0iOMY/clip_0013.mp4,54.560,58.320,3.760,"frequency was, every second of every day, keep all that in a database,"
+e0elNU0iOMY,clip_0014,e0elNU0iOMY/clip_0014.mp4,58.320,61.880,3.560,"and then compare it to recordings with mains hum on them,"
+e0elNU0iOMY,clip_0015,e0elNU0iOMY/clip_0015.mp4,61.880,66.880,5.000,"then in theory, you'd have a perfect watermark to prove the time when anything was recorded."
+e0elNU0iOMY,clip_0016,e0elNU0iOMY/clip_0016.mp4,66.880,71.760,4.880,"I talked to one of the forensic experts who works with it, and also set them a challenge."
+e0elNU0iOMY,clip_0017,e0elNU0iOMY/clip_0017.mp4,71.760,76.200,4.440,"Historically, what's had to happen is: we've had to record the grid frequency data"
+e0elNU0iOMY,clip_0018,e0elNU0iOMY/clip_0018.mp4,76.200,80.040,3.840,ourselves by literally plugging a recording device into the mains.
+e0elNU0iOMY,clip_0019,e0elNU0iOMY/clip_0019.mp4,80.040,84.600,4.560,"The National Grid have recently released their data, seven years recorded right at the source."
+e0elNU0iOMY,clip_0020,e0elNU0iOMY/clip_0020.mp4,84.600,87.000,2.400,"It's fairly simple, actually, signal processing."
+e0elNU0iOMY,clip_0021,e0elNU0iOMY/clip_0021.mp4,87.000,91.560,4.560,You're looking to see if there is a component around 50 hertz or one of the harmonics.
+e0elNU0iOMY,clip_0022,e0elNU0iOMY/clip_0022.mp4,91.560,96.520,4.960,"I would hesitate against advising anyone to present themselves to court as a forensic expert,"
+e0elNU0iOMY,clip_0023,e0elNU0iOMY/clip_0023.mp4,96.520,101.280,4.760,"but this type of evidence has been used in court to date recordings. The longer recording you have, the better."
+e0elNU0iOMY,clip_0024,e0elNU0iOMY/clip_0024.mp4,101.280,107.000,5.720,"As an absolute minimum, I think about a minute. If it's a noisy recording, or if the ENF isn't particularly clear,"
+e0elNU0iOMY,clip_0025,e0elNU0iOMY/clip_0025.mp4,107.000,112.920,5.920,"then the longer recording you have, the better. So: find the mains hum frequency in the footage and then write code to match"
+e0elNU0iOMY,clip_0026,e0elNU0iOMY/clip_0026.mp4,112.920,117.400,4.480,against the millions of possibilities in the National Grid logs. Does it work?
+e0elNU0iOMY,clip_0027,e0elNU0iOMY/clip_0027.mp4,117.400,121.480,4.080,"Well to find out, I asked some friends of mine who make videos to send me over some of their raw footage."
+e0elNU0iOMY,clip_0028,e0elNU0iOMY/clip_0028.mp4,121.480,127.280,5.800,"Straight out of a camera, unprocessed, unfiltered. And I asked the forensic team: can you timestamp it?"
+e0elNU0iOMY,clip_0029,e0elNU0iOMY/clip_0029.mp4,127.280,132.440,5.160,"First up, footage from Taha, one of the team behind educational channel Answer in Progress."
+e0elNU0iOMY,clip_0030,e0elNU0iOMY/clip_0030.mp4,132.440,135.960,3.520,"There's a quite strong component here, and you can see it's got a bit of a wobble."
+e0elNU0iOMY,clip_0031,e0elNU0iOMY/clip_0031.mp4,135.960,138.760,2.800,"We use a signal processing algorithm to extract the peak,"
+e0elNU0iOMY,clip_0032,e0elNU0iOMY/clip_0032.mp4,138.760,144.240,5.480,and we constrain the algorithm so that it can't suddenly jump up here.
+e0elNU0iOMY,clip_0033,e0elNU0iOMY/clip_0033.mp4,144.240,148.000,3.760,"So even if there is a higher amplitude, something up here, it will"
+e0elNU0iOMY,clip_0034,e0elNU0iOMY/clip_0034.mp4,148.000,151.520,3.520,stick to this curve. Then compare. If we know that
+e0elNU0iOMY,clip_0035,e0elNU0iOMY/clip_0035.mp4,151.520,154.640,3.120,"a recording was taken on a certain day, then we just need to give it"
+e0elNU0iOMY,clip_0036,e0elNU0iOMY/clip_0036.mp4,154.640,160.000,5.360,"a day's worth of National Grid data. If we're not sure when it was taken, we'll throw everything at it,"
+e0elNU0iOMY,clip_0037,e0elNU0iOMY/clip_0037.mp4,160.000,164.800,4.800,"and it will take a bit longer to process, but it's not prohibitive. Spot on. Got it to the second."
+e0elNU0iOMY,clip_0038,e0elNU0iOMY/clip_0038.mp4,164.800,168.000,3.200,Although it's important to say that the team never said they were certain
+e0elNU0iOMY,clip_0039,e0elNU0iOMY/clip_0039.mp4,168.000,172.680,4.680,"about the timing, only that they had a very high chance of being correct. And yes, they were."
+e0elNU0iOMY,clip_0040,e0elNU0iOMY/clip_0040.mp4,172.680,176.200,3.520,"Next up, footage from Hannah Witton, sex and relationships educator."
+e0elNU0iOMY,clip_0041,e0elNU0iOMY/clip_0041.mp4,176.200,180.960,4.760,There wasn't a component at around 50 hertz.
+e0elNU0iOMY,clip_0042,e0elNU0iOMY/clip_0042.mp4,180.960,187.160,6.200,"So here we have the axis, 49 hertz to 50 hertz, and we can see no apparent ENF trace."
+e0elNU0iOMY,clip_0043,e0elNU0iOMY/clip_0043.mp4,187.160,192.720,5.560,So I'm going to change the axes up to around 100. And then we'll be able to see the harmonic component around 100 hertz.
+e0elNU0iOMY,clip_0044,e0elNU0iOMY/clip_0044.mp4,192.720,197.640,4.920,Because it's quite strong and seems to be behaving in a way that we'd expect ENF
+e0elNU0iOMY,clip_0045,e0elNU0iOMY/clip_0045.mp4,197.640,201.720,4.080,"to behave, we can be fairly confident that this is an ENF harmonic."
+e0elNU0iOMY,clip_0046,e0elNU0iOMY/clip_0046.mp4,201.720,206.840,5.120,What's interesting about this one is: it sort of appears halfway through the recording.
+e0elNU0iOMY,clip_0047,e0elNU0iOMY/clip_0047.mp4,206.840,212.800,5.960,"Maybe there's a little bit of something earlier on, but... So there's a possibility that maybe Hannah was moving around when she made this recording,"
+e0elNU0iOMY,clip_0048,e0elNU0iOMY/clip_0048.mp4,212.800,219.000,6.200,getting closer or further away from mains powered equipment.
+e0elNU0iOMY,clip_0049,e0elNU0iOMY/clip_0049.mp4,219.000,222.160,3.160,Maybe the mains hum was coming from something on a timer or a thermostat
+e0elNU0iOMY,clip_0050,e0elNU0iOMY/clip_0050.mp4,222.160,225.520,3.360,"in the background that just switched, but the timestamp was accurate."
+e0elNU0iOMY,clip_0051,e0elNU0iOMY/clip_0051.mp4,225.520,228.160,2.640,So the next test was Steve Mold from his science channel.
+e0elNU0iOMY,clip_0052,e0elNU0iOMY/clip_0052.mp4,228.160,232.600,4.440,And I thought that this one would be easy because he sent B-roll.
+e0elNU0iOMY,clip_0053,e0elNU0iOMY/clip_0053.mp4,232.600,234.960,2.360,"He's not talking, it's just ambient noise."
+e0elNU0iOMY,clip_0054,e0elNU0iOMY/clip_0054.mp4,234.960,238.800,3.840,And also: he's holding a fan that's plugged into the mains!
+e0elNU0iOMY,clip_0055,e0elNU0iOMY/clip_0055.mp4,238.800,241.880,3.080,There's no strong component at all for ENF.
+e0elNU0iOMY,clip_0056,e0elNU0iOMY/clip_0056.mp4,241.880,244.560,2.680,So the next step would be to look at the
+e0elNU0iOMY,clip_0057,e0elNU0iOMY/clip_0057.mp4,244.560,248.120,3.560,other frequency regions to see if we can identify any harmonics.
+e0elNU0iOMY,clip_0058,e0elNU0iOMY/clip_0058.mp4,248.120,250.720,2.600,How loud the person is often doesn't have much of an effect.
+e0elNU0iOMY,clip_0059,e0elNU0iOMY/clip_0059.mp4,250.720,254.800,4.080,"It's often environmental noise, that would be lower to mask ENF."
+e0elNU0iOMY,clip_0060,e0elNU0iOMY/clip_0060.mp4,254.800,259.240,4.440,"There is possibly something here, but because we haven't got"
+e0elNU0iOMY,clip_0061,e0elNU0iOMY/clip_0061.mp4,259.240,264.360,5.120,"a strong trace, it's sort-of fading in and out, we wouldn't be confident to use this for ENF analysis."
+e0elNU0iOMY,clip_0062,e0elNU0iOMY/clip_0062.mp4,264.360,269.160,4.800,"Sometimes it just doesn't work. As a last test, I sent over some of my old footage from when I was filming"
+e0elNU0iOMY,clip_0063,e0elNU0iOMY/clip_0063.mp4,269.160,273.880,4.720,"against green screen in my tiny flat last year. I was sneaky, though, and it hid an edit in there."
+e0elNU0iOMY,clip_0064,e0elNU0iOMY/clip_0064.mp4,273.880,277.760,3.880,What could happen with an edit is: you have a sudden jump in ENF frequency.
+e0elNU0iOMY,clip_0065,e0elNU0iOMY/clip_0065.mp4,277.760,282.480,4.720,"In that case, it's quite likely to be an edit. It's possible that the ENF trace would just sort of stop."
+e0elNU0iOMY,clip_0066,e0elNU0iOMY/clip_0066.mp4,282.480,287.520,5.040,"The reason for that could be because it's got an edit in, which in this case we believe it has,"
+e0elNU0iOMY,clip_0067,e0elNU0iOMY/clip_0067.mp4,287.520,291.480,3.960,but could also be because you walked away from the source of the ENF energy.
+e0elNU0iOMY,clip_0068,e0elNU0iOMY/clip_0068.mp4,291.480,295.360,3.880,"Like any forensic analysis, this isn't some magic tool that always works."
+e0elNU0iOMY,clip_0069,e0elNU0iOMY/clip_0069.mp4,295.360,300.040,4.680,Compression can stop it working. You need minutes of uninterrupted audio to have enough confidence in the result.
+e0elNU0iOMY,clip_0070,e0elNU0iOMY/clip_0070.mp4,300.040,303.920,3.880,And sometimes there might be no background mains hum at all.
+e0elNU0iOMY,clip_0071,e0elNU0iOMY/clip_0071.mp4,303.920,307.120,3.200,But I love this because it's an accident of technology
+e0elNU0iOMY,clip_0072,e0elNU0iOMY/clip_0072.mp4,307.120,311.160,4.040,that's created a tool that would sound like science fiction 20 years ago.

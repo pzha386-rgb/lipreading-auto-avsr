@@ -1,0 +1,12 @@
+speaker,clips,words,wer_pct
+dave2d,383,8669,66.27
+fireship,51,1105,98.10
+jack_edwards,557,12548,61.32
+mike_boyd,190,3606,87.44
+mrwhosetheboss,391,8537,76.46
+nathaniel_drew,270,4975,69.85
+peter_mckinnon,108,2026,81.05
+rachel_aust,503,12507,66.00
+OVERALL_micro,2453,53973,69.62
+MACRO_mean,,,75.81
+MACRO_std,,,12.49

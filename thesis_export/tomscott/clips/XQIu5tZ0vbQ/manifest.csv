@@ -1,0 +1,67 @@
+video_id,clip_id,path,start,end,dur,text
+XQIu5tZ0vbQ,clip_0000,XQIu5tZ0vbQ/clip_0000.mp4,0.120,3.390,3.270,0-100 km/h is the standard test
+XQIu5tZ0vbQ,clip_0001,XQIu5tZ0vbQ/clip_0001.mp4,3.390,7.560,4.170,"for how fast a car accelerates. The Brits call it ""nought to sixty"" mph."
+XQIu5tZ0vbQ,clip_0002,XQIu5tZ0vbQ/clip_0002.mp4,7.560,11.850,4.290,An everyday road car with a bit of power can do that in six or seven seconds.
+XQIu5tZ0vbQ,clip_0003,XQIu5tZ0vbQ/clip_0003.mp4,11.850,14.430,2.580,"A Formula One car, about two seconds."
+XQIu5tZ0vbQ,clip_0004,XQIu5tZ0vbQ/clip_0004.mp4,14.430,18.262,3.832,"As I record this, the fastest-accelerating road-legal car in the world"
+XQIu5tZ0vbQ,clip_0005,XQIu5tZ0vbQ/clip_0005.mp4,18.262,20.460,2.198,"is the Rimac Nevera, which can go"
+XQIu5tZ0vbQ,clip_0006,XQIu5tZ0vbQ/clip_0006.mp4,20.460,25.460,5.000,from 0 to 100km/h in 1.85 seconds.
+XQIu5tZ0vbQ,clip_0007,XQIu5tZ0vbQ/clip_0007.mp4,25.470,29.460,3.990,"This is ""mythen"", built by a team from ETH Zurich, a Swiss university,"
+XQIu5tZ0vbQ,clip_0008,XQIu5tZ0vbQ/clip_0008.mp4,29.460,33.810,4.350,and it hits 100km/h in under a second.
+XQIu5tZ0vbQ,clip_0009,XQIu5tZ0vbQ/clip_0009.mp4,33.810,37.950,4.140,This car is the current holder of the world record in acceleration
+XQIu5tZ0vbQ,clip_0010,XQIu5tZ0vbQ/clip_0010.mp4,37.950,41.520,3.570,from 0-100km/h for electric vehicles.
+XQIu5tZ0vbQ,clip_0011,XQIu5tZ0vbQ/clip_0011.mp4,41.520,44.760,3.240,"For the world record project, we brought together a team"
+XQIu5tZ0vbQ,clip_0012,XQIu5tZ0vbQ/clip_0012.mp4,44.760,48.930,4.170,"of alumni and current team members, some are students, some are recent graduates."
+XQIu5tZ0vbQ,clip_0013,XQIu5tZ0vbQ/clip_0013.mp4,48.930,52.680,3.750,"We took a car that was fully designed by students, we modified it."
+XQIu5tZ0vbQ,clip_0014,XQIu5tZ0vbQ/clip_0014.mp4,52.680,55.800,3.120,That also allowed some of the members that are still students
+XQIu5tZ0vbQ,clip_0015,XQIu5tZ0vbQ/clip_0015.mp4,55.800,59.228,3.428,to do research and make a master thesis.
+XQIu5tZ0vbQ,clip_0016,XQIu5tZ0vbQ/clip_0016.mp4,68.070,70.863,2.793,And I'm about to get in it and do that.
+XQIu5tZ0vbQ,clip_0017,XQIu5tZ0vbQ/clip_0017.mp4,71.730,76.342,4.612,But there is quite a history of floppy-haired British presenters
+XQIu5tZ0vbQ,clip_0018,XQIu5tZ0vbQ/clip_0018.mp4,76.342,79.020,2.678,"getting into high-speed vehicles and ending up in hospital,"
+XQIu5tZ0vbQ,clip_0019,XQIu5tZ0vbQ/clip_0019.mp4,79.020,82.500,3.480,so I've got a lot of safety briefing to do first.
+XQIu5tZ0vbQ,clip_0020,XQIu5tZ0vbQ/clip_0020.mp4,82.500,86.490,3.990,"To build a car that can go this fast, you really need to go down to the first principles of physics."
+XQIu5tZ0vbQ,clip_0021,XQIu5tZ0vbQ/clip_0021.mp4,86.490,90.840,4.350,You need to be able to put enough force into the ground in a very short amount of time.
+XQIu5tZ0vbQ,clip_0022,XQIu5tZ0vbQ/clip_0022.mp4,90.840,95.190,4.350,"Just pure grip reaches its limits at around 1½ seconds, approximately."
+XQIu5tZ0vbQ,clip_0023,XQIu5tZ0vbQ/clip_0023.mp4,95.190,99.480,4.290,"To get more force into the ground, we use a self-developed system, which we call ""power ground effect""."
+XQIu5tZ0vbQ,clip_0024,XQIu5tZ0vbQ/clip_0024.mp4,99.480,104.220,4.740,"We suck the air out underneath the car from a big plate, and this pulls the car to the ground"
+XQIu5tZ0vbQ,clip_0025,XQIu5tZ0vbQ/clip_0025.mp4,104.220,109.470,5.250,to make the car accelerate faster. We use two fans that power up shortly before launch
+XQIu5tZ0vbQ,clip_0026,XQIu5tZ0vbQ/clip_0026.mp4,109.470,114.540,5.070,"to pull the car down, to be able to create that under-pressure. However, for the back wheels, we need more torque."
+XQIu5tZ0vbQ,clip_0027,XQIu5tZ0vbQ/clip_0027.mp4,114.540,120.540,6.000,"So for this, we developed a new generation of motors that has approximately twice the amount of torque."
+XQIu5tZ0vbQ,clip_0028,XQIu5tZ0vbQ/clip_0028.mp4,120.540,123.900,3.360,Each of the motors has approximately the same power
+XQIu5tZ0vbQ,clip_0029,XQIu5tZ0vbQ/clip_0029.mp4,123.900,129.480,5.580,"as a small hatchback. Everything is custom, self-designed, so it's quite expensive."
+XQIu5tZ0vbQ,clip_0030,XQIu5tZ0vbQ/clip_0030.mp4,129.480,133.320,3.840,The main source of parts is from our sponsors from the industry.
+XQIu5tZ0vbQ,clip_0031,XQIu5tZ0vbQ/clip_0031.mp4,133.320,136.500,3.180,We also get a lot of support from the university.
+XQIu5tZ0vbQ,clip_0032,XQIu5tZ0vbQ/clip_0032.mp4,136.500,140.520,4.020,"Our mission is not to build race cars, it is to build up engineers."
+XQIu5tZ0vbQ,clip_0033,XQIu5tZ0vbQ/clip_0033.mp4,140.520,146.100,5.580,"At world record pace, a lightweight driver in here pulls 3.8 Gs peak acceleration."
+XQIu5tZ0vbQ,clip_0034,XQIu5tZ0vbQ/clip_0034.mp4,146.100,151.020,4.920,"I'm going to add about 30 more kilos of weight, so I'm not going to quite hit that pace, but it's going to be close."
+XQIu5tZ0vbQ,clip_0035,XQIu5tZ0vbQ/clip_0035.mp4,151.020,155.370,4.350,It's almost as fast as the catapult that launches fighter jets from aircraft carriers.
+XQIu5tZ0vbQ,clip_0036,XQIu5tZ0vbQ/clip_0036.mp4,155.370,160.440,5.070,It's faster than any rollercoaster launch apart from one in Japan that's currently closed
+XQIu5tZ0vbQ,clip_0037,XQIu5tZ0vbQ/clip_0037.mp4,160.440,166.410,5.970,"because it kept shattering people's bones. There are cars which take off faster than ""mythen"" here,"
+XQIu5tZ0vbQ,clip_0038,XQIu5tZ0vbQ/clip_0038.mp4,166.410,171.090,4.680,"but they're top fuel dragsters running on nitromethane, loud enough to cause hearing damage,"
+XQIu5tZ0vbQ,clip_0039,XQIu5tZ0vbQ/clip_0039.mp4,171.090,175.380,4.290,and not suitable for anything other than going in a straight line for a few seconds.
+XQIu5tZ0vbQ,clip_0040,XQIu5tZ0vbQ/clip_0040.mp4,175.380,178.770,3.390,"And yes, I will just be going in a straight line for a few seconds"
+XQIu5tZ0vbQ,clip_0041,XQIu5tZ0vbQ/clip_0041.mp4,178.770,182.280,3.510,"but in theory, I could go round an actual racetrack."
+XQIu5tZ0vbQ,clip_0042,XQIu5tZ0vbQ/clip_0042.mp4,182.280,185.310,3.030,"Electrically, the main danger is high voltage."
+XQIu5tZ0vbQ,clip_0043,XQIu5tZ0vbQ/clip_0043.mp4,185.310,189.450,4.140,There are emergency buttons. Push that button to turn off the car.
+XQIu5tZ0vbQ,clip_0044,XQIu5tZ0vbQ/clip_0044.mp4,189.450,192.780,3.330,"If there is, for example, a fire in the car,"
+XQIu5tZ0vbQ,clip_0045,XQIu5tZ0vbQ/clip_0045.mp4,192.780,195.750,2.970,the driver has to be able to get out quickly.
+XQIu5tZ0vbQ,clip_0046,XQIu5tZ0vbQ/clip_0046.mp4,195.750,199.561,3.811,It's something we have to train just to be quick enough.
+XQIu5tZ0vbQ,clip_0047,XQIu5tZ0vbQ/clip_0047.mp4,199.561,205.260,5.699,That was 6.6. - You have to be able to exit the car within five seconds.
+XQIu5tZ0vbQ,clip_0048,XQIu5tZ0vbQ/clip_0048.mp4,205.260,208.453,3.193,Go.
+XQIu5tZ0vbQ,clip_0049,XQIu5tZ0vbQ/clip_0049.mp4,209.700,212.316,2.616,Clear! 4.6. That'll do.
+XQIu5tZ0vbQ,clip_0050,XQIu5tZ0vbQ/clip_0050.mp4,213.540,216.990,3.450,It's absolutely difficult to describe because it's only a second.
+XQIu5tZ0vbQ,clip_0051,XQIu5tZ0vbQ/clip_0051.mp4,216.990,222.450,5.460,It's a really surreal experience because you don't really believe it just happened.
+XQIu5tZ0vbQ,clip_0052,XQIu5tZ0vbQ/clip_0052.mp4,222.450,227.430,4.980,"You go into acceleration mode, roll to the start, initiate power ground effect,"
+XQIu5tZ0vbQ,clip_0053,XQIu5tZ0vbQ/clip_0053.mp4,227.430,229.840,2.410,"which will suck you to the floor. PG, active."
+XQIu5tZ0vbQ,clip_0054,XQIu5tZ0vbQ/clip_0054.mp4,231.513,236.341,4.828,Both fans active. Yeah. Oh boy. Okay.
+XQIu5tZ0vbQ,clip_0055,XQIu5tZ0vbQ/clip_0055.mp4,238.820,243.840,5.020,You will have to pull on the buttons behind the steering wheel and then push throttle.
+XQIu5tZ0vbQ,clip_0056,XQIu5tZ0vbQ/clip_0056.mp4,243.840,247.050,3.210,And then when you release there is a split second where nothing happens
+XQIu5tZ0vbQ,clip_0057,XQIu5tZ0vbQ/clip_0057.mp4,247.050,250.433,3.383,but then you will get launched. Flaps. Throttle.
+XQIu5tZ0vbQ,clip_0058,XQIu5tZ0vbQ/clip_0058.mp4,252.000,256.828,4.828,Holy...!
+XQIu5tZ0vbQ,clip_0059,XQIu5tZ0vbQ/clip_0059.mp4,263.222,267.870,4.648,"What! After you have reached a hundred kmh, the car will shut down."
+XQIu5tZ0vbQ,clip_0060,XQIu5tZ0vbQ/clip_0060.mp4,267.870,270.878,3.008,What? And then you can slowly go on the brakes.
+XQIu5tZ0vbQ,clip_0061,XQIu5tZ0vbQ/clip_0061.mp4,271.692,273.277,1.585,What?
+XQIu5tZ0vbQ,clip_0062,XQIu5tZ0vbQ/clip_0062.mp4,288.540,293.370,4.830,That was the longest second of my life. I...
+XQIu5tZ0vbQ,clip_0063,XQIu5tZ0vbQ/clip_0063.mp4,293.370,297.720,4.350,Was that really only like one and a bit seconds? That felt like five. That was faster.
+XQIu5tZ0vbQ,clip_0064,XQIu5tZ0vbQ/clip_0064.mp4,297.720,301.410,3.690,That felt like five seconds. Pretty much dead on 1.4 seconds.
+XQIu5tZ0vbQ,clip_0065,XQIu5tZ0vbQ/clip_0065.mp4,301.410,306.553,5.143,"1.4? I mean, it's your round of applause folks. Congratulations. That's a heck of a thing."

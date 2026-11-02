@@ -1,0 +1,28 @@
+===== B2 on bbc =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+RAVEn 仓库脚本里的 lm_weight: ['0.0', '0.2', '0.3']
+使用语言模型，lm_weight = 0.1
+Load pretrained model weights
+Load pretrained language model weights
+参数量: 493.7 M
+[1/5] WER so far 5.26%  (31.8s)
+   REF: when you put english text into a computer it is saving every individual character as eight bits of data
+   HYP: when you put english text into a computer it is saving every individual character s eight bits of data
+[2/5] WER so far 28.12%  (13.8s)
+   REF: eight ones and zeros i mean they re not actually ones and zeros
+   HYP: want zeros i mean they don t actually want zero
+[3/5] WER so far 24.49%  (27.4s)
+   REF: they re particular positions of atoms on a disk or a few electrons going over a wire
+   HYP: are particular positions of atoms on a desk or a few electrons going over a wire
+[4/5] WER so far 20.90%  (23.6s)
+   REF: but as far as we re concerned in the computer science world they are ones and zeros bits
+   HYP: as far as we re concerned in the computer science world they are ones and zeros beats
+[5/5] WER so far 22.22%  (18.7s)
+   REF: and yes a modern phone or computer might store a few quadrillion of them
+   HYP: and yes modern phone your computer might store a few quod trillion of them
+==================================================
+B2  bbc
+clips: 5   failed: 0   WER: 22.22%
+mean seconds/clip: 23.076
+saved: /root/autodl-tmp/results_v2/B2_bbc_limit5.csv
+==================================================

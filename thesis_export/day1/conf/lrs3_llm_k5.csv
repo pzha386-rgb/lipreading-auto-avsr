@@ -1,0 +1,301 @@
+id,tier,ref,hyp,llm,err_before,err_after,n_words,fallback,llm_sec
+lrs3_0000,medium,the first lesson is about humility,the first lesson is about humility,the first lesson is about humility,0,0,6,False,0.497
+lrs3_0005,low,that was a huge problem at the haiti earthquake,that was a huge problem i think along the way,that was a huge problem i think along the way,5,5,9,False,0.141
+lrs3_0010,high,we change the economics for the bad guys,which changed the economics for the bad guys,we changed the economics for the bad guys,2,1,8,False,0.116
+lrs3_0018,high,well that s what i thought,well that s what i thought,that s what i thought,0,1,6,False,0.08
+lrs3_0023,low,you might get impeached for that,nobody can pinch that,nobody can beat you that,5,5,6,False,0.091
+lrs3_0028,high,i think i m a normal person,i think i m a normal person,i think i m a normal person,0,0,7,False,0.102
+lrs3_0031,low,they just do it,they judge you twice,they judge you twice,3,3,4,False,0.068
+lrs3_0041,low,a digital world farm,did you confirm,did you confirm,4,4,4,False,0.055
+lrs3_0047,medium,but i grew up in canada far from my arab roots,but i grew up in canada far from my arab roots,but i grew up in canada far from my arab roots,0,0,11,False,0.149
+lrs3_0050,high,we re looking for something more,we re looking for something more,we are looking for something more,0,1,6,False,0.091
+lrs3_0051,high,but in the process they also train our brains to tune out when somebody else s issue,but in the process they also train our brain to tune out with somebody else s issue,but in the process they also train our brains to tune out when somebody else s issue,2,0,17,False,0.224
+lrs3_0052,high,a couple of years ago a group of us in canada decided that we were hitting the limits of what we could accomplish,a couple of years ago a group of us in canada decided that we were hitting the limits of what we had accomplished,a couple of years ago a group of us in canada decided that we were hitting the limits of what we could accomplish,2,0,23,False,0.293
+lrs3_0055,high,progressive movements are growing and resisting with tremendous courage,progressive movements are growing and resisting with tremendous courage,progressive movements are growing and resisting with tremendous courage,0,0,9,False,0.139
+lrs3_0067,high,i actually have no idea why,i just have no idea why,i just have no idea why,1,1,6,False,0.093
+lrs3_0068,medium,go pick up the keys,to pick up the keys,to pick up the keys,1,1,5,False,0.079
+lrs3_0069,low,now i will maintain,i remember i said,i remember that day,4,4,4,False,0.067
+lrs3_0077,high,how could i let them down,how can i let them down,how could i let them down,1,0,6,False,0.093
+lrs3_0091,high,and this is crazy,and this is crazy,this is crazy,0,1,4,False,0.055
+lrs3_0092,high,we ve just somehow forgotten how to see it,we ve just somehow forgotten how to see it,we ve just somehow forgotten how to see it,0,0,9,False,0.127
+lrs3_0098,high,and so i think that nature is not that which is untouched by humanity man or woman,and so why i think that nature is not that which is untouched by humanity man or woman,so why i think that nature is not that which is untouched by humanity man or woman,1,2,17,False,0.221
+lrs3_0100,high,there s people everywhere,there s people everywhere,there s people everywhere,0,0,4,False,0.067
+lrs3_0105,high,nor do i think we are by ourselves actually going to solve the problem,nor whether we are among ourselves actually going to solve the problem,nor do i think we are among ourselves actually going to solve the problem,4,1,14,False,0.185
+lrs3_0117,high,you can walk around them,you can walk around them,you can walk around them,0,0,5,False,0.081
+lrs3_0123,low,the whole internet,holy stress,the holy stress,3,2,3,False,0.078
+lrs3_0128,medium,we re losing a ritual,you can use it for sure,we can use it for sure,6,5,5,False,0.092
+lrs3_0130,high,well imagine you re walking in the forest and you see a bear,well imagine you re walking on the forest and you see a bear,well imagine you re walking on the forest and you see a bear,1,1,13,False,0.172
+lrs3_0131,high,for hepatitis it was also two and a half times,for hypotides it was also two and a half times,for hepatitis it was also two and a half times,1,0,10,False,0.139
+lrs3_0142,high,and they definitely have been shown to be effective in some cases,and they definitely have to be shown to be effective in some cases,and they definitely have to be shown to be effective in some cases,2,2,12,False,0.185
+lrs3_0150,high,i m a professor and we re passionate about education,i m a professor and we re passionate about education,i m a professor and we re passionate about education,0,0,10,False,0.139
+lrs3_0156,low,and i thought what am i thinking,that would be a thing,that would be the thing,7,7,7,False,0.079
+lrs3_0161,medium,can we really scale this up,that wouldn t be exactly the same,that wouldn t be exactly the same,7,7,6,False,0.102
+lrs3_0165,high,but i don t,but i know,but i know,2,2,4,False,0.056
+lrs3_0170,medium,there was no road map,there was no road map,there wasn t a roadmap,0,4,5,False,0.079
+lrs3_0172,high,and he grew up essentially in stage one,and he grew up essentially in stage one,and he grew up essentially in stage one,0,0,8,False,0.128
+lrs3_0183,medium,you don t want this,you don t want this,you don t want this,0,0,5,False,0.079
+lrs3_0185,low,it s very hard to make them part of our rational decision,but it s very hard to make a personal decision,but it s very hard to make a personal decision,6,6,12,False,0.137
+lrs3_0188,high,we all know deep inside what the answer is,we all know deep inside what the answer is,we all know deep inside what the answer is,0,0,9,False,0.125
+lrs3_0190,high,is it about systems,it s about systems,it s about systems,2,2,4,False,0.067
+lrs3_0192,medium,i started looking at them really carefully,i started looking at them pretty carefully,i started looking at them really carefully,1,0,7,False,0.103
+lrs3_0193,low,is it about equality,and their body,and they re both,4,4,4,False,0.067
+lrs3_0197,medium,how do you know for sure,how to know for sure,how do you know for sure,2,0,6,False,0.091
+lrs3_0200,medium,the plane takes off,the place gets tough,the place gets tough,3,3,4,False,0.067
+lrs3_0201,medium,the engine fails,the action figures,the action figures,2,2,3,False,0.056
+lrs3_0207,high,we paid two to three times more than anybody else,we make two or three times more than anybody else,we make two to three times more than anybody else,2,1,10,False,0.137
+lrs3_0210,medium,how do you get informed,how are you informed,how are you conformed,2,3,5,False,0.078
+lrs3_0217,high,don t create solutions to impress customers,to create tools to embrace customers,don t create tools to embrace customers,4,2,7,False,0.102
+lrs3_0224,medium,the second is you can put lots and lots of tests in a very small place,second is you can put lots and lots of tens in a very small place,second is you can put lots and lots of things in a very small place,2,2,16,False,0.198
+lrs3_0226,low,do they have a common cold,that have come through,that have come through,5,5,6,False,0.067
+lrs3_0238,medium,mortality is not going down it s going up,mortality is not going down it s going up,mortality is not going down it s going up,0,0,9,False,0.137
+lrs3_0243,high,well you get several things,well we got several things,well we ve got several things,2,3,5,False,0.091
+lrs3_0245,medium,that is what it is to have a domain of expertise,that is really easy to have a domain of expertise,that is really easy to have a domain of expertise,3,3,11,False,0.137
+lrs3_0247,high,and that s what we did,and that s what we see,that s what we see,1,2,6,False,0.08
+lrs3_0248,medium,we hear the chaos of war,we need layers of wall,we need layers of wall,4,4,6,False,0.079
+lrs3_0249,high,let s help them have a voice,let s help them have a voice,let s help them have a voice,0,0,7,False,0.102
+lrs3_0251,medium,the silent majority does not need to be silent,the same minorities don t need to be silent,the same minorities don t need to be silenced,4,5,9,False,0.125
+lrs3_0264,high,and that s actually what happened,and that s actually what happens,and that s actually what happened,1,0,6,False,0.091
+lrs3_0268,medium,irreconcilable differences right,irreconciliable differences right,irreconciliable differences right,1,1,3,False,0.103
+lrs3_0271,high,that s something we ought to celebrate,that s something we had to celebrate,that s something we had to celebrate,1,1,7,False,0.102
+lrs3_0276,low,it was appalling,here s the part,here s the part,4,4,3,False,0.067
+lrs3_0277,medium,we can t identify with that part,we need to identify with that body,we need to identify with that pattern,3,3,7,False,0.102
+lrs3_0282,high,how is that possible,how is that possible,how is that possible,0,0,4,False,0.067
+lrs3_0288,low,and he s a bad guy,the bad guy,the bad guy,4,4,6,False,0.055
+lrs3_0291,high,yes it s hard,yes it s hard,yes it s hard,0,0,4,False,0.067
+lrs3_0299,high,i tried everything,i tried everything,i tried everything,0,0,3,False,0.056
+lrs3_0304,high,but you can write it,but who can write it,but you can write it,1,0,5,False,0.079
+lrs3_0306,high,so how do we do that,so how do we do that,so how do i do that,0,1,6,False,0.091
+lrs3_0315,high,and what i need now is to learn to be like that,and what i need now is to learn to be like that,and what i need now is to learn to be like that,0,0,12,False,0.16
+lrs3_0316,high,even when it s so hard,even when it s so hard,even when it s so hard,0,0,6,False,0.091
+lrs3_0321,high,that s what happened with my dad,that s what happened with my dad,that s what happened with my dad,0,0,7,False,0.102
+lrs3_0327,high,it would be a mall and not a park,it would be a mall and not a park,it would be a mall not a park,0,1,9,False,0.114
+lrs3_0328,high,well i didn t have any idea,well not enough any idea,well oddly enough any idea,4,4,7,False,0.08
+lrs3_0330,high,but too often my treatments made them feel worse,but too often my treatments make them feel worse,but too often my treatments made them feel worse,1,0,9,False,0.125
+lrs3_0349,high,one woman gives birth to a baby,one woman gives birth to a baby,one woman gives birth to a baby,0,0,7,False,0.102
+lrs3_0350,medium,where do refugee hearts go,where does refugee also,where do refugees go,3,2,5,False,0.067
+lrs3_0355,low,sickness health tender violence,let s have a lot of good americans,let s have a lot of good americans,8,8,4,False,0.125
+lrs3_0357,low,cluster bombs left behind,listen to what i m saying,let s see what i m saying,6,7,4,False,0.102
+lrs3_0362,high,i will craft my own drum,i would craft my own drum,i will craft my own drum,1,0,6,False,0.091
+lrs3_0373,high,wealth is ripped away from people who shouldn t be called unproductive,wealth is ripped away from people who should be called unproductive,wealth gets ripped away from people who should be called unproductive,2,3,12,False,0.16
+lrs3_0374,high,they don t represent what our views are,they don t represent what our views are,because they don t represent what our views are,0,1,8,False,0.125
+lrs3_0379,high,when you grow up poor you want to be rich,when you grow up poor you want to be rich,when you re going poor you want to be rich,0,2,10,False,0.137
+lrs3_0380,medium,and someone who has that kind of artistic potential deserves so much more,used to present that kind of artistic potential to do so much more,you can achieve that kind of artistic potential you can do so much more,6,7,13,False,0.183
+lrs3_0383,high,so what did they do,and so what do you think to do,so what do you think to do,5,4,5,False,0.102
+lrs3_0386,high,why is it important now,why is it important now,why is that important now,0,1,5,False,0.079
+lrs3_0398,high,but quite frankly on this issue there is no other road,but quite frankly on this issue there is no other road,but quite frankly on this issue there is no other road,0,0,11,False,0.149
+lrs3_0400,high,how is it made,how is it made,how is it made,0,0,4,False,0.067
+lrs3_0402,high,it s a fucking orgy,it s a fucking orgy,it s a fucking orgy,0,0,5,False,0.079
+lrs3_0407,low,so what to do next,she went to the past,so much in the past,4,4,5,False,0.079
+lrs3_0409,high,have inspired a generation of innovators,have inspired a generation of innovators,i ve inspired a generation of innovators,0,2,6,False,0.114
+lrs3_0414,high,we have no control over these forces,we have no control over these forces,we have no control over these forces,0,0,7,False,0.102
+lrs3_0423,medium,remember what i said my love,remember when i said my love,remember what i said right now,1,2,6,False,0.091
+lrs3_0430,high,that s what we do,that s what we do,that s what we do,0,0,5,False,0.079
+lrs3_0438,high,we said yes,we said yes,we said yes,0,0,3,False,0.056
+lrs3_0439,high,and so one of the major challenges of our project really is to find photographs that were taken before something,and so one of the major challenges of our project really is to find photographs that we are taking before something,and one of the major challenges of our project really is to find photographs that we are taking before something,3,4,20,False,0.252
+lrs3_0443,low,i may never go to your house you may never come to my house,i mean if the whole story comes about,i mean if the whole story comes about,13,13,14,False,0.114
+lrs3_0447,low,and work like a dog,any war against,any warnings,5,5,5,False,0.044
+lrs3_0456,high,you can t hide behind anything other than your own teeth,you can t hide behind anything other than your own teeth,you can t hide behind anything other than your own skin,0,1,11,False,0.148
+lrs3_0457,low,is it that i write very well,even today like shakespeare,even today not just because,7,7,7,False,0.079
+lrs3_0459,high,and that s what i m calling for here now,and that s what i m calling for here now,and that s what i m calling for here now,0,0,10,False,0.139
+lrs3_0468,high,we will not be there,we will not be there,we will not be there,0,0,5,False,0.079
+lrs3_0473,high,it s a performance venue,it s a performance value,it s a performance value,1,1,5,False,0.079
+lrs3_0477,high,but we were still missing a critical element,but we were still missing a critical element,but we were still missing a critical element,0,0,8,False,0.114
+lrs3_0481,high,and he was talking about the importance of coaching boys into men and changing the culture of the locker room and giving,and it was talking about the importance of coaching boys as the mind and changing the culture of the locker room and even in,and it was talking about the importance of coaching boys as the mind and changing the culture of the locker room and even in,6,6,22,False,0.299
+lrs3_0491,high,they re not heavily subsidized,they re not heavily subsidized,they are not heavily subsidized,0,1,5,False,0.079
+lrs3_0507,high,it s shocking to realize that only twenty eight percent of american,it is shocking to realize that only twenty eight of american,it is shocking to realize that only twenty eight of americans,2,3,12,False,0.172
+lrs3_0514,high,i m twenty seven years old,i m twenty seven years old,i am twenty seven years old,0,1,6,False,0.103
+lrs3_0515,low,thanks for asking,and then to ask,and then to ask,4,4,3,False,0.067
+lrs3_0524,high,and so how does your brain give you that detail,so how does your brain give you that detail,so how did your brain give you that detail,1,2,10,False,0.125
+lrs3_0526,high,not what is it,not what is it,not what he did,0,2,4,False,0.068
+lrs3_0529,medium,i m totally serious,i m totally serious,i m totally serious,0,0,4,False,0.069
+lrs3_0530,high,it s using past experience based on similar situations to try to make meaning,is using past experience based on similar situations to try to make meaning,is using past experience based on similar situations to try to make meaning,2,2,14,False,0.172
+lrs3_0532,high,that s a terrible waste of time,that s a terrible waste of time,it s a terrible waste of time,0,1,7,False,0.103
+lrs3_0534,high,what about manipulation,what about manipulation,what about manipulation,0,0,3,False,0.055
+lrs3_0539,medium,you just move away,you just move away,you just moved away,0,1,4,False,0.067
+lrs3_0540,medium,it is the default option,this is a default option,this is the default option,2,1,5,False,0.079
+lrs3_0545,low,beth israel s in boston,made this really surprising,but this was the project,5,5,5,False,0.078
+lrs3_0549,medium,and then guess what,and then guess what,then guess what,0,1,4,False,0.056
+lrs3_0550,high,so why don t we leverage that,so what do we love to share,so what do we have to share,6,6,7,False,0.103
+lrs3_0558,high,but you know what,but you know what,but you know what,0,0,4,False,0.067
+lrs3_0560,high,we all want to,we all want to,we all want to,0,0,4,False,0.067
+lrs3_0566,high,one you need to know where you are and exactly what time it is,what you need to know where you are and exactly what time it is,what you need to know where you are and exactly what time it is,1,1,14,False,0.184
+lrs3_0574,medium,we were wrong,we were growing,we were growing,1,1,3,False,0.056
+lrs3_0588,high,it s very hard to get of course,it s very hard to get of course,it s very hard to get of course,0,0,8,False,0.114
+lrs3_0589,high,and that s really what i find so intriguing about the reactions that we ve had to the,and that s really what i find so intriguing about the reactions that we ve had to the,and that s really what i find so intriguing about the reactions that we ve had to the,0,0,18,False,0.231
+lrs3_0594,high,african americans supported it at a higher level than had ever been recorded,african americans supported it at a higher level than had ever been recorded,african americans supported it at a higher level than it had ever been recorded,0,1,13,False,0.207
+lrs3_0595,high,i couldn t tear myself away from the coverage,i could tear myself away from the comfort,i could tear myself away from the comfort,3,3,9,False,0.114
+lrs3_0596,low,and this wasn t just an abstract question,and that this wasn t just it i was,and that this wasn t just it i m so sorry,4,6,8,False,0.149
+lrs3_0598,low,so what is an idea drawing,so what is an idea though,so what is an idea though,1,1,6,False,0.091
+lrs3_0602,high,and we ve all heard that kind of story before right,and we ve all heard that kind of story before right,and we ve all heard that kind of story before right,0,0,11,False,0.149
+lrs3_0603,medium,we re going to start putting an entire layer of digital information on the real world,what i m trying to point is a layer of digital information on the real world,what i m trying to point is a layer of digital information on the real world,8,8,16,False,0.207
+lrs3_0621,high,i had to do something,i had to do something,i had to do something,0,0,5,False,0.079
+lrs3_0624,medium,it s not a lot of money at the global level,it s not a kind of political global effort,it s not a kind of political global effort,5,5,11,False,0.126
+lrs3_0626,low,there s no need to play the market,and so it s money money,and so it s about the market,8,6,8,False,0.105
+lrs3_0630,high,again it had no choice,again he had no choice,again he had no choice,1,1,5,False,0.079
+lrs3_0632,medium,it s natural connective tissue,it s natural collective tissue,it s an actual collective issue,1,4,5,False,0.09
+lrs3_0634,high,i believe a story there has to be told,i believe there s a story there has to be told,i believe it s a story there has to be told,2,2,9,False,0.148
+lrs3_0641,medium,the nazis invaded the netherlands,the nazis invaded the netherlands,the nazis invaded the netherlands,0,0,5,False,0.102
+lrs3_0642,high,we are all responsible,we are all responsible,we are all responsible,0,0,4,False,0.067
+lrs3_0643,medium,you have to have a high tech experience of pregnancy otherwise something might go wrong,you have never had that experience of playing this otherwise something went wrong,you have never had that experience of playing this otherwise something went wrong,9,9,15,False,0.172
+lrs3_0644,medium,they want a treatment,they want that trip,they want that trip,2,2,4,False,0.067
+lrs3_0645,medium,what makes technology useful and usable,will make technology useful usable,what makes technology useful and usable,3,0,6,False,0.091
+lrs3_0647,low,i can use it in my company,you end up doing this,you end up doing this,7,7,7,False,0.08
+lrs3_0648,low,who s at the event,look at the event,looked at the event,2,2,5,False,0.078
+lrs3_0654,high,that even small scale farmers can leverage,that even small scale farmers can leverage,that even small scale farmers can leverage,0,0,7,False,0.105
+lrs3_0667,high,does any of this matter,does any of this matter,did any of this matter,0,1,5,False,0.079
+lrs3_0671,high,so we decided to go to the mosque,so we decided to go to the boston,so we decided to go to the boston,1,1,8,False,0.129
+lrs3_0676,high,texting has developed one from this slash,texting has developed one from this slash,texting has developed one from this slash,0,0,7,False,0.114
+lrs3_0688,medium,i want to warn you about what you re about to go through,i want to warn you about what you re about to do,i want to warn you about what you re about to do,2,2,13,False,0.16
+lrs3_0697,medium,this is going to become really freaking obvious,it s going to be a pretty freaking obvious,it s going to be a pretty freaking obvious,5,5,8,False,0.132
+lrs3_0704,medium,we re on the grid,where are they green,where on that green,5,4,5,False,0.067
+lrs3_0710,high,it is wrong,in the world,in the world,3,3,3,False,0.056
+lrs3_0712,low,this is not a put down of anyone,and that put kind of increase,that book kind of increases,6,7,8,False,0.081
+lrs3_0717,high,he asked what do women need to do to conform to female norms,he asked what do women need to do to conform to female norms,he asked what do women need to do in the form of female norms,0,4,13,False,0.186
+lrs3_0720,high,i guess i m doing it right now,as i m doing it right now,and as i m doing it right now,2,2,8,False,0.114
+lrs3_0723,high,at what point did i think that was a good idea,down at what point did i think that was a good idea,down at one point did i think that was a good idea,1,2,11,False,0.161
+lrs3_0729,high,if any child is found violating these rules he is severely reprimanded,if any child is found violating these tools in a civilian reprimanding,if any child is found violating these rules in a civilian reprimanding,5,4,12,False,0.185
+lrs3_0730,high,effectively the taliban create a complete blackout of any other source of information,effectively the taliban create a complete blackout of any other source of information,effectively the taliban created a complete blackout of any other source of information,0,1,13,False,0.195
+lrs3_0731,low,not right now,i m not like,i m not like,4,4,3,False,0.067
+lrs3_0737,high,and they say i want to work in global poverty but what will it mean about my career,and they say i want to read a little bit about that but what will it mean about my career,and they say i want to read a little about that but what will it mean about my career,6,5,18,False,0.244
+lrs3_0744,high,in other words a coroner could find these things because this is a fatal recipe,in other words in order to define these things because this is a fatal recipe,in other words in order to find these things because this is a fatal recipe,4,3,15,False,0.2
+lrs3_0755,high,supporting local economies,supporting local economies,supporting local economies,0,0,3,False,0.067
+lrs3_0758,high,i made more money,i made more money,i make more money,0,1,4,False,0.067
+lrs3_0770,medium,it was incredibly hot,it s incredibly high,it was incredibly high,2,1,4,False,0.067
+lrs3_0784,high,they were wonderful people,they were wonderful people,they were wonderful people,0,0,4,False,0.069
+lrs3_0797,high,well there s a self fulfilling prophecy,when there s a self fulfilling prophecy,when there s a self fulfilling prophecy,1,1,7,False,0.103
+lrs3_0798,medium,we shouldn t be nationalistic,we should have been nationalistic,we should have been nationalistic,3,3,5,False,0.091
+lrs3_0799,high,of those seven have nuclear weapons,if you use seven chemical weapons,if you used seven chemical weapons,5,5,6,False,0.091
+lrs3_0813,high,they also monitored the internet and social media to monitor the progress of,they also monitor the internet and social media to monitor the progress of,they also monitor the internet and social media to monitor the progress,1,2,13,False,0.161
+lrs3_0815,high,of course we re going to go even deeper than the human body,of course we re going to go even deeper than the human body,of course we re going to go even deeper than the human body,0,0,13,False,0.172
+lrs3_0816,low,think about that,write about that,think about that,1,0,3,False,0.056
+lrs3_0817,high,terrorists are doing this,terrorists are doing this,terrorists aren t doing this,0,2,4,False,0.09
+lrs3_0823,high,both of them bring the imagination to life in ways that remind us that all of our bonds in the end,both of them bring the imagination to life in ways that remind us that all of our pots in the end,both of them bring the imagination to life in ways that remind us that all of our minds in the end,1,1,21,False,0.264
+lrs3_0827,low,they are doing it together,they are doing it together,they are doing it today,0,1,5,False,0.08
+lrs3_0835,high,i m also on this mission because the way doctors practice medicine continues to,i m also on this mission because the way doctors practice medicine continues to,i m also on this mission because the way doctors practice medicine continues to,0,0,14,False,0.187
+lrs3_0842,medium,we weren t considered the real thing,when work is going to do real things,when work is going to do the real things,7,7,7,False,0.126
+lrs3_0843,high,so that was easy,so that was the key,so that was the key,2,2,4,False,0.079
+lrs3_0848,high,it s so obvious,it s so obvious,it s so obvious,0,0,4,False,0.067
+lrs3_0851,high,you don t question that,you don t question that,you don t question that,0,0,5,False,0.078
+lrs3_0855,high,with that you can actually trigger aid funding before a crisis can happen,with that you can actually trigger aid funding before a crisis can happen,with that you can actually trigger aid funding before a crisis can happen,0,0,13,False,0.172
+lrs3_0860,high,it s a win all around,it s a wind all around,it s a wind all around,1,1,6,False,0.091
+lrs3_0861,high,we go far beyond reasonable constructive criticism to dissecting any given woman s feminism,we are far beyond reasonable constructive criticism to dissect any given woman s feminism,we are far beyond reasonable constructive criticism to dissect any given woman s feminism,2,2,14,False,0.183
+lrs3_0864,high,some boys broke me when i was so young i did not know what boys can do to break a girl,some boys broke me when i was so young i did not know what boys consider to be a girl,some boys broke me when i was so young i did not know what boys consider to be a girl,3,3,21,False,0.252
+lrs3_0871,high,one of them got caught up in the water,one of them caught up in the water,one of them got caught up in the water,1,0,9,False,0.125
+lrs3_0879,high,i wanted to understand who takes the job,i wanted to understand who gets the job,i wanted to understand who gets the job,1,1,8,False,0.114
+lrs3_0886,medium,there s a million different ways to eat pizza,they re the millions for ways to keep peace,they re the millions of ways to keep peace,7,7,9,False,0.125
+lrs3_0888,medium,if we re still hungry we might have some more,if we re still hungry we better have some work,if we re still hungry we better have some more,2,1,10,False,0.137
+lrs3_0889,low,now my own speciality is combining digital technology and magic,then we use machines by the digital technology in passion,then we use machines to make digital technology imagine,8,8,10,False,0.125
+lrs3_0893,high,so to summarize if we could offer a top quality education to everyone around the world for free,so to summarize if we could offer a top quality education to everyone around the world for free,so to summarize if we could offer a top quality education to everyone around the world for free,0,0,18,False,0.229
+lrs3_0897,high,and we all know this,and we all know this,we all know this,0,1,5,False,0.068
+lrs3_0903,high,it needs to happen,it needs to happen,it needs to happen,0,0,4,False,0.067
+lrs3_0910,high,and i don t have to do anything,and i don t have to do anything,i don t have to do anything,0,1,8,False,0.103
+lrs3_0920,low,i tried everything,my wife s,my wife s,3,3,3,False,0.056
+lrs3_0921,low,and now i love languages,now a lot of games,and now a lot of games,5,4,5,False,0.09
+lrs3_0924,medium,and this routine went on for some time,and this really went on for some time,and this routine went on for some time,1,0,8,False,0.114
+lrs3_0925,high,so i thought why not punish myself,so i thought why not punish myself,so i thought why not punish myself,0,0,7,False,0.102
+lrs3_0927,medium,and this became my holy grail my rosetta stone,and this became my whole career my routine started,and this became my whole career my routine started,4,4,9,False,0.125
+lrs3_0930,high,i m not a social problem guy,i am not a social problem guy,and i m not a social problem guy,1,1,7,False,0.114
+lrs3_0933,medium,i was considered a radical,i was considered a writer,i was considered a writer,1,1,5,False,0.078
+lrs3_0935,medium,my other great passion is the environment,but other great passion is the environment,my other great passion is the environment,1,0,7,False,0.102
+lrs3_0936,medium,constance baker motley,i got six pair molly,i got six pair modeling,5,5,3,False,0.08
+lrs3_0937,high,some of them were really afraid of contagion and they wouldn t even walk in front of our,some of them were really afraid of danger and they wouldn t even walk in front of our,some of them were really afraid of danger and they wouldn t even walk in front of our,1,1,18,False,0.229
+lrs3_0938,high,she never wanted to tell me,she never wanted to tell me,you never wanted to tell me,0,1,6,False,0.091
+lrs3_0939,high,my parents came from germany,my parents came from germany,my parents came from germany,0,0,5,False,0.079
+lrs3_0944,high,nobody comes to get famous,nobody comes to get famous,nobody comes to get famous,0,0,5,False,0.09
+lrs3_0950,high,how can we get so much information out of so little motion,how can we get so much inflammation out of social motion,how can we get so much inflammation out of so little motion,3,1,12,False,0.16
+lrs3_0955,high,we have to get quiet,we have to get it right,we have to get it right,2,2,5,False,0.091
+lrs3_0957,low,how can we do it,not by the way,but not by the way,5,5,5,False,0.079
+lrs3_0961,high,what would happen,what would happen,what could happen,0,1,3,False,0.056
+lrs3_0962,high,but what does,but what does,but what does,0,0,3,False,0.056
+lrs3_0968,high,i was living in my own apartment,i was living in my own apartment,i was living in my own apartment,0,0,7,False,0.102
+lrs3_0974,high,we know that every cell has a sex,we know that every cell has a sex,we know that every cell has a sex,0,0,8,False,0.114
+lrs3_0980,high,the authors looked at papers written over a ten year period and hundreds had to be thrown out,the authors looked at papers written over a ten year period and hundreds had to be thrown out,the authors looked at papers written over a ten year period and hundreds had to be thrown out,0,0,18,False,0.252
+lrs3_0981,medium,i can hardly wait,like all the way,like all the way,4,4,4,False,0.067
+lrs3_0987,medium,don t get me wrong it s not like we don t have comedy in the middle east,don t get me wrong it s not like we don t have roman database,don t get me wrong it s not like we don t have urban database,5,5,18,False,0.195
+lrs3_0990,low,why does a jellyfish emit light,this is kind of visible,this is kind of visible,6,6,6,False,0.08
+lrs3_0994,high,and that s powerful,it is powerful,and it is powerful,3,2,4,False,0.067
+lrs3_1002,medium,so i went to church as often as i could,so what the church is offering is that good,so what the church is often is that,8,7,10,False,0.115
+lrs3_1004,high,your job needs to be challenging,your job needs to be challenging,your job is to be challenging,0,1,6,False,0.091
+lrs3_1005,high,boy it matters a lot,boy it matters a lot,boy it matters a lot,0,0,5,False,0.078
+lrs3_1007,medium,you want to work for him,you want to work for him,you want to work for him,0,0,6,False,0.09
+lrs3_1018,medium,we must adopt that way of giving back,agreements that way of giving back,agreements that way of giving back,3,3,8,False,0.102
+lrs3_1019,low,did i get my upgrade,suddenly i get my number right,suddenly i get my number right,3,3,5,False,0.102
+lrs3_1020,high,what if obesity isn t the cause of insulin resistance at all,what if obesity is the cause of insulin resistance at all,what if obesity is the cause of insulin resistance in all,2,3,12,False,0.148
+lrs3_1027,high,how far do they reach,how far do they reach,how far do they reach,0,0,5,False,0.079
+lrs3_1029,high,and the daughter was exhausted from caring for her mother,and the daughter was exhausted from caring for her mother,and the daughter was exhausted from caring for her mother,0,0,10,False,0.137
+lrs3_1033,high,so the answer to the second question can we change,so the answer to the second question can we change,so the answer to the second question can we change,0,0,10,False,0.137
+lrs3_1037,high,allow many people to come in,allow many people to come in,allow many people to come in,0,0,6,False,0.091
+lrs3_1039,medium,they want to get out,they re working out,they are working out,3,3,5,False,0.067
+lrs3_1045,high,so i changed my immediate goal to ten thousand faces,so i changed my immediate goals ten thousand faces,so i changed my immediate goals ten thousand faces,2,2,10,False,0.125
+lrs3_1047,medium,when you re six maybe you can do that,when you re six people you re,when you re six people you re,4,4,9,False,0.103
+lrs3_1048,high,i didn t feel like i was in the wrong body,i didn t feel like i was in the wrong body,i didn t feel like i was in the wrong body,0,0,11,False,0.148
+lrs3_1050,low,are they a potential mate,finally a potential mate,and finally a potential mate,2,2,5,False,0.079
+lrs3_1051,low,look at this pretty structure,look at this print structure,look at this printed structure,1,1,5,False,0.079
+lrs3_1055,low,and this is true,the answer is no,that is the new,3,4,4,False,0.067
+lrs3_1058,high,so since then i ve been the bridge and a lot of people have walked over me,so since he gave me a picture of people have walked over me,so since they gave me a picture of people have walked over me,8,8,17,False,0.172
+lrs3_1060,low,and boy they were like what,or they were like what,or they were like what,2,2,6,False,0.08
+lrs3_1063,high,how do you get to build those relationships,how do you get to build those relationships,how do you get to build those relationships,0,0,8,False,0.114
+lrs3_1064,medium,we can do it again,what are you doing again,will you do it again,4,2,5,False,0.079
+lrs3_1065,high,so i went to my doctor,so i went to my doctor,so i went to my doctor,0,0,6,False,0.091
+lrs3_1070,medium,we re going to eat these cows,but a lot of these guys,but a lot of these guys,6,6,7,False,0.09
+lrs3_1071,high,indeed we run the risk of making things worse,indeed we run the risk of making things worse,indeed we run the risk of making things worse,0,0,9,False,0.137
+lrs3_1074,high,why do we need to study this anymore,why do we need to study this anymore,why do we need to study this any more,0,2,8,False,0.126
+lrs3_1079,high,that s sort of the state of the art,that s sort of the seat of the eye,that s sort of a seat of the eye,2,3,9,False,0.125
+lrs3_1085,high,so when i started my job at the arnold foundation i came back to looking at a lot of these questions and i came back,so when i started my job at the arthur foundation i came back to looking at a lot of these questions and i came back to,so when i started my job at the arthur foundation i came back to looking at a lot of these questions and i came back,2,1,25,False,0.333
+lrs3_1091,high,and when i look at the criminal justice system in the united states today i feel the exact same way that i did about the state of,and when i look at the criminal justice system in the united states today i feel the exact same way that i did about the state of,and when i look at the criminal justice system in the united states today i felt the exact same way that i did about the state of,0,1,27,False,0.346
+lrs3_1101,high,we took camden off the top of the list as the most dangerous city in america,we took games at the off the top of the list as the most interesting in america,we took games and off the top of the list as the most interesting in america,5,4,16,False,0.207
+lrs3_1102,high,now at that time camden new jersey was the most dangerous city in america,now at that time came to new jersey was the most interesting in america,now at that time came to new jersey was the most interesting thing in america,4,4,14,False,0.195
+lrs3_1115,medium,they don t trust the law,they don t trust the law,they don t trust the law,0,0,6,False,0.091
+lrs3_1116,low,had no idea,i tried it again,and i tried it again,4,5,3,False,0.078
+lrs3_1117,high,it s changed the way we talk,because that s the way we talk,because that s the way we talk,3,3,7,False,0.102
+lrs3_1119,high,and they did it in the good old fashioned way,and they did it in the good old fashioned way,they did it in the good old fashioned way,0,1,10,False,0.125
+lrs3_1120,high,first they founded political parties,first they found these political parties,at first they found these political parties,2,3,5,False,0.102
+lrs3_1121,medium,now hamilton was everything madison was not,now hamilton was everything medicine was cut,now what happened was everything medicine was cut,2,4,7,False,0.114
+lrs3_1122,low,we can change our minds,but can it change our minds,but it can change our minds,2,2,5,False,0.091
+lrs3_1135,high,we can see everything on wikipedia,we could see everything wikipedia,we could see everything on wikipedia,2,1,6,False,0.091
+lrs3_1138,low,how can somebody like that make you feel smart,how do we enable it to be smart,how we should be adapting to this model,7,8,9,False,0.114
+lrs3_1139,medium,he made me feel smart,it made me feel smart,it made me feel smart,1,1,5,False,0.079
+lrs3_1141,low,it s just incredible,and,fans,4,4,4,False,0.033
+lrs3_1142,medium,we only sell you airtime,we only sell them in entertainment,we only sell them in entertainment,3,3,5,False,0.091
+lrs3_1146,high,there s no structure,there s no structure,so there is no structure,0,2,4,False,0.078
+lrs3_1149,medium,but it s useful for everybody to learn how to read and write,but it s useful for everybody to learn how to read right,but it s useful for everybody to learn how to read right,2,2,13,False,0.16
+lrs3_1150,high,you learn more about how computers work,you learn more about how to build this one,you learn more about how you build this one,4,4,7,False,0.125
+lrs3_1152,high,it was faulty and most of the time i had to restart it over and over before it worked,it was felt like most of the time i had to restart it over and over before it worked,it was felt like most of the time i had to restart it over and over before it worked,2,2,19,False,0.241
+lrs3_1155,low,for africans homegrown science fiction can be a will to power,for africans most has federally been will to power,for africans both has federally been willing to power,6,7,11,False,0.138
+lrs3_1163,high,it s a debate about words about metaphors,it s a debate about words about metaphors,it s a debate about words about metaphors,0,0,8,False,0.126
+lrs3_1167,high,let s have that,it s not that,it s not that,2,2,4,False,0.067
+lrs3_1170,medium,it has to stop,it has to stop,it has to stop,0,0,4,False,0.067
+lrs3_1172,medium,i don t know,i don t know,i don t know,0,0,4,False,0.067
+lrs3_1176,low,you ve broken your back,place for you to be,thanks for your support,5,4,5,False,0.067
+lrs3_1178,medium,well let s hold on to that thought for just a minute,but let s hold on to that chart for just a minute,but let s hold on to that chart for just a minute,2,2,12,False,0.161
+lrs3_1180,high,what can i do about it,what did i do about,what can i do about it,2,0,6,False,0.091
+lrs3_1182,high,why did my child develop autism,why did my child develop autism,why did my daughter develop autism,0,1,6,False,0.091
+lrs3_1189,medium,everything in the universe wears out,everything goes from one second,everything goes from one second,5,5,6,False,0.079
+lrs3_1194,medium,i don t understand,i don t understand,i don t understand,0,0,4,False,0.067
+lrs3_1199,high,so just like with a bike we don t talk about it,so today when we buy it we don t talk about it,sometimes today when we buy it we don t talk about it,5,6,12,False,0.161
+lrs3_1200,high,we all know what he s talking about,we all know what he s talking about,we all know what he s talking about,0,0,8,False,0.114
+lrs3_1201,high,and then something falls off the wall,and then something falls off the wall,and then something falls off the wall,0,0,7,False,0.103
+lrs3_1204,medium,no more charge before use,no more charge before you,no more charge before you,1,1,5,False,0.08
+lrs3_1210,medium,the boys reminded me of home,the boys who might give me of home,the boys reminded me of home,3,0,6,False,0.091
+lrs3_1223,high,where are the philosophers,what are the philosophies,what are the philosophies,2,2,4,False,0.078
+lrs3_1224,medium,but this particular reality was not inevitable,with this particular reality with science evolution,with this particular reality with science and evolution,4,5,7,False,0.114
+lrs3_1225,medium,that s the magic of the geological record,that s the passion of the geological failure,that s the passion for geological failure,2,4,8,False,0.103
+lrs3_1229,medium,they ll say i m surrounded by a bunch of snakes and sharks,the team surrounded by a bunch of sexy sharks,the team surrounded by a bunch of snakes and sharks,7,5,13,False,0.137
+lrs3_1230,high,and he said well i just care so deeply about my customers that i would never sell them one of our crappy products,and i said well i just cared so deeply about my customers and i would never sell them one of our crappy products,and i said well i just cared so deeply about my customers and i would never sell them one of their crappy products,3,4,23,False,0.288
+lrs3_1243,high,i didn t know you actually have to have creative control,i don t know you actually have to have creative control,i didn t know you actually have to have creative control,1,0,11,False,0.149
+lrs3_1244,high,there s no other way,there s no other way,there s no other way,0,0,5,False,0.08
+lrs3_1249,high,that means at some point it s going to be your problem too,that means at some point it s going to be your problem too,that means at some point it s going to be your problem too,0,0,13,False,0.172
+lrs3_1257,high,the question why does she stay,the question why did she stay,the question why did she stay,1,1,6,False,0.091
+lrs3_1259,medium,i had just graduated from harvard college,i graduated from harvard college,i had just graduated from harvard college,2,0,7,False,0.115
+lrs3_1266,high,but just imagine for a moment what this must feel like,but just imagine for a moment what leads me to feel like,but just imagine for a moment what leads me to feel like,3,3,11,False,0.16
+lrs3_1271,high,we wouldn t tolerate that,we wouldn t tolerate that,we wouldn t tolerate that,0,0,5,False,0.08
+lrs3_1272,medium,you smell money,there s some kind of money,there s a lot of money,5,5,3,False,0.091
+lrs3_1274,high,and how is that possible,and how is this possible,and how is this possible,1,1,5,False,0.079
+lrs3_1276,high,often what happens is you re planning so hard for like how do i get through the hardest part,often what happens is you re playing so hard for and how do i get through the hardest part,often what happens is you re playing so hard for and how do i get through the hardest part,2,2,19,False,0.242
+lrs3_1281,high,there s love and there s friendship and there s protection,there s love and there s friendship and there s protection,there s love and there s friendship and there s protection,0,0,11,False,0.149
+lrs3_1283,high,we ve all done this,we ve all done this,we ve all done this,0,0,5,False,0.079
+lrs3_1290,medium,and i did not know what to say,and i did not know at the time,and i did not go into town,3,4,8,False,0.102
+lrs3_1301,high,so the very first thing we wanted to do in this building was look at the air system,so the very first thing we wanted to do in this building was look at the air system,so the very first thing we wanted to do in this building was look at the air system,0,0,18,False,0.23
+lrs3_1306,medium,and this is happening every day,this is happening every day,this happens every day,1,3,6,False,0.067
+lrs3_1312,high,this is a really important chapter to me,this is a really important chapter to me,this is a really important chapter to me,0,0,8,False,0.114
+lrs3_1320,high,i know it works,i know what it works,i know what it was,1,2,4,False,0.079

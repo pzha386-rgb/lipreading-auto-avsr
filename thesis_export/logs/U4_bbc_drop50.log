@@ -1,0 +1,15 @@
+===== U4 on bbc_drop50 =====
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+官方解码配置: beam=40 ctc=0.1 penalty=0.0  -> 本次使用 beam=40 ctc=0.1
+参数量: 945.5 M
+[20/91] WER so far 45.76%  (2.09s)
+[40/91] WER so far 46.48%  (1.79s)
+[60/91] WER so far 47.17%  (3.39s)
+[80/91] WER so far 48.94%  (3.15s)
+==================================================
+U4  bbc_drop50
+clips: 91   failed: 0   WER: 48.69%
+mean seconds/clip: 2.817
+saved: /root/autodl-tmp/results_v2/U4_bbc_drop50.csv
+==================================================

@@ -1,0 +1,14 @@
+{
+  "model_id": "T1",
+  "dataset": "bbc_blur2",
+  "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1333,
+  "total_seconds": 287.5,
+  "n_clips": 91,
+  "errors": 383,
+  "n_words": 1374,
+  "wer": 27.87,
+  "mean_seconds": 3.144,
+  "n_failed": 0
+}

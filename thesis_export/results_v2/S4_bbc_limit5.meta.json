@@ -1,0 +1,18 @@
+{
+  "model_id": "S4",
+  "dataset": "bbc",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth",
+  "ini": "LRS3_V_WER32.3",
+  "lm": null,
+  "lm_weight": 0.0,
+  "beam": 40,
+  "params_M": 52.5,
+  "peak_gpu_MB": 659,
+  "total_seconds": 21.1,
+  "n_clips": 5,
+  "errors": 28,
+  "n_words": 81,
+  "wer": 34.57,
+  "mean_seconds": 3.971,
+  "n_failed": 0
+}

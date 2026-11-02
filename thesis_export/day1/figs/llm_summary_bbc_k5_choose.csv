@@ -1,0 +1,7 @@
+tier,N,WER before,WER after LLM,improved,made worse,part,strategy,WER all,WER robot (no low)
+high,54.0,0.18596059113300492,0.1810344827586207,15.0,13.0,tier,,,
+medium,36.0,0.34501845018450183,0.33948339483394835,14.0,10.0,tier,,,
+low,1.0,0.6,0.65,0.0,1.0,tier,,,
+,,,,,,strategy,none,0.2547307132459971,0.24963072378138848
+,,,,,,strategy,medium only,0.25254730713246,0.24741506646971936
+,,,,,,strategy,all,0.25036390101892286,0.24446085672082718

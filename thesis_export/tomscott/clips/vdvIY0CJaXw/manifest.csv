@@ -1,0 +1,44 @@
+video_id,clip_id,path,start,end,dur,text
+vdvIY0CJaXw,clip_0000,vdvIY0CJaXw/clip_0000.mp4,0.000,5.760,5.760,"If you want to know where you are, you can check on your phone. It listens for signals from whole constellations of satellites in orbit,"
+vdvIY0CJaXw,clip_0001,vdvIY0CJaXw/clip_0001.mp4,5.760,11.520,5.760,"and by triangulating all those signals and using a lot of maths, it works out where you are and shows you a little dot on a map."
+vdvIY0CJaXw,clip_0002,vdvIY0CJaXw/clip_0002.mp4,11.920,17.760,5.840,But how do the satellites know where they are? There aren't any landmarks in orbit for them to refer to.
+vdvIY0CJaXw,clip_0003,vdvIY0CJaXw/clip_0003.mp4,17.760,22.240,4.480,"If satellites are in a high enough orbit, well away from the atmosphere, then they can predict their position."
+vdvIY0CJaXw,clip_0004,vdvIY0CJaXw/clip_0004.mp4,22.240,26.440,4.200,They'll just keep orbiting in about the same path: there’s no atmosphere to slow them down.
+vdvIY0CJaXw,clip_0005,vdvIY0CJaXw/clip_0005.mp4,26.440,31.240,4.800,"But that's not precise enough. There will be distortions caused by gravity from the sun and moon,"
+vdvIY0CJaXw,clip_0006,vdvIY0CJaXw/clip_0006.mp4,31.240,36.960,5.720,"or even from mountain ranges down on Earth. So maybe they could use the other satellite signals, like GPS."
+vdvIY0CJaXw,clip_0007,vdvIY0CJaXw/clip_0007.mp4,36.960,42.000,5.040,"But if they're all relying on each other, that could steadily drift apart from reality."
+vdvIY0CJaXw,clip_0008,vdvIY0CJaXw/clip_0008.mp4,42.000,46.560,4.560,"Maybe they could track the stars or the features down on Earth, but that's not precise enough either."
+vdvIY0CJaXw,clip_0009,vdvIY0CJaXw/clip_0009.mp4,46.560,48.880,2.320,"At some point, something down here on"
+vdvIY0CJaXw,clip_0010,vdvIY0CJaXw/clip_0010.mp4,48.880,52.720,3.840,Earth has to look up in the sky and work out the position precisely.
+vdvIY0CJaXw,clip_0011,vdvIY0CJaXw/clip_0011.mp4,52.720,56.840,4.120,And one of those somethings is hidden away in the countryside of southern England.
+vdvIY0CJaXw,clip_0012,vdvIY0CJaXw/clip_0012.mp4,56.840,61.000,4.160,"It looks like a regular observatory, but it's not looking at the stars."
+vdvIY0CJaXw,clip_0013,vdvIY0CJaXw/clip_0013.mp4,61.000,65.040,4.040,We track manmade satellites in various orbits doing various jobs.
+vdvIY0CJaXw,clip_0014,vdvIY0CJaXw/clip_0014.mp4,65.040,69.600,4.560,They all have to have special reflectors that enables the light to be returned to us.
+vdvIY0CJaXw,clip_0015,vdvIY0CJaXw/clip_0015.mp4,69.600,74.520,4.920,"And so we can measure the time of flight, and from the time of flight, derive the distance."
+vdvIY0CJaXw,clip_0016,vdvIY0CJaXw/clip_0016.mp4,74.520,79.760,5.240,You send out a very short pulse of laser light. You do that a thousand times a second.
+vdvIY0CJaXw,clip_0017,vdvIY0CJaXw/clip_0017.mp4,79.760,83.560,3.800,"Each of those shots, because you're using such a tiny short-pulsed laser,"
+vdvIY0CJaXw,clip_0018,vdvIY0CJaXw/clip_0018.mp4,83.560,87.720,4.160,"is 10 picoseconds long, which is about 3mm."
+vdvIY0CJaXw,clip_0019,vdvIY0CJaXw/clip_0019.mp4,87.720,92.880,5.160,That's the limitation on your precision. So each shot is about 3-4mm precision.
+vdvIY0CJaXw,clip_0020,vdvIY0CJaXw/clip_0020.mp4,92.880,97.920,5.040,"This station works around the clock, whenever the sky is clear. That's why I'm here today: there will be some genuine observations"
+vdvIY0CJaXw,clip_0021,vdvIY0CJaXw/clip_0021.mp4,97.920,101.120,3.200,"when the clouds break, but right now, I'm not actually disrupting anything."
+vdvIY0CJaXw,clip_0022,vdvIY0CJaXw/clip_0022.mp4,101.120,104.880,3.760,But it does look significantly better after dark.
+vdvIY0CJaXw,clip_0023,vdvIY0CJaXw/clip_0023.mp4,104.880,110.760,5.880,"Because it's a laser, it's a very specific wavelength. So you can filter, and that's what lets you work in day and night."
+vdvIY0CJaXw,clip_0024,vdvIY0CJaXw/clip_0024.mp4,110.760,114.960,4.200,The main problem with the atmosphere is: the speed of light in a vacuum is a very well known constant.
+vdvIY0CJaXw,clip_0025,vdvIY0CJaXw/clip_0025.mp4,114.960,120.680,5.720,"The speed of light through the atmosphere is variable according to the mainly the pressure, but also temperature and humidity."
+vdvIY0CJaXw,clip_0026,vdvIY0CJaXw/clip_0026.mp4,120.680,122.640,1.960,"So we measure those things on site, as well."
+vdvIY0CJaXw,clip_0027,vdvIY0CJaXw/clip_0027.mp4,122.640,127.040,4.400,"There's probably about 35 active stations scattered around the globe,"
+vdvIY0CJaXw,clip_0028,vdvIY0CJaXw/clip_0028.mp4,127.040,131.880,4.840,"located predominantly in the northern hemisphere, which is a slight problem from a science point of view."
+vdvIY0CJaXw,clip_0029,vdvIY0CJaXw/clip_0029.mp4,131.880,136.360,4.480,You'd like them evenly distributed all around the globe. There's a couple in Australia which are really important
+vdvIY0CJaXw,clip_0030,vdvIY0CJaXw/clip_0030.mp4,136.360,139.520,3.160,because they're providing a bulk of the data from southern hemisphere.
+vdvIY0CJaXw,clip_0031,vdvIY0CJaXw/clip_0031.mp4,139.520,144.120,4.600,"Ideally, we'd have a more even distribution. Of course, as the light fades, there's one assumption"
+vdvIY0CJaXw,clip_0032,vdvIY0CJaXw/clip_0032.mp4,144.120,148.800,4.680,"that we've been working on throughout this video: that the earth, the ground we're standing on, doesn't move."
+vdvIY0CJaXw,clip_0033,vdvIY0CJaXw/clip_0033.mp4,148.800,153.520,4.720,"And that's not strictly true. In the early days of laser ranging, in the 60s,"
+vdvIY0CJaXw,clip_0034,vdvIY0CJaXw/clip_0034.mp4,153.520,156.000,2.480,it was the primary method by which they were deriving
+vdvIY0CJaXw,clip_0035,vdvIY0CJaXw/clip_0035.mp4,156.000,160.560,4.560,those early measurements of the drift between us and North America.
+vdvIY0CJaXw,clip_0036,vdvIY0CJaXw/clip_0036.mp4,160.560,162.960,2.400,"So you can see long-term trends, like the ice caps"
+vdvIY0CJaXw,clip_0037,vdvIY0CJaXw/clip_0037.mp4,162.960,166.800,3.840,melting and the redistribution of mass from the ice caps to the equator.
+vdvIY0CJaXw,clip_0038,vdvIY0CJaXw/clip_0038.mp4,166.800,171.520,4.720,"All the data goes off to international databases, from all the sites all around the world."
+vdvIY0CJaXw,clip_0039,vdvIY0CJaXw/clip_0039.mp4,171.520,176.720,5.200,"Anyone, any researcher, anywhere can go and grab the international data set, the data from us,"
+vdvIY0CJaXw,clip_0040,vdvIY0CJaXw/clip_0040.mp4,176.720,179.520,2.800,"from Australia, from North America, from China, from Russia,"
+vdvIY0CJaXw,clip_0041,vdvIY0CJaXw/clip_0041.mp4,179.520,183.360,3.840,and can use that data to derive the orbits and do the research they need to do.
+vdvIY0CJaXw,clip_0042,vdvIY0CJaXw/clip_0042.mp4,183.360,189.440,6.080,Thanks very much to all the team at the Space Geodesy Facility. You can find out more about them and their work at the link in the description.

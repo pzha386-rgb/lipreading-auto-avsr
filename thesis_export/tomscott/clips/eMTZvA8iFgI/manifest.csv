@@ -1,0 +1,71 @@
+video_id,clip_id,path,start,end,dur,text
+eMTZvA8iFgI,clip_0000,eMTZvA8iFgI/clip_0000.mp4,0.000,3.240,3.240,"Under the streets of Vancouver, at the University of British Columbia,"
+eMTZvA8iFgI,clip_0001,eMTZvA8iFgI/clip_0001.mp4,3.240,6.300,3.060,there are pneumatic tubes 2½ kilometers long
+eMTZvA8iFgI,clip_0002,eMTZvA8iFgI/clip_0002.mp4,6.300,10.798,4.498,that use air pressure to transport slightly radioactive stuff
+eMTZvA8iFgI,clip_0003,eMTZvA8iFgI/clip_0003.mp4,10.798,15.420,4.622,underground from a particle accelerator to a hospital. The tubes are called the Rabbit Line
+eMTZvA8iFgI,clip_0004,eMTZvA8iFgI/clip_0004.mp4,15.420,20.130,4.710,"and the only sign of them from the surface is a few manholes, and some little studs in the ground"
+eMTZvA8iFgI,clip_0005,eMTZvA8iFgI/clip_0005.mp4,20.130,23.910,3.780,to mark the path. Most of the students and staff here at UBC have no idea
+eMTZvA8iFgI,clip_0006,eMTZvA8iFgI/clip_0006.mp4,23.910,26.220,2.310,"that a few times every day, underneath their feet,"
+eMTZvA8iFgI,clip_0007,eMTZvA8iFgI/clip_0007.mp4,26.220,31.170,4.950,capsules with radioactive stuff speed by at up to 100 kilometers an hour.
+eMTZvA8iFgI,clip_0008,eMTZvA8iFgI/clip_0008.mp4,31.170,36.360,5.190,"So, we're going to start at the particle accelerator here and explain how: how the stuff's made and how it's sent."
+eMTZvA8iFgI,clip_0009,eMTZvA8iFgI/clip_0009.mp4,36.360,40.380,4.020,"And then, at the receiving end, at the hospital, we're going to explain why."
+eMTZvA8iFgI,clip_0010,eMTZvA8iFgI/clip_0010.mp4,40.380,46.252,5.872,"This is the GMP Lab at TRIUMF, and here, we use medical isotopes and make tracers"
+eMTZvA8iFgI,clip_0011,eMTZvA8iFgI/clip_0011.mp4,46.252,51.600,5.348,"for imaging and therapy. So, in accelerators, we have cyclotrons."
+eMTZvA8iFgI,clip_0012,eMTZvA8iFgI/clip_0012.mp4,51.600,56.490,4.890,"So cyclotron: we inject H-, so negative charges of hydrogen,"
+eMTZvA8iFgI,clip_0013,eMTZvA8iFgI/clip_0013.mp4,56.490,60.390,3.900,"and they spin around and get really, really fast. Carry a lot of energy."
+eMTZvA8iFgI,clip_0014,eMTZvA8iFgI/clip_0014.mp4,60.390,63.750,3.360,And then we extract that H- to proton.
+eMTZvA8iFgI,clip_0015,eMTZvA8iFgI/clip_0015.mp4,63.750,69.270,5.520,"And then we use a proton beam to hit a target. Once they hit a target, it will produce radioactive isotopes."
+eMTZvA8iFgI,clip_0016,eMTZvA8iFgI/clip_0016.mp4,69.270,72.690,3.420,"And once we have the isotopes, they will be transferred here."
+eMTZvA8iFgI,clip_0017,eMTZvA8iFgI/clip_0017.mp4,72.690,75.390,2.700,"And here, our chemists will do their magic."
+eMTZvA8iFgI,clip_0018,eMTZvA8iFgI/clip_0018.mp4,75.390,79.680,4.290,"So they combine with some injectable liquid, mostly saline."
+eMTZvA8iFgI,clip_0019,eMTZvA8iFgI/clip_0019.mp4,79.680,83.280,3.600,"The ones processed in this lab are short-lived isotopes,"
+eMTZvA8iFgI,clip_0020,eMTZvA8iFgI/clip_0020.mp4,83.280,86.370,3.090,"two in particular, one is carbon-11."
+eMTZvA8iFgI,clip_0021,eMTZvA8iFgI/clip_0021.mp4,86.370,91.860,5.490,"And the carbon-11 only has 20 minutes half-life. Our chemists doing a very, very fast job,"
+eMTZvA8iFgI,clip_0022,eMTZvA8iFgI/clip_0022.mp4,91.860,96.900,5.040,and then they send this through the Rabbit Line to UBC Hospital and inject patients.
+eMTZvA8iFgI,clip_0023,eMTZvA8iFgI/clip_0023.mp4,96.900,100.890,3.990,"For the long-lived isotopes, we produce probably nanogram range."
+eMTZvA8iFgI,clip_0024,eMTZvA8iFgI/clip_0024.mp4,100.890,105.120,4.230,The short-lived one is even smaller than that amount. That's all you need.
+eMTZvA8iFgI,clip_0025,eMTZvA8iFgI/clip_0025.mp4,105.120,110.070,4.950,"So, particle accelerator upstairs makes the isotopes. Chemists in the clean room turn them into a liquid."
+eMTZvA8iFgI,clip_0026,eMTZvA8iFgI/clip_0026.mp4,110.070,114.480,4.410,"The team in this room put that vial inside a rabbit, a capsule, and into that tube."
+eMTZvA8iFgI,clip_0027,eMTZvA8iFgI/clip_0027.mp4,114.480,119.250,4.770,"There's one already loaded. Close it up, push the right buttons, and 100 psi of air pressure accelerates it"
+eMTZvA8iFgI,clip_0028,eMTZvA8iFgI/clip_0028.mp4,119.250,123.540,4.290,"to a top speed of 100 kilometers an hour. Now, I am not allowed to send a camera down the line."
+eMTZvA8iFgI,clip_0029,eMTZvA8iFgI/clip_0029.mp4,123.540,127.920,4.380,It's really carefully calibrated. You don't take risks like that with medical treatments.
+eMTZvA8iFgI,clip_0030,eMTZvA8iFgI/clip_0030.mp4,127.920,133.470,5.550,"Plus, it's pitch black. I'd also have to send a light as well. But I did ask if I could push the button."
+eMTZvA8iFgI,clip_0031,eMTZvA8iFgI/clip_0031.mp4,133.470,135.820,2.350,"It's just the big one marked send, right? Okay."
+eMTZvA8iFgI,clip_0032,eMTZvA8iFgI/clip_0032.mp4,144.660,150.395,5.735,"That is surprisingly loud. Because we are sending it over underground,"
+eMTZvA8iFgI,clip_0033,eMTZvA8iFgI/clip_0033.mp4,150.395,153.480,3.085,"soil under the road will serve as a very good shielding,"
+eMTZvA8iFgI,clip_0034,eMTZvA8iFgI/clip_0034.mp4,153.480,158.310,4.830,"also because the amount we send is very, very little, we're sending a dose that's actually safe"
+eMTZvA8iFgI,clip_0035,eMTZvA8iFgI/clip_0035.mp4,158.310,163.020,4.710,"to inject in a human inside a body. So for the public, there's no hazard."
+eMTZvA8iFgI,clip_0036,eMTZvA8iFgI/clip_0036.mp4,163.020,167.700,4.680,"If we drive up the street, it would take about 10, 15 minutes."
+eMTZvA8iFgI,clip_0037,eMTZvA8iFgI/clip_0037.mp4,167.700,172.170,4.470,"But if we shoot through the Rabbit Line, it only takes a little bit over two minutes."
+eMTZvA8iFgI,clip_0038,eMTZvA8iFgI/clip_0038.mp4,172.170,175.890,3.720,And it's more reliable. And we don't need to stop at stop signs!
+eMTZvA8iFgI,clip_0039,eMTZvA8iFgI/clip_0039.mp4,175.890,180.120,4.230,"About 2½ minutes later, the capsule arrives here at the University Hospital."
+eMTZvA8iFgI,clip_0040,eMTZvA8iFgI/clip_0040.mp4,180.120,183.600,3.480,"But that does raise the question, when the capsule is going that fast,"
+eMTZvA8iFgI,clip_0041,eMTZvA8iFgI/clip_0041.mp4,183.600,188.040,4.440,"how does it stop in the right place every time? When it's close to the end,"
+eMTZvA8iFgI,clip_0042,eMTZvA8iFgI/clip_0042.mp4,188.040,192.750,4.710,"about 10 meters to the end, there is a vent. So you will lose the pressure from the compressed air."
+eMTZvA8iFgI,clip_0043,eMTZvA8iFgI/clip_0043.mp4,192.750,195.840,3.090,"And also, the front, the air is compressed,"
+eMTZvA8iFgI,clip_0044,eMTZvA8iFgI/clip_0044.mp4,195.840,198.930,3.090,so it serve as a buffer to slow down the rabbit as well.
+eMTZvA8iFgI,clip_0045,eMTZvA8iFgI/clip_0045.mp4,198.930,202.890,3.960,And that which allows the rabbit to drop safely at hospital.
+eMTZvA8iFgI,clip_0046,eMTZvA8iFgI/clip_0046.mp4,202.890,207.300,4.410,That isn't the same capsule. It's a 10-minute drive away. The Rabbit Line is incredibly fast.
+eMTZvA8iFgI,clip_0047,eMTZvA8iFgI/clip_0047.mp4,207.300,212.430,5.130,"Which leaves the big question, why? Well, what's being sent are radiopharmaceuticals,"
+eMTZvA8iFgI,clip_0048,eMTZvA8iFgI/clip_0048.mp4,212.430,217.020,4.590,slightly radioactive stuff that here is meant for research in medicine.
+eMTZvA8iFgI,clip_0049,eMTZvA8iFgI/clip_0049.mp4,217.020,222.000,4.980,"Obviously, I'm not filming any research subjects here, but the staff let me know what sort of thing this can be used for."
+eMTZvA8iFgI,clip_0050,eMTZvA8iFgI/clip_0050.mp4,222.000,227.940,5.940,"When this radioactive substance decays, it emits gamma rays, which we detect."
+eMTZvA8iFgI,clip_0051,eMTZvA8iFgI/clip_0051.mp4,227.940,232.230,4.290,"In doing that, we can then reconstruct the image."
+eMTZvA8iFgI,clip_0052,eMTZvA8iFgI/clip_0052.mp4,232.230,236.880,4.650,You can actually see how the brain works without really getting into the brain.
+eMTZvA8iFgI,clip_0053,eMTZvA8iFgI/clip_0053.mp4,236.880,240.870,3.990,"A very, very important picture that you couldn't get otherwise."
+eMTZvA8iFgI,clip_0054,eMTZvA8iFgI/clip_0054.mp4,240.870,245.640,4.770,"By definition, they cannot have any pharmacological effect on the body."
+eMTZvA8iFgI,clip_0055,eMTZvA8iFgI/clip_0055.mp4,245.640,250.170,4.530,"If we were to inject anything that changes the system, we're not looking at the system."
+eMTZvA8iFgI,clip_0056,eMTZvA8iFgI/clip_0056.mp4,250.170,253.760,3.590,"We're looking at the system as modified. In Parkinson's disease,"
+eMTZvA8iFgI,clip_0057,eMTZvA8iFgI/clip_0057.mp4,253.760,259.680,5.920,"by the time you have clinical symptoms, the brain is already very, very damaged."
+eMTZvA8iFgI,clip_0058,eMTZvA8iFgI/clip_0058.mp4,259.680,264.240,4.560,"That's why we observe populations at risk. And then, of course, we've done some studies"
+eMTZvA8iFgI,clip_0059,eMTZvA8iFgI/clip_0059.mp4,264.240,269.240,5.000,"in psychiatry, mood disorders, in dementia, addiction."
+eMTZvA8iFgI,clip_0060,eMTZvA8iFgI/clip_0060.mp4,269.730,274.320,4.590,"The discovery that there is a neurochemical placebo effect,"
+eMTZvA8iFgI,clip_0061,eMTZvA8iFgI/clip_0061.mp4,274.320,278.910,4.590,a neurotransmitter release when people were expecting
+eMTZvA8iFgI,clip_0062,eMTZvA8iFgI/clip_0062.mp4,278.910,283.290,4.380,"some benefit of a drug, even when a drug was not given."
+eMTZvA8iFgI,clip_0063,eMTZvA8iFgI/clip_0063.mp4,283.290,287.340,4.050,"It turns out, around the world, quite a few hospitals have their own particle accelerators,"
+eMTZvA8iFgI,clip_0064,eMTZvA8iFgI/clip_0064.mp4,287.340,290.550,3.210,"maybe for diagnosis, maybe for treatment, maybe like here, for research."
+eMTZvA8iFgI,clip_0065,eMTZvA8iFgI/clip_0065.mp4,290.550,294.030,3.480,Although they do normally use a slightly less dramatic way of transporting the results.
+eMTZvA8iFgI,clip_0066,eMTZvA8iFgI/clip_0066.mp4,294.030,297.510,3.480,"Which left me with two questions. No one could answer the first,"
+eMTZvA8iFgI,clip_0067,eMTZvA8iFgI/clip_0067.mp4,297.510,301.020,3.510,"which is why it's called the Rabbit Line. Apparently, no one here knows."
+eMTZvA8iFgI,clip_0068,eMTZvA8iFgI/clip_0068.mp4,301.020,305.580,4.560,"But the second one was, how do they get the rabbits back to the start?"
+eMTZvA8iFgI,clip_0069,eMTZvA8iFgI/clip_0069.mp4,305.580,310.683,5.103,"Drive it, we pick it up or they send it over. Old-school!"

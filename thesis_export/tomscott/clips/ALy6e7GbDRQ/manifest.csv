@@ -1,0 +1,155 @@
+video_id,clip_id,path,start,end,dur,text
+ALy6e7GbDRQ,clip_0000,ALy6e7GbDRQ/clip_0000.mp4,0.080,4.240,4.160,The polling site for this\h video was powered by Fasthosts. UK viewers can enter\h their competition to win
+ALy6e7GbDRQ,clip_0001,ALy6e7GbDRQ/clip_0001.mp4,4.240,9.040,4.800,"a tech bundle and dream PC\h setup worth up to £5,000. There's a link in the description,"
+ALy6e7GbDRQ,clip_0002,ALy6e7GbDRQ/clip_0002.mp4,9.040,14.160,5.120,and a question at the end of the video. This isn't the first time that\h this question's been asked.
+ALy6e7GbDRQ,clip_0003,ALy6e7GbDRQ/clip_0003.mp4,14.160,17.840,3.680,"Several web projects have\h tried to answer it before, some are still running,\h and some are defunct."
+ALy6e7GbDRQ,clip_0004,ALy6e7GbDRQ/clip_0004.mp4,17.840,23.680,5.840,"And the question itself has\h been used as a punchline, asked by an inept, self-obsessed\h radio DJ character."
+ALy6e7GbDRQ,clip_0005,ALy6e7GbDRQ/clip_0005.mp4,23.680,26.000,2.320,"""What is... the best thing?"""
+ALy6e7GbDRQ,clip_0006,ALy6e7GbDRQ/clip_0006.mp4,26.960,30.400,3.440,Of course there isn't a meaningful\h answer to that question. Of course.
+ALy6e7GbDRQ,clip_0007,ALy6e7GbDRQ/clip_0007.mp4,30.400,34.880,4.480,"But I think there are\h some really interesting\h\h challenges in trying to\h find an answer anyway,"
+ALy6e7GbDRQ,clip_0008,ALy6e7GbDRQ/clip_0008.mp4,34.880,37.920,3.040,and the results can reveal a\h lot more than you might think.
+ALy6e7GbDRQ,clip_0009,ALy6e7GbDRQ/clip_0009.mp4,38.720,42.640,3.920,"The first problem is\h trying to list everything. I know it's an obvious\h thing to say, but:"
+ALy6e7GbDRQ,clip_0010,ALy6e7GbDRQ/clip_0010.mp4,42.640,46.960,4.320,there are a lot of\h things in the universe. So let's reduce the scope to\h\h
+ALy6e7GbDRQ,clip_0011,ALy6e7GbDRQ/clip_0011.mp4,46.960,50.080,3.120,"""everything that most people\h could form an opinion about""."
+ALy6e7GbDRQ,clip_0012,ALy6e7GbDRQ/clip_0012.mp4,50.640,56.160,5.520,"How do you get a list\h of everything like that? Well, the starting point is Wikidata."
+ALy6e7GbDRQ,clip_0013,ALy6e7GbDRQ/clip_0013.mp4,56.160,59.680,3.520,"Everything that has a Wikipedia\h article also has an entry in Wikidata,"
+ALy6e7GbDRQ,clip_0014,ALy6e7GbDRQ/clip_0014.mp4,59.680,63.600,3.920,"but so does every category of things,\h\h every property that\h something might have,"
+ALy6e7GbDRQ,clip_0015,ALy6e7GbDRQ/clip_0015.mp4,63.600,66.960,3.360,and every link and connection\h between all of those.
+ALy6e7GbDRQ,clip_0016,ALy6e7GbDRQ/clip_0016.mp4,66.960,72.560,5.600,And it's all designed to\h be processed by computers. So I figured I'd start\h by downloading it.
+ALy6e7GbDRQ,clip_0017,ALy6e7GbDRQ/clip_0017.mp4,72.560,77.600,5.040,"More than a terabyte of\hdata, more than 88 million things exhaustively described."
+ALy6e7GbDRQ,clip_0018,ALy6e7GbDRQ/clip_0018.mp4,78.480,84.080,5.600,"And most of those things\h are not interesting. More than that, they're going to\h be a mystery to almost everyone."
+ALy6e7GbDRQ,clip_0019,ALy6e7GbDRQ/clip_0019.mp4,84.080,86.720,2.640,"Every named location in the\hworld no matter how obscure,"
+ALy6e7GbDRQ,clip_0020,ALy6e7GbDRQ/clip_0020.mp4,86.720,90.800,4.080,"every species and genus of animal,\h enormous numbers of scholarly articles."
+ALy6e7GbDRQ,clip_0021,ALy6e7GbDRQ/clip_0021.mp4,90.800,95.360,4.560,"If you show most of those to people\h and ask them to form an opinion,"
+ALy6e7GbDRQ,clip_0022,ALy6e7GbDRQ/clip_0022.mp4,95.360,99.920,4.560,"the answer isn't just\h going to be ""I don't know"": it'll be ""I don't care""."
+ALy6e7GbDRQ,clip_0023,ALy6e7GbDRQ/clip_0023.mp4,99.920,105.200,5.280,So I had to filter\h those 88 million things. And the first steps were\h actually kind of easy.
+ALy6e7GbDRQ,clip_0024,ALy6e7GbDRQ/clip_0024.mp4,105.200,107.440,2.240,"First, I removed all\h listings for people."
+ALy6e7GbDRQ,clip_0025,ALy6e7GbDRQ/clip_0025.mp4,107.440,112.000,4.560,"We're ranking things, so someone\h else can do ""who is the best person"". You're welcome to that."
+ALy6e7GbDRQ,clip_0026,ALy6e7GbDRQ/clip_0026.mp4,112.000,115.680,3.680,"But I just removed any item that\h was tagged with Q5, ""human""."
+ALy6e7GbDRQ,clip_0027,ALy6e7GbDRQ/clip_0027.mp4,115.680,120.640,4.960,"And that's good, that's a good start. Also, I removed all listings for\h groups of people, because: yikes."
+ALy6e7GbDRQ,clip_0028,ALy6e7GbDRQ/clip_0028.mp4,121.200,126.080,4.880,"Next, places. If you're doing\h ""what is the best thing"", no country or river or\hbuilding is ever going to win,"
+ALy6e7GbDRQ,clip_0029,ALy6e7GbDRQ/clip_0029.mp4,126.080,129.760,3.680,"it'll get voted down by political\hrivalries or people elsewhere\h who've never heard of it,"
+ALy6e7GbDRQ,clip_0030,ALy6e7GbDRQ/clip_0030.mp4,129.760,134.560,4.800,"so if the item was tagged\h with a latitude and longitude, it also got thrown out."
+ALy6e7GbDRQ,clip_0031,ALy6e7GbDRQ/clip_0031.mp4,134.560,139.040,4.480,"Also, anything tagged as\h fictional got removed too: not works of art themselves,\h\h"
+ALy6e7GbDRQ,clip_0032,ALy6e7GbDRQ/clip_0032.mp4,139.040,141.840,2.800,but characters and events\h that aren't part of reality.
+ALy6e7GbDRQ,clip_0033,ALy6e7GbDRQ/clip_0033.mp4,142.400,145.440,3.040,That still left an\h enormous number of items.
+ALy6e7GbDRQ,clip_0034,ALy6e7GbDRQ/clip_0034.mp4,145.440,148.640,3.200,"But we're only looking for things\h that most people will know about,"
+ALy6e7GbDRQ,clip_0035,ALy6e7GbDRQ/clip_0035.mp4,148.640,150.480,1.840,and there's a really\h good metric for that:
+ALy6e7GbDRQ,clip_0036,ALy6e7GbDRQ/clip_0036.mp4,150.480,155.920,5.440,I kept anything that had a\hWikipedia article in at least fifty different languages.
+ALy6e7GbDRQ,clip_0037,ALy6e7GbDRQ/clip_0037.mp4,155.920,160.320,4.400,"I tried different thresholds for that, but fifty seemed to have\h the right balance where"
+ALy6e7GbDRQ,clip_0038,ALy6e7GbDRQ/clip_0038.mp4,160.320,164.240,3.920,almost everything that remained\h would be recognisable to most people.
+ALy6e7GbDRQ,clip_0039,ALy6e7GbDRQ/clip_0039.mp4,164.800,171.440,6.640,"And that brought it down to 8,850\hthings. Which is a managable number."
+ALy6e7GbDRQ,clip_0040,ALy6e7GbDRQ/clip_0040.mp4,172.400,175.520,3.120,But there was no way to\h automate the last part.
+ALy6e7GbDRQ,clip_0041,ALy6e7GbDRQ/clip_0041.mp4,175.520,180.320,4.800,I had to manually check through all\h those thousands of things to find\h\h
+ALy6e7GbDRQ,clip_0042,ALy6e7GbDRQ/clip_0042.mp4,180.320,185.280,4.960,"the bad ones. Not just things that most people\h would vote against because they're\h\h unpleasant or harmful,"
+ALy6e7GbDRQ,clip_0043,ALy6e7GbDRQ/clip_0043.mp4,185.280,189.760,4.480,but things that no-one should be asking\h about in a lighthearted web poll.
+ALy6e7GbDRQ,clip_0044,ALy6e7GbDRQ/clip_0044.mp4,189.760,194.640,4.880,"Crimes against the person. A couple of disturbing things that were\h just listed as ""rituals""."
+ALy6e7GbDRQ,clip_0045,ALy6e7GbDRQ/clip_0045.mp4,194.640,197.920,3.280,Anything to do with the Nazis.\h Which it turns out is quite a lot.
+ALy6e7GbDRQ,clip_0046,ALy6e7GbDRQ/clip_0046.mp4,197.920,201.680,3.760,They kept showing up under\h apparently-innocent categories?
+ALy6e7GbDRQ,clip_0047,ALy6e7GbDRQ/clip_0047.mp4,201.680,205.520,3.840,"Like, eugenics was just\h tagged as ""social philosophy""."
+ALy6e7GbDRQ,clip_0048,ALy6e7GbDRQ/clip_0048.mp4,205.520,208.000,2.480,"Mein Kampf, just listed\h as ""written work""."
+ALy6e7GbDRQ,clip_0049,ALy6e7GbDRQ/clip_0049.mp4,208.000,213.200,5.200,"Unless you kept constantly vigilant\h for them, they kept trying to sneak in."
+ALy6e7GbDRQ,clip_0050,ALy6e7GbDRQ/clip_0050.mp4,214.160,218.160,4.000,Then there were the dull\h groups of things that could\h\h be summed up in a single entry instead.
+ALy6e7GbDRQ,clip_0051,ALy6e7GbDRQ/clip_0051.mp4,218.160,222.000,3.840,"Every time zone. Every language, every\h country's flag and national anthem."
+ALy6e7GbDRQ,clip_0052,ALy6e7GbDRQ/clip_0052.mp4,222.000,224.720,2.720,Every individual book\h of every religious text.
+ALy6e7GbDRQ,clip_0053,ALy6e7GbDRQ/clip_0053.mp4,224.720,230.000,5.280,"A lot of mythological figures who\hweren't tagged as either ""human""\hor ""fictional""."
+ALy6e7GbDRQ,clip_0054,ALy6e7GbDRQ/clip_0054.mp4,230.640,235.920,5.280,"Hundreds of generic names of galaxies-- ""Okay, you know what? I talked\h about that for far too long."
+ALy6e7GbDRQ,clip_0055,ALy6e7GbDRQ/clip_0055.mp4,235.920,239.520,3.600,"""Let's just say I removed the boring\h ones, okay? There were a lot of them. ""Let's skip forward."""
+ALy6e7GbDRQ,clip_0056,ALy6e7GbDRQ/clip_0056.mp4,239.520,244.640,5.120,"And then, there was the vandalism. All of which has since been corrected,\h but in the snapshot I downloaded,"
+ALy6e7GbDRQ,clip_0057,ALy6e7GbDRQ/clip_0057.mp4,244.640,250.000,5.360,"someone had replaced the title of\h ""graphics"" with ""Pro player de fifa"""
+ALy6e7GbDRQ,clip_0058,ALy6e7GbDRQ/clip_0058.mp4,250.000,253.920,3.920,"and the description of\h ""worm"" with ""dog go fishing""."
+ALy6e7GbDRQ,clip_0059,ALy6e7GbDRQ/clip_0059.mp4,253.920,257.520,3.600,"Also, ""pipe organ"" was described as\h ""wind instrument that causes cancer""."
+ALy6e7GbDRQ,clip_0060,ALy6e7GbDRQ/clip_0060.mp4,257.520,261.600,4.080,"So there's someone out there who\h really, really doesn't like pipe organs."
+ALy6e7GbDRQ,clip_0061,ALy6e7GbDRQ/clip_0061.mp4,262.320,266.720,4.400,"When all was done: 7,188 things."
+ALy6e7GbDRQ,clip_0062,ALy6e7GbDRQ/clip_0062.mp4,266.720,270.000,3.280,"I knew it wasn't going to be perfect, people would still find\hmistakes, and they did."
+ALy6e7GbDRQ,clip_0063,ALy6e7GbDRQ/clip_0063.mp4,270.560,274.880,4.320,But it was good enough. It was time\h to ask the world which was best.
+ALy6e7GbDRQ,clip_0064,ALy6e7GbDRQ/clip_0064.mp4,276.560,280.880,4.320,"One of the best approaches\h for ranking items in a list is to show them to people two at a time,"
+ALy6e7GbDRQ,clip_0065,ALy6e7GbDRQ/clip_0065.mp4,280.880,286.000,5.120,"and then ask them to pick\h the best of each random pair. The best ones will be\h consistently voted for,"
+ALy6e7GbDRQ,clip_0066,ALy6e7GbDRQ/clip_0066.mp4,286.000,290.000,4.000,"and the worst ones voted against. And as long as you have\h enough votes in total,"
+ALy6e7GbDRQ,clip_0067,ALy6e7GbDRQ/clip_0067.mp4,290.000,295.840,5.840,you don't need to keep track\h of all the different pairings: just the total number of wins\h and losses for each item.
+ALy6e7GbDRQ,clip_0068,ALy6e7GbDRQ/clip_0068.mp4,295.840,299.600,3.760,"Now, I've written code\h to do that before, so I just reused it, put\h a quick site together,\h\h"
+ALy6e7GbDRQ,clip_0069,ALy6e7GbDRQ/clip_0069.mp4,299.600,300.960,1.360,and launched it out on Twitter.
+ALy6e7GbDRQ,clip_0070,ALy6e7GbDRQ/clip_0070.mp4,301.920,306.080,4.160,My code broke immediately\h because I'd forgotten to change\h\h
+ALy6e7GbDRQ,clip_0071,ALy6e7GbDRQ/clip_0071.mp4,306.080,311.360,5.280,"one line before going live, I fixed it within a minute or so while\h a hundred people rushed to tweet me"
+ALy6e7GbDRQ,clip_0072,ALy6e7GbDRQ/clip_0072.mp4,311.360,314.160,2.800,about something I obviously\h already knew about. Anyway. So.
+ALy6e7GbDRQ,clip_0073,ALy6e7GbDRQ/clip_0073.mp4,314.160,318.880,4.720,"Five hours and more than\h 1.2 million votes later,"
+ALy6e7GbDRQ,clip_0074,ALy6e7GbDRQ/clip_0074.mp4,318.880,324.480,5.600,"the order of items had settled down, and I closed the poll before anyone\h wrote code to try and break it."
+ALy6e7GbDRQ,clip_0075,ALy6e7GbDRQ/clip_0075.mp4,324.480,327.680,3.200,"Now, you'll remember that each\h pairing was randomly chosen."
+ALy6e7GbDRQ,clip_0076,ALy6e7GbDRQ/clip_0076.mp4,327.680,331.840,4.160,"That means some items had more match-ups\h than others, just through sheer luck."
+ALy6e7GbDRQ,clip_0077,ALy6e7GbDRQ/clip_0077.mp4,331.840,335.200,3.360,"The outliers were ""mold"", which was in 125 match-ups,"
+ALy6e7GbDRQ,clip_0078,ALy6e7GbDRQ/clip_0078.mp4,335.200,340.800,5.600,"and ""canal"", which was in 236. There was the expected\h distribution between those."
+ALy6e7GbDRQ,clip_0079,ALy6e7GbDRQ/clip_0079.mp4,340.800,344.080,3.280,"So, at this point, we\h had ranked everything."
+ALy6e7GbDRQ,clip_0080,ALy6e7GbDRQ/clip_0080.mp4,345.920,351.120,5.200,I don't want to spend too much\h time on the bottom of the list. It's a lot of nasty diseases\h and unpleasant concepts.
+ALy6e7GbDRQ,clip_0081,ALy6e7GbDRQ/clip_0081.mp4,351.120,356.400,5.280,Also one of the Twilight movies. I will say that The Worst\h Thing... is Lyme disease.
+ALy6e7GbDRQ,clip_0082,ALy6e7GbDRQ/clip_0082.mp4,356.400,360.400,4.000,"I've no idea why. It did significantly worse than everything\helse, by a good margin."
+ALy6e7GbDRQ,clip_0083,ALy6e7GbDRQ/clip_0083.mp4,360.400,364.640,4.240,"Maybe, statistically, out\h of the thousands of items, one had to get a lot\h of unlucky matchups?"
+ALy6e7GbDRQ,clip_0084,ALy6e7GbDRQ/clip_0084.mp4,364.640,369.040,4.400,"But, honestly, it is a really\h long way below any other item."
+ALy6e7GbDRQ,clip_0085,ALy6e7GbDRQ/clip_0085.mp4,369.040,373.920,4.880,"""Coronavirus"", also fairly low. And anything religious did\h quite poorly, which makes sense:"
+ALy6e7GbDRQ,clip_0086,ALy6e7GbDRQ/clip_0086.mp4,373.920,378.240,4.320,"if you're not religious\h you're rarely going to\h\h vote for anything to do with faith, and if you are religious\h\h"
+ALy6e7GbDRQ,clip_0087,ALy6e7GbDRQ/clip_0087.mp4,378.240,382.000,3.760,you're hardly ever going to vote\h anything other than your own faith.
+ALy6e7GbDRQ,clip_0088,ALy6e7GbDRQ/clip_0088.mp4,382.000,384.320,2.320,"In hindsight, I should have\h done something like consolidate"
+ALy6e7GbDRQ,clip_0089,ALy6e7GbDRQ/clip_0089.mp4,384.320,388.240,3.920,"all the entries for faiths into\h one just called ""religion""."
+ALy6e7GbDRQ,clip_0090,ALy6e7GbDRQ/clip_0090.mp4,388.240,391.360,3.120,Which I'm sure wouldn't have\h caused me any problems at all.
+ALy6e7GbDRQ,clip_0091,ALy6e7GbDRQ/clip_0091.mp4,391.360,394.720,3.360,"Anyway. The best things. First, let's be clear:\h\h"
+ALy6e7GbDRQ,clip_0092,ALy6e7GbDRQ/clip_0092.mp4,394.720,397.520,2.800,these are the results as voted by\h the people who follow me on Twitter.
+ALy6e7GbDRQ,clip_0093,ALy6e7GbDRQ/clip_0093.mp4,397.520,401.520,4.000,"This is about ""the best thing""\h as decided by, if we're honest,"
+ALy6e7GbDRQ,clip_0094,ALy6e7GbDRQ/clip_0094.mp4,401.520,405.440,3.920,"a group of English-speaking,\h extremely-online nerds."
+ALy6e7GbDRQ,clip_0095,ALy6e7GbDRQ/clip_0095.mp4,405.440,409.520,4.080,"However, that's also going to be a lot\h of the people who watch this video, so, I think it's fair to say,\h\h"
+ALy6e7GbDRQ,clip_0096,ALy6e7GbDRQ/clip_0096.mp4,409.520,413.440,3.920,as voted by you: here are\h the top ten best things.
+ALy6e7GbDRQ,clip_0097,ALy6e7GbDRQ/clip_0097.mp4,413.440,418.560,5.120,"At number 10, privacy. And ranked above privacy,\h at number 9, pizza."
+ALy6e7GbDRQ,clip_0098,ALy6e7GbDRQ/clip_0098.mp4,418.560,422.800,4.240,Is pizza better or more important\h than privacy?
+ALy6e7GbDRQ,clip_0099,ALy6e7GbDRQ/clip_0099.mp4,422.800,426.400,3.600,"...but pizza is more likely to win a\h match-up, and that's what counts here!"
+ALy6e7GbDRQ,clip_0100,ALy6e7GbDRQ/clip_0100.mp4,426.400,429.520,3.120,"By the way, the next highest\h food was ice cream, at number 43,"
+ALy6e7GbDRQ,clip_0101,ALy6e7GbDRQ/clip_0101.mp4,429.520,433.120,3.600,"and while that could imply that my audience have the palates of\hfive-year-olds,"
+ALy6e7GbDRQ,clip_0102,ALy6e7GbDRQ/clip_0102.mp4,433.120,436.640,3.520,"I think it's more that, while those\h may not be everyone's favourite foods,"
+ALy6e7GbDRQ,clip_0103,ALy6e7GbDRQ/clip_0103.mp4,436.640,439.840,3.200,"there are very few people\h who actively dislike them,"
+ALy6e7GbDRQ,clip_0104,ALy6e7GbDRQ/clip_0104.mp4,439.840,442.960,3.120,so they'll win a lot of generic\h match-ups just because of that.
+ALy6e7GbDRQ,clip_0105,ALy6e7GbDRQ/clip_0105.mp4,442.960,446.160,3.200,"The next items up: knowledge,\h creativity and logic."
+ALy6e7GbDRQ,clip_0106,ALy6e7GbDRQ/clip_0106.mp4,446.160,450.800,4.640,"The foundations of human thought. Given\hmy audience, that makes a lot of sense."
+ALy6e7GbDRQ,clip_0107,ALy6e7GbDRQ/clip_0107.mp4,450.800,455.360,4.560,At number 5: hugs. Which Wikidata clinically describes as\h\h
+ALy6e7GbDRQ,clip_0108,ALy6e7GbDRQ/clip_0108.mp4,455.360,458.800,3.440,"""a form of endearment,\h universal in human communities""."
+ALy6e7GbDRQ,clip_0109,ALy6e7GbDRQ/clip_0109.mp4,459.440,463.760,4.320,"Granted, it's 2020 as\h this video goes out, so they're less universal than\h they perhaps should be right now,"
+ALy6e7GbDRQ,clip_0110,ALy6e7GbDRQ/clip_0110.mp4,463.760,465.280,1.520,but that's still lovely.
+ALy6e7GbDRQ,clip_0111,ALy6e7GbDRQ/clip_0111.mp4,465.840,470.000,4.160,Then we get to three items that I\h honestly wasn't expecting to be so high.
+ALy6e7GbDRQ,clip_0112,ALy6e7GbDRQ/clip_0112.mp4,470.000,475.200,5.200,"At number 4: gravity. Sure, it's essential for\h the entire universe to work,"
+ALy6e7GbDRQ,clip_0113,ALy6e7GbDRQ/clip_0113.mp4,475.200,478.400,3.200,"I just didn't expect it to beat\h ""hugs"". And then, at number 3..."
+ALy6e7GbDRQ,clip_0114,ALy6e7GbDRQ/clip_0114.mp4,479.040,484.400,5.360,"...the Earth's magnetic field. Like I said, extremely-online nerds."
+ALy6e7GbDRQ,clip_0115,ALy6e7GbDRQ/clip_0115.mp4,484.400,486.560,2.160,"Because, again, yes,\h essential for life to exist,"
+ALy6e7GbDRQ,clip_0116,ALy6e7GbDRQ/clip_0116.mp4,486.560,491.280,4.720,"but just to be clear, ""air"" and ""fresh\h water"" only just made the top 25,"
+ALy6e7GbDRQ,clip_0117,ALy6e7GbDRQ/clip_0117.mp4,491.280,494.080,2.800,and somehow the Earth's\h magnetic field is at number 3.
+ALy6e7GbDRQ,clip_0118,ALy6e7GbDRQ/clip_0118.mp4,494.080,497.360,3.280,And it's at this point that I really\h start to doubt my own methodology.
+ALy6e7GbDRQ,clip_0119,ALy6e7GbDRQ/clip_0119.mp4,497.360,503.280,5.920,Because at number two is electricity. I do realise that using an\h electronic device to run this poll
+ALy6e7GbDRQ,clip_0120,ALy6e7GbDRQ/clip_0120.mp4,503.280,508.240,4.960,"does give that a certain\h advantage, but again, should that really be higher than air?"
+ALy6e7GbDRQ,clip_0121,ALy6e7GbDRQ/clip_0121.mp4,509.520,515.120,5.600,"Before we get to the best thing, though, here are some other interesting\h results in specific categories:"
+ALy6e7GbDRQ,clip_0122,ALy6e7GbDRQ/clip_0122.mp4,515.120,521.120,6.000,"the best part of the body is the brain. ""Space"" and ""time"" both fought and won\h exactly the same number of match-ups,"
+ALy6e7GbDRQ,clip_0123,ALy6e7GbDRQ/clip_0123.mp4,521.120,527.040,5.920,"they landed in joint 36th place. Despite there being quite a few\h things about sex in the list,"
+ALy6e7GbDRQ,clip_0124,ALy6e7GbDRQ/clip_0124.mp4,527.040,532.640,5.600,"none of them got near the top 50. ""Okay, okay, I should have checked more\h than the top 50 before recording this,"
+ALy6e7GbDRQ,clip_0125,ALy6e7GbDRQ/clip_0125.mp4,532.640,536.480,3.840,"""'cos it turns out that the\h highest-rated sex thing is 'orgasm',"
+ALy6e7GbDRQ,clip_0126,ALy6e7GbDRQ/clip_0126.mp4,536.480,540.000,3.520,"""and it got to number 69, and I\h swear I'm not making that up."""
+ALy6e7GbDRQ,clip_0127,ALy6e7GbDRQ/clip_0127.mp4,540.000,544.960,4.960,"The best creatures are bees, then\h emperor penguins, then hedgehogs."
+ALy6e7GbDRQ,clip_0128,ALy6e7GbDRQ/clip_0128.mp4,544.960,548.720,3.760,"The best colours are black, then\h blue, and the worst is brown."
+ALy6e7GbDRQ,clip_0129,ALy6e7GbDRQ/clip_0129.mp4,548.720,552.000,3.280,"Love doesn't even make it into\h the top 100, it's down at 137,"
+ALy6e7GbDRQ,clip_0130,ALy6e7GbDRQ/clip_0130.mp4,552.000,557.680,5.680,"next to Vitamin C and cryptography, and if that doesn't prove my audience\h isn't representative of the wider world,"
+ALy6e7GbDRQ,clip_0131,ALy6e7GbDRQ/clip_0131.mp4,557.680,560.800,3.120,"I don't know what does. Actually, I do know what does,\h\h"
+ALy6e7GbDRQ,clip_0132,ALy6e7GbDRQ/clip_0132.mp4,560.800,564.080,3.280,"heterosexuality lost more\h than 50% of its match-ups,"
+ALy6e7GbDRQ,clip_0133,ALy6e7GbDRQ/clip_0133.mp4,564.080,567.920,3.840,while bisexuality was ranked\h only one item below doctors.
+ALy6e7GbDRQ,clip_0134,ALy6e7GbDRQ/clip_0134.mp4,567.920,571.600,3.680,"Yes, it is ridiculous to try\h and rank everything like this."
+ALy6e7GbDRQ,clip_0135,ALy6e7GbDRQ/clip_0135.mp4,571.600,574.960,3.360,"But the results do reveal things\h about this group of people,"
+ALy6e7GbDRQ,clip_0136,ALy6e7GbDRQ/clip_0136.mp4,574.960,580.880,5.920,about the folks who tend\h to watch videos like this. And perhaps the most revealing\h thing is what placed first.
+ALy6e7GbDRQ,clip_0137,ALy6e7GbDRQ/clip_0137.mp4,580.880,583.920,3.040,"It doesn't just tell you about the\h needs and desires of this audience,"
+ALy6e7GbDRQ,clip_0138,ALy6e7GbDRQ/clip_0138.mp4,583.920,589.280,5.360,"it's also something about\h the times we're living in. If we weren't in what seems\h to be such a rough year,"
+ALy6e7GbDRQ,clip_0139,ALy6e7GbDRQ/clip_0139.mp4,589.280,592.960,3.680,"if I were giving this talk to a live\h audience, like I originally planned to,"
+ALy6e7GbDRQ,clip_0140,ALy6e7GbDRQ/clip_0140.mp4,592.960,597.520,4.560,"instead of a standing in\h front of a green screen and talking to a camera in a tiny apartment,"
+ALy6e7GbDRQ,clip_0141,ALy6e7GbDRQ/clip_0141.mp4,597.520,600.400,2.880,"well, then, in that case maybe the\h results would have been different."
+ALy6e7GbDRQ,clip_0142,ALy6e7GbDRQ/clip_0142.mp4,600.960,605.520,4.560,"But the best thing, according\h to this audience in mid-2020:"
+ALy6e7GbDRQ,clip_0143,ALy6e7GbDRQ/clip_0143.mp4,605.520,610.080,4.560,"the best thing is... sleep. Have a good night, folks."
+ALy6e7GbDRQ,clip_0144,ALy6e7GbDRQ/clip_0144.mp4,610.080,615.520,5.440,"I ran the polling site for\h this video on Fasthosts, a web hosting company with more\h than twenty years' experience."
+ALy6e7GbDRQ,clip_0145,ALy6e7GbDRQ/clip_0145.mp4,615.520,619.520,4.000,"Their dedicated servers can have up\hto 10Gbps connectivity\hand unlimited bandwidth,"
+ALy6e7GbDRQ,clip_0146,ALy6e7GbDRQ/clip_0146.mp4,619.520,623.280,3.760,and their CloudNX platform\h\h lets you configure and\h scale your hosting hardware
+ALy6e7GbDRQ,clip_0147,ALy6e7GbDRQ/clip_0147.mp4,623.280,628.000,4.720,in real time with no upfront costs. All of their servers and\h engineers are based in the UK.
+ALy6e7GbDRQ,clip_0148,ALy6e7GbDRQ/clip_0148.mp4,628.000,632.160,4.160,"And if you are too, then you can go the\h link on screen or in the description"
+ALy6e7GbDRQ,clip_0149,ALy6e7GbDRQ/clip_0149.mp4,632.160,635.760,3.600,to enter their competition to win\h a tech bundle and dream PC setup\h\h
+ALy6e7GbDRQ,clip_0150,ALy6e7GbDRQ/clip_0150.mp4,635.760,641.200,5.440,"worth up to £5,000. If you can answer the techie test\h question they asked me to write."
+ALy6e7GbDRQ,clip_0151,ALy6e7GbDRQ/clip_0151.mp4,641.200,644.720,3.520,Which is: what's the HTTP\h response code for 'OK'?
+ALy6e7GbDRQ,clip_0152,ALy6e7GbDRQ/clip_0152.mp4,645.280,646.880,1.600,"Terms and conditions\h are over on their site,"
+ALy6e7GbDRQ,clip_0153,ALy6e7GbDRQ/clip_0153.mp4,646.880,659.840,12.960,the closing date is 31st\h October 2020: good luck!

@@ -1,0 +1,15 @@
+===== B4 on bbc_dark03 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+Load pretrained model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[20/91] WER so far 28.81%  (2.1s)
+[40/91] WER so far 26.84%  (2.5s)
+[60/91] WER so far 28.91%  (3.0s)
+[80/91] WER so far 30.44%  (3.6s)
+==================================================
+B4  bbc_dark03
+clips: 91   failed: 0   WER: 30.13%
+mean seconds/clip: 3.164
+saved: /root/autodl-tmp/results_v2/B4_bbc_dark03.csv
+==================================================

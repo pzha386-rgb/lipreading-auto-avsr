@@ -1,0 +1,14 @@
+defaults:
+  - dataset: default
+  - channel: grayscale
+  - crop_type: mouth
+frames_per_gpu_val: 500
+noise_path:
+lrs2_video_dir:
+lrs2_audio_dir:
+lrs3_video_dir:
+lrs3_audio_dir:
+vox2_video_dir:
+vox2_audio_dir:
+avsp_video_dir:
+avsp_audio_dir:

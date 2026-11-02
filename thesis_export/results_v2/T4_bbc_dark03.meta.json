@@ -1,0 +1,26 @@
+{
+  "model_id": "T4",
+  "dataset": "bbc_dark03",
+  "ckpt": "/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2_large_ftlrs3trainvalvox2_selftrain.pth",
+  "lm": "",
+  "lm_weight": null,
+  "beam": 40,
+  "gpu_decode": true,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 3029,
+  "total_seconds": 291.6,
+  "n_clips": 91,
+  "errors": 558,
+  "n_words": 1374,
+  "wer": 40.61,
+  "mean_seconds": 3.189,
+  "n_failed": 0
+}

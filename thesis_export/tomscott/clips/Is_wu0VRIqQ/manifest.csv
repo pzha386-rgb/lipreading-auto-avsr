@@ -1,0 +1,109 @@
+video_id,clip_id,path,start,end,dur,text
+Is_wu0VRIqQ,clip_0000,Is_wu0VRIqQ/clip_0000.mp4,0.120,5.520,5.400,I’m going to show you two very short adverts. My question is: which is louder?
+Is_wu0VRIqQ,clip_0001,Is_wu0VRIqQ/clip_0001.mp4,6.300,12.284,5.984,This video is sponsored by NordVPN. THIS VIDEO IS SPONSORED BY NORDVPN!
+Is_wu0VRIqQ,clip_0002,Is_wu0VRIqQ/clip_0002.mp4,12.780,17.760,4.980,"Here’s the volume of the nice, calm one. The second one? With the shouting, the background noise, the music?"
+Is_wu0VRIqQ,clip_0003,Is_wu0VRIqQ/clip_0003.mp4,17.760,21.900,4.140,"If you’re measuring volume purely by decibels,"
+Is_wu0VRIqQ,clip_0004,Is_wu0VRIqQ/clip_0004.mp4,21.900,26.520,4.620,"then it was lower. But it definitely sounded louder. To explain that,"
+Is_wu0VRIqQ,clip_0005,Is_wu0VRIqQ/clip_0005.mp4,26.520,30.840,4.320,we need to start at the beginning: what does it mean for something to be loud?
+Is_wu0VRIqQ,clip_0006,Is_wu0VRIqQ/clip_0006.mp4,31.800,35.640,3.840,"Let’s say a tree falls in the forest. The tree causes the air to move,"
+Is_wu0VRIqQ,clip_0007,Is_wu0VRIqQ/clip_0007.mp4,35.640,39.420,3.780,"both by pushing it out the way, but also by the tree and the things around it"
+Is_wu0VRIqQ,clip_0008,Is_wu0VRIqQ/clip_0008.mp4,39.420,44.700,5.280,vibrating as they deal with all the forces involved. Those vibrations are transferred into the air.
+Is_wu0VRIqQ,clip_0009,Is_wu0VRIqQ/clip_0009.mp4,44.700,48.300,3.600,"The actual air itself is not travelling from the crashing tree to your ears,"
+Is_wu0VRIqQ,clip_0010,Is_wu0VRIqQ/clip_0010.mp4,48.300,52.380,4.080,but rather it’s a wave caused by air molecules bumping into each other.
+Is_wu0VRIqQ,clip_0011,Is_wu0VRIqQ/clip_0011.mp4,52.380,56.280,3.900,"And if you’re standing nearby, then bits of that wave get funnelled"
+Is_wu0VRIqQ,clip_0012,Is_wu0VRIqQ/clip_0012.mp4,56.280,59.220,2.940,"by the flappy bit of your ear, the pinna, into your ear canal."
+Is_wu0VRIqQ,clip_0013,Is_wu0VRIqQ/clip_0013.mp4,59.220,62.640,3.420,"The waves get to your eardrum, and it vibrates in turn,"
+Is_wu0VRIqQ,clip_0014,Is_wu0VRIqQ/clip_0014.mp4,62.640,67.440,4.800,"just a tiny, tiny amount. Behind it, there’s the three smallest bones in the human body:"
+Is_wu0VRIqQ,clip_0015,Is_wu0VRIqQ/clip_0015.mp4,67.440,71.700,4.260,"the hammer, anvil, and stirrup. They amplify those vibrations through leverage,"
+Is_wu0VRIqQ,clip_0016,Is_wu0VRIqQ/clip_0016.mp4,71.700,75.660,3.960,"and deliver these vibrations into the cochlea, shaped like a snail shell,"
+Is_wu0VRIqQ,clip_0017,Is_wu0VRIqQ/clip_0017.mp4,75.660,80.520,4.860,which converts it into electrical impulses that get interpreted by the brain.
+Is_wu0VRIqQ,clip_0018,Is_wu0VRIqQ/clip_0018.mp4,80.520,83.940,3.420,"If you ask a physicist, those air movements are sound."
+Is_wu0VRIqQ,clip_0019,Is_wu0VRIqQ/clip_0019.mp4,83.940,88.860,4.920,"Ask a psychologist, and they’ll say that until those movements get interpreted by the brain,"
+Is_wu0VRIqQ,clip_0020,Is_wu0VRIqQ/clip_0020.mp4,88.860,93.120,4.260,"it’s just stuff moving, because sound is in your head, it’s an experience."
+Is_wu0VRIqQ,clip_0021,Is_wu0VRIqQ/clip_0021.mp4,93.120,95.820,2.700,"If the tree falls in the forest and no-one’s there to listen,"
+Is_wu0VRIqQ,clip_0022,Is_wu0VRIqQ/clip_0022.mp4,95.820,99.780,3.960,"a physicist says there’s sound, a psychologist says there isn’t."
+Is_wu0VRIqQ,clip_0023,Is_wu0VRIqQ/clip_0023.mp4,99.780,104.400,4.620,"And both of them are correct because they’re using the same word to mean different things,"
+Is_wu0VRIqQ,clip_0024,Is_wu0VRIqQ/clip_0024.mp4,104.400,107.940,3.540,which is part of why it takes so long to answer
+Is_wu0VRIqQ,clip_0025,Is_wu0VRIqQ/clip_0025.mp4,107.940,111.660,3.720,what seems like a simple question. So. Let’s talk about that wave.
+Is_wu0VRIqQ,clip_0026,Is_wu0VRIqQ/clip_0026.mp4,111.660,116.040,4.380,"It’s got two important values: the amount of pressure for each peak, the amplitude;"
+Is_wu0VRIqQ,clip_0027,Is_wu0VRIqQ/clip_0027.mp4,116.040,121.080,5.040,"and the time between each peak arriving, the frequency. We’ll start with the amplitude."
+Is_wu0VRIqQ,clip_0028,Is_wu0VRIqQ/clip_0028.mp4,121.080,125.580,4.500,"Pressure is measured in pascals, and regular air at about sea level"
+Is_wu0VRIqQ,clip_0029,Is_wu0VRIqQ/clip_0029.mp4,125.580,129.240,3.660,"has a pressure of somewhere around 100,000 pascals:"
+Is_wu0VRIqQ,clip_0030,Is_wu0VRIqQ/clip_0030.mp4,129.240,132.600,3.360,that’s the weight of all the atmosphere above pushing down.
+Is_wu0VRIqQ,clip_0031,Is_wu0VRIqQ/clip_0031.mp4,132.600,135.960,3.360,Our ears can detect a fluctuation of about 20 micropascals.
+Is_wu0VRIqQ,clip_0032,Is_wu0VRIqQ/clip_0032.mp4,135.960,140.520,4.560,"A whisper in your ear would be about 2 millipascals, and traffic noise about 200 millipascals."
+Is_wu0VRIqQ,clip_0033,Is_wu0VRIqQ/clip_0033.mp4,140.520,145.800,5.280,"And someone screaming at the top of their voice, directly into your ear, is around 20 pascals,"
+Is_wu0VRIqQ,clip_0034,Is_wu0VRIqQ/clip_0034.mp4,145.800,148.680,2.880,which is well into the sorts of pressure that can cause hearing loss.
+Is_wu0VRIqQ,clip_0035,Is_wu0VRIqQ/clip_0035.mp4,150.000,154.020,4.020,"Okay, as you might have noticed, that’s not a particularly useful graph,"
+Is_wu0VRIqQ,clip_0036,Is_wu0VRIqQ/clip_0036.mp4,154.020,159.360,5.340,"because the differences in scale are enormous, even if we get rid of the ambient pressure at the top."
+Is_wu0VRIqQ,clip_0037,Is_wu0VRIqQ/clip_0037.mp4,159.360,164.220,4.860,"So instead, let’s use a logarithmic scale, which means that each block going vertically"
+Is_wu0VRIqQ,clip_0038,Is_wu0VRIqQ/clip_0038.mp4,164.220,168.060,3.840,"is ten times the previous one. That’s much clearer: just remember,"
+Is_wu0VRIqQ,clip_0039,Is_wu0VRIqQ/clip_0039.mp4,168.060,171.900,3.840,"this is a 10 times jump in pressure, and so’s this, and so’s this."
+Is_wu0VRIqQ,clip_0040,Is_wu0VRIqQ/clip_0040.mp4,171.900,177.060,5.160,"That’s how decibels work. That minimum that humans can detect, 20 micropascals,"
+Is_wu0VRIqQ,clip_0041,Is_wu0VRIqQ/clip_0041.mp4,177.060,182.280,5.220,"is taken as 0 bels, and then each 10-times increase in pressure adds two bels,"
+Is_wu0VRIqQ,clip_0042,Is_wu0VRIqQ/clip_0042.mp4,182.280,187.140,4.860,"and we generally use tenths of those, so each 10-times increase is another 20 decibels."
+Is_wu0VRIqQ,clip_0043,Is_wu0VRIqQ/clip_0043.mp4,187.140,190.800,3.660,"And I know, a load of sound engineers and techies are already in the comments"
+Is_wu0VRIqQ,clip_0044,Is_wu0VRIqQ/clip_0044.mp4,190.800,194.940,4.140,"going “no, no, each ten times increase is 10 decibels, you fool!”"
+Is_wu0VRIqQ,clip_0045,Is_wu0VRIqQ/clip_0045.mp4,194.940,198.060,3.120,and here’s reason two why this is so difficult to answer:
+Is_wu0VRIqQ,clip_0046,Is_wu0VRIqQ/clip_0046.mp4,198.060,202.620,4.560,"there are multiple decibel scales! Because sound engineers talk about intensity,"
+Is_wu0VRIqQ,clip_0047,Is_wu0VRIqQ/clip_0047.mp4,202.620,206.640,4.020,"the amount of power transmitted, not the amount of actual pressure on your eardrum,"
+Is_wu0VRIqQ,clip_0048,Is_wu0VRIqQ/clip_0048.mp4,206.640,211.260,4.620,"those two things are proportional, and look, it doesn’t matter for this,"
+Is_wu0VRIqQ,clip_0049,Is_wu0VRIqQ/clip_0049.mp4,211.260,214.980,3.720,"just …blame mathematicians, okay? The important thing is:"
+Is_wu0VRIqQ,clip_0050,Is_wu0VRIqQ/clip_0050.mp4,214.980,219.360,4.380,your brain doesn’t interpret “ten times more change in pressure”
+Is_wu0VRIqQ,clip_0051,Is_wu0VRIqQ/clip_0051.mp4,219.360,224.340,4.980,"to mean “ten times as loud”. Sure, traffic noise feels louder than a whisper,"
+Is_wu0VRIqQ,clip_0052,Is_wu0VRIqQ/clip_0052.mp4,224.340,228.720,4.380,but I don’t think many people would guess that the amplitude is a hundred times more pressure.
+Is_wu0VRIqQ,clip_0053,Is_wu0VRIqQ/clip_0053.mp4,228.720,233.460,4.740,"That’s why we use decibels, a logarithmic scale matches how we think about sound."
+Is_wu0VRIqQ,clip_0054,Is_wu0VRIqQ/clip_0054.mp4,234.240,238.920,4.680,Hold that thought. That’s amplitude dealt with. Next is frequency. And that’s easy to define:
+Is_wu0VRIqQ,clip_0055,Is_wu0VRIqQ/clip_0055.mp4,238.920,241.680,2.760,"it’s just the number of peaks per second, or ‘hertz’."
+Is_wu0VRIqQ,clip_0056,Is_wu0VRIqQ/clip_0056.mp4,241.680,245.940,4.260,"The human ear can detect roughly from 20 Hz through to 20,000 Hz,"
+Is_wu0VRIqQ,clip_0057,Is_wu0VRIqQ/clip_0057.mp4,245.940,251.220,5.280,"although that starts to decrease as people get older. The sound wave is going to be much more complex, of course,"
+Is_wu0VRIqQ,clip_0058,Is_wu0VRIqQ/clip_0058.mp4,251.220,256.440,5.220,"it’s usually not transmitting just a single frequency, but let’s not get into the maths of that too much!"
+Is_wu0VRIqQ,clip_0059,Is_wu0VRIqQ/clip_0059.mp4,257.040,262.260,5.220,"We’re particularly sensitive to the range between 2,000 and 5,000 Hz,"
+Is_wu0VRIqQ,clip_0060,Is_wu0VRIqQ/clip_0060.mp4,262.260,265.620,3.360,which means our brains perceive those frequencies as being louder.
+Is_wu0VRIqQ,clip_0061,Is_wu0VRIqQ/clip_0061.mp4,265.620,270.000,4.380,"In 1933, Harvey Fletcher and Wilden A. Munson published this,"
+Is_wu0VRIqQ,clip_0062,Is_wu0VRIqQ/clip_0062.mp4,270.540,273.780,3.240,which became known as the Fletcher-Munson curve.
+Is_wu0VRIqQ,clip_0063,Is_wu0VRIqQ/clip_0063.mp4,273.780,279.240,5.460,They played different sounds at different levels and noted how their test subjects perceived that sound.
+Is_wu0VRIqQ,clip_0064,Is_wu0VRIqQ/clip_0064.mp4,279.240,282.120,2.880,"The curve has been updated and refined over time,"
+Is_wu0VRIqQ,clip_0065,Is_wu0VRIqQ/clip_0065.mp4,282.120,285.540,3.420,and now it’s usually called the Equal Loudness Contour.
+Is_wu0VRIqQ,clip_0066,Is_wu0VRIqQ/clip_0066.mp4,286.140,289.740,3.600,So if you want this tone... and this tone...
+Is_wu0VRIqQ,clip_0067,Is_wu0VRIqQ/clip_0067.mp4,290.400,293.880,3.480,"to feel as loud as each other, you need to play the low one…"
+Is_wu0VRIqQ,clip_0068,Is_wu0VRIqQ/clip_0068.mp4,293.880,299.040,5.160,"I want to say louder, but that’s not right. You’d need to play the low one with greater amplitude."
+Is_wu0VRIqQ,clip_0069,Is_wu0VRIqQ/clip_0069.mp4,299.040,302.400,3.360,"And of course, science has a measuring system for this too."
+Is_wu0VRIqQ,clip_0070,Is_wu0VRIqQ/clip_0070.mp4,302.400,305.940,3.540,"Audio engineers and broadcast companies came up with LUFS,"
+Is_wu0VRIqQ,clip_0071,Is_wu0VRIqQ/clip_0071.mp4,305.940,311.640,5.700,"Loudness Units Full Scale. The calculations for this take the loudness contour into account,"
+Is_wu0VRIqQ,clip_0072,Is_wu0VRIqQ/clip_0072.mp4,311.640,314.040,2.400,along with how long the loud sounds last.
+Is_wu0VRIqQ,clip_0073,Is_wu0VRIqQ/clip_0073.mp4,314.040,318.000,3.960,"LUFS are a scientific way to measure how loud something should feel,"
+Is_wu0VRIqQ,clip_0074,Is_wu0VRIqQ/clip_0074.mp4,318.000,323.580,5.580,"not how much the air happens to be moving. If you’re making a video for YouTube or Netflix,"
+Is_wu0VRIqQ,clip_0075,Is_wu0VRIqQ/clip_0075.mp4,323.580,327.180,3.600,"or music for Spotify or iTunes, there are guides for you to follow."
+Is_wu0VRIqQ,clip_0076,Is_wu0VRIqQ/clip_0076.mp4,327.180,330.360,3.180,YouTube asks you to aim for -14 LUFS
+Is_wu0VRIqQ,clip_0077,Is_wu0VRIqQ/clip_0077.mp4,330.360,333.420,3.060,"– the units are kinda arbitrary, it’s just a number."
+Is_wu0VRIqQ,clip_0078,Is_wu0VRIqQ/clip_0078.mp4,333.420,339.180,5.760,"If you upload something that’s louder than that, they’ll just turn the player’s volume setting down automatically,"
+Is_wu0VRIqQ,clip_0079,Is_wu0VRIqQ/clip_0079.mp4,339.180,344.400,5.220,"in the background, so people don’t suddenly get startled if one video or music track is louder than another."
+Is_wu0VRIqQ,clip_0080,Is_wu0VRIqQ/clip_0080.mp4,344.400,348.420,4.020,"So that means if you’re making a movie or a TV show,"
+Is_wu0VRIqQ,clip_0081,Is_wu0VRIqQ/clip_0081.mp4,348.420,353.100,4.680,"and you want your loud sounds to have impact, you can’t turn them up above the limit,"
+Is_wu0VRIqQ,clip_0082,Is_wu0VRIqQ/clip_0082.mp4,353.100,356.400,3.300,you have to turn the dialog and speech and all the other sounds down.
+Is_wu0VRIqQ,clip_0083,Is_wu0VRIqQ/clip_0083.mp4,356.400,359.160,2.760,"Not too much, that’ll also cause problems, but enough"
+Is_wu0VRIqQ,clip_0084,Is_wu0VRIqQ/clip_0084.mp4,359.160,363.480,4.320,"that when the big explosion happens, it’s noticeable. It's audible."
+Is_wu0VRIqQ,clip_0085,Is_wu0VRIqQ/clip_0085.mp4,364.020,367.500,3.480,"But advertisers don’t need or want the nuance, they just want to be heard,"
+Is_wu0VRIqQ,clip_0086,Is_wu0VRIqQ/clip_0086.mp4,367.500,370.320,2.820,they usually want to be as loud as they can be throughout.
+Is_wu0VRIqQ,clip_0087,Is_wu0VRIqQ/clip_0087.mp4,370.920,375.060,4.140,"The European Union specifies -23 LUFS as its target for broadcasters,"
+Is_wu0VRIqQ,clip_0088,Is_wu0VRIqQ/clip_0088.mp4,375.060,377.880,2.820,to try and keep adverts and programmes at the same loudness.
+Is_wu0VRIqQ,clip_0089,Is_wu0VRIqQ/clip_0089.mp4,377.880,382.830,4.950,The US has no specific guidelines but says that broadcasters should try to match the two –
+Is_wu0VRIqQ,clip_0090,Is_wu0VRIqQ/clip_0090.mp4,382.830,385.860,3.030,"although that rule is rarely, if ever, enforced."
+Is_wu0VRIqQ,clip_0091,Is_wu0VRIqQ/clip_0091.mp4,385.860,390.240,4.380,All of which is to say that the whisper of that first advert?
+Is_wu0VRIqQ,clip_0092,Is_wu0VRIqQ/clip_0092.mp4,390.240,395.340,5.100,"The sound waves had higher amplitude, your eardrum will have vibrated further back and forth."
+Is_wu0VRIqQ,clip_0093,Is_wu0VRIqQ/clip_0093.mp4,395.340,400.200,4.860,"But it didn’t feel as loud. There were more decibels, but fewer LUFS."
+Is_wu0VRIqQ,clip_0094,Is_wu0VRIqQ/clip_0094.mp4,400.200,403.537,3.337,"And these days, it’s the LUFS that matter."
+Is_wu0VRIqQ,clip_0095,Is_wu0VRIqQ/clip_0095.mp4,404.119,408.000,3.881,SERIOUSLY. THIS NORDVPN ADVERT HAS LOWER SOUND PRESSURE
+Is_wu0VRIqQ,clip_0096,Is_wu0VRIqQ/clip_0096.mp4,408.000,411.360,3.360,than this one does. AND I’M HAPPY TO ENDORSE NORDVPN
+Is_wu0VRIqQ,clip_0097,Is_wu0VRIqQ/clip_0097.mp4,411.360,416.460,5.100,because I keep finding it actually useful. SOME AMERICAN SITES BLOCK EUROPEAN VISITORS ENTIRELY
+Is_wu0VRIqQ,clip_0098,Is_wu0VRIqQ/clip_0098.mp4,416.460,420.840,4.380,because they can’t be bothered to deal with the privacy laws over here. Or maybe you want to access content
+Is_wu0VRIqQ,clip_0099,Is_wu0VRIqQ/clip_0099.mp4,420.840,423.894,3.054,"WITHOUT YOUR INTERNET PROVIDER, OR YOUR SCHOOL, BEING ABLE TO TRACK"
+Is_wu0VRIqQ,clip_0100,Is_wu0VRIqQ/clip_0100.mp4,423.894,429.021,5.127,WHICH WEBSITES YOU’RE CONNECTING TO. OR MAYBE YOU JUST WANT TO PRETEND YOU’RE IN ANOTHER COUNTRY
+Is_wu0VRIqQ,clip_0101,Is_wu0VRIqQ/clip_0101.mp4,429.021,433.920,4.899,SO YOU CAN WATCH STUFF FROM THERE. Just check the streaming service’s terms and conditions first.
+Is_wu0VRIqQ,clip_0102,Is_wu0VRIqQ/clip_0102.mp4,433.920,438.699,4.779,"NORDVPN’S MAGIC BUTTON LETS YOU PRETEND YOU’RE IN ONE OF AROUND 60 COUNTRIES,"
+Is_wu0VRIqQ,clip_0103,Is_wu0VRIqQ/clip_0103.mp4,438.699,442.758,4.059,"on your phone, tablet, and computer, UP TO SIX DEVICES AT A TIME."
+Is_wu0VRIqQ,clip_0104,Is_wu0VRIqQ/clip_0104.mp4,442.758,445.680,2.922,And there’s a 30-day money-back guarantee if you want to test it out.
+Is_wu0VRIqQ,clip_0105,Is_wu0VRIqQ/clip_0105.mp4,445.680,449.580,3.900,"YOU CAN GO TO nordvpn.com/tomscott, CLICK THE LINK IN THE DESCRIPTION,"
+Is_wu0VRIqQ,clip_0106,Is_wu0VRIqQ/clip_0106.mp4,449.580,453.300,3.720,or scan the QR code to find the best deal they’re currently offering.
+Is_wu0VRIqQ,clip_0107,Is_wu0VRIqQ/clip_0107.mp4,453.300,460.369,7.069,"MY VOICE IS TIRED. Also, it's really hot out here."

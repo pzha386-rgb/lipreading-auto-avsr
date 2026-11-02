@@ -1,0 +1,26 @@
+===== S4 on bbc =====
+官方配置 LRS3_V_WER32.3: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.0
+模型: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth
+语言模型: None
+参数量: 52.5 M
+[1/5] WER so far 26.32%  (5.90s)
+   REF: when you put english text into a computer it is saving every individual character as eight bits of data
+   HYP: when you put english texts into a computer it is saving every individual characters and bits of nata
+[2/5] WER so far 37.50%  (1.91s)
+   REF: eight ones and zeros i mean they re not actually ones and zeros
+   HYP: one zeros i mean they don t actually want zeros
+[3/5] WER so far 38.78%  (4.20s)
+   REF: they re particular positions of atoms on a disk or a few electrons going over a wire
+   HYP: are particular positions of atoms on a denser a few electrons going overwhelmed
+[4/5] WER so far 37.31%  (4.31s)
+   REF: but as far as we re concerned in the computer science world they are ones and zeros bits
+   HYP: far as we concerned in the computer science world they are one zeros beat
+[5/5] WER so far 34.57%  (3.53s)
+   REF: and yes a modern phone or computer might store a few quadrillion of them
+   HYP: and yet on a phone or computer might store a few quadrillion of them
+==================================================
+S4  bbc
+clips: 5   failed: 0   WER: 34.57%
+mean seconds/clip: 3.971
+saved: /root/autodl-tmp/results_v2/S4_bbc_limit5.csv
+==================================================

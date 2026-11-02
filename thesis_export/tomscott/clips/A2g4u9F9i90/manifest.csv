@@ -1,0 +1,48 @@
+video_id,clip_id,path,start,end,dur,text
+A2g4u9F9i90,clip_0000,A2g4u9F9i90/clip_0000.mp4,0.040,5.240,5.200,"Years ago, I made two videos on strange elevators that go both horizontally and vertically."
+A2g4u9F9i90,clip_0001,A2g4u9F9i90/clip_0001.mp4,5.240,8.640,3.400,"The first was in Genoa, Italy. It's a little cabin that travels along a tunnel"
+A2g4u9F9i90,clip_0002,A2g4u9F9i90/clip_0002.mp4,8.640,14.080,5.440,which then gets loaded into a regular vertical elevator. The second is in a test tower in Rottweil in Germany.
+A2g4u9F9i90,clip_0003,A2g4u9F9i90/clip_0003.mp4,14.080,17.920,3.840,"It uses fancy, complicated locking mechanisms and linear induction motors."
+A2g4u9F9i90,clip_0004,A2g4u9F9i90/clip_0004.mp4,17.920,22.800,4.880,But the key thing about both those designs is: they come to a complete stop when changing direction.
+A2g4u9F9i90,clip_0005,A2g4u9F9i90/clip_0005.mp4,22.800,28.800,6.000,"Because of how elevators work, safely and smoothly transitioning from horizontal to vertical just isn't possible."
+A2g4u9F9i90,clip_0006,A2g4u9F9i90/clip_0006.mp4,28.800,32.520,3.720,Or at least I thought so. But it turns out that the Schmid Peoplemover
+A2g4u9F9i90,clip_0007,A2g4u9F9i90/clip_0007.mp4,32.520,35.920,3.400,has been doing exactly that for about 20 years.
+A2g4u9F9i90,clip_0008,A2g4u9F9i90/clip_0008.mp4,35.920,38.920,3.000,Only three of these have ever actually been installed. Only two of them still exist.
+A2g4u9F9i90,clip_0009,A2g4u9F9i90/clip_0009.mp4,38.920,41.880,2.960,"This is the larger one, at a train station in Altbach, Germany."
+A2g4u9F9i90,clip_0010,A2g4u9F9i90/clip_0010.mp4,41.880,45.920,4.040,"It took me a long time to understand how this works, and how it works safely."
+A2g4u9F9i90,clip_0011,A2g4u9F9i90/clip_0011.mp4,45.920,50.800,4.880,I had to hire an engineering consultant to look at the original patents and break it down for me.
+A2g4u9F9i90,clip_0012,A2g4u9F9i90/clip_0012.mp4,50.800,54.760,3.960,"And also, with the help of a producer in Germany... I tracked down the inventor."
+A2g4u9F9i90,clip_0013,A2g4u9F9i90/clip_0013.mp4,98.200,102.040,3.840,"This cabin isn't being pulled by cables, the motor is in the cabin itself,"
+A2g4u9F9i90,clip_0014,A2g4u9F9i90/clip_0014.mp4,102.040,105.240,3.200,it pulls itself along by turning a pair of cogs up top
+A2g4u9F9i90,clip_0015,A2g4u9F9i90/clip_0015.mp4,105.240,110.320,5.080,"that sit on rack rails, one on each side of the cabin. So this is basically a cog railway."
+A2g4u9F9i90,clip_0016,A2g4u9F9i90/clip_0016.mp4,110.320,114.880,4.560,"A very fancy one with anti-shake devices, but a suspended cog railway."
+A2g4u9F9i90,clip_0017,A2g4u9F9i90/clip_0017.mp4,114.880,118.080,3.200,And that explains the smooth transition to vertical at the top: the cogs just
+A2g4u9F9i90,clip_0018,A2g4u9F9i90/clip_0018.mp4,118.080,121.840,3.760,"follow the rails as they curve. But how does it do this safely,"
+A2g4u9F9i90,clip_0019,A2g4u9F9i90/clip_0019.mp4,121.840,125.240,3.400,"and then travel vertically without, you know, falling to the ground?"
+A2g4u9F9i90,clip_0020,A2g4u9F9i90/clip_0020.mp4,125.240,128.720,3.480,"Well, like the elevator in Genoa, it does get a bit of help on the vertical part."
+A2g4u9F9i90,clip_0021,A2g4u9F9i90/clip_0021.mp4,128.720,133.760,5.040,"It locks onto a carrier device and a counterweight, with safety systems that are roughly equivalent to a regular elevator."
+A2g4u9F9i90,clip_0022,A2g4u9F9i90/clip_0022.mp4,133.760,137.760,4.000,The carrier is what you can see start moving through the window
+A2g4u9F9i90,clip_0023,A2g4u9F9i90/clip_0023.mp4,137.760,142.000,4.240,"as you transition to vertical movement. And meanwhile, down on the bottom, the counterweight"
+A2g4u9F9i90,clip_0024,A2g4u9F9i90/clip_0024.mp4,142.000,145.760,3.760,"sits on calibrated springs, so that as this cabin started to transfer to vertical,"
+A2g4u9F9i90,clip_0025,A2g4u9F9i90/clip_0025.mp4,145.760,150.000,4.240,the counterweight gently lifted away from the springs... and everything balanced.
+A2g4u9F9i90,clip_0026,A2g4u9F9i90/clip_0026.mp4,150.000,155.720,5.720,There is an elegant but also quite complicated docking and undocking mechanism up there in the roof of the cabin and the carrier.
+A2g4u9F9i90,clip_0027,A2g4u9F9i90/clip_0027.mp4,155.720,158.680,2.960,The closest analogy I can come up with is that it's a bit like closing
+A2g4u9F9i90,clip_0028,A2g4u9F9i90/clip_0028.mp4,158.680,162.000,3.320,an up-and-over garage door. Everything just sort of slides into place.
+A2g4u9F9i90,clip_0029,A2g4u9F9i90/clip_0029.mp4,204.320,207.760,3.440,"It's a wonderful design, but it's also complicated."
+A2g4u9F9i90,clip_0030,A2g4u9F9i90/clip_0030.mp4,207.760,212.720,4.960,"And the alternative is to put in an underpass, or two mass-produced elevators and a footbridge between them."
+A2g4u9F9i90,clip_0031,A2g4u9F9i90/clip_0031.mp4,212.720,216.160,3.440,"Because if one of those elevators breaks down, well, it can be fixed"
+A2g4u9F9i90,clip_0032,A2g4u9F9i90/clip_0032.mp4,216.160,219.520,3.360,by any qualified technician using off-the-shelf parts instead of someone
+A2g4u9F9i90,clip_0033,A2g4u9F9i90/clip_0033.mp4,219.520,223.080,3.560,who has to be specially trained for this one rare bit of equipment.
+A2g4u9F9i90,clip_0034,A2g4u9F9i90/clip_0034.mp4,223.080,226.400,3.320,"And if you have a footbridge, you probably also have stairs."
+A2g4u9F9i90,clip_0035,A2g4u9F9i90/clip_0035.mp4,226.400,232.360,5.960,"So if one of those elevators breaks down, there's a backup. It doesn't work for everyone, but it's better than nothing."
+A2g4u9F9i90,clip_0036,A2g4u9F9i90/clip_0036.mp4,232.360,235.960,3.600,"And that also means that if you are late for your train and physically able,"
+A2g4u9F9i90,clip_0037,A2g4u9F9i90/clip_0037.mp4,235.960,240.880,4.920,"you can just run up, across, and down the footbridge instead of waiting for the Peoplemover to arrive."
+A2g4u9F9i90,clip_0038,A2g4u9F9i90/clip_0038.mp4,240.880,243.880,3.000,"Now, that said, there are advantages to this system."
+A2g4u9F9i90,clip_0039,A2g4u9F9i90/clip_0039.mp4,243.880,246.960,3.080,It requires much less land than a regular footbridge does.
+A2g4u9F9i90,clip_0040,A2g4u9F9i90/clip_0040.mp4,246.960,251.520,4.560,"It doesn't need tunneling like an underpass. And if you have heavy or bulky bags, well, you don't have to"
+A2g4u9F9i90,clip_0041,A2g4u9F9i90/clip_0041.mp4,251.520,256.520,5.000,"haul them in and out of multiple elevators and across the footbridge, it just takes them across for you."
+A2g4u9F9i90,clip_0042,A2g4u9F9i90/clip_0042.mp4,288.920,292.240,3.320,"I think there is a possible world in which this design became popular,"
+A2g4u9F9i90,clip_0043,A2g4u9F9i90/clip_0043.mp4,292.240,296.560,4.320,"and the parts became off-the-shelf, and this became the standard."
+A2g4u9F9i90,clip_0044,A2g4u9F9i90/clip_0044.mp4,296.560,300.880,4.320,I don't think it's a bad invention. It's very clever. It solves a specific problem.
+A2g4u9F9i90,clip_0045,A2g4u9F9i90/clip_0045.mp4,300.880,306.080,5.200,But when there are more common and more reliable alternatives that are just a bit more hassle to install...
+A2g4u9F9i90,clip_0046,A2g4u9F9i90/clip_0046.mp4,306.080,308.680,2.600,"well, not many places wanted to take the risk."

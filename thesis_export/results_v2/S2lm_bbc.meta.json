@@ -1,0 +1,18 @@
+{
+  "model_id": "S2lm",
+  "dataset": "bbc",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml/LRS3_V_WER19.1/model.pth",
+  "ini": "LRS3_V_WER19.1",
+  "lm": "/root/autodl-tmp/checkpoints/new/LM_autoavsr/lm_en_subword/model.pth",
+  "lm_weight": 0.3,
+  "beam": 40,
+  "params_M": 250.4,
+  "peak_gpu_MB": 1983,
+  "total_seconds": 233.8,
+  "n_clips": 91,
+  "errors": 371,
+  "n_words": 1374,
+  "wer": 27.0,
+  "mean_seconds": 2.554,
+  "n_failed": 0
+}

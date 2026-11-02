@@ -1,0 +1,12 @@
+===== U1 on bbc_speed =====
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+官方解码配置: beam=40 ctc=0.1 penalty=0.0  -> 本次使用 beam=40 ctc=0.1
+参数量: 503.4 M
+[20/21] WER so far 34.24%  (2.12s)
+==================================================
+U1  bbc_speed
+clips: 21   failed: 0   WER: 35.22%
+mean seconds/clip: 2.677
+saved: /root/autodl-tmp/results_v2/U1_bbc_speed.csv
+==================================================

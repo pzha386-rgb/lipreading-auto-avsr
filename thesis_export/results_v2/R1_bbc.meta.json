@@ -1,0 +1,25 @@
+{
+  "model_id": "R1",
+  "dataset": "bbc",
+  "ckpt": "/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2_large_ftlrs3trainvalvox2_selftrain.pth",
+  "lm": "/root/autodl-tmp/checkpoints/raven/rnnlm.model.best",
+  "lm_weight": 0.3,
+  "beam": 40,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 1581,
+  "total_seconds": 1913.5,
+  "n_clips": 91,
+  "errors": 489,
+  "n_words": 1374,
+  "wer": 35.59,
+  "mean_seconds": 21.006,
+  "n_failed": 0
+}

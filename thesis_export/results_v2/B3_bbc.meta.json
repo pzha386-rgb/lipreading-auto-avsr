@@ -1,0 +1,25 @@
+{
+  "model_id": "B3",
+  "dataset": "bbc",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth",
+  "lm": "",
+  "lm_weight": null,
+  "beam": 40,
+  "arch": {
+    "adim": 1024,
+    "eunits": 4096,
+    "elayers": 24,
+    "ddim": 1024,
+    "dunits": 4096,
+    "dlayers": 9
+  },
+  "params_M": 493.7,
+  "peak_gpu_MB": 1581,
+  "total_seconds": 1641.8,
+  "n_clips": 91,
+  "errors": 482,
+  "n_words": 1374,
+  "wer": 35.08,
+  "mean_seconds": 18.025,
+  "n_failed": 0
+}

@@ -1,0 +1,15 @@
+===== S4 on bbc_low25 =====
+官方配置 LRS3_V_WER32.3: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.0
+模型: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth
+语言模型: None
+参数量: 52.5 M
+[20/91] WER so far 49.49%  (10.08s)
+[40/91] WER so far 48.94%  (8.61s)
+[60/91] WER so far 51.70%  (8.70s)
+[80/91] WER so far 51.88%  (13.29s)
+==================================================
+S4  bbc_low25
+clips: 91   failed: 0   WER: 50.73%
+mean seconds/clip: 10.348
+saved: /root/autodl-tmp/results_v2/S4_bbc_low25.csv
+==================================================

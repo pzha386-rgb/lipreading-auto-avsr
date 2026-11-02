@@ -1,0 +1,15 @@
+===== T1 on bbc_dark03 =====
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+参数量: 250.4 M
+[20/91] WER so far 31.53%  (2.69s)
+[40/91] WER so far 26.35%  (2.49s)
+[60/91] WER so far 27.66%  (3.23s)
+[80/91] WER so far 28.23%  (3.97s)
+==================================================
+T1  bbc_dark03
+clips: 91   failed: 0   WER: 28.09%
+mean seconds/clip: 2.982
+saved: /root/autodl-tmp/results_v2/T1_bbc_dark03.csv
+==================================================

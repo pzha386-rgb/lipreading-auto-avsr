@@ -1,0 +1,14 @@
+{
+  "model_id": "T1",
+  "dataset": "bbc_dark03",
+  "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1319,
+  "total_seconds": 272.7,
+  "n_clips": 91,
+  "errors": 386,
+  "n_words": 1374,
+  "wer": 28.09,
+  "mean_seconds": 2.982,
+  "n_failed": 0
+}

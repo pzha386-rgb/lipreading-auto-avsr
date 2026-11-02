@@ -1,0 +1,86 @@
+===== 20:25 阶段 1：BBC 补齐 =====
+编号     数据集        状态
+T1     bbc        已完成，跳过
+T3     bbc        已完成，跳过
+T4     bbc        已完成，跳过
+S0     bbc        权重不存在: /root/autodl-tmp/checkpoints/vsr_trlrs3_base.pth
+S1     bbc        权重不存在: /root/autodl-tmp/checkpoints/vsr_trlrs3vox2_base.pth
+S2     bbc        已完成，跳过
+S2lm   bbc        已完成，跳过
+S4     bbc        已完成，跳过
+S4lm   bbc        已完成，跳过
+S5     bbc        已完成，跳过
+S5lm   bbc        已完成，跳过
+S6     bbc        已完成，跳过
+R1     bbc        已完成，跳过
+R2     bbc        已完成，跳过
+R3     bbc        已完成，跳过
+B1     bbc        已完成，跳过
+B2     bbc        已完成，跳过
+B3     bbc        已完成，跳过
+B4     bbc        已完成，跳过
+B5     bbc        已完成，跳过
+
+并行 4 个任务，每个 2 个 CPU 线程，共 0 个任务
+
+
+========== 本次运行 ==========
+===== 20:25 阶段 2：LRS3 300 段 =====
+编号     数据集        状态
+T1     lrs3_300   待运行
+T3     lrs3_300   待运行
+T4     lrs3_300   待运行
+S0     lrs3_300   权重不存在: /root/autodl-tmp/checkpoints/vsr_trlrs3_base.pth
+S1     lrs3_300   权重不存在: /root/autodl-tmp/checkpoints/vsr_trlrs3vox2_base.pth
+S2     lrs3_300   待运行
+S2lm   lrs3_300   待运行
+S4     lrs3_300   待运行
+S4lm   lrs3_300   待运行
+S5     lrs3_300   待运行
+S5lm   lrs3_300   待运行
+S6     lrs3_300   待运行
+R1     lrs3_300   待运行
+R2     lrs3_300   待运行
+R3     lrs3_300   待运行
+B1     lrs3_300   待运行
+B2     lrs3_300   待运行
+B3     lrs3_300   待运行
+B4     lrs3_300   待运行
+B5     lrs3_300   待运行
+
+并行 4 个任务，每个 2 个 CPU 线程，共 18 个任务
+
+>>> 20:25:15  start T1 on lrs3_300
+>>> 20:25:15  start T3 on lrs3_300
+>>> 20:25:15  start T4 on lrs3_300>>> 20:25:15  start S2 on lrs3_300
+
+<<< 20:35:24  T3 on lrs3_300: OK  10.1 min  WER 25.07%  failed 0
+>>> 20:35:24  start S2lm on lrs3_300
+<<< 20:35:26  T4 on lrs3_300: OK  10.2 min  WER 31.27%  failed 0
+>>> 20:35:26  start S4 on lrs3_300
+<<< 20:35:28  S2 on lrs3_300: OK  10.2 min  WER 25.16%  failed 0
+>>> 20:35:28  start S4lm on lrs3_300
+<<< 20:35:29  T1 on lrs3_300: OK  10.2 min  WER 25.16%  failed 0
+>>> 20:35:29  start S5 on lrs3_300
+<<< 20:46:22  S2lm on lrs3_300: OK  11.0 min  WER 24.15%  failed 1
+>>> 20:46:22  start S5lm on lrs3_300
+<<< 21:02:32  S4 on lrs3_300: OK  27.1 min  WER 41.76%  failed 0
+>>> 21:02:32  start S6 on lrs3_300
+<<< 21:02:51  S5 on lrs3_300: OK  27.4 min  WER 63.46%  failed 0
+>>> 21:02:51  start R1 on lrs3_300
+<<< 21:03:01  R1 on lrs3_300: FAILED (看日志 /root/autodl-tmp/logs/R1_lrs3_300.log)  0.2 min  
+>>> 21:03:01  start R2 on lrs3_300
+<<< 21:06:48  S4lm on lrs3_300: OK  31.3 min  WER 38.64%  failed 4
+>>> 21:06:48  start R3 on lrs3_300
+<<< 21:12:57  S6 on lrs3_300: OK  10.4 min  WER 93.85%  failed 7
+>>> 21:12:57  start B1 on lrs3_300
+<<< 21:13:04  B1 on lrs3_300: FAILED (看日志 /root/autodl-tmp/logs/B1_lrs3_300.log)  0.1 min  
+>>> 21:13:04  start B2 on lrs3_300
+<<< 21:13:14  B2 on lrs3_300: FAILED (看日志 /root/autodl-tmp/logs/B2_lrs3_300.log)  0.2 min  
+>>> 21:13:14  start B3 on lrs3_300
+<<< 21:13:17  R2 on lrs3_300: OK  10.3 min  WER 31.02%  failed 0
+>>> 21:13:17  start B4 on lrs3_300
+<<< 21:13:23  B3 on lrs3_300: FAILED (看日志 /root/autodl-tmp/logs/B3_lrs3_300.log)  0.2 min  
+>>> 21:13:23  start B5 on lrs3_300
+<<< 21:19:46  R3 on lrs3_300: OK  13.0 min  WER 30.55%  failed 4
+<<< 21:19:51  S5lm on lrs3_300: OK  33.5 min  WER 56.68%  failed 6

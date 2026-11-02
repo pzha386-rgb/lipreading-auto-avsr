@@ -1,0 +1,18 @@
+{
+  "model_id": "S4",
+  "dataset": "lrs3",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth",
+  "ini": "LRS3_V_WER32.3",
+  "lm": null,
+  "lm_weight": 0.0,
+  "beam": 40,
+  "params_M": 52.5,
+  "peak_gpu_MB": 1158,
+  "total_seconds": 7020.3,
+  "n_clips": 1321,
+  "errors": 4672,
+  "n_words": 10361,
+  "wer": 45.09,
+  "mean_seconds": 5.311,
+  "n_failed": 0
+}

@@ -1,0 +1,76 @@
+video_id,clip_id,path,start,end,dur,text
+E5HRvQNg4pQ,clip_0000,E5HRvQNg4pQ/clip_0000.mp4,0.000,4.993,4.993,"This video is sponsored by CuriosityStream, and my own Nebula Original series. More on that later."
+E5HRvQNg4pQ,clip_0001,E5HRvQNg4pQ/clip_0001.mp4,4.993,7.920,2.927,I’ve been using a green-screen for my recent computer-science videos.
+E5HRvQNg4pQ,clip_0002,E5HRvQNg4pQ/clip_0002.mp4,7.920,13.120,5.200,"I don’t like using green-screens, I think there’s no substitute for filming in a real physical location,"
+E5HRvQNg4pQ,clip_0003,E5HRvQNg4pQ/clip_0003.mp4,13.120,18.316,5.196,"but I haven't had much choice lately. And some folks, very kindly, said they couldn’t tell,"
+E5HRvQNg4pQ,clip_0004,E5HRvQNg4pQ/clip_0004.mp4,18.316,21.738,3.422,"Now, a lot of that is down to my animator for these videos,"
+E5HRvQNg4pQ,clip_0005,E5HRvQNg4pQ/clip_0005.mp4,21.738,27.730,5.992,but a lot of that is down to some good planning. Big-budget television shows get green-screen wrong. All the time.
+E5HRvQNg4pQ,clip_0006,E5HRvQNg4pQ/clip_0006.mp4,27.730,33.030,5.300,"This clip from 30 Rock looks… dreadful, but it’s difficult to immediately point to why."
+E5HRvQNg4pQ,clip_0007,E5HRvQNg4pQ/clip_0007.mp4,33.030,39.010,5.980,"Well, first of all, there is the key. That’s the term for how the computer works out what’s background and foreground."
+E5HRvQNg4pQ,clip_0008,E5HRvQNg4pQ/clip_0008.mp4,39.010,43.411,4.401,"There are all sorts of settings you can use to tweak this: the exact colour of green it’s looking for,"
+E5HRvQNg4pQ,clip_0009,E5HRvQNg4pQ/clip_0009.mp4,43.411,45.390,1.979,"how close to that green it has to be,"
+E5HRvQNg4pQ,clip_0010,E5HRvQNg4pQ/clip_0010.mp4,45.390,49.780,4.390,"how it deals with colour in the transition between background and foreground,"
+E5HRvQNg4pQ,clip_0011,E5HRvQNg4pQ/clip_0011.mp4,49.780,52.410,2.630,how much it smooths out fine details like hair.
+E5HRvQNg4pQ,clip_0012,E5HRvQNg4pQ/clip_0012.mp4,52.410,57.079,4.669,"Get it wrong, and hair can appear and disappear as someone turns their head."
+E5HRvQNg4pQ,clip_0013,E5HRvQNg4pQ/clip_0013.mp4,57.079,61.590,4.511,But let’s assume that you get a perfect key. It can still look weird.
+E5HRvQNg4pQ,clip_0014,E5HRvQNg4pQ/clip_0014.mp4,61.590,64.519,2.929,"And that’s because if you want convincing green-screen footage,"
+E5HRvQNg4pQ,clip_0015,E5HRvQNg4pQ/clip_0015.mp4,64.519,69.719,5.200,you have to film with a camera that more-or-less matches the one that filmed the background.
+E5HRvQNg4pQ,clip_0016,E5HRvQNg4pQ/clip_0016.mp4,69.719,73.139,3.420,Even for all the technical stuff that most people have no idea about:
+E5HRvQNg4pQ,clip_0017,E5HRvQNg4pQ/clip_0017.mp4,73.139,76.920,3.781,"because even if your viewers have no clue why it looks weird,"
+E5HRvQNg4pQ,clip_0018,E5HRvQNg4pQ/clip_0018.mp4,76.920,82.570,5.650,"they’ll still be able to tell something’s wrong. Before that, though, you have to match the lighting."
+E5HRvQNg4pQ,clip_0019,E5HRvQNg4pQ/clip_0019.mp4,82.570,87.829,5.259,"You’d think this one’s obvious, right? But have a look at this scene from The Big Bang Theory,"
+E5HRvQNg4pQ,clip_0020,E5HRvQNg4pQ/clip_0020.mp4,87.829,92.819,4.990,"who despite being one of the most popular shows in America when this episode aired,"
+E5HRvQNg4pQ,clip_0021,E5HRvQNg4pQ/clip_0021.mp4,92.819,97.200,4.381,apparently couldn’t afford to film at some rocks twenty miles outside Los Angeles.
+E5HRvQNg4pQ,clip_0022,E5HRvQNg4pQ/clip_0022.mp4,97.200,100.009,2.809,"Sure, you could argue it’s a reference to Star Trek"
+E5HRvQNg4pQ,clip_0023,E5HRvQNg4pQ/clip_0023.mp4,100.009,105.889,5.880,"who used to have alien planets filmed on stages with some rocks unconvincingly strewn around, but…"
+E5HRvQNg4pQ,clip_0024,E5HRvQNg4pQ/clip_0024.mp4,105.889,109.319,3.430,I’m not convinced. Anyway: the sun is clearly over there.
+E5HRvQNg4pQ,clip_0025,E5HRvQNg4pQ/clip_0025.mp4,109.319,115.060,5.741,"The rocks are in harsh shadow, there’s haze in the background. And the actors are… lit like they’re on a stage."
+E5HRvQNg4pQ,clip_0026,E5HRvQNg4pQ/clip_0026.mp4,115.060,119.479,4.419,This guy’s head casts a shadow on this guy’s chest in completely the wrong direction.
+E5HRvQNg4pQ,clip_0027,E5HRvQNg4pQ/clip_0027.mp4,119.479,123.270,3.791,"Even if you nail the lighting, you’ve got to get the colour balance right."
+E5HRvQNg4pQ,clip_0028,E5HRvQNg4pQ/clip_0028.mp4,123.270,127.560,4.290,"Daylight has more blue in it, most indoor lights have more orange in them."
+E5HRvQNg4pQ,clip_0029,E5HRvQNg4pQ/clip_0029.mp4,127.560,130.469,2.909,"Screw that up, and the different locations are clear."
+E5HRvQNg4pQ,clip_0030,E5HRvQNg4pQ/clip_0030.mp4,130.469,134.239,3.770,"Next, you’ve got to match the shutter speed."
+E5HRvQNg4pQ,clip_0031,E5HRvQNg4pQ/clip_0031.mp4,134.239,138.870,4.631,"So in this shot, filmed outside under bright sunlight, you can see there’s almost no motion blur,"
+E5HRvQNg4pQ,clip_0032,E5HRvQNg4pQ/clip_0032.mp4,138.870,144.260,5.390,"even on fast-moving vehicles that are passing by. The shutter speed is short: in a thousandth of a second,"
+E5HRvQNg4pQ,clip_0033,E5HRvQNg4pQ/clip_0033.mp4,144.260,147.680,3.420,the camera sensor can get all the light it needs for a clear picture.
+E5HRvQNg4pQ,clip_0034,E5HRvQNg4pQ/clip_0034.mp4,147.680,151.019,3.339,"But I’m indoors right now. I can’t match how bright that sunlight is,"
+E5HRvQNg4pQ,clip_0035,E5HRvQNg4pQ/clip_0035.mp4,151.019,156.260,5.241,"so the camera sensor has to sample for about ten times as long to get a decent picture,"
+E5HRvQNg4pQ,clip_0036,E5HRvQNg4pQ/clip_0036.mp4,156.260,159.100,2.840,which is enough time for me to blur when I move.
+E5HRvQNg4pQ,clip_0037,E5HRvQNg4pQ/clip_0037.mp4,159.100,162.860,3.760,"And if I’m blurred, then the background isn’t,"
+E5HRvQNg4pQ,clip_0038,E5HRvQNg4pQ/clip_0038.mp4,162.860,167.220,4.360,"and then it’s going to look wrong. And that blur is also really difficult to key out as well,"
+E5HRvQNg4pQ,clip_0039,E5HRvQNg4pQ/clip_0039.mp4,167.220,170.780,3.560,but that’s a separate problem. Next up: framing.
+E5HRvQNg4pQ,clip_0040,E5HRvQNg4pQ/clip_0040.mp4,170.780,173.010,2.230,"If the person on screen appears to be hovering in mid-air,"
+E5HRvQNg4pQ,clip_0041,E5HRvQNg4pQ/clip_0041.mp4,173.010,176.859,3.849,"or is shot straight-on while the camera is looking up or down at the background,"
+E5HRvQNg4pQ,clip_0042,E5HRvQNg4pQ/clip_0042.mp4,176.859,180.819,3.960,obviously it’s going to look wrong. But there are more subtle things too.
+E5HRvQNg4pQ,clip_0043,E5HRvQNg4pQ/clip_0043.mp4,180.819,182.800,1.981,"Now, I was really lucky here,"
+E5HRvQNg4pQ,clip_0044,E5HRvQNg4pQ/clip_0044.mp4,182.800,188.127,5.327,I remember how the camera was set up for this original background footage in the computer museum.
+E5HRvQNg4pQ,clip_0045,E5HRvQNg4pQ/clip_0045.mp4,188.127,190.840,2.713,"It was four or five metres away, zoomed in quite a bit,"
+E5HRvQNg4pQ,clip_0046,E5HRvQNg4pQ/clip_0046.mp4,190.840,194.260,3.420,"with the camera positioned just above my eyeline, so I’m looking up a little."
+E5HRvQNg4pQ,clip_0047,E5HRvQNg4pQ/clip_0047.mp4,194.260,197.849,3.589,Means I don’t end up with too much of a double chin.
+E5HRvQNg4pQ,clip_0048,E5HRvQNg4pQ/clip_0048.mp4,197.849,201.849,4.000,But let’s just pause for a moment -- -- okay.
+E5HRvQNg4pQ,clip_0049,E5HRvQNg4pQ/clip_0049.mp4,201.849,206.880,5.031,"The camera is now physically closer but zoomed out. And suddenly, this looks wrong."
+E5HRvQNg4pQ,clip_0050,E5HRvQNg4pQ/clip_0050.mp4,206.880,212.069,5.189,"The same parts of my body are in the shot, in roughly the same positions, but I don’t fit into the background nearly as well."
+E5HRvQNg4pQ,clip_0051,E5HRvQNg4pQ/clip_0051.mp4,212.069,217.916,5.847,This is not how I would look sitting in that chair in the real Museum. I couldn't reach out and nearly touch the camera.
+E5HRvQNg4pQ,clip_0052,E5HRvQNg4pQ/clip_0052.mp4,217.916,222.019,4.103,"People’s faces look different, everything looks different, depending on how close the camera is."
+E5HRvQNg4pQ,clip_0053,E5HRvQNg4pQ/clip_0053.mp4,222.019,227.450,5.431,"In this shot from Guardians of the Galaxy 2, the camera is changing distance and zoom at the same time,"
+E5HRvQNg4pQ,clip_0054,E5HRvQNg4pQ/clip_0054.mp4,227.450,232.980,5.530,and the difference in how the actor’s face looks at the start and end is remarkable.
+E5HRvQNg4pQ,clip_0055,E5HRvQNg4pQ/clip_0055.mp4,232.980,238.540,5.560,"Okay, let’s go back. Okay, that’s better! If you want your green screen to be convincing,"
+E5HRvQNg4pQ,clip_0056,E5HRvQNg4pQ/clip_0056.mp4,238.540,243.620,5.080,"those are just some of the things you’ve got to match. There may be others that I’ve missed, too."
+E5HRvQNg4pQ,clip_0057,E5HRvQNg4pQ/clip_0057.mp4,243.620,246.989,3.369,"But there is another approach, and I’d say it’s a much better idea."
+E5HRvQNg4pQ,clip_0058,E5HRvQNg4pQ/clip_0058.mp4,246.989,251.340,4.351,"Don’t try to be convincing. For those of us who have the creative option,"
+E5HRvQNg4pQ,clip_0059,E5HRvQNg4pQ/clip_0059.mp4,251.340,254.830,3.490,"it’s a lot easier to just acknowledge the green screen, lean into it,"
+E5HRvQNg4pQ,clip_0060,E5HRvQNg4pQ/clip_0060.mp4,254.830,259.230,4.400,and just put something interesting up there instead that isn’t meant to be real.
+E5HRvQNg4pQ,clip_0061,E5HRvQNg4pQ/clip_0061.mp4,259.230,263.620,4.390,"It’s not as good as filming in an actual location, but at least it’s honest."
+E5HRvQNg4pQ,clip_0062,E5HRvQNg4pQ/clip_0062.mp4,263.620,267.210,3.590,I've got an original series over on Nebula. Here's the trailer.
+E5HRvQNg4pQ,clip_0063,E5HRvQNg4pQ/clip_0063.mp4,267.210,271.800,4.590,"""I invited five people to play some games."" I trust no-one. None of us are trustworthy."
+E5HRvQNg4pQ,clip_0064,E5HRvQNg4pQ/clip_0064.mp4,271.800,276.470,4.670,"""In an environment designed to slowly break their team apart."" This is real money."
+E5HRvQNg4pQ,clip_0065,E5HRvQNg4pQ/clip_0065.mp4,276.470,282.120,5.650,"""But all they knew is they'd be sat round a table ""trying to win real cash. $10,000."""
+E5HRvQNg4pQ,clip_0066,E5HRvQNg4pQ/clip_0066.mp4,282.120,287.340,5.220,"The vibe's changed after that theft. ""This is a show about trust, about loyalty,"
+E5HRvQNg4pQ,clip_0067,E5HRvQNg4pQ/clip_0067.mp4,287.340,290.566,3.226,"""and about money."" Tom wants the chaos."
+E5HRvQNg4pQ,clip_0068,E5HRvQNg4pQ/clip_0068.mp4,292.050,296.460,4.410,"Along with my series, Nebula has Wendover Productions' original hour-long documentary,"
+E5HRvQNg4pQ,clip_0069,E5HRvQNg4pQ/clip_0069.mp4,296.460,300.340,3.880,"The Final Years of Majuro, and loads of other content and collaborations"
+E5HRvQNg4pQ,clip_0070,E5HRvQNg4pQ/clip_0070.mp4,300.340,303.720,3.380,from education video creators that you may well have heard of.
+E5HRvQNg4pQ,clip_0071,E5HRvQNg4pQ/clip_0071.mp4,303.720,307.215,3.495,"It's bundled at this link with CuriosityStream, a subscription streaming service with"
+E5HRvQNg4pQ,clip_0072,E5HRvQNg4pQ/clip_0072.mp4,307.215,311.229,4.014,"thousands of big-budget, professional documentaries and nonfiction titles."
+E5HRvQNg4pQ,clip_0073,E5HRvQNg4pQ/clip_0073.mp4,311.229,316.750,5.521,"CuriosityStream is $2.99/month or only $19.99/year, including access to Nebula and my series,"
+E5HRvQNg4pQ,clip_0074,E5HRvQNg4pQ/clip_0074.mp4,316.750,320.160,3.410,when you sign up at curiositystream.com/tomscott.

@@ -1,0 +1,36 @@
+nohup: ignoring input
+/root/autodl-tmp/vsr_bench/cache_bbc_rois.py:30: FutureWarning: In the future `np.object` will be defined as the corresponding NumPy scalar.
+  if not hasattr(np, _n):
+/root/miniconda3/lib/python3.12/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/root/miniconda3/lib/python3.12/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+INFO:     Started server process [19419]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:6006 (Press CTRL+C to quit)
+加载模型 T1: Auto-AVSR (supervised + auto-labels, 3291 h) ...
+VideoProcess: /root/autodl-tmp/code/auto_avsr/preparation/detectors/retinaface/video_process.py
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+加载完成
+INFO:     127.0.0.1:52320 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45762 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45764 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42318 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42330 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42340 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42350 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42352 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42358 - "GET /status/4a80d2eb7442 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40598 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40626 - "POST /submit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50366 - "GET /status/e1652a3ac17c HTTP/1.1" 200 OK
+ERROR:libav.matroska,webm:File ended prematurely at pos. 1876427 (0x1ca1cb)
+INFO:     127.0.0.1:50382 - "GET /status/e1652a3ac17c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50398 - "GET /status/e1652a3ac17c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50406 - "GET /status/e1652a3ac17c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50416 - "GET /status/e1652a3ac17c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39664 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47622 - "GET /health HTTP/1.1" 200 OK

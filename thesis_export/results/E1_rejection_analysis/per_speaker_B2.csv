@@ -1,0 +1,7 @@
+speaker,n_clips,wer_keep100,wer_keep80,wer_keep60,wer_keep40
+dave2d,383,61.44,57.39,54.54,51.09
+jack_edwards,557,57.77,52.75,49.85,46.74
+mrwhosetheboss,391,72.67,67.90,63.41,60.30
+nathaniel_drew,270,66.41,60.76,56.11,51.51
+peter_mckinnon,108,78.87,74.75,73.16,70.97
+rachel_aust,503,60.31,56.02,52.94,49.82

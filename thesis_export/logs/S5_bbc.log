@@ -1,0 +1,15 @@
+===== S5 on bbc =====
+官方配置 LRS2_V_WER26.1: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.0
+模型: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2/LRS2_V_WER26.1/model.pth
+语言模型: None
+参数量: 52.5 M
+[20/91] WER so far 51.53%  (4.61s)
+[40/91] WER so far 47.14%  (4.67s)
+[60/91] WER so far 49.89%  (8.23s)
+[80/91] WER so far 50.49%  (7.33s)
+==================================================
+S5  bbc
+clips: 91   failed: 0   WER: 49.78%
+mean seconds/clip: 6.649
+saved: /root/autodl-tmp/results_v2/S5_bbc.csv
+==================================================

@@ -1,0 +1,5 @@
+{
+  "global_step": 4000,
+  "num_trainable_tensors": 400,
+  "epoch_idx": 3
+}

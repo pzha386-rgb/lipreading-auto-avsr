@@ -1,0 +1,15 @@
+===== T1 on bbc_blur4 =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+参数量: 250.4 M
+[20/91] WER so far 36.95%  (2.80s)
+[40/91] WER so far 34.86%  (2.68s)
+[60/91] WER so far 34.58%  (3.29s)
+[80/91] WER so far 37.40%  (4.12s)
+==================================================
+T1  bbc_blur4
+clips: 91   failed: 0   WER: 36.83%
+mean seconds/clip: 2.98
+saved: /root/autodl-tmp/results_v2/T1_bbc_blur4.csv
+==================================================

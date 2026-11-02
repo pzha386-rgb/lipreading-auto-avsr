@@ -1,0 +1,26 @@
+===== S5lm on lrs3_300 =====
+官方配置 LRS2_V_WER26.1: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.6
+模型: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2/LRS2_V_WER26.1/model.pth
+语言模型: /root/autodl-tmp/checkpoints/new/LM_vsrml/lm_en/model.pth
+参数量: 52.5 M
+[20/300] WER so far 49.10%  (12.26s)
+[40/300] WER so far 54.46%  (4.48s)
+[60/300] WER so far 56.22%  (6.01s)
+[80/300] WER so far 58.56%  (7.44s)
+[100/300] WER so far 56.79%  (4.47s)
+[120/300] WER so far 54.14%  (10.08s)
+[140/300] WER so far 52.76%  (7.91s)
+[160/300] WER so far 54.58%  (4.17s)
+[180/300] WER so far 54.06%  (16.65s)
+[200/300] WER so far 56.31%  (16.13s)
+[220/300] WER so far 56.66%  (8.73s)
+[240/300] WER so far 57.21%  (8.53s)
+[260/300] WER so far 57.33%  (10.10s)
+[280/300] WER so far 57.88%  (10.07s)
+[300/300] WER so far 56.68%  (3.33s)
+==================================================
+S5lm  lrs3_300
+clips: 300   failed: 6   WER: 56.68%
+mean seconds/clip: 6.677
+saved: /root/autodl-tmp/results_v2/S5lm_lrs3_300.csv
+==================================================

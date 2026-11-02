@@ -1,0 +1,11 @@
+nohup: ignoring input
+编号     数据集        状态
+B3     bbc        待运行
+
+并行 1 个任务，每个 3 个 CPU 线程，共 1 个任务
+
+>>> 19:31:23  start B3 on bbc
+<<< 19:58:55  B3 on bbc: OK  27.5 min  WER 35.08%  failed 0
+
+========== 本次运行 ==========
+B3 bbc OK 27.5 WER 35.08%  failed 0

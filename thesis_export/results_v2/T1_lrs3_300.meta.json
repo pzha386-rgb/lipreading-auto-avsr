@@ -1,0 +1,14 @@
+{
+  "model_id": "T1",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1235,
+  "total_seconds": 607.2,
+  "n_clips": 300,
+  "errors": 597,
+  "n_words": 2373,
+  "wer": 25.16,
+  "mean_seconds": 2.018,
+  "n_failed": 0
+}

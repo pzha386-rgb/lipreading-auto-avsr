@@ -1,0 +1,15 @@
+===== T3 on bbc_blur2 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+Load pretrained model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[20/91] WER so far 29.15%  (2.1s)
+[40/91] WER so far 24.71%  (2.5s)
+[60/91] WER so far 27.10%  (3.2s)
+[80/91] WER so far 28.64%  (4.3s)
+==================================================
+T3  bbc_blur2
+clips: 91   failed: 0   WER: 28.46%
+mean seconds/clip: 3.372
+saved: /root/autodl-tmp/results_v2/T3_bbc_blur2.csv
+==================================================

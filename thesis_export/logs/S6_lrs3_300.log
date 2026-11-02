@@ -1,0 +1,31 @@
+===== S6 on lrs3_300 =====
+权重直接加载成功
+参数量: 250.4 M
+[20/300] WER so far 97.60%  (2.57s)
+[40/300] WER so far 96.18%  (2.11s)
+[60/300] WER so far 93.11%  (2.03s)
+[80/300] WER so far 94.69%  (2.35s)
+[100/300] WER so far 93.89%  (1.90s)
+[120/300] WER so far 92.28%  (2.50s)
+[140/300] WER so far 92.76%  (1.44s)
+[156] lrs3_0731 ERROR: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 2.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.67 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.44 GiB memory in use. Process 158690 has 17.24 GiB memory in use. Of the allocated memory 1.03 GiB is allocated by PyTorch, and 24.24 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[157] lrs3_0737 ERROR: CUDA out of memory. Tried to allocate 44.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 8.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.67 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.44 GiB memory in use. Process 158690 has 17.24 GiB memory in use. Of the allocated memory 1.03 GiB is allocated by PyTorch, and 23.17 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[158] lrs3_0744 ERROR: CUDA out of memory. Tried to allocate 70.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 48.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.63 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.44 GiB memory in use. Process 158690 has 17.24 GiB memory in use. Of the allocated memory 1011.95 MiB is allocated by PyTorch, and 24.05 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[160/300] WER so far 93.37%  (2.11s)
+[177] lrs3_0855 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 16.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.78 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.46 GiB memory in use. Process 158690 has 17.11 GiB memory in use. Of the allocated memory 1.14 GiB is allocated by PyTorch, and 21.24 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[179] lrs3_0861 ERROR: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 8.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.78 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.46 GiB memory in use. Process 158690 has 17.11 GiB memory in use. Of the allocated memory 1.13 GiB is allocated by PyTorch, and 29.97 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[180/300] WER so far 93.69%  (0.00s)
+[180] lrs3_0864 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 16.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.72 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.46 GiB memory in use. Process 158690 has 17.16 GiB memory in use. Of the allocated memory 1.09 GiB is allocated by PyTorch, and 19.62 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[184] lrs3_0888 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 16.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Including non-PyTorch memory, this process has 1.72 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Process 158671 has 4.46 GiB memory in use. Process 158690 has 17.16 GiB memory in use. Of the allocated memory 1.09 GiB is allocated by PyTorch, and 16.05 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[200/300] WER so far 93.75%  (2.84s)
+[220/300] WER so far 93.51%  (2.07s)
+[240/300] WER so far 93.68%  (2.52s)
+[260/300] WER so far 93.67%  (2.22s)
+[280/300] WER so far 93.86%  (2.16s)
+[300/300] WER so far 93.85%  (2.15s)
+==================================================
+S6  lrs3_300
+clips: 300   failed: 7   WER: 93.85%
+mean seconds/clip: 2.024
+saved: /root/autodl-tmp/results_v2/S6_lrs3_300.csv
+==================================================

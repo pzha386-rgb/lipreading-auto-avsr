@@ -1,0 +1,6 @@
+penalty: 0.0
+ctc_weight: 0.1
+beam_size: 40
+minlenratio: 0.0
+maxlenratio: 1.0
+snr_target: 9999

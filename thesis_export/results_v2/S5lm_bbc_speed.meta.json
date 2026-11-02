@@ -1,0 +1,18 @@
+{
+  "model_id": "S5lm",
+  "dataset": "bbc_speed",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2/LRS2_V_WER26.1/model.pth",
+  "ini": "LRS2_V_WER26.1",
+  "lm": "/root/autodl-tmp/checkpoints/new/LM_vsrml/lm_en/model.pth",
+  "lm_weight": 0.6,
+  "beam": 40,
+  "params_M": 52.5,
+  "peak_gpu_MB": 3543,
+  "total_seconds": 66.8,
+  "n_clips": 21,
+  "errors": 150,
+  "n_words": 318,
+  "wer": 47.17,
+  "mean_seconds": 3.129,
+  "n_failed": 2
+}

@@ -1,0 +1,14 @@
+{
+  "model_id": "S1",
+  "dataset": "bbc_speed",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/S1_autoavsr_1759h.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1333,
+  "total_seconds": 18.0,
+  "n_clips": 21,
+  "errors": 126,
+  "n_words": 318,
+  "wer": 39.62,
+  "mean_seconds": 0.806,
+  "n_failed": 0
+}

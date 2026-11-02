@@ -1,0 +1,97 @@
+{
+  "args": {
+    "ckpt": "/root/autodl-tmp/checkpoints/new/S1_autoavsr_1759h.pth",
+    "convert_fn": "",
+    "minutes": 0.0,
+    "name": "personal_jack_edwards_adapt",
+    "out": "/root/autodl-tmp/adapt_lora/personal_jack",
+    "rank": 8,
+    "alpha": 16.0,
+    "lr": 0.0005,
+    "epochs": 15,
+    "patience": 4,
+    "max_frames": 2000,
+    "seed": 0,
+    "check": false
+  },
+  "train_min": 10.956,
+  "n_lora_params": 1179648,
+  "history": [
+    {
+      "epoch": 0,
+      "val_loss": 97.70864194982192
+    },
+    {
+      "epoch": 1,
+      "train_loss": 107.31262560711791,
+      "val_loss": 96.18736536362591,
+      "minutes": 0.035312553246816
+    },
+    {
+      "epoch": 2,
+      "train_loss": 98.80475096039424,
+      "val_loss": 89.52118278952206,
+      "minutes": 0.058719905217488606
+    },
+    {
+      "epoch": 3,
+      "train_loss": 88.7081112893212,
+      "val_loss": 85.07698777142693,
+      "minutes": 0.08206501007080078
+    },
+    {
+      "epoch": 4,
+      "train_loss": 79.90345653003415,
+      "val_loss": 78.45449604707606,
+      "minutes": 0.1055304765701294
+    },
+    {
+      "epoch": 5,
+      "train_loss": 74.85609360246468,
+      "val_loss": 73.70447136374081,
+      "minutes": 0.12900601625442504
+    },
+    {
+      "epoch": 6,
+      "train_loss": 70.6849695673052,
+      "val_loss": 72.30197682100184,
+      "minutes": 0.15239488283793132
+    },
+    {
+      "epoch": 7,
+      "train_loss": 68.13359150665485,
+      "val_loss": 73.24938112146714,
+      "minutes": 0.17585277954737347
+    },
+    {
+      "epoch": 8,
+      "train_loss": 66.4772755957597,
+      "val_loss": 70.88816698859719,
+      "minutes": 0.19895035425821941
+    },
+    {
+      "epoch": 9,
+      "train_loss": 63.85275670234731,
+      "val_loss": 71.65257846607881,
+      "minutes": 0.22245975732803344
+    },
+    {
+      "epoch": 10,
+      "train_loss": 63.97210170417432,
+      "val_loss": 71.32505932976218,
+      "minutes": 0.24560454686482747
+    },
+    {
+      "epoch": 11,
+      "train_loss": 62.199828899459334,
+      "val_loss": 71.23120521096622,
+      "minutes": 0.26862576405207317
+    },
+    {
+      "epoch": 12,
+      "train_loss": 61.349522167483705,
+      "val_loss": 74.11453965130974,
+      "minutes": 0.2915972073872884
+    }
+  ]
+}

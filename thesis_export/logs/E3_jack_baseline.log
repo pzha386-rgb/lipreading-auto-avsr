@@ -1,0 +1,25 @@
+===== T1_jack_baseline N-best on personal_jack_edwards_eval =====
+权重直接加载成功
+[20/389] WER so far 54.32%  (1.94s)  logp=-0.408 margin=0.020 nbest=0.88
+[40/389] WER so far 56.54%  (1.76s)  logp=-0.548 margin=0.034 nbest=0.88
+[60/389] WER so far 54.83%  (1.73s)  logp=-0.519 margin=0.003 nbest=0.83
+[80/389] WER so far 56.10%  (2.48s)  logp=-0.391 margin=0.002 nbest=0.92
+[100/389] WER so far 56.79%  (2.27s)  logp=-0.435 margin=0.020 nbest=0.88
+[120/389] WER so far 57.75%  (2.34s)  logp=-0.561 margin=0.008 nbest=0.90
+[140/389] WER so far 57.53%  (1.72s)  logp=-0.252 margin=0.018 nbest=0.84
+[160/389] WER so far 56.90%  (2.08s)  logp=-0.944 margin=0.008 nbest=0.66
+[180/389] WER so far 58.05%  (2.99s)  logp=-0.683 margin=0.005 nbest=0.84
+[200/389] WER so far 59.05%  (1.72s)  logp=-0.632 margin=0.006 nbest=0.84
+[220/389] WER so far 59.13%  (1.86s)  logp=-0.704 margin=0.018 nbest=0.72
+[240/389] WER so far 58.97%  (0.90s)  logp=-0.179 margin=0.100 nbest=0.93
+[260/389] WER so far 59.33%  (0.92s)  logp=-0.249 margin=0.067 nbest=0.93
+[280/389] WER so far 59.44%  (0.82s)  logp=-0.350 margin=0.064 nbest=0.89
+[300/389] WER so far 60.04%  (1.00s)  logp=-0.253 margin=0.022 nbest=0.91
+[320/389] WER so far 60.41%  (0.77s)  logp=-0.638 margin=0.004 nbest=0.55
+[340/389] WER so far 60.94%  (0.78s)  logp=-0.332 margin=0.014 nbest=0.87
+[360/389] WER so far 60.90%  (0.84s)  logp=-1.242 margin=0.020 nbest=0.80
+[380/389] WER so far 61.22%  (0.63s)  logp=-0.174 margin=0.050 nbest=0.80
+
+final WER 61.44%   total 562s
+saved /root/autodl-tmp/day1/conf/T1_jack_baseline_personal_jack_edwards_eval_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）

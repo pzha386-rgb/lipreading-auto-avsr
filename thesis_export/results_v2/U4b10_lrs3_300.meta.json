@@ -1,0 +1,17 @@
+{
+  "model_id": "U4b10",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth",
+  "backbone": "resnet_transformer_huge",
+  "beam": 10,
+  "ctc_weight": 0.1,
+  "params_M": 945.5,
+  "peak_gpu_MB": 9408,
+  "total_seconds": 235.2,
+  "n_clips": 300,
+  "errors": 521,
+  "n_words": 2373,
+  "wer": 21.96,
+  "mean_seconds": 0.778,
+  "n_failed": 0
+}

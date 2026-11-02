@@ -1,0 +1,14 @@
+{
+  "model_id": "S6",
+  "dataset": "bbc",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1559,
+  "total_seconds": 205.8,
+  "n_clips": 91,
+  "errors": 1327,
+  "n_words": 1374,
+  "wer": 96.58,
+  "mean_seconds": 2.247,
+  "n_failed": 0
+}

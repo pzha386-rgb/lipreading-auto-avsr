@@ -1,0 +1,17 @@
+{
+  "model_id": "U4b10",
+  "dataset": "bbc_speed",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth",
+  "backbone": "resnet_transformer_huge",
+  "beam": 10,
+  "ctc_weight": 0.1,
+  "params_M": 945.5,
+  "peak_gpu_MB": 7728,
+  "total_seconds": 33.8,
+  "n_clips": 21,
+  "errors": 95,
+  "n_words": 318,
+  "wer": 29.87,
+  "mean_seconds": 1.557,
+  "n_failed": 0
+}

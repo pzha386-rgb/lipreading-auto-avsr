@@ -1,0 +1,62 @@
+video_id,clip_id,path,start,end,dur,text
+lCA0II1sVZA,clip_0000,lCA0II1sVZA/clip_0000.mp4,0.110,4.490,4.380,Have you ever read a fact somewhere and just… not believed it?
+lCA0II1sVZA,clip_0001,lCA0II1sVZA/clip_0001.mp4,4.490,7.640,3.150,"This is Newlyn in Cornwall, in the far south-west of England."
+lCA0II1sVZA,clip_0002,lCA0II1sVZA/clip_0002.mp4,7.640,12.210,4.570,"When the British government's maps say that a mountain peak is so many metres above sea level,"
+lCA0II1sVZA,clip_0003,lCA0II1sVZA/clip_0003.mp4,12.210,16.610,4.400,"they are talking about this sea level, the average sea level here."
+lCA0II1sVZA,clip_0004,lCA0II1sVZA/clip_0004.mp4,16.610,20.800,4.190,"There's a little hut on that harbour wall and underneath it, there is a narrow, vertical well"
+lCA0II1sVZA,clip_0005,lCA0II1sVZA/clip_0005.mp4,20.800,24.700,3.900,that connects to the ocean. So the height of the water in that well is the height of the tide.
+lCA0II1sVZA,clip_0006,lCA0II1sVZA/clip_0006.mp4,24.700,29.087,4.387,"The waves don't make a difference. So for six years, 1915 to 1921,"
+lCA0II1sVZA,clip_0007,lCA0II1sVZA/clip_0007.mp4,29.087,32.151,3.064,automatic equipment and human tidal observers
+lCA0II1sVZA,clip_0008,lCA0II1sVZA/clip_0008.mp4,32.151,35.510,3.359,"measured the sea level here, and the average of all those measurements"
+lCA0II1sVZA,clip_0009,lCA0II1sVZA/clip_0009.mp4,35.510,40.920,5.410,"became the Newlyn Datum, the zero point from which all heights in Britain are measured."
+lCA0II1sVZA,clip_0010,lCA0II1sVZA/clip_0010.mp4,40.920,46.840,5.920,"The land here is solid granite stable into deep time, so it seemed like a reasonable place to use as a baseline."
+lCA0II1sVZA,clip_0011,lCA0II1sVZA/clip_0011.mp4,46.840,52.470,5.630,"So that's fine. That's all sensible. The fact that I didn't believe is: this whole part of Britain,"
+lCA0II1sVZA,clip_0012,lCA0II1sVZA/clip_0012.mp4,52.470,54.520,2.050,"the whole Cornish peninsula for hundreds of miles,"
+lCA0II1sVZA,clip_0013,lCA0II1sVZA/clip_0013.mp4,54.520,60.810,6.290,"rises up and falls down by several centimetres, twice a day, measurably,"
+lCA0II1sVZA,clip_0014,lCA0II1sVZA/clip_0014.mp4,60.810,66.230,5.420,"because of the weight of the tides. Now if that was true, it'd be common knowledge, surely?"
+lCA0II1sVZA,clip_0015,lCA0II1sVZA/clip_0015.mp4,66.230,71.230,5.000,"And wouldn't it cause earthquakes every day? I read that and honestly, I didn't believe it,"
+lCA0II1sVZA,clip_0016,lCA0II1sVZA/clip_0016.mp4,71.230,75.020,3.790,even as I looked round and started to find peer-reviewed papers about it.
+lCA0II1sVZA,clip_0017,lCA0II1sVZA/clip_0017.mp4,75.020,78.420,3.400,"So I arranged to talk to one of the authors of one of those papers,"
+lCA0II1sVZA,clip_0018,lCA0II1sVZA/clip_0018.mp4,78.420,83.420,5.000,a world expert on ocean tide loading and... yeah.
+lCA0II1sVZA,clip_0019,lCA0II1sVZA/clip_0019.mp4,83.950,86.920,2.970,"On some days, Cornwall might only move up and down by"
+lCA0II1sVZA,clip_0020,lCA0II1sVZA/clip_0020.mp4,86.920,91.410,4.490,three or four centimetres compared to its average position.
+lCA0II1sVZA,clip_0021,lCA0II1sVZA/clip_0021.mp4,91.410,94.993,3.583,Whereas on other days the movement might be seven or eight centimetres.
+lCA0II1sVZA,clip_0022,lCA0II1sVZA/clip_0022.mp4,94.993,100.380,5.387,"So a total range of maybe even 15 centimetres. There's a horizontal movement that's about a third or so,"
+lCA0II1sVZA,clip_0023,lCA0II1sVZA/clip_0023.mp4,100.380,103.460,3.080,"typically, of the vertical movement in most places."
+lCA0II1sVZA,clip_0024,lCA0II1sVZA/clip_0024.mp4,103.460,105.710,2.250,So how we've measured the movement of Cornwall
+lCA0II1sVZA,clip_0025,lCA0II1sVZA/clip_0025.mp4,105.710,110.350,4.640,"and other places, is using GPS, the global positioning system."
+lCA0II1sVZA,clip_0026,lCA0II1sVZA/clip_0026.mp4,110.350,113.020,2.670,And we can measure that distance very precisely indeed
+lCA0II1sVZA,clip_0027,lCA0II1sVZA/clip_0027.mp4,113.020,118.240,5.220,at something like the two or three millimetre level of precision.
+lCA0II1sVZA,clip_0028,lCA0II1sVZA/clip_0028.mp4,118.240,121.930,3.690,Now there are a lot of errors that cause a bias in this measurement
+lCA0II1sVZA,clip_0029,lCA0II1sVZA/clip_0029.mp4,121.930,125.800,3.870,"that we have to deal with, to deal with the effect of, for example,"
+lCA0II1sVZA,clip_0030,lCA0II1sVZA/clip_0030.mp4,125.800,129.120,3.320,"the change in speed of the radio signal,"
+lCA0II1sVZA,clip_0031,lCA0II1sVZA/clip_0031.mp4,129.120,132.120,3.000,"as it goes through different layers in the Earth's atmosphere, and so on."
+lCA0II1sVZA,clip_0032,lCA0II1sVZA/clip_0032.mp4,132.120,136.200,4.080,But what we can do is we can make huge numbers of measurements of this.
+lCA0II1sVZA,clip_0033,lCA0II1sVZA/clip_0033.mp4,136.200,141.290,5.090,"Our measurement of the average tidal motion becomes very, very accurate and precise indeed."
+lCA0II1sVZA,clip_0034,lCA0II1sVZA/clip_0034.mp4,141.290,146.530,5.240,"So we measure that tidal signal, not just over one tidal cycle,"
+lCA0II1sVZA,clip_0035,lCA0II1sVZA/clip_0035.mp4,146.530,150.130,3.600,"but actually over a period of three or four years,"
+lCA0II1sVZA,clip_0036,lCA0II1sVZA/clip_0036.mp4,150.130,154.410,4.280,"maybe even as much as 10 or 12 years. It makes sense, I guess, that the weight of water"
+lCA0II1sVZA,clip_0037,lCA0II1sVZA/clip_0037.mp4,154.410,158.553,4.143,would compress what's underneath it. A few back-of-the-envelope calculations and you can work out
+lCA0II1sVZA,clip_0038,lCA0II1sVZA/clip_0038.mp4,158.553,162.920,4.367,"that there are gigatons of water moving out there, in and out twice a day."
+lCA0II1sVZA,clip_0039,lCA0II1sVZA/clip_0039.mp4,162.920,165.210,2.290,"And yeah, at the most extreme high and low tide"
+lCA0II1sVZA,clip_0040,lCA0II1sVZA/clip_0040.mp4,165.210,170.480,5.270,this whole area can move as much as six or seven centimetres up and down.
+lCA0II1sVZA,clip_0041,lCA0II1sVZA/clip_0041.mp4,170.480,174.290,3.810,But why does it happen here and not everywhere else?
+lCA0II1sVZA,clip_0042,lCA0II1sVZA/clip_0042.mp4,174.290,177.940,3.650,The gravitational forces of the sun and the moon
+lCA0II1sVZA,clip_0043,lCA0II1sVZA/clip_0043.mp4,177.940,179.550,1.610,"that are what's causing the ocean to move, and the tides,"
+lCA0II1sVZA,clip_0044,lCA0II1sVZA/clip_0044.mp4,179.550,185.970,6.420,just happened to synchronise more or less in their timescale
+lCA0II1sVZA,clip_0045,lCA0II1sVZA/clip_0045.mp4,185.970,189.840,3.870,with the way in which the North Atlantic is able to move.
+lCA0II1sVZA,clip_0046,lCA0II1sVZA/clip_0046.mp4,189.840,192.460,2.620,"It's just a little bit like if you have a glass of juice,"
+lCA0II1sVZA,clip_0047,lCA0II1sVZA/clip_0047.mp4,192.460,196.550,4.090,"but if you swirl it around at just the right speed,"
+lCA0II1sVZA,clip_0048,lCA0II1sVZA/clip_0048.mp4,196.550,200.650,4.100,you can build up quite a big slosh around the edges of the glass.
+lCA0II1sVZA,clip_0049,lCA0II1sVZA/clip_0049.mp4,200.650,205.270,4.620,"Whereas if you swirl it at completely the wrong speed, as it were, for that glass,"
+lCA0II1sVZA,clip_0050,lCA0II1sVZA/clip_0050.mp4,205.270,211.030,5.760,then you get a much smaller amount of motion. Around the coastlines of the major oceans
+lCA0II1sVZA,clip_0051,lCA0II1sVZA/clip_0051.mp4,211.030,214.300,3.270,are the places where the tidal loading is generally larger.
+lCA0II1sVZA,clip_0052,lCA0II1sVZA/clip_0052.mp4,214.300,217.020,2.720,"So around Western Europe, Greenland,"
+lCA0II1sVZA,clip_0053,lCA0II1sVZA/clip_0053.mp4,217.020,221.110,4.090,and through to the Bay of Fundy around the Atlantic coast there
+lCA0II1sVZA,clip_0054,lCA0II1sVZA/clip_0054.mp4,221.110,224.360,3.250,around the Gulf of Alaska and also around New Zealand.
+lCA0II1sVZA,clip_0055,lCA0II1sVZA/clip_0055.mp4,224.360,229.890,5.530,"So the reason it doesn't start causing big things like earthquakes is because these movements,"
+lCA0II1sVZA,clip_0056,lCA0II1sVZA/clip_0056.mp4,229.890,234.320,4.430,although they add up to something appreciable and measurable
+lCA0II1sVZA,clip_0057,lCA0II1sVZA/clip_0057.mp4,234.320,239.758,5.438,"by our new modern, accurate techniques are actually very small"
+lCA0II1sVZA,clip_0058,lCA0II1sVZA/clip_0058.mp4,239.758,245.010,5.252,relative to the scale of the whole earth. But that's sufficient for the most accurate engineering work
+lCA0II1sVZA,clip_0059,lCA0II1sVZA/clip_0059.mp4,245.010,248.520,3.510,"to need to worry about this problem. Thanks so much to Professor Clarke,"
+lCA0II1sVZA,clip_0060,lCA0II1sVZA/clip_0060.mp4,248.520,251.820,3.300,I've put links to him and to the papers that I read in the description.

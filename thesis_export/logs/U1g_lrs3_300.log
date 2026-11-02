@@ -1,0 +1,26 @@
+===== U1g on lrs3_300 =====
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+官方解码配置: beam=40 ctc=0.1 penalty=0.0  -> 本次使用 beam=1 ctc=0.0
+参数量: 503.4 M
+[20/300] WER so far 29.34%  (0.15s)
+[40/300] WER so far 34.08%  (0.06s)
+[60/300] WER so far 36.67%  (0.11s)
+[80/300] WER so far 37.84%  (0.09s)
+[100/300] WER so far 38.32%  (0.06s)
+[120/300] WER so far 35.07%  (0.10s)
+[140/300] WER so far 34.00%  (0.08s)
+[160/300] WER so far 35.52%  (0.06s)
+[180/300] WER so far 34.47%  (0.23s)
+[200/300] WER so far 34.99%  (0.16s)
+[220/300] WER so far 35.20%  (0.08s)
+[240/300] WER so far 35.06%  (0.09s)
+[260/300] WER so far 35.41%  (0.09s)
+[280/300] WER so far 35.67%  (0.10s)
+[300/300] WER so far 35.02%  (0.05s)
+==================================================
+U1g  lrs3_300
+clips: 300   failed: 0   WER: 35.02%
+mean seconds/clip: 0.084
+saved: /root/autodl-tmp/results_v2/U1g_lrs3_300.csv
+==================================================

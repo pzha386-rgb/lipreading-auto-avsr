@@ -1,0 +1,7 @@
+espnet: '202308'
+files:
+  asr_model_file: exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/valid.acc.ave_10best.pth
+python: 3.8.18 (default, Sep 11 2023, 13:40:15)  [GCC 11.2.0]
+torch: pytorch 1.12.0
+yaml_files:
+  asr_train_config: exp/asr_train_avsr_avhubert_large_extracted_en_bpe1000/config.yaml

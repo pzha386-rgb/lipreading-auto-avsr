@@ -1,0 +1,4 @@
+clip_id,ref,hyp,dist,n_words
+clip_0000,"When you put English text into a computer, it is saving every individual character as eight bits of data.",WHEN YOU PUT ENGLISH TEXT INTO A COMPUTER IT IS SAVING EVERY INDIVIDUAL CHARACTERS EIGHT BITS OF DATA,4,19
+clip_0001,"Eight ones and zeros. I mean, they're not actually ones and zeros,",WANT ZEROS I MEAN THEY DON'T ACTUALLY WANT ZERO,10,12
+clip_0002,"they're particular positions of atoms on a disk or a few electrons going over a wire,",ARE PARTICULARLY POSITIONS OF ATOMS ON A DESK OR A FEW ELECTRONS GOING OVER A WIRE,4,16

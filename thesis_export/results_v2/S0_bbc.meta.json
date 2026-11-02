@@ -1,0 +1,14 @@
+{
+  "model_id": "S0",
+  "dataset": "bbc",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/S0_autoavsr_438h.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1313,
+  "total_seconds": 118.2,
+  "n_clips": 91,
+  "errors": 761,
+  "n_words": 1374,
+  "wer": 55.39,
+  "mean_seconds": 1.284,
+  "n_failed": 0
+}

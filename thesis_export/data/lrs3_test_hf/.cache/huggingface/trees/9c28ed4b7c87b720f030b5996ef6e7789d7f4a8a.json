@@ -1,0 +1,27 @@
+{
+ "format_version": 1,
+ "files": {
+  ".gitattributes": {
+   "size": 2307,
+   "blob_id": "28df5f900b358436f0267334b3e3e9af33f917ba"
+  },
+  "README.md": {
+   "size": 581,
+   "blob_id": "0bc845e7c9ef989a976d6c77c2c11408baf5e4f3"
+  },
+  "data/train-00000-of-00002-6d235766a16b101a.parquet": {
+   "size": 346630460,
+   "blob_id": "3bd419abc98766c5aa9b2e614a88cba05e572e93",
+   "lfs_sha256": "83ed27da72318d23ac316fcbbdb7834818fe90e095cce036b5c69d3d5a0e71cb",
+   "lfs_size": 346630460,
+   "xet_hash": "f3f9b9c21a6bc7fd6fe18db88c95eba4b377d3ea994beb61016961cb9d2bf9d9"
+  },
+  "data/train-00001-of-00002-a89b175a3b0aa629.parquet": {
+   "size": 330680900,
+   "blob_id": "d91748cb3122278839b16dce008b297797c56991",
+   "lfs_sha256": "61f3e122b33e849d82ecd30ba5fb0f5e358c3c575a5ae70d2f8bdb6a34f0b19e",
+   "lfs_size": 330680900,
+   "xet_hash": "9f88df1ecb60b3eebe5d7385b91aa6fc18223aa36b7470144fce64c38d8d6211"
+  }
+ }
+}

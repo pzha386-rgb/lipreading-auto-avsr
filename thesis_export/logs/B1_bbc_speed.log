@@ -1,0 +1,12 @@
+===== B1 on bbc_speed =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 256, 'dunits': 2048, 'dlayers': 6}
+Load pretrained model weights
+beam search 在 GPU 上
+参数量: 350.6 M
+[20/21] WER so far 33.22%  (0.6s)
+==================================================
+B1  bbc_speed
+clips: 21   failed: 0   WER: 33.33%
+mean seconds/clip: 0.887
+saved: /root/autodl-tmp/results_v2/B1_bbc_speed.csv
+==================================================

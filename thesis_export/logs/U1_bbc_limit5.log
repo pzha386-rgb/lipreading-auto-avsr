@@ -1,0 +1,30 @@
+===== U1 on bbc =====
+/root/miniconda3/lib/python3.12/site-packages/hydra/_internal/defaults_list.py:251: UserWarning: In 'config': Defaults list is missing `_self_`. See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order for more information
+  warnings.warn(msg, UserWarning)
+官方解码配置: beam=40 ctc=0.1 penalty=0.0  -> 本次使用 beam=40 ctc=0.1
+参数量: 503.4 M
+[1/5] WER so far 21.05%  (14.39s)
+   REF: when you put english text into a computer it is saving every individual character as eight bits of data
+   HYP: when he put english text into a computer it is saving every individual character s eight base of data eight
+[1] clip_0001 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 15.06 MiB is free. Process 154728 has 2.42 GiB memory in use. Process 154729 has 2.42 GiB memory in use. Process 155862 has 2.87 GiB memory in use. Process 155863 has 1.45 GiB memory in use. Process 155861 has 2.27 GiB memory in use. Process 155971 has 1.97 GiB memory in use. Process 155972 has 2.24 GiB memory in use. Process 155973 has 2.24 GiB memory in use. Including non-PyTorch memory, this process has 13.43 GiB memory in use. Of the allocated memory 12.13 GiB is allocated by PyTorch, and 698.14 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[2/5] WER so far 53.12%  (0.00s)
+   REF: eight ones and zeros i mean they re not actually ones and zeros
+   HYP: 
+[2] clip_0002 ERROR: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 5.06 MiB is free. Process 154728 has 2.42 GiB memory in use. Process 154729 has 2.42 GiB memory in use. Process 155862 has 2.87 GiB memory in use. Process 155863 has 1.45 GiB memory in use. Process 155861 has 2.27 GiB memory in use. Process 155971 has 1.97 GiB memory in use. Process 155972 has 2.24 GiB memory in use. Process 155973 has 2.24 GiB memory in use. Including non-PyTorch memory, this process has 13.44 GiB memory in use. Of the allocated memory 11.81 GiB is allocated by PyTorch, and 1.02 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[3/5] WER so far 69.39%  (0.00s)
+   REF: they re particular positions of atoms on a disk or a few electrons going over a wire
+   HYP: 
+[3] clip_0003 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 17.06 MiB is free. Process 154728 has 2.42 GiB memory in use. Process 154729 has 2.42 GiB memory in use. Process 155862 has 2.87 GiB memory in use. Process 155863 has 1.45 GiB memory in use. Process 155861 has 2.27 GiB memory in use. Process 155971 has 1.97 GiB memory in use. Process 155972 has 2.24 GiB memory in use. Process 155973 has 2.24 GiB memory in use. Including non-PyTorch memory, this process has 13.43 GiB memory in use. Of the allocated memory 11.76 GiB is allocated by PyTorch, and 1.05 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[4/5] WER so far 77.61%  (0.00s)
+   REF: but as far as we re concerned in the computer science world they are ones and zeros bits
+   HYP: 
+[4] clip_0004 ERROR: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 7.06 MiB is free. Process 154728 has 2.42 GiB memory in use. Process 154729 has 2.42 GiB memory in use. Process 155862 has 2.87 GiB memory in use. Process 155863 has 1.45 GiB memory in use. Process 155861 has 2.27 GiB memory in use. Process 155971 has 1.97 GiB memory in use. Process 155972 has 2.24 GiB memory in use. Process 155973 has 2.24 GiB memory in use. Including non-PyTorch memory, this process has 13.44 GiB memory in use. Of the allocated memory 11.95 GiB is allocated by PyTorch, and 895.05 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[5/5] WER so far 81.48%  (0.00s)
+   REF: and yes a modern phone or computer might store a few quadrillion of them
+   HYP: 
+==================================================
+U1  bbc
+clips: 5   failed: 4   WER: 81.48%
+mean seconds/clip: 2.879
+saved: /root/autodl-tmp/results_v2/U1_bbc_limit5.csv
+==================================================

@@ -1,0 +1,10 @@
+===== S6 on bbc_speed =====
+权重直接加载成功
+参数量: 250.4 M
+[20/21] WER so far 95.93%  (0.74s)
+==================================================
+S6  bbc_speed
+clips: 21   failed: 0   WER: 96.23%
+mean seconds/clip: 0.719
+saved: /root/autodl-tmp/results_v2/S6_bbc_speed.csv
+==================================================

@@ -1,0 +1,5 @@
+defaults:
+  - backbone: resnet_transformer_huge
+obj:
+  _target_: models.usr.USR
+pretrained_model_path:

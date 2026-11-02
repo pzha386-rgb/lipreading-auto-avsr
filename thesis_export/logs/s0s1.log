@@ -1,0 +1,31 @@
+nohup: ignoring input
+编号     数据集        状态
+S0     bbc        待运行
+S1     bbc        待运行
+S0     lrs3_300   待运行
+S1     lrs3_300   待运行
+S0     lrs3       待运行
+S1     lrs3       待运行
+
+并行 2 个任务，每个 2 个 CPU 线程，共 6 个任务
+
+>>> 04:57:30  start S0 on bbc
+>>> 04:57:30  start S1 on bbc
+<<< 04:59:35  S0 on bbc: OK  2.1 min  WER 55.39%  failed 0
+>>> 04:59:35  start S0 on lrs3_300
+<<< 04:59:36  S1 on bbc: OK  2.1 min  WER 38.14%  failed 0
+>>> 04:59:36  start S1 on lrs3_300
+<<< 05:03:48  S0 on lrs3_300: OK  4.2 min  WER 40.92%  failed 2
+>>> 05:03:48  start S0 on lrs3
+<<< 05:03:49  S1 on lrs3_300: OK  4.2 min  WER 30.68%  failed 1
+>>> 05:03:49  start S1 on lrs3
+<<< 05:21:49  S1 on lrs3: OK  18.0 min  WER 30.89%  failed 3
+<<< 05:21:53  S0 on lrs3: OK  18.1 min  WER 42.72%  failed 4
+
+========== 本次运行 ==========
+S0 bbc OK 2.1 WER 55.39%  failed 0
+S1 bbc OK 2.1 WER 38.14%  failed 0
+S0 lrs3_300 OK 4.2 WER 40.92%  failed 2
+S1 lrs3_300 OK 4.2 WER 30.68%  failed 1
+S0 lrs3 OK 18.1 WER 42.72%  failed 4
+S1 lrs3 OK 18.0 WER 30.89%  failed 3

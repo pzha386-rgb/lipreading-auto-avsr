@@ -15,3 +15,10 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.mp4
+*.zip
+*.parquet

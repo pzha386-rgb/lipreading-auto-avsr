@@ -1,0 +1,23 @@
+nohup: ignoring input
+权重直接加载成功
+trainable params: 239.2 M   (frontend frozen)
+train: 4135 clips, 293.4 min   val: 1470 clips
+epoch 0  val loss 70.059  (before adaptation)
+epoch  1  train 76.423  val 64.596  * saved   (1.1 min)
+epoch  2  train 67.608  val 58.652  * saved   (2.2 min)
+epoch  3  train 62.734  val 56.966  * saved   (3.2 min)
+epoch  4  train 59.826  val 56.196  * saved   (4.2 min)
+epoch  5  train 58.025  val 55.862  * saved   (5.2 min)
+epoch  6  train 56.393  val 55.627  * saved   (6.2 min)
+epoch  7  train 55.124  val 55.462  * saved   (7.2 min)
+epoch  8  train 53.835  val 55.337  * saved   (8.2 min)
+epoch  9  train 52.946  val 55.319  * saved   (9.3 min)
+epoch 10  train 52.151  val 55.234  * saved   (10.3 min)
+epoch 11  train 51.532  val 55.296   (11.3 min)
+epoch 12  train 50.781  val 55.265   (12.2 min)
+epoch 13  train 50.356  val 55.326   (13.2 min)
+epoch 14  train 49.938  val 55.306   (14.2 min)
+early stop
+
+DONE  best val loss 55.234 (start 70.059)  ->  /root/autodl-tmp/adapt/autoavsr_m0/best.pth
+evaluate:  python -u eval_autoavsr_nbest.py --id A0 --ckpt /root/autodl-tmp/adapt/autoavsr_m0/best.pth --dataset bbc

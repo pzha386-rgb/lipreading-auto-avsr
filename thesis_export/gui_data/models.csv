@@ -1,0 +1,36 @@
+id,status,type,family,setting,size,pretrain_data,st,lm,lm_weight,beam,ctc_weight,official_wer,runner,arch,ckpt,lm_path,note
+T1,tested,supervised+autolabel,Auto-AVSR,-,base,LRS2+LRS3+Vox2+AVSp 3291h,no,no,,default,default,20.3,autoavsr,base,/root/autodl-tmp/checkpoints/vsr_trlrs2lrs3vox2avsp_base.pth,,already tested; re-run on new cache to check consistency
+T2,tested,ssl,AV-HuBERT,433h,large,LRS3+Vox2,no,no,,default,default,-,avhubert,large,nguyenvulebinh/AV-HuBERT-MuAViC-en,,already tested (MuAViC version)
+T3,tested,ssl,BRAVEn,low,large,LRS3+Vox2+AVS,yes,no,,default,default,21.3,raven,large_lowres,/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2avs_large_ftlrs3trainvalvox2avs_selftrain_braven.pth,,already tested; re-run on new cache to check consistency
+T4,tested,ssl,RAVEn,low,large,LRS3+Vox2,yes,no,,default,default,24.8,raven,large_lowres,/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2_large_ftlrs3trainvalvox2_selftrain.pth,,already tested; re-run on new cache to check consistency
+S0,new,supervised,Auto-AVSR,-,base,LRS3 438h,no,no,,default,default,36.0,autoavsr,base,/root/autodl-tmp/checkpoints/new/S0_autoavsr_438h.pth,,pure supervised 433h labels; pair with SSL high-resource
+S1,new,supervised+autolabel,Auto-AVSR,-,base,LRS3+Vox2 1759h,no,no,,default,default,24.6,autoavsr,base,/root/autodl-tmp/checkpoints/new/S1_autoavsr_1759h.pth,,
+S2,new,supervised+autolabel,Auto-AVSR(VSR-ML),-,base,-,no,no,,default,default,19.1,vsrml,LRS3_V_WER19.1,/root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml,,check MD5 vs T1 first; uses VSR-ML repo code
+S2lm,new,supervised+autolabel,Auto-AVSR(VSR-ML),-,base,-,no,yes,,default,default,-,vsrml,LRS3_V_WER19.1,/root/autodl-tmp/checkpoints/new/S2_autoavsr_vsrml,/root/autodl-tmp/checkpoints/new/LM_autoavsr,S2 + LM
+S4,new,supervised,VSR-ML(Ma2022),-,base,LRS3 (+LRW pretrain),no,no,,default,default,32.3,vsrml,LRS3_V_WER32.3,/root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3,,"pure supervised, human labels only"
+S4lm,new,supervised,VSR-ML(Ma2022),-,base,LRS3 (+LRW pretrain),no,yes,,default,default,-,vsrml,LRS3_V_WER32.3,/root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3,/root/autodl-tmp/checkpoints/new/LM_vsrml,S4 + LM
+S5,new,supervised,VSR-ML(Ma2022),-,base,LRS2,no,no,,default,default,26.1 (LRS2),vsrml,LRS2_V_WER26.1,/root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2,,trained on LRS2; cross-dataset test on LRS3/BBC
+S5lm,new,supervised,VSR-ML(Ma2022),-,base,LRS2,no,yes,,default,default,-,vsrml,LRS2_V_WER26.1,/root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2,/root/autodl-tmp/checkpoints/new/LM_vsrml,same ckpt as S5 + LM
+S6,new,supervised,Auto-AVSR,-,base,LRS3 23h subset,no,no,,default,default,93.0,autoavsr,base,/root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth,,low-label supervised; pair with SSL 30h low-resource
+S3,pending,supervised+llm,VALLR,-,-,-,no,llm,,default,default,18.7,vallr,-,,,check if weights are released
+S7,pending,supervised,SyncVSR,-,-,LRS3 (+audio token sync),no,no,,default,default,21.5 / 31.2,syncvsr,-,,,JAX code; check if sentence-level LRS3 weights are released
+R1,new,ssl,RAVEn,low,large,LRS3+Vox2,yes,yes,0.3,default,default,23.8,raven,large_lowres,/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2_large_ftlrs3trainvalvox2_selftrain.pth,/root/autodl-tmp/checkpoints/raven/rnnlm.model.best,same ckpt as T4 + LM
+R2,new,ssl,RAVEn,high,large,LRS3+Vox2,yes,no,,default,default,24.4,raven,large_highres,/root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth,,high-res decoder is bigger
+R3,new,ssl,RAVEn,high,large,LRS3+Vox2,yes,yes,0.2,default,default,23.1,raven,large_highres,/root/autodl-tmp/checkpoints/new/R2_raven_high_large_st.pth,/root/autodl-tmp/checkpoints/raven/rnnlm.model.best,same ckpt as R2 + LM
+B1,new,ssl,BRAVEn,low,large,LRS3+Vox2+AVS,no,no,,default,default,24.8,raven,large_lowres,/root/autodl-tmp/checkpoints/new/B1_braven_low_large_avs.pth,,no self-training (pair with T3)
+B2,new,ssl,BRAVEn,low,large,LRS3+Vox2+AVS,yes,yes,0.2,default,default,20.0,raven,large_lowres,/root/autodl-tmp/checkpoints/raven/vsr_prelrs3vox2avs_large_ftlrs3trainvalvox2avs_selftrain_braven.pth,/root/autodl-tmp/checkpoints/raven/rnnlm.model.best,same ckpt as T3 + LM
+B3,new,ssl,BRAVEn,high,large,LRS3+Vox2+AVS,no,no,,default,default,23.6,raven,large_highres,/root/autodl-tmp/checkpoints/new/B3_braven_high_large_avs.pth,,
+B4,new,ssl,BRAVEn,high,large,LRS3+Vox2+AVS,yes,no,,default,default,20.9,raven,large_highres,/root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth,,
+B5,new,ssl,BRAVEn,high,large,LRS3+Vox2+AVS,yes,yes,0.3,default,default,20.1,raven,large_highres,/root/autodl-tmp/checkpoints/new/B4_braven_high_large_avs_st.pth,/root/autodl-tmp/checkpoints/raven/rnnlm.model.best,same ckpt as B4 + LM
+U1,new,ssl+semi,USR2,low,large,LRS3+Vox2,pseudo,no,,40,0.1,23.7,usr2,resnet_transformer_large,/root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth,,
+U2,new,ssl+semi,USR2,high,baseplus,LRS3+Vox2,pseudo,no,,40,0.1,24.8,usr2,resnet_transformer_baseplus,/root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth,,
+U3,new,ssl+semi,USR2,high,large,LRS3+Vox2,pseudo,no,,40,0.1,21.5,usr2,resnet_transformer_large,/root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth,,
+U4,new,ssl+semi,USR2,high,huge,LRS2+LRS3+Vox2+AVS,pseudo,no,,40,0.1,17.6,usr2,resnet_transformer_huge,/root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth,,
+U1g,new,ssl+semi,USR2,low,large,LRS3+Vox2,pseudo,no,,1,0.0,-,usr2,resnet_transformer_large,/root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth,,fast greedy decoding
+U2g,new,ssl+semi,USR2,high,baseplus,LRS3+Vox2,pseudo,no,,1,0.0,-,usr2,resnet_transformer_baseplus,/root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth,,fast greedy decoding
+U3g,new,ssl+semi,USR2,high,large,LRS3+Vox2,pseudo,no,,1,0.0,-,usr2,resnet_transformer_large,/root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth,,fast greedy decoding
+U4g,new,ssl+semi,USR2,high,huge,LRS2+LRS3+Vox2+AVS,pseudo,no,,1,0.0,-,usr2,resnet_transformer_huge,/root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth,,fast greedy decoding
+U4b10,new,ssl+semi,USR2,high,huge,LRS2+LRS3+Vox2+AVS,pseudo,no,,10,0.1,-,usr2,resnet_transformer_huge,/root/autodl-tmp/checkpoints/new/U4_usr2_high_huge.pth,,middle beam size
+L1,pending,ssl+llm,Llama-AVSR,1756h,-,-,no,llm,,default,default,24.0,llama_avsr,-,,,check which VSR checkpoint is released
+L2,new,ssl+llm,DLLM-VSR,433h,huge,USR2 Huge encoder,no,llm,,default,default,19.5,dllm,usr2,/root/autodl-tmp/checkpoints/dllm/usr2,,needs U4 encoder + Dream-7B
+L3,new,ssl+llm,DLLM-VSR,433h,large,AV-HuBERT Large encoder,no,llm,,default,default,21.9,dllm,avhubert,/root/autodl-tmp/checkpoints/dllm/avhubert,,needs AV-HuBERT Large + Dream-7B

@@ -1,0 +1,12 @@
+===== S5 on bbc_speed =====
+官方配置 LRS2_V_WER26.1: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.0
+模型: /root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2/LRS2_V_WER26.1/model.pth
+语言模型: None
+参数量: 52.5 M
+[20/21] WER so far 51.53%  (1.55s)
+==================================================
+S5  bbc_speed
+clips: 21   failed: 0   WER: 52.52%
+mean seconds/clip: 2.089
+saved: /root/autodl-tmp/results_v2/S5_bbc_speed.csv
+==================================================

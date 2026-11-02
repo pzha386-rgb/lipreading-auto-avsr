@@ -1,0 +1,14 @@
+{
+  "model_id": "S6",
+  "dataset": "lrs3",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/S6_autoavsr_23h.pth",
+  "params_M": 250.4,
+  "peak_gpu_MB": 1687,
+  "total_seconds": 2444.1,
+  "n_clips": 1321,
+  "errors": 9716,
+  "n_words": 10361,
+  "wer": 93.77,
+  "mean_seconds": 1.847,
+  "n_failed": 0
+}

@@ -1,0 +1,29 @@
+===== B5 on lrs3_300 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+使用语言模型，lm_weight = 0.3
+Load pretrained model weights
+Load pretrained language model weights
+Load pretrained language model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[20/300] WER so far 15.57%  (2.6s)
+[40/300] WER so far 23.89%  (1.4s)
+[60/300] WER so far 25.11%  (0.8s)
+[80/300] WER so far 23.80%  (0.7s)
+[100/300] WER so far 23.10%  (0.6s)
+[120/300] WER so far 22.25%  (0.9s)
+[140/300] WER so far 22.38%  (0.7s)
+[160/300] WER so far 22.50%  (0.6s)
+[180/300] WER so far 21.92%  (1.7s)
+[200/300] WER so far 22.23%  (1.4s)
+[220/300] WER so far 22.64%  (0.7s)
+[240/300] WER so far 22.91%  (0.8s)
+[260/300] WER so far 22.56%  (0.8s)
+[280/300] WER so far 23.08%  (0.7s)
+[300/300] WER so far 22.42%  (0.5s)
+==================================================
+B5  lrs3_300
+clips: 300   failed: 0   WER: 22.42%
+mean seconds/clip: 0.871
+saved: /root/autodl-tmp/results_v2/B5_lrs3_300.csv
+==================================================

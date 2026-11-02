@@ -1,0 +1,540 @@
+nohup: ignoring input
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 68 clips, 4.9 min   val: 214 clips
+epoch 0  val loss 24.290  (before LoRA)
+epoch  1  train 57.999  val 24.239  * saved   (0.1 min)
+epoch  2  train 54.907  val 23.997  * saved   (0.1 min)
+epoch  3  train 53.774  val 24.427   (0.1 min)
+epoch  4  train 50.908  val 24.919   (0.2 min)
+epoch  5  train 48.869  val 25.160   (0.2 min)
+epoch  6  train 47.979  val 25.127   (0.2 min)
+early stop
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/m5/merged.pth
+
+DONE  best val loss 23.997 (start 24.290)
+evaluate:  python -u eval_autoavsr_nbest.py --id L5 --ckpt /root/autodl-tmp/adapt_lora/m5/merged.pth --dataset tomscott_test
+===== L5 N-best on tomscott_test =====
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/435] WER so far 39.18%  (0.96s)  logp=-0.221 margin=0.004 nbest=0.93
+[40/435] WER so far 32.95%  (0.98s)  logp=-0.126 margin=0.044 nbest=0.89
+[60/435] WER so far 30.26%  (0.61s)  logp=-0.144 margin=0.009 nbest=0.90
+[80/435] WER so far 28.05%  (1.08s)  logp=-0.239 margin=0.009 nbest=0.93
+[100/435] WER so far 30.33%  (0.73s)  logp=-0.531 margin=0.002 nbest=0.81
+[120/435] WER so far 30.66%  (1.25s)  logp=-0.270 margin=0.000 nbest=0.89
+[140/435] WER so far 29.88%  (0.98s)  logp=-0.283 margin=0.012 nbest=0.93
+[160/435] WER so far 29.01%  (0.77s)  logp=-0.378 margin=0.058 nbest=0.90
+[180/435] WER so far 28.44%  (1.07s)  logp=-0.293 margin=0.001 nbest=0.91
+[200/435] WER so far 29.43%  (1.01s)  logp=-0.492 margin=0.018 nbest=0.90
+[220/435] WER so far 29.87%  (1.09s)  logp=-0.238 margin=0.021 nbest=0.92
+[240/435] WER so far 30.20%  (0.75s)  logp=-0.184 margin=0.054 nbest=0.90
+[260/435] WER so far 30.63%  (0.89s)  logp=-0.326 margin=0.038 nbest=0.91
+[280/435] WER so far 32.15%  (0.33s)  logp=-0.224 margin=0.367 nbest=0.71
+[300/435] WER so far 32.83%  (1.05s)  logp=-0.716 margin=0.001 nbest=0.64
+[320/435] WER so far 32.92%  (0.77s)  logp=-0.193 margin=0.067 nbest=0.89
+[340/435] WER so far 32.61%  (0.77s)  logp=-0.191 margin=0.010 nbest=0.91
+[360/435] WER so far 32.22%  (0.65s)  logp=-0.227 margin=0.005 nbest=0.90
+[380/435] WER so far 32.08%  (0.83s)  logp=-0.872 margin=0.007 nbest=0.69
+[400/435] WER so far 31.97%  (1.14s)  logp=-0.327 margin=0.004 nbest=0.91
+[420/435] WER so far 31.63%  (0.85s)  logp=-0.626 margin=0.003 nbest=0.85
+
+final WER 32.02%   total 392s
+saved /root/autodl-tmp/day1/conf/L5_tomscott_test_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L5 N-best on bbc =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/91] WER so far 30.17%  (0.74s)  logp=-0.122 margin=0.108 nbest=0.91
+[40/91] WER so far 25.53%  (0.68s)  logp=-0.337 margin=0.032 nbest=0.92
+[60/91] WER so far 24.94%  (0.93s)  logp=-0.572 margin=0.001 nbest=0.91
+[80/91] WER so far 25.29%  (1.08s)  logp=-0.215 margin=0.002 nbest=0.95
+
+final WER 25.18%   total 80s
+saved /root/autodl-tmp/day1/conf/L5_bbc_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L5 N-best on lrs3_300 =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/300] WER so far 18.56%  (1.10s)  logp=-0.185 margin=0.028 nbest=0.92
+[40/300] WER so far 24.52%  (0.48s)  logp=-1.844 margin=0.058 nbest=0.46
+[60/300] WER so far 27.33%  (0.49s)  logp=-0.454 margin=0.031 nbest=0.86
+[80/300] WER so far 26.20%  (0.50s)  logp=-0.153 margin=0.224 nbest=0.80
+[100/300] WER so far 26.49%  (0.40s)  logp=-0.207 margin=0.055 nbest=0.80
+[120/300] WER so far 25.43%  (0.69s)  logp=-0.145 margin=0.070 nbest=0.91
+[140/300] WER so far 25.81%  (0.49s)  logp=-0.352 margin=0.207 nbest=0.72
+[160/300] WER so far 26.60%  (0.40s)  logp=-0.178 margin=0.511 nbest=0.73
+[180/300] WER so far 25.47%  (0.98s)  logp=-0.138 margin=0.107 nbest=0.89
+[200/300] WER so far 25.39%  (1.12s)  logp=-0.227 margin=0.003 nbest=0.94
+[220/300] WER so far 25.53%  (0.58s)  logp=-0.407 margin=0.069 nbest=0.79
+[240/300] WER so far 25.55%  (0.50s)  logp=-0.094 margin=0.249 nbest=0.89
+[260/300] WER so far 25.40%  (0.72s)  logp=-0.413 margin=0.004 nbest=0.67
+[280/300] WER so far 25.69%  (0.58s)  logp=-0.534 margin=0.018 nbest=0.83
+[300/300] WER so far 24.99%  (0.36s)  logp=-0.146 margin=0.477 nbest=0.80
+
+final WER 24.99%   total 165s
+saved /root/autodl-tmp/day1/conf/L5_lrs3_300_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 220 clips, 15.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before LoRA)
+epoch  1  train 53.462  val 24.705  * saved   (0.1 min)
+epoch  2  train 50.258  val 24.655  * saved   (0.1 min)
+epoch  3  train 45.586  val 23.464  * saved   (0.2 min)
+epoch  4  train 41.838  val 22.356  * saved   (0.2 min)
+epoch  5  train 39.379  val 21.528  * saved   (0.3 min)
+epoch  6  train 38.523  val 20.854  * saved   (0.3 min)
+epoch  7  train 37.230  val 20.402  * saved   (0.4 min)
+epoch  8  train 35.366  val 20.064  * saved   (0.5 min)
+epoch  9  train 33.510  val 19.841  * saved   (0.5 min)
+epoch 10  train 34.102  val 19.586  * saved   (0.6 min)
+epoch 11  train 32.840  val 19.493  * saved   (0.6 min)
+epoch 12  train 32.241  val 19.292  * saved   (0.7 min)
+epoch 13  train 32.567  val 19.259  * saved   (0.7 min)
+epoch 14  train 32.252  val 19.315   (0.8 min)
+epoch 15  train 32.512  val 19.273   (0.8 min)
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/m15/merged.pth
+
+DONE  best val loss 19.259 (start 24.290)
+evaluate:  python -u eval_autoavsr_nbest.py --id L15 --ckpt /root/autodl-tmp/adapt_lora/m15/merged.pth --dataset tomscott_test
+===== L15 N-best on tomscott_test =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/435] WER so far 37.62%  (0.90s)  logp=-0.281 margin=0.004 nbest=0.92
+[40/435] WER so far 32.95%  (0.94s)  logp=-0.147 margin=0.054 nbest=0.89
+[60/435] WER so far 29.57%  (0.62s)  logp=-0.160 margin=0.053 nbest=0.91
+[80/435] WER so far 27.26%  (1.05s)  logp=-0.263 margin=0.008 nbest=0.93
+[100/435] WER so far 28.81%  (0.70s)  logp=-0.403 margin=0.161 nbest=0.89
+[120/435] WER so far 28.95%  (1.28s)  logp=-0.295 margin=0.000 nbest=0.92
+[140/435] WER so far 27.41%  (1.02s)  logp=-0.273 margin=0.029 nbest=0.94
+[160/435] WER so far 26.63%  (0.73s)  logp=-0.349 margin=0.016 nbest=0.87
+[180/435] WER so far 25.65%  (1.03s)  logp=-0.323 margin=0.007 nbest=0.93
+[200/435] WER so far 26.65%  (1.01s)  logp=-0.546 margin=0.009 nbest=0.83
+[220/435] WER so far 27.33%  (1.10s)  logp=-0.204 margin=0.037 nbest=0.93
+[240/435] WER so far 27.68%  (0.71s)  logp=-0.207 margin=0.132 nbest=0.90
+[260/435] WER so far 28.29%  (0.90s)  logp=-0.505 margin=0.002 nbest=0.87
+[280/435] WER so far 29.84%  (0.33s)  logp=-0.190 margin=0.518 nbest=0.60
+[300/435] WER so far 30.76%  (1.15s)  logp=-0.676 margin=0.004 nbest=0.81
+[320/435] WER so far 30.79%  (0.86s)  logp=-0.284 margin=0.010 nbest=0.87
+[340/435] WER so far 30.47%  (0.76s)  logp=-0.203 margin=0.029 nbest=0.91
+[360/435] WER so far 30.03%  (0.58s)  logp=-0.298 margin=0.008 nbest=0.90
+[380/435] WER so far 29.92%  (0.74s)  logp=-0.942 margin=0.025 nbest=0.75
+[400/435] WER so far 29.86%  (1.13s)  logp=-0.326 margin=0.039 nbest=0.92
+[420/435] WER so far 29.63%  (0.83s)  logp=-0.642 margin=0.007 nbest=0.87
+
+final WER 30.06%   total 388s
+saved /root/autodl-tmp/day1/conf/L15_tomscott_test_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L15 N-best on bbc =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/91] WER so far 27.12%  (0.72s)  logp=-0.165 margin=0.018 nbest=0.91
+[40/91] WER so far 23.57%  (0.67s)  logp=-0.345 margin=0.093 nbest=0.92
+[60/91] WER so far 23.47%  (0.90s)  logp=-0.588 margin=0.012 nbest=0.89
+[80/91] WER so far 24.22%  (1.10s)  logp=-0.224 margin=0.020 nbest=0.94
+
+final WER 23.94%   total 79s
+saved /root/autodl-tmp/day1/conf/L15_bbc_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L15 N-best on lrs3_300 =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/300] WER so far 22.16%  (1.17s)  logp=-0.240 margin=0.000 nbest=0.93
+[40/300] WER so far 27.39%  (0.45s)  logp=-1.450 margin=0.048 nbest=0.52
+[60/300] WER so far 29.33%  (0.45s)  logp=-0.454 margin=0.036 nbest=0.86
+[80/300] WER so far 28.25%  (0.48s)  logp=-0.163 margin=0.233 nbest=0.80
+[100/300] WER so far 28.67%  (0.39s)  logp=-0.182 margin=0.205 nbest=0.80
+[120/300] WER so far 27.81%  (0.68s)  logp=-0.202 margin=0.021 nbest=0.93
+[140/300] WER so far 28.19%  (0.46s)  logp=-0.548 margin=0.109 nbest=0.63
+[160/300] WER so far 29.21%  (0.37s)  logp=-0.242 margin=0.357 nbest=0.73
+[180/300] WER so far 27.87%  (1.00s)  logp=-0.198 margin=0.043 nbest=0.89
+[200/300] WER so far 27.77%  (1.03s)  logp=-0.261 margin=0.020 nbest=0.93
+[220/300] WER so far 27.77%  (0.48s)  logp=-0.518 margin=0.030 nbest=0.78
+[240/300] WER so far 27.71%  (0.51s)  logp=-0.136 margin=0.209 nbest=0.89
+[260/300] WER so far 27.42%  (0.60s)  logp=-0.375 margin=0.062 nbest=0.71
+[280/300] WER so far 27.56%  (0.52s)  logp=-0.471 margin=0.140 nbest=0.79
+[300/300] WER so far 27.14%  (0.33s)  logp=-0.169 margin=0.452 nbest=0.80
+
+final WER 27.14%   total 157s
+saved /root/autodl-tmp/day1/conf/L15_lrs3_300_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 438 clips, 30.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before LoRA)
+epoch  1  train 43.492  val 26.848  * saved   (0.1 min)
+epoch  2  train 40.900  val 24.064  * saved   (0.2 min)
+epoch  3  train 37.715  val 21.961  * saved   (0.3 min)
+epoch  4  train 34.488  val 19.769  * saved   (0.3 min)
+epoch  5  train 30.789  val 18.209  * saved   (0.4 min)
+epoch  6  train 29.388  val 17.934  * saved   (0.5 min)
+epoch  7  train 27.688  val 17.522  * saved   (0.6 min)
+epoch  8  train 27.189  val 17.467  * saved   (0.7 min)
+epoch  9  train 26.916  val 17.529   (0.8 min)
+epoch 10  train 25.656  val 17.663   (0.8 min)
+epoch 11  train 26.463  val 17.538   (0.9 min)
+epoch 12  train 26.224  val 17.500   (1.0 min)
+early stop
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/m30/merged.pth
+
+DONE  best val loss 17.467 (start 24.290)
+evaluate:  python -u eval_autoavsr_nbest.py --id L30 --ckpt /root/autodl-tmp/adapt_lora/m30/merged.pth --dataset tomscott_test
+===== L30 N-best on tomscott_test =====
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/435] WER so far 41.38%  (0.92s)  logp=-0.329 margin=0.003 nbest=0.92
+[40/435] WER so far 33.94%  (1.07s)  logp=-0.186 margin=0.031 nbest=0.86
+[60/435] WER so far 31.42%  (0.67s)  logp=-0.227 margin=0.033 nbest=0.90
+[80/435] WER so far 29.10%  (1.01s)  logp=-0.279 margin=0.033 nbest=0.93
+[100/435] WER so far 30.68%  (0.67s)  logp=-0.435 margin=0.047 nbest=0.84
+[120/435] WER so far 30.66%  (1.27s)  logp=-0.290 margin=0.010 nbest=0.89
+[140/435] WER so far 28.98%  (1.02s)  logp=-0.325 margin=0.004 nbest=0.93
+[160/435] WER so far 27.75%  (0.76s)  logp=-0.300 margin=0.004 nbest=0.92
+[180/435] WER so far 26.46%  (1.30s)  logp=-0.327 margin=0.001 nbest=0.91
+[200/435] WER so far 26.72%  (0.88s)  logp=-0.531 margin=0.067 nbest=0.84
+[220/435] WER so far 27.05%  (1.09s)  logp=-0.212 margin=0.027 nbest=0.92
+[240/435] WER so far 27.32%  (0.74s)  logp=-0.276 margin=0.002 nbest=0.81
+[260/435] WER so far 27.77%  (0.95s)  logp=-0.405 margin=0.003 nbest=0.86
+[280/435] WER so far 29.39%  (0.37s)  logp=-0.211 margin=0.606 nbest=0.73
+[300/435] WER so far 30.82%  (1.15s)  logp=-0.816 margin=0.002 nbest=0.82
+[320/435] WER so far 30.81%  (0.91s)  logp=-0.359 margin=0.012 nbest=0.88
+[340/435] WER so far 30.61%  (0.76s)  logp=-0.184 margin=0.079 nbest=0.92
+[360/435] WER so far 30.20%  (0.64s)  logp=-0.397 margin=0.019 nbest=0.91
+[380/435] WER so far 30.06%  (0.83s)  logp=-1.003 margin=0.051 nbest=0.79
+[400/435] WER so far 30.20%  (1.17s)  logp=-0.299 margin=0.012 nbest=0.90
+[420/435] WER so far 29.69%  (0.81s)  logp=-0.569 margin=0.004 nbest=0.85
+
+final WER 30.14%   total 403s
+saved /root/autodl-tmp/day1/conf/L30_tomscott_test_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L30 N-best on bbc =====
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/91] WER so far 28.81%  (0.78s)  logp=-0.302 margin=0.087 nbest=0.77
+[40/91] WER so far 24.22%  (0.76s)  logp=-0.452 margin=0.004 nbest=0.90
+[60/91] WER so far 24.04%  (0.94s)  logp=-0.484 margin=0.015 nbest=0.90
+[80/91] WER so far 24.80%  (1.17s)  logp=-0.324 margin=0.009 nbest=0.93
+
+final WER 24.53%   total 83s
+saved /root/autodl-tmp/day1/conf/L30_bbc_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L30 N-best on lrs3_300 =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/300] WER so far 25.75%  (1.05s)  logp=-0.362 margin=0.008 nbest=0.87
+[40/300] WER so far 30.25%  (0.52s)  logp=-1.592 margin=0.099 nbest=0.66
+[60/300] WER so far 33.33%  (0.46s)  logp=-0.490 margin=0.024 nbest=0.79
+[80/300] WER so far 33.90%  (0.49s)  logp=-0.256 margin=0.036 nbest=0.75
+[100/300] WER so far 33.97%  (0.42s)  logp=-0.229 margin=0.150 nbest=0.80
+[120/300] WER so far 33.26%  (0.92s)  logp=-0.169 margin=0.036 nbest=0.93
+[140/300] WER so far 33.33%  (0.42s)  logp=-0.681 margin=0.000 nbest=0.61
+[160/300] WER so far 34.78%  (0.68s)  logp=-0.422 margin=0.152 nbest=0.65
+[180/300] WER so far 34.33%  (0.99s)  logp=-0.331 margin=0.001 nbest=0.89
+[200/300] WER so far 35.24%  (1.00s)  logp=-0.261 margin=0.016 nbest=0.93
+[220/300] WER so far 35.02%  (0.45s)  logp=-0.498 margin=0.041 nbest=0.85
+[240/300] WER so far 35.12%  (0.49s)  logp=-0.126 margin=0.242 nbest=0.89
+[260/300] WER so far 35.07%  (0.64s)  logp=-0.386 margin=0.032 nbest=0.86
+[280/300] WER so far 35.76%  (0.50s)  logp=-0.733 margin=0.108 nbest=0.84
+[300/300] WER so far 34.85%  (0.37s)  logp=-0.176 margin=0.482 nbest=0.80
+
+final WER 34.85%   total 164s
+saved /root/autodl-tmp/day1/conf/L30_lrs3_300_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 870 clips, 60.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before LoRA)
+epoch  1  train 38.757  val 28.058  * saved   (0.2 min)
+epoch  2  train 35.512  val 23.790  * saved   (0.3 min)
+epoch  3  train 30.303  val 20.230  * saved   (0.5 min)
+epoch  4  train 27.935  val 19.050  * saved   (0.6 min)
+epoch  5  train 26.777  val 17.592  * saved   (0.7 min)
+epoch  6  train 25.579  val 17.233  * saved   (0.9 min)
+epoch  7  train 24.909  val 16.848  * saved   (1.0 min)
+epoch  8  train 24.211  val 16.405  * saved   (1.2 min)
+epoch  9  train 24.301  val 16.361  * saved   (1.3 min)
+epoch 10  train 23.740  val 16.212  * saved   (1.5 min)
+epoch 11  train 23.496  val 16.310   (1.6 min)
+epoch 12  train 23.217  val 16.181  * saved   (1.8 min)
+epoch 13  train 22.542  val 16.025  * saved   (1.9 min)
+epoch 14  train 23.195  val 16.055   (2.0 min)
+epoch 15  train 22.857  val 16.077   (2.2 min)
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/m60/merged.pth
+
+DONE  best val loss 16.025 (start 24.290)
+evaluate:  python -u eval_autoavsr_nbest.py --id L60 --ckpt /root/autodl-tmp/adapt_lora/m60/merged.pth --dataset tomscott_test
+===== L60 N-best on tomscott_test =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/435] WER so far 38.24%  (0.96s)  logp=-0.314 margin=0.006 nbest=0.91
+[40/435] WER so far 32.45%  (1.10s)  logp=-0.197 margin=0.038 nbest=0.82
+[60/435] WER so far 29.69%  (0.67s)  logp=-0.271 margin=0.002 nbest=0.86
+[80/435] WER so far 27.08%  (1.06s)  logp=-0.237 margin=0.002 nbest=0.93
+[100/435] WER so far 28.46%  (0.71s)  logp=-0.363 margin=0.127 nbest=0.82
+[120/435] WER so far 29.01%  (1.33s)  logp=-0.297 margin=0.007 nbest=0.94
+[140/435] WER so far 27.74%  (1.04s)  logp=-0.294 margin=0.003 nbest=0.93
+[160/435] WER so far 26.38%  (0.81s)  logp=-0.307 margin=0.003 nbest=0.77
+[180/435] WER so far 25.21%  (1.14s)  logp=-0.394 margin=0.008 nbest=0.91
+[200/435] WER so far 25.26%  (0.94s)  logp=-0.531 margin=0.046 nbest=0.74
+[220/435] WER so far 25.78%  (1.09s)  logp=-0.222 margin=0.000 nbest=0.92
+[240/435] WER so far 25.99%  (0.82s)  logp=-0.443 margin=0.006 nbest=0.85
+[260/435] WER so far 26.21%  (0.89s)  logp=-0.385 margin=0.022 nbest=0.91
+[280/435] WER so far 27.60%  (0.39s)  logp=-0.417 margin=0.024 nbest=0.71
+[300/435] WER so far 28.97%  (1.24s)  logp=-0.845 margin=0.002 nbest=0.68
+[320/435] WER so far 28.81%  (1.05s)  logp=-0.405 margin=0.013 nbest=0.82
+[340/435] WER so far 28.57%  (0.79s)  logp=-0.233 margin=0.076 nbest=0.91
+[360/435] WER so far 28.23%  (0.67s)  logp=-0.340 margin=0.054 nbest=0.89
+[380/435] WER so far 28.28%  (0.73s)  logp=-1.023 margin=0.064 nbest=0.76
+[400/435] WER so far 28.43%  (1.23s)  logp=-0.350 margin=0.007 nbest=0.91
+[420/435] WER so far 28.07%  (0.75s)  logp=-0.426 margin=0.003 nbest=0.88
+
+final WER 28.48%   total 414s
+saved /root/autodl-tmp/day1/conf/L60_tomscott_test_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L60 N-best on bbc =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/91] WER so far 25.42%  (0.78s)  logp=-0.319 margin=0.046 nbest=0.75
+[40/91] WER so far 21.77%  (0.73s)  logp=-0.411 margin=0.043 nbest=0.92
+[60/91] WER so far 22.22%  (1.05s)  logp=-0.481 margin=0.033 nbest=0.86
+[80/91] WER so far 22.75%  (1.28s)  logp=-0.356 margin=0.004 nbest=0.94
+
+final WER 22.56%   total 86s
+saved /root/autodl-tmp/day1/conf/L60_bbc_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L60 N-best on lrs3_300 =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/300] WER so far 32.34%  (1.24s)  logp=-0.529 margin=0.014 nbest=0.89
+[40/300] WER so far 44.27%  (0.49s)  logp=-1.525 margin=0.010 nbest=0.62
+[60/300] WER so far 43.78%  (0.44s)  logp=-0.296 margin=0.187 nbest=0.71
+[80/300] WER so far 44.18%  (0.53s)  logp=-0.257 margin=0.123 nbest=0.78
+[100/300] WER so far 42.80%  (0.44s)  logp=-0.270 margin=0.179 nbest=0.80
+[120/300] WER so far 41.77%  (0.73s)  logp=-0.196 margin=0.007 nbest=0.91
+[140/300] WER so far 40.38%  (0.44s)  logp=-0.636 margin=0.012 nbest=0.67
+[160/300] WER so far 42.14%  (0.49s)  logp=-0.426 margin=0.015 nbest=0.70
+[180/300] WER so far 41.44%  (1.12s)  logp=-0.427 margin=0.005 nbest=0.86
+[200/300] WER so far 42.20%  (1.35s)  logp=-0.301 margin=0.011 nbest=0.93
+[220/300] WER so far 41.92%  (0.53s)  logp=-0.690 margin=0.021 nbest=0.78
+[240/300] WER so far 42.25%  (0.49s)  logp=-0.127 margin=0.228 nbest=0.90
+[260/300] WER so far 42.86%  (0.65s)  logp=-0.388 margin=0.075 nbest=0.69
+[280/300] WER so far 43.22%  (0.56s)  logp=-1.091 margin=0.011 nbest=0.81
+[300/300] WER so far 42.44%  (0.40s)  logp=-0.295 margin=0.052 nbest=0.75
+
+final WER 42.44%   total 175s
+saved /root/autodl-tmp/day1/conf/L60_lrs3_300_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 1746 clips, 120.0 min   val: 214 clips
+epoch 0  val loss 24.290  (before LoRA)
+epoch  1  train 36.725  val 27.341  * saved   (0.3 min)
+epoch  2  train 30.732  val 22.101  * saved   (0.6 min)
+epoch  3  train 27.205  val 20.287  * saved   (0.8 min)
+epoch  4  train 26.114  val 17.867  * saved   (1.1 min)
+epoch  5  train 25.112  val 16.655  * saved   (1.4 min)
+epoch  6  train 24.099  val 16.226  * saved   (1.6 min)
+epoch  7  train 23.327  val 15.565  * saved   (1.9 min)
+epoch  8  train 22.875  val 15.242  * saved   (2.2 min)
+epoch  9  train 22.550  val 15.430   (2.5 min)
+epoch 10  train 21.944  val 15.370   (2.7 min)
+epoch 11  train 21.776  val 15.310   (3.0 min)
+epoch 12  train 21.740  val 15.376   (3.3 min)
+early stop
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/m120/merged.pth
+
+DONE  best val loss 15.242 (start 24.290)
+evaluate:  python -u eval_autoavsr_nbest.py --id L120 --ckpt /root/autodl-tmp/adapt_lora/m120/merged.pth --dataset tomscott_test
+===== L120 N-best on tomscott_test =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/435] WER so far 36.05%  (0.98s)  logp=-0.268 margin=0.003 nbest=0.90
+[40/435] WER so far 30.97%  (1.13s)  logp=-0.179 margin=0.098 nbest=0.89
+[60/435] WER so far 28.65%  (0.63s)  logp=-0.256 margin=0.011 nbest=0.88
+[80/435] WER so far 26.21%  (1.04s)  logp=-0.248 margin=0.019 nbest=0.93
+[100/435] WER so far 27.98%  (0.61s)  logp=-0.279 margin=0.056 nbest=0.87
+[120/435] WER so far 28.38%  (1.26s)  logp=-0.252 margin=0.003 nbest=0.92
+[140/435] WER so far 26.94%  (1.04s)  logp=-0.279 margin=0.008 nbest=0.93
+[160/435] WER so far 25.71%  (0.77s)  logp=-0.280 margin=0.007 nbest=0.69
+[180/435] WER so far 24.92%  (1.13s)  logp=-0.286 margin=0.013 nbest=0.87
+[200/435] WER so far 25.10%  (0.97s)  logp=-0.578 margin=0.052 nbest=0.74
+[220/435] WER so far 25.30%  (1.03s)  logp=-0.180 margin=0.042 nbest=0.90
+[240/435] WER so far 25.66%  (0.86s)  logp=-0.386 margin=0.003 nbest=0.85
+[260/435] WER so far 25.87%  (0.89s)  logp=-0.368 margin=0.002 nbest=0.85
+[280/435] WER so far 27.48%  (0.41s)  logp=-0.445 margin=0.212 nbest=0.70
+[300/435] WER so far 28.93%  (1.13s)  logp=-0.714 margin=0.010 nbest=0.82
+[320/435] WER so far 29.00%  (0.92s)  logp=-0.301 margin=0.023 nbest=0.87
+[340/435] WER so far 28.90%  (0.74s)  logp=-0.255 margin=0.006 nbest=0.92
+[360/435] WER so far 28.45%  (0.61s)  logp=-0.276 margin=0.037 nbest=0.88
+[380/435] WER so far 28.28%  (0.67s)  logp=-1.154 margin=0.206 nbest=0.30
+[400/435] WER so far 28.46%  (1.23s)  logp=-0.294 margin=0.011 nbest=0.94
+[420/435] WER so far 28.09%  (0.74s)  logp=-0.328 margin=0.045 nbest=0.88
+
+final WER 28.47%   total 405s
+saved /root/autodl-tmp/day1/conf/L120_tomscott_test_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L120 N-best on bbc =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/91] WER so far 23.73%  (0.78s)  logp=-0.301 margin=0.088 nbest=0.90
+[40/91] WER so far 21.11%  (0.74s)  logp=-0.466 margin=0.022 nbest=0.92
+[60/91] WER so far 21.66%  (1.02s)  logp=-0.437 margin=0.005 nbest=0.76
+[80/91] WER so far 22.01%  (1.40s)  logp=-0.306 margin=0.003 nbest=0.95
+
+final WER 21.91%   total 85s
+saved /root/autodl-tmp/day1/conf/L120_bbc_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== L120 N-best on lrs3_300 =====
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/300] WER so far 37.13%  (1.15s)  logp=-0.524 margin=0.011 nbest=0.85
+[40/300] WER so far 46.18%  (0.46s)  logp=-1.546 margin=0.012 nbest=0.57
+[60/300] WER so far 45.56%  (0.43s)  logp=-0.391 margin=0.197 nbest=0.82
+[80/300] WER so far 44.86%  (0.58s)  logp=-0.509 margin=0.022 nbest=0.72
+[100/300] WER so far 42.53%  (0.40s)  logp=-0.228 margin=0.268 nbest=0.75
+[120/300] WER so far 42.45%  (0.75s)  logp=-0.196 margin=0.056 nbest=0.93
+[140/300] WER so far 41.33%  (0.46s)  logp=-0.516 margin=0.034 nbest=0.79
+[160/300] WER so far 43.54%  (0.51s)  logp=-0.846 margin=0.065 nbest=0.65
+[180/300] WER so far 43.32%  (1.07s)  logp=-0.449 margin=0.027 nbest=0.90
+[200/300] WER so far 44.01%  (1.06s)  logp=-0.304 margin=0.010 nbest=0.95
+[220/300] WER so far 43.75%  (0.59s)  logp=-0.488 margin=0.004 nbest=0.81
+[240/300] WER so far 44.19%  (0.49s)  logp=-0.145 margin=0.120 nbest=0.89
+[260/300] WER so far 45.07%  (0.70s)  logp=-0.686 margin=0.017 nbest=0.79
+[280/300] WER so far 45.83%  (0.50s)  logp=-0.623 margin=0.035 nbest=0.82
+[300/300] WER so far 44.88%  (0.37s)  logp=-0.308 margin=0.122 nbest=0.80
+
+final WER 44.88%   total 174s
+saved /root/autodl-tmp/day1/conf/L120_lrs3_300_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+LoRA applied to 96 layers, rank=8, trainable params: 1.18 M (vs 251.6 M total)
+train: 3711 clips, 257.2 min   val: 214 clips
+epoch 0  val loss 24.290  (before LoRA)
+epoch  1  train 34.891  val 25.250  * saved   (0.6 min)
+epoch  2  train 27.605  val 21.979  * saved   (1.2 min)
+epoch  3  train 25.580  val 17.368  * saved   (1.7 min)
+epoch  4  train 24.426  val 16.594  * saved   (2.3 min)
+epoch  5  train 23.439  val 15.755  * saved   (2.8 min)
+epoch  6  train 22.598  val 15.213  * saved   (3.4 min)
+epoch  7  train 21.903  val 15.170  * saved   (3.9 min)
+epoch  8  train 21.373  val 14.432  * saved   (4.5 min)
+epoch  9  train 21.072  val 14.741   (5.0 min)
+epoch 10  train 20.767  val 14.739   (5.6 min)
+epoch 11  train 20.389  val 14.488   (6.1 min)
+epoch 12  train 20.298  val 14.454   (6.6 min)
+early stop
+
+merging LoRA into original weights...
+re-merging with correct transpose...
+merged 96 LoRA layers -> /root/autodl-tmp/adapt_lora/m0/merged.pth
+
+DONE  best val loss 14.432 (start 24.290)
+evaluate:  python -u eval_autoavsr_nbest.py --id L0 --ckpt /root/autodl-tmp/adapt_lora/m0/merged.pth --dataset tomscott_test
+===== Lall N-best on tomscott_test =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/435] WER so far 36.36%  (0.96s)  logp=-0.249 margin=0.017 nbest=0.93
+[40/435] WER so far 29.65%  (1.06s)  logp=-0.179 margin=0.124 nbest=0.89
+[60/435] WER so far 26.35%  (0.66s)  logp=-0.260 margin=0.010 nbest=0.85
+[80/435] WER so far 23.93%  (1.00s)  logp=-0.225 margin=0.047 nbest=0.95
+[100/435] WER so far 25.62%  (0.58s)  logp=-0.215 margin=0.096 nbest=0.87
+[120/435] WER so far 26.56%  (1.30s)  logp=-0.220 margin=0.004 nbest=0.90
+[140/435] WER so far 25.32%  (1.08s)  logp=-0.325 margin=0.008 nbest=0.93
+[160/435] WER so far 24.29%  (0.81s)  logp=-0.233 margin=0.117 nbest=0.88
+[180/435] WER so far 23.42%  (1.12s)  logp=-0.298 margin=0.001 nbest=0.83
+[200/435] WER so far 23.28%  (0.88s)  logp=-0.527 margin=0.034 nbest=0.85
+[220/435] WER so far 23.69%  (1.03s)  logp=-0.147 margin=0.034 nbest=0.92
+[240/435] WER so far 24.13%  (0.91s)  logp=-0.368 margin=0.010 nbest=0.89
+[260/435] WER so far 24.36%  (0.90s)  logp=-0.344 margin=0.016 nbest=0.91
+[280/435] WER so far 25.86%  (0.39s)  logp=-0.525 margin=0.037 nbest=0.69
+[300/435] WER so far 27.34%  (1.04s)  logp=-0.728 margin=0.066 nbest=0.87
+[320/435] WER so far 27.58%  (0.84s)  logp=-0.213 margin=0.091 nbest=0.91
+[340/435] WER so far 27.40%  (0.99s)  logp=-0.229 margin=0.022 nbest=0.91
+[360/435] WER so far 27.08%  (0.63s)  logp=-0.249 margin=0.063 nbest=0.85
+[380/435] WER so far 27.06%  (0.67s)  logp=-1.026 margin=0.002 nbest=0.77
+[400/435] WER so far 27.25%  (1.49s)  logp=-0.317 margin=0.012 nbest=0.94
+[420/435] WER so far 26.91%  (0.75s)  logp=-0.253 margin=0.101 nbest=0.91
+
+final WER 27.16%   total 405s
+saved /root/autodl-tmp/day1/conf/Lall_tomscott_test_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== Lall N-best on bbc =====
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/91] WER so far 21.69%  (0.66s)  logp=-0.132 margin=0.173 nbest=0.90
+[40/91] WER so far 20.29%  (0.82s)  logp=-0.502 margin=0.023 nbest=0.87
+[60/91] WER so far 21.09%  (1.01s)  logp=-0.502 margin=0.009 nbest=0.76
+[80/91] WER so far 20.95%  (1.38s)  logp=-0.266 margin=0.013 nbest=0.95
+
+final WER 20.96%   total 84s
+saved /root/autodl-tmp/day1/conf/Lall_bbc_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+===== Lall N-best on lrs3_300 =====
+  按形状匹配: encoder.embed.0.bias  ->  proj_encoder.bias  (768,)
+  按形状匹配: encoder.embed.0.weight  ->  proj_encoder.weight  (768, 512)
+权重改名后加载成功（多余键 0 个已忽略）
+[20/300] WER so far 48.50%  (1.17s)  logp=-0.586 margin=0.005 nbest=0.92
+[40/300] WER so far 57.64%  (0.47s)  logp=-1.411 margin=0.012 nbest=0.33
+[60/300] WER so far 57.11%  (0.53s)  logp=-0.497 margin=0.179 nbest=0.79
+[80/300] WER so far 54.62%  (0.64s)  logp=-0.551 margin=0.080 nbest=0.86
+[100/300] WER so far 52.58%  (0.45s)  logp=-0.231 margin=0.294 nbest=0.75
+[120/300] WER so far 50.96%  (0.79s)  logp=-0.258 margin=0.010 nbest=0.91
+[140/300] WER so far 48.67%  (0.52s)  logp=-0.590 margin=0.130 nbest=0.66
+[160/300] WER so far 49.59%  (0.54s)  logp=-0.862 margin=0.011 nbest=0.61
+[180/300] WER so far 48.77%  (1.16s)  logp=-0.672 margin=0.004 nbest=0.80
+[200/300] WER so far 50.45%  (1.11s)  logp=-0.274 margin=0.029 nbest=0.93
+[220/300] WER so far 50.00%  (0.65s)  logp=-0.565 margin=0.087 nbest=0.59
+[240/300] WER so far 50.19%  (0.51s)  logp=-0.175 margin=0.077 nbest=0.84
+[260/300] WER so far 50.71%  (1.10s)  logp=-0.853 margin=0.002 nbest=0.71
+[280/300] WER so far 50.92%  (0.51s)  logp=-0.677 margin=0.013 nbest=0.82
+[300/300] WER so far 50.44%  (0.38s)  logp=-0.302 margin=0.141 nbest=0.80
+
+final WER 50.44%   total 185s
+saved /root/autodl-tmp/day1/conf/Lall_lrs3_300_confA.csv
+检查：完整运行时，这个 WER 应该和 table_main 里 T1 一样（bbc 25.47 / lrs3_300 25.16）
+ALL DONE

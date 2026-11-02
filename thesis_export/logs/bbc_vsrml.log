@@ -1,0 +1,31 @@
+nohup: ignoring input
+编号     数据集        状态
+S2     bbc        待运行
+S2lm   bbc        待运行
+S4     bbc        待运行
+S4lm   bbc        待运行
+S5     bbc        待运行
+S5lm   bbc        待运行
+
+并行 3 个任务，每个 2 个 CPU 线程，共 6 个任务
+
+>>> 20:05:00  start S2 on bbc
+>>> 20:05:00  start S2lm on bbc
+>>> 20:05:00  start S4 on bbc
+<<< 20:08:17  S2 on bbc: OK  3.3 min  WER 25.33%  failed 0
+>>> 20:08:17  start S4lm on bbc
+<<< 20:08:59  S2lm on bbc: OK  4.0 min  WER 27.00%  failed 0
+>>> 20:08:59  start S5 on bbc
+<<< 20:15:00  S4 on bbc: OK  10.0 min  WER 45.27%  failed 0
+>>> 20:15:00  start S5lm on bbc
+<<< 20:19:10  S5 on bbc: OK  10.2 min  WER 49.78%  failed 0
+<<< 20:20:31  S4lm on bbc: OK  12.2 min  WER 43.45%  failed 2
+<<< 20:24:24  S5lm on bbc: OK  9.4 min  WER 45.85%  failed 3
+
+========== 本次运行 ==========
+S2 bbc OK 3.3 WER 25.33%  failed 0
+S2lm bbc OK 4.0 WER 27.00%  failed 0
+S4 bbc OK 10.0 WER 45.27%  failed 0
+S4lm bbc OK 12.2 WER 43.45%  failed 2
+S5 bbc OK 10.2 WER 49.78%  failed 0
+S5lm bbc OK 9.4 WER 45.85%  failed 3

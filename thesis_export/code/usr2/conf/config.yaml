@@ -1,0 +1,21 @@
+defaults:
+  - data: default
+  - debug: no_debug
+  - decode: default
+  - logger: default
+  - logging: default
+  - model: default
+  - trainer: test
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+project_name: usr2
+num_workers: 4
+log_wandb: False
+compile_model: True
+gpus:
+video:
+modality: av
+detector: mediapipe
+output: features.pt

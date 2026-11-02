@@ -1,0 +1,92 @@
+clip_id,ref,hyp
+clip_0000,"When you put English text into a computer, it is saving every individual character as eight bits of data.",WHEN YOU PUT ENGLISH TEXT INTO A COMPUTER IT IS SAVING EVERY INDIVIDUAL CHARACTER'S EIGHT BITS OF DATA
+clip_0001,"Eight ones and zeros. I mean, they're not actually ones and zeros,",WANT ZEROS I MEAN THEY DON'T ACTUALLY WANT ZERO
+clip_0002,"they're particular positions of atoms on a disk or a few electrons going over a wire,",ARE PARTICULAR POSITIONS OF ATOMS ON A DESK OR A FEW ELECTRONS GOING OVER A WIRE
+clip_0003,"but as far as we're concerned in the computer science world, they are ones and zeros. Bits.",AS FAR AS WE'RE CONCERNED IN THE COMPUTER SCIENCE WORLD THEY ARE ONES AND ZEROS BEATS
+clip_0004,"And yes, a modern phone or computer might store a few quadrillion of them",AND YES ON A PHONE YOUR COMPUTER MIGHT STORE A FEW QUOD TRILLION OF THEM
+clip_0005,"But every time you've had to wait a long time for a download, or your phone's complained that its storage is full,",EVERY TIME YOU'VE HAD TO WAIT A LONG TIME FOR A DOWNLOAD ON YOUR PHONE TO COMPLAIN THAT IT'S SCORAGE IS FULL
+clip_0006,you're running up against the same question that computer scientists have been working on,YOU ARE RUNNING UP AGAINST THE SAME QUESTION THAT COMPUTER SCIENTISTS HAVE BEEN WORKING ON SINCE
+clip_0007,since before these things here were state of the art:,THESE THINGS HERE WILL SAY TO THE ART
+clip_0008,can we please not use so many bits?,WE'RE PLUGGING TO NOT USE SO MANY BEDS
+clip_0009,"So, let’s run through how computers compress text. Images and video are different — that's lossy compression,",LET'S RUN THROUGH HOW COMPUTERS COMPRESS TEXT IMAGES AND VIDEO ARE DIFFERENT THAN SLOTTING
+clip_0010,where it doesn't matter if you lose a little bit of detail. But text has to be losslessly compressed:,WE RECEIVED MATTER OF FACT THERE WAS A LITTLE BIT OF DETAIL BUT TAXTILES BEING LOST AT COMPRESSED
+clip_0011,"you can't just lose a bit of detail, otherwise you end up sending the wrong worms.",YOU CAN'T JUST USE A BIT OF DETAIL OTHERWISE YOU END UP SETTING THE WRONG WORMS
+clip_0012,So the first thing we need to know is how text is stored on disk before it's compressed.,THE FIRST THING WE NEED TO KNOW IS HOW TAX IS STORED ON DATA BEFORE IT'S COMPRESSED
+clip_0013,"To make this easier, I am just going to talk about English text here:",DESPITE THIS IDEA I'M JUST GOING TO TALK ABOUT ENGLISH AS A GUIDE
+clip_0014,"I know only too well that it gets more complicated than this,",ONLY TOO WELL THAT IT GETS MORE COMPLICATED THAN THIS
+clip_0015,"but hey, the series is called ""the basics"", so deal with it.",IN THIS SERIES IT'S CALLED THE BASICS SO DEAL WITH IT
+clip_0016,"On a modern computer, each English character takes up",MODERN COMPUTER EACH ENGLISH CHARACTER TASTED
+clip_0017,"exactly eight ones and zeros on disk - eight bits, or one byte.",EXACTLY EIGHT AND 1 ZEROS ON THIS EIGHT BITS OR ONE BITE
+clip_0018,"And there are 256 possible combinations of those ones and zeros,",AND THERE ARE 256 POSSIBLE COMBINATIONS THOSE ONES IN
+clip_0019,so you can have 256 possible characters.,SO YOU CAN HAVE 256 POSSIBLE CHARACTERS THAT
+clip_0020,"That's enough for the English alphabet, numbers, some punctuation, and... well, then it gets complicated depending on which country you’re in",FOR THE ENGLISH ALPHABET NUMBERS AND PUNCUATION WELL THEN IT GETS COMPLICATED DEPENDING ON WHICH COUNTRY YOU'RE IN
+clip_0021,and oh my god that's a whole separate video we do not want to get into right now.,THERE'S A WHOLE SEPARATE VIDEO WE DO NOT WANT TO GET INTO RIGHT NOW
+clip_0022,Why eight bits? Because it was big enough to store all the characters,INDEPENDENT SPEAKERS IT WAS BIG ENOUGH TO SCORE ALL THE CHARACTERS
+clip_0023,"that American computers usually needed, but no bigger,",THAT AMERICAN COMPUTERS ARE HUGELY NEEDED BUT NO BIGGER
+clip_0024,so the text doesn't take up any more space than it absolutely has to.,IF THE TEXT DOESN'T TAKE UP ANY MORE SPACE THAN IT ABSOLUTELY HAS TO
+clip_0025,"Eight is also a power of two, which means it's easy to deal with at the really low levels of programming.",IT'S ALSO A POWER OF TWO WHICH MEANS IT'S EASY TO DEAL WITH OTHER REALLY LOW LEVELS OF PROGRAMMING
+clip_0026,It's also helpful to have a fixed number of bits per character,AND ALSO HELPFUL TO HAVE A FIXED NUMBER OF BENS PER CHARACTER
+clip_0027,"because it makes searching through text really fast. If you want to go to the 100,000th character in some text,",SEARCHING THROUGH TEXT REALLY FAST IF YOU WANT TO GO TO THE 100000TH CHARACTERISM TEXT
+clip_0028,you know exactly where the ones and zeros are going to be without,KNOW EXACTLY WHERE THE ONES AND ZEROS ARE GOING TO BE WITHOUT
+clip_0029,having to count the number of bits in every single character before it.,HAVING TO COUNT THE NUMBER OF BITS IN EVERY SINGLE CHARACTER BEFORE IT
+clip_0030,"If you want to know how long a string of text is, you just count the bits and you divide by eight.",IF YOU WANT TO KNOW HOW LONG A STRING OF TEXT IS YOU JUST COUNT THE PINS AND YOU DIVIDE BY EIGHT COMPUTER
+clip_0031,"Computers don't have the luxury of spaces, remember:",DON'T HAVE THE LUXURY OF SPACES REMEMBER IT
+clip_0032,it's just one long string of 1s and 0s.,JUST ONE LONG STRING OF ONES AND ZEROS
+clip_0033,"But let's say we're not worried about speed right now, we just want to fit as much text as possible",LET'S SAY WE'RE NOT WORRIED ABOUT SPEED RIGHT NOW WE JUST WANT TO FACE AS MUCH TEXT AS POSSIBLE
+clip_0034,into as small a number of 1s and 0s as possible. Compression.,IT WAS THE SMALLER NUMBER OF ONES AND ZEROS AS POSSIBLE THE OPPRESSION
+clip_0035,A good plan would be to assign the most common characters to smaller arrangements of bits.,A GOOD PLAN WOULD BE TO ASSIGN THE MOST COMMON CHARACTERS TO SMALLER ARRANGEMENTS OF BITS
+clip_0036,"So those researchers, way way back, could have said: well, the space bar is generally used most often.",SO THOSE RESEARCHERS WAY BACK COULD HAVE SAID WELL THE SPACE PARTS GENERALLY USE MOST OFTEN JUST
+clip_0037,"Just give that the code ""0"". Then it's the lowercase e. Give that the code ""1"".",THE CODE ZERO THEN IT'S THE LOWER CASE E GIVE THAT THE CODE 1
+clip_0038,"Then it's lowercase t: give that two zeros... ...and immediately, we've hit a problem.",THEN IT'S LONY XT GIVE THAT TWO ZEROS AND IMMEDIATELY WE GIVE IT A PROBLEM BECAUSE
+clip_0039,Because the computer running through that text later has no way of knowing,THE COMPUTER RUNNING THROUGH THAT DESK LATER HAS NO WAY OF KNOWING
+clip_0040,"whether ""00"" is a t, or the space bar twice.",WHETHER ZERO ZERO IS A LINK OR THE SPACE PART
+clip_0041,"And if we keep on assigning letters like that, the problems keep getting worse:",AND IF WE KEEP ON ASSIGNING LETTERS LIKE THAT THE PROBLEMS KEEP GETTING WORSE
+clip_0042,is three zeros a lowercase n? Or a t followed by a space? Or three spaces?,THREE ZEROS ARE LOWER CASE N OR A D FOLLOWED BY SPACE OR THREE SPACE
+clip_0043,"Remember, there are no gaps here, no actual space separators,",REMEMBER THERE ARE NO GAPS HERE NO ACTUAL SPACE SEPARATORS
+clip_0044,all the computer can see is a constant stream of 1s and 0s.,ALL THE COMPUTING CAN SEE IS A CONSTANT STREAM OF ONES AND ZEROS
+clip_0045,There's no way to know which is meant.,NO WAY TO KNOW WHICH IS MEANT X
+clip_0046,"Except. In 1952, a very clever mathematician called David Huffman invented Huffman coding.",SKEPT IN 1952 A VERY CLEVER MATHEMATICIAN CALLED DAVID HUFFMAN INVENTED HUFFMAN CODING AND
+clip_0047,"You invent something like that, your name gets put on it. Yes, there are much better,",IN FACT SOMETHING LIKE THAT YOU NAME THE EXPORT ON IT YES THERE ARE MUCH BETTER
+clip_0048,"more modern, more complicated, mathematical ways to do this,",MODERN MORE COMPLICATED MATHEMATICAL WAYS TO DO THIS
+clip_0049,but Huffman coding is the basic foundation of modern text compression.,OF MANCODING IS THE BASIC FOUNDATION OF MODERN TEST COMPRESSION
+clip_0050,And here is how it works. Let's say we want to compress...,HERE IS HOW IT WORKS LET'S SAY WE WANT TO COMPRESS LET'S
+clip_0051,"let's go with the lyrics to Will Smith's ""Wild Wild West"".",WITH NFSU WILLSMITH'S WILD WILD WESTER
+clip_0052,"Uncompressed, that is 3,684 characters taking up nearly 30,000 bits.",COMPRESSING IS 3644 CHARACTERS TAKING UP NEARLY 30000 BITS
+clip_0053,"First up: you count how many times each character is used,",FIRST UP YOU COUNT HOW MANY TIMES EACH CHARACTER IS USED
+clip_0054,and you put that in a list in order. Now that'll be different for each block of text you're compressing:,PUT THAT IN A LIST IN A QUARTER NOW THAT WILL BE DIFFERENT FOR EACH BLOCK OF TEST YOU CAN PRESS
+clip_0055,this has way more Ws than usual. Now take the two least used characters.,THAT'S WAY MORE DOUBLE USE THAN USUAL NOW CONTAIN THE TWO LEAST USE CHARACTERS
+clip_0056,Those two are going to be the bottom branches on your “Huffman tree”.,ARE GOING TO BE THE BOTTOM BRANCHES ON YOUR HALF MOON TREE RIGHT
+clip_0057,"Write them down, with how often they're used next to them. That’s called their frequency.",DOWN WITH HOW OFTEN THEY'RE USED TO TEST THEM THAT'S CALLED THEIR FREQUENCY
+clip_0058,"Then connect them together, one level up, with the sum of their frequencies.",CONNECT THEM TOGETHER ONE LEVEL UP WITH THE SUM OF THEIR FREQUENCIES IN
+clip_0059,"Now add that new sum back into your list, wherever it sits, higher up.",AND THAT NEW TERM MAKE IT YOUR LIST WHEREVER IT SITS IN HIER UP AND
+clip_0060,"And repeat! Take the bottom two off your list, connect them up,",REPEAT THEM TAKE THE BOTTOMS OFF THE LIST CONNECT THEM UP
+clip_0061,"add the result back in your list. Keep that going. And when one of the sums reaches the bottom two of the list,",AND THE RESULT BACK IN YOUR LIST KEEP THAT GOING WHEN ONE OF THE SIMS REACHES THE BOTTOM TWO OF THE LIST
+clip_0062,"you connect it up like that. And eventually, you're going to be down to one thing in your list,",YOU CAN END UP LIKE THAT AND EVENTUALLY YOU ARE GOING TO BE DOWN TO ONE THING IN YOUR LIST RIGHT
+clip_0063,"right at the top. You now have a Huffman tree, and it looks like this,",THE TABLE YOU NOW HAVE A HUFFMAN TREE AND IT LOOKS LIKE THIS
+clip_0064,and it tells you how to convert your text into ones and zeros.,AND IT TELLS YOU HOW TO CONVERT YOUR TAX INTO ONES AND ZEROS
+clip_0065,Our first letter is the first uppercase W in 'wiki-wiki-wild-wild-West'.,FIRST LESSON IS THE FIRST UP AGAINST WICKED WICKED WILDWISE UP
+clip_0066,"Uppercase W is here, there’s 141 of them. So go the top, follow the path down.",WHO IS HERE THERE'S 141 OF THEM SO GO TO THE TOP FRONT OF THE PATH DOWN
+clip_0067,"Each time you take the left hand side, write a 0; each time you take the right hand side, write a 1.",EACH TIME YOU TAKE THE LEFT HAND SIDE WRITE A ZERO EACH TIME YOU TAKE THE RIGHT HAND SIDE AND WRITE A ONE
+clip_0068,"So W is this: only 5 bits instead of 8. Next, lowercase i.",WHO IS YES ONLY 5 PLUS INSTEAD OF EIGHT NEXT LOAD GETS HIGH
+clip_0069,"Follow the code down, only four bits this time, it’s more common.",IN FRONT OF THE COAT DOWN ONLY FOUR BITS OF STYPES IS MORE COMMON
+clip_0070,"Then the k, which is less common; that actually takes up seven bits. And you keep going.",K WHICH IS LESS COMMON THAN IT ACTUALLY TAKES NUMBER SEVEN BITS AND YOU KEEP GOING
+clip_0071,"Some of the letters will take up more than 8 bits,",SOME OF THE LETTERS WILL TAKE MORE THAN EIGHT BITS BUT
+clip_0072,"but that’s fine, because they’re not used very often.",FINE BECAUSE THEY'RE NOT USED VERY OFTEN
+clip_0073,"Now, you do have to also store this tree to provide a translation table",YOU ALSO HAVE TO STORE THOSE TRIGGERLY PROVIDE A TRANSLATION TABLE
+clip_0074,between your new symbols and the uncompressed ones - so this is not efficient for short bits of text.,BETWEEN THE NEW SYMBOLS AND THE UNCOMPRESSED ONES SO THIS IS NOT EFFICIENT FOR SHORT BITS OF TEXT
+clip_0075,"If you’re ever asked to do this in a computer science exam, then they’ll ignore all that and just ask you",IF YOU'RE EVER ASKED TO DO THIS IN A COMPUTER SCIENCE EXCEPT THEN THEY WILL IGNORE ALL THAT AND JUST ASK
+clip_0076,"to do one easy word from a tree by hand. But for Will Smith's magnum opus, we have compressed it down",ONE EASY WORD FROM A TREE BY HAND BUT FOR WILLSMITH'S MAGNUM OPUS WE HAVE COMPRESSED IT DOWN
+clip_0077,"to just over 20,000 bits: about a 30% saving.",JUST OVER 20000 BEDS POUND 30 PERCENT SAVING
+clip_0078,"To uncompress the resulting stream of bits, it works the other way: just read across, take the left fork every time you see a 0",BUT COMPRESS THE RESULTING STREAM OF PAINTING WORKS THE OTHER WAY YOU JUST READ ACROSS TAKE THE LEFT FOR IT EVERY TIME YOU SEE A ZERO
+clip_0079,"and the right fork every time you see a 1. When you reach a letter, that's it, you know that’s the end,",THE RIGHT FOR IT EVERY TIME YOU SEE A ONE WHEN YOU REACH A LETTER THAT'S IT YOU KNOW THAT'S THE
+clip_0080,and you know that there is no other path you could have possibly taken.,AND YOU KNOW THAT THERE IS NO OTHER PATH YOU COULD POSSIBLY HAVE TAKEN
+clip_0081,"You start again with the next bit. Now in practice, computers might do this working backwards from the bottom up sometimes,",START AGAIN WITH THE NEXT BIT NOW IN PRACTICE COMPUTERS MIGHT DO THIS WORKING BACKWARDS FROM THE BOTTOM UP SOMETIMES
+clip_0082,but this is a pretty good way to at least understand what's going on.,THIS IS A PRETTY GOOD WAY TO AT LEAST UNDERSTAND WHAT'S GOING ON
+clip_0083,And here's the really clever part: Huffman proved that this is the most efficient way,HERE IS THE REALLY CLEVER PART HUFFMAN PROVED THAT THIS IS THE MOST EFFICIENT WAY
+clip_0084,to assign 0s and 1s to single characters.,ASIDE ZEROS AND ONES AND AS LITTLE CHARACTER
+clip_0085,It is mathematically impossible to beat this.,IT IS MATHEMATICALLY IMPOSSIBLE TO BE THIS
+clip_0086,"Unless, as you might already have figured out,",AN EXERCISE YOU MIGHT ALREADY FIGURED OUT
+clip_0087,you start working on blocks bigger than one character.,START WORKING ON BLOCKS BIGGER THAN ONE CHARACTER
+clip_0088,"Clever tricks like that are basically how zip files work... but then, this is just the basics.",TRICKS LIKE THAT ARE BASICALLY HOW TIPFIERS WORK BUT THEN THIS IS JUST A BASIC
+clip_0089,"Thank you to all my proofreaders who helped with that script, thank you to my graphics team,",ALL MY PROOF READERS WHO HELPED WITH THAT SCRIPT THANK YOU TO MY GRAPHICS TEAM
+clip_0090,and also thank you to the Centre for Computing History in Cambridge for letting me film with their old kit.,ALSO THANK YOU TO THE CENTER FOR COMPUTING HISTORY IN CAMBRIDGE FOR LETTING ME FILM WITH YOUR OLD KID

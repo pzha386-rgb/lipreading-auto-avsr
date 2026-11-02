@@ -1,0 +1,72 @@
+video_id,clip_id,path,start,end,dur,text
+iZnLZFRylbs,clip_0000,iZnLZFRylbs/clip_0000.mp4,0.080,4.240,4.160,"Whether you’re copying files, loading a level in a game, or installing an app on a phone:"
+iZnLZFRylbs,clip_0001,iZnLZFRylbs/clip_0001.mp4,4.240,8.800,4.560,"it is 2021, and progress bars and loading time estimates still suck"
+iZnLZFRylbs,clip_0002,iZnLZFRylbs/clip_0002.mp4,8.800,11.520,2.720,just as much as they did back when they looked like this.
+iZnLZFRylbs,clip_0003,iZnLZFRylbs/clip_0003.mp4,12.240,15.920,3.680,Why can’t computers just tell you how long something’s going to take?
+iZnLZFRylbs,clip_0004,iZnLZFRylbs/clip_0004.mp4,20.000,23.360,3.360,"Progress bars exist in all sorts of places all over the real world,"
+iZnLZFRylbs,clip_0005,iZnLZFRylbs/clip_0005.mp4,23.360,27.360,4.000,from countdown lights on pedestrian crossings to the floor indicator on an elevator.
+iZnLZFRylbs,clip_0006,iZnLZFRylbs/clip_0006.mp4,27.360,32.000,4.640,"Even a line of people queueing for something is a sort of progress bar. You know how far you’ve got to go,"
+iZnLZFRylbs,clip_0007,iZnLZFRylbs/clip_0007.mp4,32.000,35.920,3.920,"you know how fast the line’s moving, you can get an idea of how long it’ll take."
+iZnLZFRylbs,clip_0008,iZnLZFRylbs/clip_0008.mp4,36.640,39.760,3.120,"More importantly, though, you can tell that the line is moving."
+iZnLZFRylbs,clip_0009,iZnLZFRylbs/clip_0009.mp4,39.760,44.640,4.880,"There’s a big, obvious, physical sign that Things Are Happening and Progress Is Being Made,"
+iZnLZFRylbs,clip_0010,iZnLZFRylbs/clip_0010.mp4,44.640,50.240,5.600,which means you’re more likely to be okay with the wait. Particularly if you can actually get an estimate of how long it’ll take
+iZnLZFRylbs,clip_0011,iZnLZFRylbs/clip_0011.mp4,50.240,52.800,2.560,or even just how many people are in front of you.
+iZnLZFRylbs,clip_0012,iZnLZFRylbs/clip_0012.mp4,53.680,57.280,3.600,"But as for computers: well, they’re mysterious boxes."
+iZnLZFRylbs,clip_0013,iZnLZFRylbs/clip_0013.mp4,57.280,59.440,2.160,"Without a progress bar, it’s impossible to tell whether"
+iZnLZFRylbs,clip_0014,iZnLZFRylbs/clip_0014.mp4,59.440,64.320,4.880,"a task is barely started, about to finish, or stuck in a loop it’ll never recover from."
+iZnLZFRylbs,clip_0015,iZnLZFRylbs/clip_0015.mp4,64.320,67.840,3.520,"Or whether you’ve forgotten to hit the start button. Hence: the Progress Bar,"
+iZnLZFRylbs,clip_0016,iZnLZFRylbs/clip_0016.mp4,67.840,70.880,3.040,"and its slightly fancier cousin, the Loading Time Estimate."
+iZnLZFRylbs,clip_0017,iZnLZFRylbs/clip_0017.mp4,71.440,75.120,3.680,"The simplest possible progress bar takes the number of things to do,"
+iZnLZFRylbs,clip_0018,iZnLZFRylbs/clip_0018.mp4,75.120,77.840,2.720,and shows how many of those are done.
+iZnLZFRylbs,clip_0019,iZnLZFRylbs/clip_0019.mp4,77.840,81.840,4.000,"This video has a progress bar like that: there’s five minutes and ten seconds of video,"
+iZnLZFRylbs,clip_0020,iZnLZFRylbs/clip_0020.mp4,81.840,84.640,2.800,and we’ve got through one minute and twenty-four seconds.
+iZnLZFRylbs,clip_0021,iZnLZFRylbs/clip_0021.mp4,85.280,89.920,4.640,"That’s a pretty accurate progress bar right there. Of course, the video player has one job:"
+iZnLZFRylbs,clip_0022,iZnLZFRylbs/clip_0022.mp4,89.920,93.120,3.200,display the frames of this video at a steady pace.
+iZnLZFRylbs,clip_0023,iZnLZFRylbs/clip_0023.mp4,93.120,96.560,3.440,"Barring you pausing or rewinding, it’ll probably just carry on at this speed."
+iZnLZFRylbs,clip_0024,iZnLZFRylbs/clip_0024.mp4,96.560,100.800,4.240,But something like installing a program is a lot more complex and unpredictable.
+iZnLZFRylbs,clip_0025,iZnLZFRylbs/clip_0025.mp4,100.800,106.560,5.760,"An installer might have to download files off the internet, then decompress those files, then save those files,"
+iZnLZFRylbs,clip_0026,iZnLZFRylbs/clip_0026.mp4,106.560,111.200,4.640,"along with reading or deleting stuff that’s already there, and maybe make some changes to system settings."
+iZnLZFRylbs,clip_0027,iZnLZFRylbs/clip_0027.mp4,111.840,114.480,2.640,"Now, in theory, a programmer could work out roughly"
+iZnLZFRylbs,clip_0028,iZnLZFRylbs/clip_0028.mp4,114.480,118.240,3.760,"how long each of those processes will take, and bias the progress bar accordingly."
+iZnLZFRylbs,clip_0029,iZnLZFRylbs/clip_0029.mp4,118.240,122.560,4.320,But each one of those steps will take different amounts of time on different machines.
+iZnLZFRylbs,clip_0030,iZnLZFRylbs/clip_0030.mp4,122.560,127.360,4.800,Downloading will depend on internet speed. Decompression will depend on how fast the processor is.
+iZnLZFRylbs,clip_0031,iZnLZFRylbs/clip_0031.mp4,127.360,131.040,3.680,"Saving, reading, deleting will depend on how fast the device’s disk is,"
+iZnLZFRylbs,clip_0032,iZnLZFRylbs/clip_0032.mp4,131.040,135.920,4.880,"and the states of the files on it. And on some physical spinning disks, it’ll even depend on where exactly"
+iZnLZFRylbs,clip_0033,iZnLZFRylbs/clip_0033.mp4,135.920,140.160,4.240,"the 1s and 0s are stored. And as for the making changes to system settings,"
+iZnLZFRylbs,clip_0034,iZnLZFRylbs/clip_0034.mp4,140.160,145.520,5.360,"well, that’s up to the operating system. It’s basically impossible to get a smooth progress bar for something like that."
+iZnLZFRylbs,clip_0035,iZnLZFRylbs/clip_0035.mp4,146.560,149.760,3.200,But let’s say you’ve got a progress bar that should be fairly steady.
+iZnLZFRylbs,clip_0036,iZnLZFRylbs/clip_0036.mp4,149.760,155.120,5.360,"Like: copying 20,000 files from one place to another. Surely you can just… count the files as they go?"
+iZnLZFRylbs,clip_0037,iZnLZFRylbs/clip_0037.mp4,155.120,158.240,3.120,"Well, that’ll go wrong if one file’s much bigger than all the others."
+iZnLZFRylbs,clip_0038,iZnLZFRylbs/clip_0038.mp4,158.240,160.880,2.640,"Okay, so maybe it should count the amount of data that’s been transferred."
+iZnLZFRylbs,clip_0039,iZnLZFRylbs/clip_0039.mp4,161.520,164.800,3.280,"Sure: but that can also go wrong, because copying lots of small files"
+iZnLZFRylbs,clip_0040,iZnLZFRylbs/clip_0040.mp4,164.800,170.240,5.440,takes longer than a few large ones. It takes a little bit of extra time to switch from copying one file to the next.
+iZnLZFRylbs,clip_0041,iZnLZFRylbs/clip_0041.mp4,170.240,175.200,4.960,"So even for something that seems like a simple task, the bar could speed up and slow down."
+iZnLZFRylbs,clip_0042,iZnLZFRylbs/clip_0042.mp4,175.920,179.360,3.440,"Fine. Maybe you work out all of that in advance, you program it really carefully"
+iZnLZFRylbs,clip_0043,iZnLZFRylbs/clip_0043.mp4,179.360,183.920,4.560,"so that the progress bar can be as smooth as possible. Very few programmers think that’s really worth the effort,"
+iZnLZFRylbs,clip_0044,iZnLZFRylbs/clip_0044.mp4,183.920,187.760,3.840,"but let’s say you try. And then you add a “time remaining” display,"
+iZnLZFRylbs,clip_0045,iZnLZFRylbs/clip_0045.mp4,187.760,190.880,3.120,"based on how long it’s taken so far, and how much there is still to do."
+iZnLZFRylbs,clip_0046,iZnLZFRylbs/clip_0046.mp4,192.000,195.840,3.840,"That will still go wrong. Because the speed of your transfer, or your download,"
+iZnLZFRylbs,clip_0047,iZnLZFRylbs/clip_0047.mp4,195.840,199.600,3.760,"or your complicated video render, all of those speeds could change at any time"
+iZnLZFRylbs,clip_0048,iZnLZFRylbs/clip_0048.mp4,199.600,202.800,3.200,"because of what the device is doing, or what the user’s doing."
+iZnLZFRylbs,clip_0049,iZnLZFRylbs/clip_0049.mp4,202.800,205.520,2.720,"Maybe a desktop user switched to another window because they were bored,"
+iZnLZFRylbs,clip_0050,iZnLZFRylbs/clip_0050.mp4,205.520,209.360,3.840,and now the computer’s got to deal with playing a game as well as rendering video.
+iZnLZFRylbs,clip_0051,iZnLZFRylbs/clip_0051.mp4,209.360,212.880,3.520,"Maybe a phone user got a notification, and now the device is struggling to download"
+iZnLZFRylbs,clip_0052,iZnLZFRylbs/clip_0052.mp4,212.880,218.000,5.120,"a video clip that someone’s sent in a group chat in the background. Maybe the computer is starting to get too hot,"
+iZnLZFRylbs,clip_0053,iZnLZFRylbs/clip_0053.mp4,218.000,221.360,3.360,so it slows down its processor to avoid being damaged by overheating.
+iZnLZFRylbs,clip_0054,iZnLZFRylbs/clip_0054.mp4,221.360,226.240,4.880,Or maybe the device just decided that now would be a really good time to do some maintenance in the background
+iZnLZFRylbs,clip_0055,iZnLZFRylbs/clip_0055.mp4,226.240,230.640,4.400,"because… well, who knows why, apparently it just decides that sometimes."
+iZnLZFRylbs,clip_0056,iZnLZFRylbs/clip_0056.mp4,230.640,233.040,2.400,One option is to take a “rolling average”:
+iZnLZFRylbs,clip_0057,iZnLZFRylbs/clip_0057.mp4,233.040,236.960,3.920,"rather than just naively estimating based on the time it’s taken for everything so far,"
+iZnLZFRylbs,clip_0058,iZnLZFRylbs/clip_0058.mp4,236.960,240.080,3.120,"you look at how much has been done in the last ten seconds, or twenty seconds,"
+iZnLZFRylbs,clip_0059,iZnLZFRylbs/clip_0059.mp4,240.080,245.200,5.120,"and extrapolate from just that bit. It’ll still probably be wrong, but it’ll be differently wrong."
+iZnLZFRylbs,clip_0060,iZnLZFRylbs/clip_0060.mp4,245.840,249.600,3.760,"Or, and I think this is why most programmers don’t spend too much time on this,"
+iZnLZFRylbs,clip_0061,iZnLZFRylbs/clip_0061.mp4,249.600,255.440,5.840,you could accept that it doesn’t actually matter all that much. Progress bars don’t have to be perfectly accurate.
+iZnLZFRylbs,clip_0062,iZnLZFRylbs/clip_0062.mp4,255.440,260.080,4.640,"Actually, a perfectly smooth progress bar does kinda imply there’s some trickery going on behind the scenes,"
+iZnLZFRylbs,clip_0063,iZnLZFRylbs/clip_0063.mp4,260.080,263.800,3.720,"like scammy web sites that make you artificially wait ten seconds for something to load,"
+iZnLZFRylbs,clip_0064,iZnLZFRylbs/clip_0064.mp4,263.800,266.320,2.520,just so they can show you an ad in the meantime?
+iZnLZFRylbs,clip_0065,iZnLZFRylbs/clip_0065.mp4,266.320,269.920,3.600,"I reckon progress bars should be just a little bit janky,"
+iZnLZFRylbs,clip_0066,iZnLZFRylbs/clip_0066.mp4,269.920,272.080,2.160,because they reflect something that’s really happening.
+iZnLZFRylbs,clip_0067,iZnLZFRylbs/clip_0067.mp4,272.960,276.720,3.760,"And besides, the most important job of a progress bar is not"
+iZnLZFRylbs,clip_0068,iZnLZFRylbs/clip_0068.mp4,276.720,281.440,4.720,"to give an exact, precise estimate of how long is left. It's great if they can, but the most important job"
+iZnLZFRylbs,clip_0069,iZnLZFRylbs/clip_0069.mp4,281.440,286.160,4.720,"is just to reassure the user that, yes, things are happening, progress is being made, calm down,"
+iZnLZFRylbs,clip_0070,iZnLZFRylbs/clip_0070.mp4,286.160,295.840,9.680,don’t try to reboot the machine just because you think it’s cra--

@@ -1,0 +1,18 @@
+{
+  "model_id": "S5",
+  "dataset": "lrs3",
+  "model_path": "/root/autodl-tmp/checkpoints/new/S5_vsrml_lrs2/LRS2_V_WER26.1/model.pth",
+  "ini": "LRS2_V_WER26.1",
+  "lm": null,
+  "lm_weight": 0.0,
+  "beam": 40,
+  "params_M": 52.5,
+  "peak_gpu_MB": 1266,
+  "total_seconds": 7168.0,
+  "n_clips": 1321,
+  "errors": 6552,
+  "n_words": 10361,
+  "wer": 63.24,
+  "mean_seconds": 5.423,
+  "n_failed": 0
+}

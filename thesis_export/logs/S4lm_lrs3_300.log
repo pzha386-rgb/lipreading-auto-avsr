@@ -1,0 +1,28 @@
+===== S4lm on lrs3_300 =====
+官方配置 LRS3_V_WER32.3: beam=40 ctc=0.1 penalty=0.5 lm_weight(ini)=0.6 -> 本次 lm_weight=0.6
+模型: /root/autodl-tmp/checkpoints/new/S4_vsrml_lrs3/LRS3_V_WER32.3/model.pth
+语言模型: /root/autodl-tmp/checkpoints/new/LM_vsrml/lm_en/model.pth
+参数量: 52.5 M
+[20/300] WER so far 31.74%  (12.47s)
+[40/300] WER so far 35.35%  (4.67s)
+[60/300] WER so far 38.67%  (5.71s)
+[80/300] WER so far 39.38%  (6.68s)
+[100/300] WER so far 39.40%  (5.04s)
+[120/300] WER so far 38.14%  (10.04s)
+[140/300] WER so far 38.67%  (6.08s)
+[160/300] WER so far 39.36%  (4.90s)
+[180/300] WER so far 37.45%  (13.61s)
+[200/300] WER so far 37.82%  (12.95s)
+[220/300] WER so far 38.15%  (6.54s)
+[240/300] WER so far 37.87%  (7.35s)
+[260/300] WER so far 37.91%  (9.50s)
+[280/300] WER so far 38.37%  (8.10s)
+[282] lrs3_1230 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 14.31 MiB is free. Including non-PyTorch memory, this process has 2.96 GiB memory in use. Process 158008 has 4.31 GiB memory in use. Process 158228 has 18.46 GiB memory in use. Process 158513 has 1.92 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Of the allocated memory 2.29 GiB is allocated by PyTorch, and 54.12 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[292] lrs3_1276 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 12.31 MiB is free. Including non-PyTorch memory, this process has 2.94 GiB memory in use. Process 158008 has 4.31 GiB memory in use. Process 158228 has 18.46 GiB memory in use. Process 158513 has 1.94 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Of the allocated memory 2.27 GiB is allocated by PyTorch, and 54.77 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[300/300] WER so far 38.64%  (4.10s)
+==================================================
+S4lm  lrs3_300
+clips: 300   failed: 4   WER: 38.64%
+mean seconds/clip: 6.151
+saved: /root/autodl-tmp/results_v2/S4lm_lrs3_300.csv
+==================================================

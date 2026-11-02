@@ -1,0 +1,17 @@
+{
+  "model_id": "U3g",
+  "dataset": "bbc",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/U3_usr2_high_large.pth",
+  "backbone": "resnet_transformer_large",
+  "beam": 1,
+  "ctc_weight": 0.0,
+  "params_M": 503.4,
+  "peak_gpu_MB": 2183,
+  "total_seconds": 15.3,
+  "n_clips": 91,
+  "errors": 572,
+  "n_words": 1374,
+  "wer": 41.63,
+  "mean_seconds": 0.154,
+  "n_failed": 0
+}

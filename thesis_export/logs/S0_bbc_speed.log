@@ -1,0 +1,10 @@
+===== S0 on bbc_speed =====
+权重直接加载成功
+参数量: 250.4 M
+[20/21] WER so far 54.92%  (0.56s)
+==================================================
+S0  bbc_speed
+clips: 21   failed: 0   WER: 55.35%
+mean seconds/clip: 0.798
+saved: /root/autodl-tmp/results_v2/S0_bbc_speed.csv
+==================================================

@@ -1,0 +1,89 @@
+===== R3 on lrs3_300 =====
+模型结构（从权重读出）: {'adim': 1024, 'eunits': 4096, 'elayers': 24, 'ddim': 1024, 'dunits': 4096, 'dlayers': 9}
+使用语言模型，lm_weight = 0.2
+Load pretrained model weights
+Load pretrained language model weights
+Load pretrained language model weights
+beam search 在 GPU 上
+参数量: 493.7 M
+[0] lrs3_0000 ERROR: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 2.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Process 158228 has 18.46 GiB memory in use. Process 158513 has 1.95 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Including non-PyTorch memory, this process has 2.94 GiB memory in use. Of the allocated memory 2.29 GiB is allocated by PyTorch, and 35.35 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/root/autodl-tmp/vsr_bench/eval_raven_family.py", line 171, in main
+    nbest = learner.beam_search(x=feat.squeeze(0).to(dec_dev),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/beam_search.py", line 338, in forward
+    best = self.search(running_hyps, x)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/batch_beam_search.py", line 212, in search
+    scores, states = self.score_full(running_hyps, x.expand(n_batch, *x.shape))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/batch_beam_search.py", line 154, in score_full
+    scores[k], states[k] = d.batch_score(hyp.yseq, hyp.states[k], x)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/pytorch_backend/lm/transformer.py", line 244, in batch_score
+    h, _, states = self.encoder.forward_one_step(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/pytorch_backend/transformer/encoder.py", line 319, in forward_one_step
+    xs, masks = e(xs, masks, cache=c)
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/pytorch_backend/transformer/encoder_layer.py", line 184, in forward
+    x_att = self.self_attn(x_q, x, x, mask)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/pytorch_backend/transformer/attention.py", line 104, in forward
+    q, k, v = self.forward_qkv(query, key, value)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/code/raven/espnet/nets/pytorch_backend/transformer/attention.py", line 52, in forward_qkv
+    v = self.linear_v(value).view(n_batch, -1, self.h, self.d_k)
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1773, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1784, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/nn/modules/linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 2.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Process 158228 has 18.46 GiB memory in use. Process 158513 has 1.95 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Including non-PyTorch memory, this process has 2.94 GiB memory in use. Of the allocated memory 2.29 GiB is allocated by PyTorch, and 35.35 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[1] lrs3_0005 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 14.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Process 158228 has 18.46 GiB memory in use. Process 158513 has 1.95 GiB memory in use. Process 158547 has 3.66 GiB memory in use. Including non-PyTorch memory, this process has 2.93 GiB memory in use. Of the allocated memory 2.29 GiB is allocated by PyTorch, and 20.36 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[20/300] WER so far 23.95%  (4.5s)
+[40/300] WER so far 28.98%  (2.7s)
+[60/300] WER so far 30.44%  (2.7s)
+[80/300] WER so far 30.48%  (2.5s)
+[100/300] WER so far 31.66%  (2.0s)
+[109] lrs3_0530 ERROR: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 8.31 MiB is free. Process 158008 has 4.31 GiB memory in use. Process 158513 has 1.92 GiB memory in use. Process 158547 has 3.68 GiB memory in use. Including non-PyTorch memory, this process has 3.44 GiB memory in use. Process 158690 has 17.97 GiB memory in use. Of the allocated memory 2.73 GiB is allocated by PyTorch, and 88.33 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[120/300] WER so far 30.87%  (3.1s)
+[140/300] WER so far 30.57%  (2.7s)
+[147] lrs3_0697 ERROR: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 31.36 GiB of which 7.69 MiB is free. Process 158008 has 4.31 GiB memory in use. Process 158547 has 3.68 GiB memory in use. Including non-PyTorch memory, this process has 3.67 GiB memory in use. Process 158690 has 19.67 GiB memory in use. Of the allocated memory 2.98 GiB is allocated by PyTorch, and 74.65 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[160/300] WER so far 31.59%  (1.6s)
+[180/300] WER so far 30.41%  (6.0s)
+[200/300] WER so far 30.73%  (4.7s)
+[220/300] WER so far 30.19%  (2.6s)
+[240/300] WER so far 30.42%  (2.9s)
+[260/300] WER so far 30.21%  (2.7s)
+[280/300] WER so far 30.95%  (3.1s)
+[300/300] WER so far 30.55%  (1.5s)
+==================================================
+R3  lrs3_300
+clips: 300   failed: 4   WER: 30.55%
+mean seconds/clip: 2.518
+saved: /root/autodl-tmp/results_v2/R3_lrs3_300.csv
+==================================================

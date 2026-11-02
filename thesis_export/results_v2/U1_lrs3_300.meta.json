@@ -1,0 +1,17 @@
+{
+  "model_id": "U1",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/U1_usr2_low_large.pth",
+  "backbone": "resnet_transformer_large",
+  "beam": 40,
+  "ctc_weight": 0.1,
+  "params_M": 503.4,
+  "peak_gpu_MB": 23596,
+  "total_seconds": 404.8,
+  "n_clips": 300,
+  "errors": 714,
+  "n_words": 2373,
+  "wer": 30.09,
+  "mean_seconds": 1.343,
+  "n_failed": 0
+}

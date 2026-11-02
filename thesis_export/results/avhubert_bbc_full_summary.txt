@@ -1,0 +1,4 @@
+Model: AV-HuBERT MuAViC-en
+Dataset: BBC (91)
+Raw WER: 55.93%
+Norm WER: 47.16%

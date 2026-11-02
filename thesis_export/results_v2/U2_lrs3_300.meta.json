@@ -1,0 +1,17 @@
+{
+  "model_id": "U2",
+  "dataset": "lrs3_300",
+  "ckpt": "/root/autodl-tmp/checkpoints/new/U2_usr2_high_baseplus.pth",
+  "backbone": "resnet_transformer_baseplus",
+  "beam": 40,
+  "ctc_weight": 0.1,
+  "params_M": 171.1,
+  "peak_gpu_MB": 10993,
+  "total_seconds": 366.0,
+  "n_clips": 300,
+  "errors": 742,
+  "n_words": 2373,
+  "wer": 31.27,
+  "mean_seconds": 1.214,
+  "n_failed": 0
+}

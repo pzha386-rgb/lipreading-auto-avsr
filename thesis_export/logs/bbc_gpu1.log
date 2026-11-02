@@ -1,0 +1,17 @@
+nohup: ignoring input
+编号     数据集        状态
+R2     bbc        待运行
+R3     bbc        待运行
+B4     bbc        已完成，跳过
+B5     bbc        已完成，跳过
+
+并行 4 个任务，每个 2 个 CPU 线程，共 2 个任务
+
+>>> 20:17:35  start R2 on bbc
+>>> 20:17:35  start R3 on bbc
+<<< 20:21:53  R2 on bbc: OK  4.3 min  WER 38.50%  failed 0
+<<< 20:22:33  R3 on bbc: OK  5.0 min  WER 37.12%  failed 0
+
+========== 本次运行 ==========
+R2 bbc OK 4.3 WER 38.50%  failed 0
+R3 bbc OK 5.0 WER 37.12%  failed 0
