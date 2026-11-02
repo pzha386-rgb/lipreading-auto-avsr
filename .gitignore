@@ -1,29 +1,24 @@
-# model weights - too large for git
+# model weights and data (too large, or copyright)
 *.pth
+*.pt
+*.ckpt
 *.task
-
-# python
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-
-# data & results (keep logs in eval/logs only)
+*.npy
+*.parquet
+*.zip
 *.mp4
 *.avi
 *.wav
 
-# OS
-.DS_Store
-Thumbs.db
-*.pth
-*.pt
-*.ckpt
-*.npy
-*.mp4
-*.zip
-*.parquet
-# frames and videos of third-party speakers
+# frames of third-party speakers
 **/_check/
 *.jpg
 !docs/**/*.jpg
+
+# python / system
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 .Trash-0/
+.DS_Store
+Thumbs.db
